@@ -221,33 +221,31 @@
       margin-bottom: 16px;
     }
 
-    .full-list-section {
+    .full-list-container {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 12px;
-      margin-bottom: 16px;
       overflow: hidden;
       transition: background 0.2s, border-color 0.2s;
     }
 
-    .full-list-header {
-      padding: 14px 20px;
-      border-bottom: 1px solid var(--border);
+    .full-list-store-divider {
       display: flex;
       align-items: center;
       gap: 10px;
+      padding: 10px 20px;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: var(--header-height, 97px);
+      z-index: 1;
     }
 
-    .full-list-header .store-label { margin-bottom: 0; }
+    .full-list-store-divider .store-label { margin-bottom: 0; }
 
     .full-list-count {
       font-size: 0.8rem;
       color: var(--muted);
-    }
-
-    .full-product-list {
-      display: flex;
-      flex-direction: column;
     }
 
     .full-product {
@@ -262,6 +260,8 @@
 
     .full-product:last-child { border-bottom: none; }
     .full-product:hover { background: var(--hover); }
+
+    #full-list-sentinel { height: 1px; }
 
     main {
       max-width: 1200px;
@@ -527,6 +527,11 @@
   let activeView = 'changes';
   let searchQuery = '';
 
+  const PAGE_SIZE = 100;
+  let fullListItems = [];
+  let fullListOffset = 0;
+  let fullListObserver = null;
+
   const timeline = document.getElementById('timeline');
 
   async function init() {
@@ -654,39 +659,78 @@
     return fragments;
   }
 
-  function renderFullList() {
+  function buildFullListItems() {
     const stores = activeStore === 'all' ? ['rossmann', 'dm'] : [activeStore];
-    const query = searchQuery;
-    const fragments = [];
-
-    let totalShown = 0;
+    const items = [];
     for (const store of stores) {
-      const products = (allProducts[store] || []).filter(p => matchesSearch(p, query));
-      totalShown += products.length;
+      for (const p of (allProducts[store] || [])) {
+        if (matchesSearch(p, searchQuery)) items.push({ ...p, store });
+      }
+    }
+    return items;
+  }
 
-      if (products.length === 0) continue;
+  function renderFullListBatch(items, from, to) {
+    let lastStore = from > 0 ? items[from - 1]?.store : null;
+    const html = [];
+    const storeCounts = {};
+    for (const p of items) storeCounts[p.store] = (storeCounts[p.store] || 0) + 1;
 
-      fragments.push(`<div class="full-list-section">
-        <div class="full-list-header">
-          <div class="store-label ${store}">${store === 'rossmann' ? 'Rossmann' : 'DM'}</div>
-          <span class="full-list-count">${products.length} termék</span>
-        </div>
-        <div class="full-product-list">
-          ${products.map(p => `<div class="full-product">
-            <span class="product-id">${highlight(p.id, query)}</span>
-            <span class="product-name">${highlight(p.name, query)}</span>
-          </div>`).join('')}
-        </div>
+    for (let i = from; i < Math.min(to, items.length); i++) {
+      const p = items[i];
+      if (p.store !== lastStore) {
+        html.push(`<div class="full-list-store-divider">
+          <span class="store-label ${p.store}">${p.store === 'rossmann' ? 'Rossmann' : 'DM'}</span>
+          <span class="full-list-count">${storeCounts[p.store]} termék</span>
+        </div>`);
+        lastStore = p.store;
+      }
+      html.push(`<div class="full-product">
+        <span class="product-id">${highlight(p.id, searchQuery)}</span>
+        <span class="product-name">${highlight(p.name, searchQuery)}</span>
       </div>`);
     }
+    return html.join('');
+  }
 
-    if (fragments.length === 0) return ['<p class="no-results">Nincs találat.</p>'];
+  function setupFullListObserver() {
+    if (fullListObserver) fullListObserver.disconnect();
+    const sentinel = document.getElementById('full-list-sentinel');
+    if (!sentinel) return;
 
-    const meta = query
-      ? `<p class="full-list-meta">${totalShown} találat</p>`
-      : `<p class="full-list-meta">${totalShown} termék összesen</p>`;
+    fullListObserver = new IntersectionObserver(entries => {
+      if (!entries[0].isIntersecting) return;
+      const container = document.querySelector('.full-list-container');
+      sentinel.remove();
+      const from = fullListOffset;
+      const to = from + PAGE_SIZE;
+      container.insertAdjacentHTML('beforeend', renderFullListBatch(fullListItems, from, to));
+      fullListOffset = Math.min(to, fullListItems.length);
+      if (fullListOffset < fullListItems.length) {
+        container.insertAdjacentHTML('beforeend', '<div id="full-list-sentinel"></div>');
+        setupFullListObserver();
+      }
+    }, { rootMargin: '400px' });
 
-    return [meta, ...fragments];
+    fullListObserver.observe(sentinel);
+  }
+
+  function renderFullList() {
+    if (fullListObserver) { fullListObserver.disconnect(); fullListObserver = null; }
+
+    fullListItems = buildFullListItems();
+    fullListOffset = 0;
+
+    if (fullListItems.length === 0) return ['<p class="no-results">Nincs találat.</p>'];
+
+    const total = fullListItems.length;
+    const meta = `<p class="full-list-meta">${searchQuery ? total + ' találat' : total + ' termék összesen'}</p>`;
+
+    const initialBatch = renderFullListBatch(fullListItems, 0, PAGE_SIZE);
+    fullListOffset = Math.min(PAGE_SIZE, total);
+    const sentinel = fullListOffset < total ? '<div id="full-list-sentinel"></div>' : '';
+
+    return [meta, `<div class="full-list-container">${initialBatch}${sentinel}</div>`];
   }
 
   function render() {
@@ -701,13 +745,21 @@
 
     timeline.innerHTML = fragments.join('');
 
+    if (activeView === 'full') {
+      // measure real header height for sticky store dividers
+      const headerEl = document.querySelector('header');
+      if (headerEl) document.documentElement.style.setProperty('--header-height', headerEl.offsetHeight + 'px');
+      setupFullListObserver();
+      return;
+    }
+
     timeline.querySelectorAll('.entry-header').forEach(header => {
       header.addEventListener('click', () => {
         header.closest('.entry').classList.toggle('open');
       });
     });
 
-    if (searchQuery && activeView === 'changes') {
+    if (searchQuery) {
       timeline.querySelectorAll('.entry').forEach(e => e.classList.add('open'));
     }
   }
