@@ -23,7 +23,6 @@ const honapok = {
     'szeptember': '09', 'október': '10', 'november': '11', 'december': '12'
 };
 
-// Szöveg kinyerése pdfjs-dist segítségével
 async function getPdfText(buffer) {
     const doc = await pdfjsLib.getDocument({ data: new Uint8Array(buffer) }).promise;
     let text = '';
@@ -34,7 +33,6 @@ async function getPdfText(buffer) {
         
         let lastY = -1;
         for (const item of content.items) {
-            // Ha az Y koordináta érdemben változik, új sort kezdünk (fontos a DM miatt)
             if (lastY !== -1 && Math.abs(item.transform[5] - lastY) > 5) {
                 text += '\n';
             }
@@ -47,6 +45,7 @@ async function getPdfText(buffer) {
 }
 
 function extractValidDate(text) {
+    // Rossmann formátum
     const matchRossmann = text.match(/érvényes:\s*(\d{4})\.\s*([a-záéíóöőúüű]+)\s*(\d{1,2})/i);
     if (matchRossmann) {
         const ev = matchRossmann[1];
@@ -55,7 +54,9 @@ function extractValidDate(text) {
         return `${ev}-${honap}-${nap}`;
     }
     
-    const matchDm = text.match(/(\d{4})\.\s*(\d{1,2})\.\s*(\d{1,2})\./);
+    // DM formátum: ÉRVÉNYES: 2026.05.25-től
+    // Kivettem a kötelező pontot a legvégéről, így már meg fogja találni
+    const matchDm = text.match(/(\d{4})\.\s*(\d{1,2})\.\s*(\d{1,2})/);
     if (matchDm) {
         return `${matchDm[1]}-${matchDm[2].padStart(2, '0')}-${matchDm[3].padStart(2, '0')}`;
     }
