@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EP Tracker</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f5f5f7;
+      --surface: #ffffff;
+      --border: #e0e0e0;
+      --text: #1a1a1a;
+      --muted: #6e6e73;
+      --hover: #fafafa;
+      --added: #1a7f37;
+      --added-bg: #dafbe1;
+      --removed: #cf222e;
+      --removed-bg: #ffebe9;
+      --rossmann: #e2001a;
+      --dm: #0050aa;
+      --accent: #0071e3;
+      --mark-bg: #fff3b0;
+      --shadow: rgba(0,0,0,0.06);
+    }
+
+    [data-theme="dark"] {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --hover: #1c2128;
+      --added: #3fb950;
+      --added-bg: #0d2a16;
+      --removed: #f85149;
+      --removed-bg: #2d0f0f;
+      --rossmann: #ff4d5e;
+      --dm: #4d9fff;
+      --accent: #58a6ff;
+      --mark-bg: #3d3000;
+      --shadow: rgba(0,0,0,0.3);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg: #0d1117;
+        --surface: #161b22;
+        --border: #30363d;
+        --text: #e6edf3;
+        --muted: #8b949e;
+        --hover: #1c2128;
+        --added: #3fb950;
+        --added-bg: #0d2a16;
+        --removed: #f85149;
+        --removed-bg: #2d0f0f;
+        --rossmann: #ff4d5e;
+        --dm: #4d9fff;
+        --accent: #58a6ff;
+        --mark-bg: #3d3000;
+        --shadow: rgba(0,0,0,0.3);
+      }
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 1px 8px var(--shadow);
+      transition: background 0.2s, border-color 0.2s;
+    }
+
+    .header-inner {
+      padding: 16px 0 0;
+    }
+
+    .header-top {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+
+    header h1 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+      white-space: nowrap;
+    }
+
+    header p {
+      color: var(--muted);
+      font-size: 0.85rem;
+      flex: 1;
+      min-width: 0;
+    }
+
+    .header-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    #search {
+      padding: 8px 14px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      font-size: 0.9rem;
+      width: 240px;
+      outline: none;
+      transition: border-color 0.15s, background 0.2s, color 0.2s;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    #search:focus { border-color: var(--accent); }
+    #search::placeholder { color: var(--muted); }
+
+    @media (max-width: 640px) {
+      .container { padding: 0 14px; }
+      header p { display: none; }
+      #search { width: 100%; }
+      .header-controls { width: 100%; }
+      .header-top { margin-bottom: 10px; }
+      .tabs-row { flex-wrap: wrap; gap: 6px; }
+      .view-tabs { margin-left: auto; }
+    }
+
+    /* theme toggle */
+    .theme-toggle {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 6px 12px;
+      background: none;
+      color: var(--muted);
+      font-size: 0.8rem;
+      font-family: inherit;
+      transition: border-color 0.15s, color 0.15s;
+      white-space: nowrap;
+    }
+
+    .theme-toggle:hover { color: var(--text); border-color: var(--accent); }
+
+    .theme-icon { font-size: 1rem; line-height: 1; }
+
+    .tabs-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 4px;
+    }
+
+    .tab {
+      padding: 8px 18px;
+      border: none;
+      background: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: var(--muted);
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+      font-family: inherit;
+    }
+
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+    .view-tabs {
+      display: flex;
+      gap: 4px;
+      padding-bottom: 2px;
+    }
+
+    .view-tab {
+      padding: 5px 14px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background: none;
+      font-size: 0.8rem;
+      font-weight: 500;
+      color: var(--muted);
+      cursor: pointer;
+      font-family: inherit;
+      transition: color 0.15s, border-color 0.15s, background 0.15s;
+    }
+
+    .view-tab:hover { color: var(--text); }
+    .view-tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+    .full-list-meta {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-bottom: 16px;
+    }
+
+    .full-list-section {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      margin-bottom: 16px;
+      overflow: hidden;
+      transition: background 0.2s, border-color 0.2s;
+    }
+
+    .full-list-header {
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .full-list-header .store-label { margin-bottom: 0; }
+
+    .full-list-count {
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .full-product-list {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .full-product {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      font-size: 0.85rem;
+      padding: 5px 20px;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.1s;
+    }
+
+    .full-product:last-child { border-bottom: none; }
+    .full-product:hover { background: var(--hover); }
+
+    main {
+      max-width: 1200px;
+      margin: 28px auto;
+      padding: 0 24px;
+    }
+
+    @media (max-width: 640px) {
+      main { padding: 0 14px; margin-top: 20px; }
+    }
+
+    .no-results {
+      text-align: center;
+      color: var(--muted);
+      padding: 60px 0;
+      font-size: 1rem;
+    }
+
+    .entry {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      margin-bottom: 16px;
+      overflow: hidden;
+      transition: background 0.2s, border-color 0.2s;
+    }
+
+    .entry-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 20px;
+      cursor: pointer;
+      user-select: none;
+      transition: background 0.15s;
+    }
+
+    .entry-header:hover { background: var(--hover); }
+
+    .entry-date {
+      font-weight: 600;
+      font-size: 1rem;
+      min-width: 110px;
+    }
+
+    .store-summary {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      flex: 1;
+    }
+
+    .summary-chip {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .store-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .store-dot.rossmann { background: var(--rossmann); }
+    .store-dot.dm { background: var(--dm); }
+
+    .count-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      padding: 2px 7px;
+      border-radius: 10px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    .count-badge.added { background: var(--added-bg); color: var(--added); }
+    .count-badge.removed { background: var(--removed-bg); color: var(--removed); }
+
+    .chevron {
+      color: var(--muted);
+      font-size: 0.8rem;
+      transition: transform 0.2s;
+      margin-left: auto;
+    }
+
+    .entry.open .chevron { transform: rotate(180deg); }
+
+    .entry-body {
+      display: none;
+      border-top: 1px solid var(--border);
+    }
+
+    .entry.open .entry-body { display: block; }
+
+    .store-section {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .store-section:last-child { border-bottom: none; }
+
+    .store-label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+
+    .store-label.rossmann { color: var(--rossmann); }
+    .store-label.dm { color: var(--dm); }
+
+    .changes-group { margin-bottom: 12px; }
+    .changes-group:last-child { margin-bottom: 0; }
+
+    .group-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+      margin-bottom: 6px;
+    }
+
+    .group-label.added { color: var(--added); }
+    .group-label.removed { color: var(--removed); }
+
+    .product-list {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .product {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      font-size: 0.85rem;
+      padding: 4px 10px;
+      border-radius: 6px;
+    }
+
+    .product.added { background: var(--added-bg); }
+    .product.removed { background: var(--removed-bg); }
+
+    .product-id {
+      font-family: monospace;
+      font-size: 0.78rem;
+      color: var(--muted);
+      flex-shrink: 0;
+    }
+
+    .product-name { flex: 1; }
+
+    mark {
+      background: var(--mark-bg);
+      border-radius: 2px;
+      padding: 0 1px;
+      color: inherit;
+    }
+
+    .search-result-entry {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      margin-bottom: 12px;
+      overflow: hidden;
+      transition: background 0.2s, border-color 0.2s;
+    }
+
+    .search-result-date {
+      padding: 10px 20px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--muted);
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      transition: background 0.2s;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container header-inner">
+    <div class="header-top">
+      <h1>EP Tracker</h1>
+      <p>Egészségpénztárban elszámolható termékek változásai</p>
+      <div class="header-controls">
+        <input id="search" type="search" placeholder="Keresés termékek között..." autocomplete="off" />
+        <button class="theme-toggle" id="theme-toggle" title="Téma váltása">
+          <span class="theme-icon" id="theme-icon">🌙</span>
+          <span id="theme-label">Sötét</span>
+        </button>
+      </div>
+    </div>
+    <div class="tabs-row">
+      <div class="tabs">
+        <button class="tab active" data-store="all">Összes</button>
+        <button class="tab" data-store="rossmann">Rossmann</button>
+        <button class="tab" data-store="dm">DM</button>
+      </div>
+      <div class="view-tabs">
+        <button class="view-tab active" data-view="changes">Változások</button>
+        <button class="view-tab" data-view="full">Teljes lista</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="timeline"></main>
+
+<script>
+  // ── theme ──────────────────────────────────────────────────────────────────
+  const root = document.documentElement;
+  const toggleBtn = document.getElementById('theme-toggle');
+  const themeIcon = document.getElementById('theme-icon');
+  const themeLabel = document.getElementById('theme-label');
+
+  function systemPrefersDark() {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  }
+
+  function effectiveTheme() {
+    const stored = localStorage.getItem('theme');
+    if (stored) return stored;
+    return systemPrefersDark() ? 'dark' : 'light';
+  }
+
+  function applyTheme(theme) {
+    root.setAttribute('data-theme', theme);
+    if (theme === 'dark') {
+      themeIcon.textContent = '☀️';
+      themeLabel.textContent = 'Világos';
+    } else {
+      themeIcon.textContent = '🌙';
+      themeLabel.textContent = 'Sötét';
+    }
+  }
+
+  applyTheme(effectiveTheme());
+
+  toggleBtn.addEventListener('click', () => {
+    const current = effectiveTheme();
+    const next = current === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('theme', next);
+    applyTheme(next);
+  });
+
+  // keep in sync if system preference changes and user hasn't overridden
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+    if (!localStorage.getItem('theme')) applyTheme(effectiveTheme());
+  });
+
+  // ── data & render ──────────────────────────────────────────────────────────
+  let allChanges = [];
+  let allProducts = {};
+  let activeStore = 'all';
+  let activeView = 'changes';
+  let searchQuery = '';
+
+  const timeline = document.getElementById('timeline');
+
+  async function init() {
+    try {
+      const [changesResp, productsResp] = await Promise.all([
+        fetch('changes.json'),
+        fetch('products.json'),
+      ]);
+      allChanges = await changesResp.json();
+      allProducts = await productsResp.json();
+    } catch {
+      timeline.innerHTML = '<p class="no-results">Nem sikerült betölteni az adatokat.</p>';
+      return;
+    }
+    render();
+  }
+
+  function highlight(text, query) {
+    if (!query) return escapeHtml(text);
+    const idx = text.toLowerCase().indexOf(query);
+    if (idx === -1) return escapeHtml(text);
+    return escapeHtml(text.slice(0, idx)) +
+      '<mark>' + escapeHtml(text.slice(idx, idx + query.length)) + '</mark>' +
+      highlight(text.slice(idx + query.length), query);
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function matchesSearch(product, query) {
+    if (!query) return true;
+    return product.id.toLowerCase().includes(query) ||
+           product.name.toLowerCase().includes(query);
+  }
+
+  function filterStores(entry) {
+    const stores = activeStore === 'all' ? ['rossmann', 'dm'] : [activeStore];
+    return stores.filter(s => entry[s]);
+  }
+
+  function renderProduct(p, type, query) {
+    return `<div class="product ${type}">
+      <span class="product-id">${highlight(p.id, query)}</span>
+      <span class="product-name">${highlight(p.name, query)}</span>
+    </div>`;
+  }
+
+  function renderStoreSection(storeId, storeData, query) {
+    const added = storeData.added.filter(p => matchesSearch(p, query));
+    const removed = storeData.removed.filter(p => matchesSearch(p, query));
+    if (added.length === 0 && removed.length === 0) return '';
+
+    let html = `<div class="store-section">
+      <div class="store-label ${storeId}">${storeId === 'rossmann' ? 'Rossmann' : 'DM'}</div>`;
+
+    if (added.length > 0) {
+      html += `<div class="changes-group">
+        <div class="group-label added">+ ${added.length} új termék</div>
+        <div class="product-list">${added.map(p => renderProduct(p, 'added', query)).join('')}</div>
+      </div>`;
+    }
+
+    if (removed.length > 0) {
+      html += `<div class="changes-group">
+        <div class="group-label removed">− ${removed.length} lekerült termék</div>
+        <div class="product-list">${removed.map(p => renderProduct(p, 'removed', query)).join('')}</div>
+      </div>`;
+    }
+
+    html += '</div>';
+    return html;
+  }
+
+  function renderTimeline() {
+    const fragments = [];
+
+    for (const entry of allChanges) {
+      const stores = filterStores(entry);
+      const summaryChips = stores.map(s => {
+        const d = entry[s];
+        const parts = [];
+        if (d.added.length > 0) parts.push(`<span class="count-badge added">+${d.added.length}</span>`);
+        if (d.removed.length > 0) parts.push(`<span class="count-badge removed">−${d.removed.length}</span>`);
+        if (parts.length === 0) return '';
+        return `<span class="summary-chip">
+          <span class="store-dot ${s}"></span>
+          ${s === 'rossmann' ? 'Rossmann' : 'DM'} ${parts.join(' ')}
+        </span>`;
+      }).filter(Boolean);
+
+      if (summaryChips.length === 0) continue;
+
+      const storeSections = stores.map(s => renderStoreSection(s, entry[s], '')).join('');
+      if (!storeSections) continue;
+
+      fragments.push(`<div class="entry">
+        <div class="entry-header">
+          <span class="entry-date">${entry.date}</span>
+          <span class="store-summary">${summaryChips.join('')}</span>
+          <span class="chevron">▼</span>
+        </div>
+        <div class="entry-body">${storeSections}</div>
+      </div>`);
+    }
+
+    return fragments;
+  }
+
+  function renderSearch() {
+    const query = searchQuery;
+    const fragments = [];
+
+    for (const entry of allChanges) {
+      const stores = filterStores(entry);
+      const storeSections = stores.map(s => renderStoreSection(s, entry[s], query)).join('');
+      if (!storeSections) continue;
+
+      fragments.push(`<div class="search-result-entry">
+        <div class="search-result-date">${entry.date}</div>
+        ${storeSections}
+      </div>`);
+    }
+
+    return fragments;
+  }
+
+  function renderFullList() {
+    const stores = activeStore === 'all' ? ['rossmann', 'dm'] : [activeStore];
+    const query = searchQuery;
+    const fragments = [];
+
+    let totalShown = 0;
+    for (const store of stores) {
+      const products = (allProducts[store] || []).filter(p => matchesSearch(p, query));
+      totalShown += products.length;
+
+      if (products.length === 0) continue;
+
+      fragments.push(`<div class="full-list-section">
+        <div class="full-list-header">
+          <div class="store-label ${store}">${store === 'rossmann' ? 'Rossmann' : 'DM'}</div>
+          <span class="full-list-count">${products.length} termék</span>
+        </div>
+        <div class="full-product-list">
+          ${products.map(p => `<div class="full-product">
+            <span class="product-id">${highlight(p.id, query)}</span>
+            <span class="product-name">${highlight(p.name, query)}</span>
+          </div>`).join('')}
+        </div>
+      </div>`);
+    }
+
+    if (fragments.length === 0) return ['<p class="no-results">Nincs találat.</p>'];
+
+    const meta = query
+      ? `<p class="full-list-meta">${totalShown} találat</p>`
+      : `<p class="full-list-meta">${totalShown} termék összesen</p>`;
+
+    return [meta, ...fragments];
+  }
+
+  function render() {
+    const fragments = activeView === 'full'
+      ? renderFullList()
+      : searchQuery ? renderSearch() : renderTimeline();
+
+    if (fragments.length === 0) {
+      timeline.innerHTML = '<p class="no-results">Nincs találat.</p>';
+      return;
+    }
+
+    timeline.innerHTML = fragments.join('');
+
+    timeline.querySelectorAll('.entry-header').forEach(header => {
+      header.addEventListener('click', () => {
+        header.closest('.entry').classList.toggle('open');
+      });
+    });
+
+    if (searchQuery && activeView === 'changes') {
+      timeline.querySelectorAll('.entry').forEach(e => e.classList.add('open'));
+    }
+  }
+
+  document.getElementById('search').addEventListener('input', e => {
+    searchQuery = e.target.value.toLowerCase().trim();
+    render();
+  });
+
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      activeStore = tab.dataset.store;
+      render();
+    });
+  });
+
+  document.querySelectorAll('.view-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.view-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      activeView = tab.dataset.view;
+      render();
+    });
+  });
+
+  init();
+</script>
+</body>
+</html>

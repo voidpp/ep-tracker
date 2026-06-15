@@ -7,7 +7,9 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "node compare.js"
+    "test": "node compare.js",
+    "update": "node update.js && node generate.js",
+    "serve": "npx --yes serve docs"
   },
   "dependencies": {
     "pdfjs-dist": "6.0.227"
