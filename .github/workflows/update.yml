@@ -2,7 +2,7 @@ name: Update product lists
 
 on:
   schedule:
-    - cron: '0 6 * * 1'  # Every Monday at 06:00 UTC (08:00 Budapest)
+    - cron: '0 6 * * *'  # Every day at 06:00 UTC (08:00 Budapest)
   workflow_dispatch:
 
 jobs:
