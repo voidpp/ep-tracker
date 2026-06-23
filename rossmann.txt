@@ -65,7 +65,6 @@
 3600542297813 Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml
 3600542452465 Garnier Ambre Solarie Golden Touch olaj spray SPF30 - 150 ml
 3600542512961 Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml
-3600542520423 Garnier Ambre Solaire Sensitive Advances spray SPF50 - 150 ml
 3600542522915 Ambre Solaire Színezett spray naptej gyerekeknek - 270 ml
 3600542607544 Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml
 3600550368574 Mixa Baby habzó olaj fürdetéshez és zuhanyzáshoz babáknak - 400 ml
@@ -98,14 +97,13 @@
 4005800239298 Hansaplast Universal műanyag sebtapasz - 40 db
 4005800239434 Hansaplast Universal sebtapasz - 20 db
 4005800402982 Hansaplast Sensitive ragtapasz - 5 m
-4005808856695 NIVEA SUN Protect & Moisture Hidratáló Spray FF 50+ - 200 ml
+4005808430208 NIVEA SUN Protect & Moisture hidratáló naptej FF50+ - 200 ml
 4005900600202 Nivea Sun Kids Sensitive napozó spray, F50 - 200 ml
 4005900695826 NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml
 4005900717672 Hansaplast sebtapasz marvel - 20 db
 4005900907134 Nivea Sun napallergia elleni napozó spray F50+ - 200 ml
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
 4006000075419 NIVEA SUN Kids gyermek napozó spray FF50+ - 200 ml
-4008600427261 Nuk Space Night szilikon altatócumi, 18-36 hónapos korig, lány - 2 db
 4008600427278 Nuk Space Night szilikon altatócumi, 18-36 hónapos korig, fiú - 2 db
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
 4008600447047 Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db
@@ -221,7 +219,7 @@
 4068134119209 Babydream öko pelenka 3-as 5-9kg - 32 db
 4068134119216 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
 4068134119223 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
-4068134120342 Babydream játszócumi szilikon, szimmetrikus 0-2 hónapos - 2 db
+4068134125705 Facelle ovulációs tesztcsík - 15 db
 4068134125767 Facelle Maxi éjszakai egészségügyi betét - 12 db
 4068134125842 Facelle Normal tisztasági betét - 50 db
 4068134125859 Facelle Normal illatosított tisztasági betét - 50 db
@@ -252,8 +250,12 @@
 4068134192417 Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db
 4068134192424 Babydream Maxi Plus nadrágpelenka 4+-os méret 9-15 kg - 36 db
 4068134192431 Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db
+4068134192448 Babydream Junior+ nadrágpelenka 5+-os méret, 11-17 kg - 32 db
 4068134192455 Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db
+4068134192462 Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db
 4068134192479 Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db
+4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
+4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
 4084500759817 Clearblue Digitális terhességi teszt fogamzásjelzővel - 1 db
 4260206625797 WUNDmed kullancseltávolító készlet - 67 g
 4260206626565 Wundmed kullancseltávolító szett - 1 db
@@ -411,7 +413,6 @@
 5054563097859 Corega Erős Rögzítés XL műfogsorrögzítő krém - 70 g
 5054563203106 Corega ízmentes műfogsorrögzítő krém - 40 g
 5054563243935 Corega Friss Ízű műfogsorrögzítő krém - 40 g
-5054563244079 Corega fogínyvédő műfogsorrögzítő krém - 40 g
 5054563285980 Corega Tabs Bio Formula műfogsortisztító tabletta - 30 db
 5054563287632 Corega Bio Formula műfogsortisztító tabletta - 108 db
 5054563287847 Corega fehérítő hatású műfogsortisztító tabletta - 30 db

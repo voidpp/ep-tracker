@@ -269,10 +269,6 @@
       "name": "Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml"
     },
     {
-      "id": "3600542520423",
-      "name": "Garnier Ambre Solaire Sensitive Advances spray SPF50 - 150 ml"
-    },
-    {
       "id": "3600542522915",
       "name": "Ambre Solaire Színezett spray naptej gyerekeknek - 270 ml"
     },
@@ -401,8 +397,8 @@
       "name": "Hansaplast Sensitive ragtapasz - 5 m"
     },
     {
-      "id": "4005808856695",
-      "name": "NIVEA SUN Protect & Moisture Hidratáló Spray FF 50+ - 200 ml"
+      "id": "4005808430208",
+      "name": "NIVEA SUN Protect & Moisture hidratáló naptej FF50+ - 200 ml"
     },
     {
       "id": "4005900600202",
@@ -427,10 +423,6 @@
     {
       "id": "4006000075419",
       "name": "NIVEA SUN Kids gyermek napozó spray FF50+ - 200 ml"
-    },
-    {
-      "id": "4008600427261",
-      "name": "Nuk Space Night szilikon altatócumi, 18-36 hónapos korig, lány - 2 db"
     },
     {
       "id": "4008600427278",
@@ -893,8 +885,8 @@
       "name": "Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db"
     },
     {
-      "id": "4068134120342",
-      "name": "Babydream játszócumi szilikon, szimmetrikus 0-2 hónapos - 2 db"
+      "id": "4068134125705",
+      "name": "Facelle ovulációs tesztcsík - 15 db"
     },
     {
       "id": "4068134125767",
@@ -1017,12 +1009,28 @@
       "name": "Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db"
     },
     {
+      "id": "4068134192448",
+      "name": "Babydream Junior+ nadrágpelenka 5+-os méret, 11-17 kg - 32 db"
+    },
+    {
       "id": "4068134192455",
       "name": "Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db"
     },
     {
+      "id": "4068134192462",
+      "name": "Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db"
+    },
+    {
       "id": "4068134192479",
       "name": "Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db"
+    },
+    {
+      "id": "4068134200372",
+      "name": "Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml"
+    },
+    {
+      "id": "4068134201027",
+      "name": "Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db"
     },
     {
       "id": "4084500759817",
@@ -1651,10 +1659,6 @@
     {
       "id": "5054563243935",
       "name": "Corega Friss Ízű műfogsorrögzítő krém - 40 g"
-    },
-    {
-      "id": "5054563244079",
-      "name": "Corega fogínyvédő műfogsorrögzítő krém - 40 g"
     },
     {
       "id": "5054563285980",
