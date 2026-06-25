@@ -101,10 +101,8 @@
 4005900600202 Nivea Sun Kids Sensitive napozó spray, F50 - 200 ml
 4005900695826 NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml
 4005900717672 Hansaplast sebtapasz marvel - 20 db
-4005900907134 Nivea Sun napallergia elleni napozó spray F50+ - 200 ml
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
 4006000075419 NIVEA SUN Kids gyermek napozó spray FF50+ - 200 ml
-4008600427278 Nuk Space Night szilikon altatócumi, 18-36 hónapos korig, fiú - 2 db
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
 4008600447047 Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db
 4009408042410 Facelle Mini Plus diszkrét tisztasági betét - 16 db
@@ -308,7 +306,6 @@
 4305615605005 Facelle Ultra Mini Plus tisztasági betét - 20 db
 4305615617503 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
 4305615619347 Altapharma sebspray - 50 ml
-4305615624006 Babydream ujjas, zsebes vízlepergető előke - 1db
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night tampon - 16 db
 4305615689241 Alterra naptej F50 - 75 ml
@@ -518,6 +515,7 @@
 5907609330789 Eveline Cosmetics napvédő arckrém SPF50 - 50 ml
 5908229301715 Bepanthen Baby Kenőcs - 30 g
 5908229301722 Bepanthen Baby Kenőcs - 100 g
+5908229304181 Bepanthen Baby kenőcs - 200 g
 5949031350072 Durex Invisible óvszer XL-es méret - 10 db
 5990031646498 Milumil 2 tejalapú anyatej-kiegészítő tápszer 6-12 hónapos korig - 1500 g
 5995000710378 Caola Hello Summer naptej SPF30 - 200 ml

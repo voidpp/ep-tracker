@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-06-25",
+    "rossmann": {
+      "added": [
+        {
+          "id": "5908229304181",
+          "name": "Bepanthen Baby kenőcs - 200 g"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4005900907134",
+          "name": "Nivea Sun napallergia elleni napozó spray F50+ - 200 ml"
+        },
+        {
+          "id": "4008600427278",
+          "name": "Nuk Space Night szilikon altatócumi, 18-36 hónapos korig, fiú - 2 db"
+        },
+        {
+          "id": "4305615624006",
+          "name": "Babydream ujjas, zsebes vízlepergető előke - 1db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-06-23",
     "rossmann": {
       "added": [
