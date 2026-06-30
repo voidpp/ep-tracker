@@ -63,10 +63,8 @@
 3574669908429 Johnson's 2 az 1-ben buborékos fürdető és tusfürdő gyermekeknek - 500 ml
 3574669909952 Johnson's Top-to-Toe® babatusfürdő - 500 ml
 3600542297813 Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml
-3600542452465 Garnier Ambre Solarie Golden Touch olaj spray SPF30 - 150 ml
 3600542512961 Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml
 3600542522915 Ambre Solaire Színezett spray naptej gyerekeknek - 270 ml
-3600542607544 Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml
 3600550368574 Mixa Baby habzó olaj fürdetéshez és zuhanyzáshoz babáknak - 400 ml
 3600550929324 Mixa Baby nyugtató, tisztító olaj atópiára hajlamos bőrre - 250 ml
 3600551154466 Mixa micellás sampon babáknak - 300 ml
@@ -99,12 +97,11 @@
 4005800402982 Hansaplast Sensitive ragtapasz - 5 m
 4005808430208 NIVEA SUN Protect & Moisture hidratáló naptej FF50+ - 200 ml
 4005900600202 Nivea Sun Kids Sensitive napozó spray, F50 - 200 ml
-4005900695826 NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml
 4005900717672 Hansaplast sebtapasz marvel - 20 db
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
-4006000075419 NIVEA SUN Kids gyermek napozó spray FF50+ - 200 ml
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
 4008600447047 Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db
+4008600447863 NUK Perfect Match Air Mickey szilikon cumi 6-18 hónapos korig - 2 db
 4009408042410 Facelle Mini Plus diszkrét tisztasági betét - 16 db
 4009408042519 Facelle Diskret Extra inkontinencia betét - 12 db
 4009408042533 Facelle Diskret Extra Plus inkontinencia betét - 10 db
@@ -152,6 +149,7 @@
 4028403118951 Aqua Glide síkosító - 50 ml
 4028403118968 Aqua Glide síkosító - 125 ml
 4028403118975 Bioglide síkosító - 40 ml
+4028403122606 Soft-Tampons Normal tampon - 3 db
 4047196039946 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196041420 Altapharma Srips Sensitiv sebtapasz - 20 db
 4047196041437 Altapharma Aqua sebtapasz - 20 db
@@ -201,7 +199,6 @@
 4068134072009 Babydream Sensitive mosokodó és sampon utántöltő - 500 ml
 4068134081933 Babydream ápoló fürdető - 750 ml
 4068134083029 SunOzon Sensitiv napozó spray LFS50 - 200 ml
-4068134083036 SunOzon Sensitiv napozó spray LSF50+ - 200 ml
 4068134083609 Babydream Mamas mellbimbó párna - 20 db
 4068134088062 Babydream Jumbo bugyipelenka 4-es 9-15 kg - 44 db
 4068134093639 Babydream Jó Éjszakát testápoló - 100 ml
@@ -222,7 +219,7 @@
 4068134125842 Facelle Normal tisztasági betét - 50 db
 4068134125859 Facelle Normal illatosított tisztasági betét - 50 db
 4068134125866 Facelle Aloe Vera tisztasági betét - 50 db
-4068134125873 Facelle Extra hosszú illatosított tisztasági betét - 35 db
+4068134125873 Facelle extra hosszú illatosított tisztasági betét - 35 db
 4068134138064 Babydream kenőcs panthenollal - 50 ml
 4068134138187 Prokudent Doboz protézistisztító - 1 db
 4068134138576 Babydream Junior Plus nadrágpelenka 5+-os méret, 11-17 kg - 64 db
@@ -330,7 +327,6 @@
 4305615761473 Babydream Natural mandulaolaj - 250 ml
 4305615761480 Babydream natural popsikrém - 75 ml
 4305615827001 Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db
-4305615827278 Babydream napozókrém LSF 50+ - 75 ml
 4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
 4305615827711 SunOzon Med napozó spray LSF50+ - 200 ml
 4305615827933 SunOzon Med naptej LSF50 - 50 ml
@@ -504,6 +500,7 @@
 5900717801011 Lirene Lactima Intense Intim mosakodó gél - 300 ml
 5900852036514 Milumil HA Start Prosyneo anyatej-helyettesítő tápszer 0 hónapos kortól - 400 g
 5900852068720 Milupa 1 tejalapú anyatej-helyettesítő tápszer 0 hónapos kortól - 600 g
+5900931033106 Bobini Baby 2in1 fürdető és sampon - 500 ml
 5900931033205 Bobini Baby hipoallergén öblítő 50 mosás - 1800 ml
 5901691890374 Lovi Prime dinamikus szilikon cumi 6-18 hónapos korig /púder - 1 db
 5901691890473 Lovi Prime dinamikus szilikon cumi 0-6 hónapos korig /kék - 1 db
@@ -651,6 +648,7 @@
 5999511550768 Mecsek tejszaporító filteres tea 20x2 g - 40 g
 5999518572060 Corega Erős Rögzítés mentolos műfogsorrögzítő krém - 40 g
 5999518587989 Corega ízmentes műfogsorrögzítő duopack 2x40 g - 80 g
+5999528942655 Canestest teszt hüvelyi fertőzésekre - 1 db
 5999528942662 Canesbalance hüvelygél - 7 db
 5999528943560 CanesFresh Sensitive intim mosakodógél - 200 ml
 5999528943614 Canesbalance hüvelykúp - 7 db
@@ -673,7 +671,7 @@
 5999563223023 Spa bélgyulladás gyorsteszt - 1 db
 5999563223047 Spa emésztőrendszer gyorsteszt - 1 db
 5999563223054 Spa glutén intolerancia gyorsteszt - 1 db
-5999563223061 Spa Helicobakter Pylori gyorsteszt - 16 db
+5999563223061 Spa Helicobakter Pylori gyorsteszt - 1 db
 5999563223078 Spa Lyme-kór gyorsteszt - 1 db
 5999563223085 Spa májfunkció gyorsteszt - 1 db
 5999563223115 Spa prostata gyorsteszt - 1 db
@@ -696,7 +694,6 @@
 5999573640087 This is Redy Tini mestruációs bugyi 10-11 éves korosztálynak - 1 db
 5999573640094 This is Redy Tini menstruációs bugyi 12-13 éves korosztálynak - 1 db
 5999573640117 This is Redy Air tisztasági bugyi M-es méret - 1 db
-5999573641176 This is Redy Boxer Night menstruációs bugyi XL-es méret - 1 db
 5999573641527 This is Redy tanga tisztasági bugyi - 1 db
 5999576230070 Vízangyalka babafürdető és sampon 500ml
 5999576230179 Vízangyal koszmó elixír - 100 ml
@@ -757,9 +754,12 @@
 6970392217109 Chicco digitális lázmérő - 1 db
 6976864909985 Jót alszom Prémium szájtapasz horkolás ellen - 30 db
 7290016332667 Savvycheck Intim Candida gyorsteszt - 1 db
-7310361147867 Libero Touch nadrágpelenka, méret: 3, 5-8 kg - 40 db
+7310361147867 Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db
 7310361147935 Libero Touch nadrágpelenka, méret: 2, 3-6 kg - 47 db
+7310361149090 Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db
 7310361157422 Libero Comfort nadrágpelenka, méret: 3, 5-8 kg - 76 db
+7310361165168 Libero Touch nadrágpelenka 5-ös méret, 11-17 kg - 30 db
+7310361165397 Libero Touch nadrágpelenka 4-es méret, 7-14 kg - 36 db
 7310361165977 Libero Comfort Mega Pack nadrágpelenka 5-ös méret 11-17 kg - 64 db
 7310615062243 Salvequick Aqua Resist víz és szennyeződésálló ragtapasz - 1 db
 7310615966244 Salvequick Családi Mix hypoallergén sebtapasz csomag - 26 db
@@ -817,6 +817,7 @@
 7322542530177 Libresse Ultra Multistyle egészségügyi betét - 10 db
 7322542531426 Libero Comfort Mega Pack nadrágpelenka 6-os méret 13-20 kg - 60 db
 7322542536421 Libero Jumbo Up&Go bugyipelenka 7-es méret 17+ kg - 32 db
+7322542537688 Libero Comfort Mega Pack nadrágpelenka 7-es méret, 16-26 kg - 54 db
 7340446631073 Femivity Ciklus Balance krém - 100 ml
 7613033033254 Beba Expertpro HA Start tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 600 g
 7613033062858 Beba Expertpro HA 1 tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 600 g
@@ -918,13 +919,14 @@
 8008698032114 Schaer pan rustico kenyér - 250 g
 8019894094707 Best View Lágy Oldat Kontaktlencséhez - 360 ml
 8019894094745 Best View Lágy Oldat Kontaktlencséhez - 100 ml
+8058664138333 Chicco Protection tusfürdő körömvirággal - 500 ml
 8410076481597 Old El Paso sós tortilla chips - 185 g
 8410207115865 Johnson's babaolaj - 200 ml
 8410207115889 Johnson's aloe vera babaolaj - 200 ml
 8410376017342 Gullón gluténmentes keksz csokoládé darabokkal - 200 g
 8410376044959 Gullón Dibus Sharkies gluténmentes reggeliző keksz - 250 g
 8410757101165 Trompy babahintőpor - 500 g
-8411037885232 Mr. Brownie gluténmentes csokoládés mini brownie 150 g
+8411037885232 Mr. Brownie gluténmentes csokidarabos brownie - 150 g
 8445290941176 Beba Supremepro 1 tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 400 g
 8445291080669 Beba ExpertPro HA AR speciális gyógyászati célra szánt élelmiszer születéstől kezdve 2x300 g - 600 g
 8445291667457 Lactogen Harmony 1 tejalapú anyatej-helyettesítő tápszer 0 hónapos kortól - 500 g
@@ -964,6 +966,7 @@
 8700216861120 Always Ultra Micro Touch Normal Plus egészségügyi betét - 10 db
 8700216865029 Pampers Premium Care nadrágelenka 6-os méret 13kg-18kg - 50 db
 8700216882347 Naturella Ultra Night Plus egészségügyi betét - 12 db
+8700216882378 Naturella Ultra Night Plus egészségügyi betét - 24 db
 8710103671688 Philips Avent anyatejtároló poharak 0 hónapos kortól 180 ml-es - 5 db
 8710103781899 Philips Avent SCF796/01 Bendy szívószálas itatópohár 9 hónapos kortól 200 ml - 1 db
 8710103781912 Philips Avent SCF796/02 Bendy szívószálas itatópohár 9 hónapos kortól 200 ml - 1 db

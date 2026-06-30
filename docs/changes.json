@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-06-30",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4008600447863",
+          "name": "NUK Perfect Match Air Mickey szilikon cumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "4028403122606",
+          "name": "Soft-Tampons Normal tampon - 3 db"
+        },
+        {
+          "id": "4068134125873",
+          "name": "Facelle extra hosszú illatosított tisztasági betét - 35 db"
+        },
+        {
+          "id": "5900931033106",
+          "name": "Bobini Baby 2in1 fürdető és sampon - 500 ml"
+        },
+        {
+          "id": "5999528942655",
+          "name": "Canestest teszt hüvelyi fertőzésekre - 1 db"
+        },
+        {
+          "id": "5999563223061",
+          "name": "Spa Helicobakter Pylori gyorsteszt - 1 db"
+        },
+        {
+          "id": "7310361147867",
+          "name": "Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db"
+        },
+        {
+          "id": "7310361149090",
+          "name": "Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db"
+        },
+        {
+          "id": "7310361165168",
+          "name": "Libero Touch nadrágpelenka 5-ös méret, 11-17 kg - 30 db"
+        },
+        {
+          "id": "7310361165397",
+          "name": "Libero Touch nadrágpelenka 4-es méret, 7-14 kg - 36 db"
+        },
+        {
+          "id": "7322542537688",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 7-es méret, 16-26 kg - 54 db"
+        },
+        {
+          "id": "8058664138333",
+          "name": "Chicco Protection tusfürdő körömvirággal - 500 ml"
+        },
+        {
+          "id": "8411037885232",
+          "name": "Mr. Brownie gluténmentes csokidarabos brownie - 150 g"
+        },
+        {
+          "id": "8700216882378",
+          "name": "Naturella Ultra Night Plus egészségügyi betét - 24 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "3600542452465",
+          "name": "Garnier Ambre Solarie Golden Touch olaj spray SPF30 - 150 ml"
+        },
+        {
+          "id": "3600542607544",
+          "name": "Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml"
+        },
+        {
+          "id": "4005900695826",
+          "name": "NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml"
+        },
+        {
+          "id": "4006000075419",
+          "name": "NIVEA SUN Kids gyermek napozó spray FF50+ - 200 ml"
+        },
+        {
+          "id": "4068134083036",
+          "name": "SunOzon Sensitiv napozó spray LSF50+ - 200 ml"
+        },
+        {
+          "id": "4068134125873",
+          "name": "Facelle Extra hosszú illatosított tisztasági betét - 35 db"
+        },
+        {
+          "id": "4305615827278",
+          "name": "Babydream napozókrém LSF 50+ - 75 ml"
+        },
+        {
+          "id": "5999563223061",
+          "name": "Spa Helicobakter Pylori gyorsteszt - 16 db"
+        },
+        {
+          "id": "5999573641176",
+          "name": "This is Redy Boxer Night menstruációs bugyi XL-es méret - 1 db"
+        },
+        {
+          "id": "7310361147867",
+          "name": "Libero Touch nadrágpelenka, méret: 3, 5-8 kg - 40 db"
+        },
+        {
+          "id": "8411037885232",
+          "name": "Mr. Brownie gluténmentes csokoládés mini brownie 150 g"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-06-26",
     "rossmann": {
       "added": [],
