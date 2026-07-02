@@ -63,7 +63,6 @@
 3574669908429 Johnson's 2 az 1-ben buborékos fürdető és tusfürdő gyermekeknek - 500 ml
 3574669909952 Johnson's Top-to-Toe® babatusfürdő - 500 ml
 3600542297813 Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml
-3600542512961 Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml
 3600542522915 Ambre Solaire Színezett spray naptej gyerekeknek - 270 ml
 3600550368574 Mixa Baby habzó olaj fürdetéshez és zuhanyzáshoz babáknak - 400 ml
 3600550929324 Mixa Baby nyugtató, tisztító olaj atópiára hajlamos bőrre - 250 ml
@@ -199,6 +198,7 @@
 4068134072009 Babydream Sensitive mosokodó és sampon utántöltő - 500 ml
 4068134081933 Babydream ápoló fürdető - 750 ml
 4068134083029 SunOzon Sensitiv napozó spray LFS50 - 200 ml
+4068134083036 SunOzon Sensitiv napozó spray LSF50+ - 200 ml
 4068134083609 Babydream Mamas mellbimbó párna - 20 db
 4068134088062 Babydream Jumbo bugyipelenka 4-es 9-15 kg - 44 db
 4068134093639 Babydream Jó Éjszakát testápoló - 100 ml
@@ -329,7 +329,6 @@
 4305615827001 Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db
 4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
 4305615827711 SunOzon Med napozó spray LSF50+ - 200 ml
-4305615827933 SunOzon Med naptej LSF50 - 50 ml
 4305615828152 Babydream Napkrém 50+ Faktor - 200ml
 4305615835617 Babydream szilikon előke - 1 db
 4305615839165 Facelle betét super night - 10 db
