@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-07-04",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4008600446316",
+          "name": "NUK Perfect Match tanulópohár Micimackó mintával 6 hónapos kortól 150 ml - 1 db"
+        },
+        {
+          "id": "4008600447870",
+          "name": "NUK Perfect Match Air szilikon cumi Mickey & Minnie mintával 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "4068134120342",
+          "name": "Babydream szimmetrikus szilikon játszócumi 0-2 hónapos korig - 2 db"
+        },
+        {
+          "id": "4068134148544",
+          "name": "Babydream ujjas, zsebes vízlepergető előke - 1 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "5997005303401",
+          "name": "Herbaria gyermek naptej F50 - 200 ml"
+        },
+        {
+          "id": "8803348039938",
+          "name": "Frudia Ultra UV Shield fényvédő krém SPF50 - 50 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-07-02",
     "rossmann": {
       "added": [

@@ -98,9 +98,11 @@
 4005900600202 Nivea Sun Kids Sensitive napozó spray, F50 - 200 ml
 4005900717672 Hansaplast sebtapasz marvel - 20 db
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
+4008600446316 NUK Perfect Match tanulópohár Micimackó mintával 6 hónapos kortól 150 ml - 1 db
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
 4008600447047 Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db
 4008600447863 NUK Perfect Match Air Mickey szilikon cumi 6-18 hónapos korig - 2 db
+4008600447870 NUK Perfect Match Air szilikon cumi Mickey & Minnie mintával 6-18 hónapos korig - 2 db
 4009408042410 Facelle Mini Plus diszkrét tisztasági betét - 16 db
 4009408042519 Facelle Diskret Extra inkontinencia betét - 12 db
 4009408042533 Facelle Diskret Extra Plus inkontinencia betét - 10 db
@@ -214,6 +216,7 @@
 4068134119209 Babydream öko pelenka 3-as 5-9kg - 32 db
 4068134119216 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
 4068134119223 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
+4068134120342 Babydream szimmetrikus szilikon játszócumi 0-2 hónapos korig - 2 db
 4068134125705 Facelle ovulációs tesztcsík - 15 db
 4068134125767 Facelle Maxi éjszakai egészségügyi betét - 12 db
 4068134125842 Facelle Normal tisztasági betét - 50 db
@@ -229,6 +232,7 @@
 4068134139610 Babydream Extra Sensitiv babahintőpor - 100g
 4068134139696 Altapharma sebtapasz ujjra - 16 db
 4068134139771 Altapharma steril sebtapasz 7,5 x 7,5 cm - 10 db
+4068134148544 Babydream ujjas, zsebes vízlepergető előke - 1 db
 4068134152466 Facelle Extra Lang Protect tisztasági betét - 30 db
 4068134156723 Babydream Extra Sensitive törlőkendő 12x80 db - 960 db
 4068134157454 Facelle Diskret Slim Normal intim higiéniai betét - 16 db
@@ -533,7 +537,6 @@
 5996275234774 Silky Baby Sensitive törlőkendő 4*65 db - 260 db
 5997001770153 BradoLife kéz- és bőrfertőtlenítő kendő - 5 db
 5997001770825 BradoLife kézfertőtlenítő gél - 50 ml
-5997005303401 Herbaria gyermek naptej F50 - 200 ml
 5997005331145 Pannonhalmi Májvédő teakeverék - 20 db
 5997005341458 Herbária Lady Klimax filterezett teakeverék - 24 g
 5997005341489 Panonnhalmi Vesetisztító teakeverék (20x1,5g) - 30 g
@@ -1000,7 +1003,6 @@
 8720689042529 Philips Avent Ultra Air éjszakai játszócumi 6-18 hónapos korig - 2 db
 8720689042864 Philips Avent Ultra Air Night játszócumi 18 hónapos kortól - 2 db
 8720689044080 Philips Avent Ultra Air játszócumi 18 hónapos kortól - 2 db
-8803348039938 Frudia Ultra UV Shield fényvédő krém SPF50 - 50 ml
 8886467062797 Dove Skin Care Rich Moisture törlőkendő - 50 db
 9001616333408 Mam etetőcumi 4 hónapos kortól - 1 db
 9001616333910 Mam etetőcumi 2 hónapos kortól - 1 db
