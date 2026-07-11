@@ -1,10 +1,6 @@
 {
   "rossmann": [
     {
-      "id": "0000042241225",
-      "name": "HiPP Babysanft napvédő spray babáknak és gyermekeknek F50+ - 150 ml"
-    },
-    {
       "id": "0000042241287",
       "name": "Hipp Babysanft kacsás pumpás mosakodóhab - 250 ml"
     },
@@ -15,10 +11,6 @@
     {
       "id": "0000042241317",
       "name": "Hipp Sensitiv Babysanft fókás tusfürdo és sampon - 200 ml"
-    },
-    {
-      "id": "0000042361114",
-      "name": "Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 100 ml"
     },
     {
       "id": "0000042419884",
@@ -269,20 +261,8 @@
       "name": "Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml"
     },
     {
-      "id": "3600542512961",
-      "name": "Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml"
-    },
-    {
-      "id": "3600542520423",
-      "name": "Garnier Ambre Solaire Sensitive Advances spray SPF50 - 150 ml"
-    },
-    {
       "id": "3600542522915",
       "name": "Ambre Solaire Színezett spray naptej gyerekeknek - 270 ml"
-    },
-    {
-      "id": "3600542607544",
-      "name": "Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml"
     },
     {
       "id": "3600550368574",
@@ -405,24 +385,12 @@
       "name": "Hansaplast Sensitive ragtapasz - 5 m"
     },
     {
-      "id": "4005808430208",
-      "name": "NIVEA SUN Protect & Moisture hidratáló naptej FF50+ - 200 ml"
-    },
-    {
-      "id": "4005900600202",
-      "name": "Nivea Sun Kids Sensitive napozó spray, F50 - 200 ml"
-    },
-    {
       "id": "4005900717672",
       "name": "Hansaplast sebtapasz marvel - 20 db"
     },
     {
       "id": "4006000002514",
       "name": "Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml"
-    },
-    {
-      "id": "4006000133805",
-      "name": "Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 400 ml"
     },
     {
       "id": "4008600446996",
@@ -781,10 +749,6 @@
       "name": "Babydream Express lázmérő - 1db"
     },
     {
-      "id": "4068134014740",
-      "name": "SunOzon fényvédő stick LSF50+ - 20 g"
-    },
-    {
       "id": "4068134022868",
       "name": "Facelle Ultra Normal egészségügyi betét - 20 db"
     },
@@ -815,10 +779,6 @@
     {
       "id": "4068134081933",
       "name": "Babydream ápoló fürdető - 750 ml"
-    },
-    {
-      "id": "4068134083036",
-      "name": "SunOzon Sensitiv napozó spray LSF50+ - 200 ml"
     },
     {
       "id": "4068134083609",
@@ -983,14 +943,6 @@
     {
       "id": "4068134170484",
       "name": "Facelle Hipster menstruációs bugyi XL - 1 db"
-    },
-    {
-      "id": "4068134179791",
-      "name": "SunOzon napozó spray LSF50 - 200 ml"
-    },
-    {
-      "id": "4068134179883",
-      "name": "SunOzon Kids naptej gyerekeknek LSF50 - 50 ml"
     },
     {
       "id": "4068134179920",
@@ -1339,10 +1291,6 @@
     {
       "id": "4305615827001",
       "name": "Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db"
-    },
-    {
-      "id": "4305615827278",
-      "name": "Babydream napozókrém LSF 50+ - 75 ml"
     },
     {
       "id": "4305615827711",
@@ -1773,10 +1721,6 @@
       "name": "Hawaiian Hydrating Protection napozókrém SPF30 - 180 ml"
     },
     {
-      "id": "5099821137151",
-      "name": "Hawaiian Tropic Hydrating Protection Lotion hidratáló napozó SPF50 - 180 ml"
-    },
-    {
       "id": "5203937002375",
       "name": "Orino gluténmentes szezámmagos szelet mézzel - 45 g"
     },
@@ -2093,14 +2037,6 @@
       "name": "Milumil 2 tejalapú anyatej-kiegészítő tápszer 6-12 hónapos korig - 1500 g"
     },
     {
-      "id": "5995000710361",
-      "name": "Caola Hello Summer Kids napvédő spray SPF50+ - 200 ml"
-    },
-    {
-      "id": "5995000710378",
-      "name": "Caola Hello Summer naptej SPF30 - 200 ml"
-    },
-    {
       "id": "5995000820091",
       "name": "CaoNatur Baby folyékony hintőpor - 300 ml"
     },
@@ -2171,10 +2107,6 @@
     {
       "id": "5997001770825",
       "name": "BradoLife kézfertőtlenítő gél - 50 ml"
-    },
-    {
-      "id": "5997005303401",
-      "name": "Herbaria gyermek naptej F50 - 200 ml"
     },
     {
       "id": "5997005331145",
@@ -2333,14 +2265,6 @@
       "name": "Femifit intim mosakodó habtej - 250 ml"
     },
     {
-      "id": "5997742302194",
-      "name": "Dr.Kelen gyerek napspray F50+ - 150 ml"
-    },
-    {
-      "id": "5997742302224",
-      "name": "Dr.Kelen Sun bronzolaj SPF30 - 150 ml"
-    },
-    {
       "id": "5997742302354",
       "name": "Dr.Kelen Kid lipo-krém ekcéma ellen - 75 ml"
     },
@@ -2395,10 +2319,6 @@
     {
       "id": "5998603320579",
       "name": "Aloe Vera Organic napozó krém arcra és testre SPF30 - 50 ml"
-    },
-    {
-      "id": "5998603320593",
-      "name": "Aloe Vera Organic napozó krém arcra és testre SPF50 - 150 ml"
     },
     {
       "id": "5998603321408",
@@ -2971,10 +2891,6 @@
     {
       "id": "5999887930850",
       "name": "Vízangyal babapopsi vedokrém - 150 ml"
-    },
-    {
-      "id": "6001051006267",
-      "name": "Nivea Sun Protect & Moisture Invisible Finish naptej FF50+ - 150 ml"
     },
     {
       "id": "6251007631665",
@@ -4007,10 +3923,6 @@
     {
       "id": "8715400560710",
       "name": "Salvequick sebtapasz, különböző méret - 28 db"
-    },
-    {
-      "id": "8719327597866",
-      "name": "Altruist Dermatologist fényvédő krém SPF 50 - 100 ml"
     },
     {
       "id": "8720689012300",
