@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-07-14",
+    "rossmann": {
+      "added": [
+        {
+          "id": "0000042241225",
+          "name": "HiPP Babysanft napvédő spray babáknak és gyermekeknek F50+ - 150 ml"
+        },
+        {
+          "id": "0000042361114",
+          "name": "Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 100 ml"
+        },
+        {
+          "id": "3600542512961",
+          "name": "Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml"
+        },
+        {
+          "id": "3600542520423",
+          "name": "Garnier Ambre Solaire Sensitive Advances spray SPF50 - 150 ml"
+        },
+        {
+          "id": "3600542607544",
+          "name": "Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml"
+        },
+        {
+          "id": "4005808430208",
+          "name": "NIVEA SUN Protect & Moisture hidratáló naptej FF50+ - 200 ml"
+        },
+        {
+          "id": "4005900600202",
+          "name": "Nivea Sun Kids Sensitive napozó spray, F50 - 200 ml"
+        },
+        {
+          "id": "4006000133805",
+          "name": "Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 400 ml"
+        },
+        {
+          "id": "4068134014740",
+          "name": "SunOzon fényvédő stick LSF50+ - 20 g"
+        },
+        {
+          "id": "4068134083036",
+          "name": "SunOzon Sensitiv napozó spray LSF50+ - 200 ml"
+        },
+        {
+          "id": "4068134179791",
+          "name": "SunOzon napozó spray LSF50 - 200 ml"
+        },
+        {
+          "id": "4068134179883",
+          "name": "SunOzon Kids naptej gyerekeknek LSF50 - 50 ml"
+        },
+        {
+          "id": "4305615827278",
+          "name": "Babydream napozókrém LSF 50+ - 75 ml"
+        },
+        {
+          "id": "4305615827636",
+          "name": "SunOzon Sport napozó spray LSF50 - 200 ml"
+        },
+        {
+          "id": "5099821137151",
+          "name": "Hawaiian Tropic Hydrating Protection Lotion hidratáló napozó SPF50 - 180 ml"
+        },
+        {
+          "id": "5201314180524",
+          "name": "Carroten Family naptej spray SPF50 - 270 ml"
+        },
+        {
+          "id": "5900717311077",
+          "name": "Lirene Sun Protection védőemulzió SPF50 - 90 ml"
+        },
+        {
+          "id": "5995000710361",
+          "name": "Caola Hello Summer Kids napvédő spray SPF50+ - 200 ml"
+        },
+        {
+          "id": "5995000710378",
+          "name": "Caola Hello Summer naptej SPF30 - 200 ml"
+        },
+        {
+          "id": "5997005303401",
+          "name": "Herbaria gyermek naptej F50 - 200 ml"
+        },
+        {
+          "id": "5997372370570",
+          "name": "Keve Dermofil napozó krém SPF30 - 200 ml"
+        },
+        {
+          "id": "5997742300145",
+          "name": "Dr.Kelen Sun F50+ GYEREK napkrém - 1 db"
+        },
+        {
+          "id": "5997742301753",
+          "name": "Dr.Kelen Sun F50+ Arcra napkrém - 1 db"
+        },
+        {
+          "id": "5997742302194",
+          "name": "Dr.Kelen gyerek napspray F50+ - 150 ml"
+        },
+        {
+          "id": "5997742302224",
+          "name": "Dr.Kelen Sun bronzolaj SPF30 - 150 ml"
+        },
+        {
+          "id": "5998603320593",
+          "name": "Aloe Vera Organic napozó krém arcra és testre SPF50 - 150 ml"
+        },
+        {
+          "id": "6001051006267",
+          "name": "Nivea Sun Protect & Moisture Invisible Finish naptej FF50+ - 150 ml"
+        },
+        {
+          "id": "8719327597866",
+          "name": "Altruist Dermatologist fényvédő krém SPF 50 - 100 ml"
+        }
+      ],
+      "removed": []
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-07-11",
     "rossmann": {
       "added": [],
