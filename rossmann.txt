@@ -61,7 +61,6 @@
 3574661900469 o.b. ProComfort Super tampon - 16 db
 3574661900476 o.b. Original Normal tampon - 16 db
 3574661900490 o.b. ExtraProtect Super Plus tampon - 16 db
-3574669907712 Johnson's Bedtime babasampon - 500 ml
 3574669908429 Johnson's 2 az 1-ben buborékos fürdető és tusfürdő gyermekeknek - 500 ml
 3574669909952 Johnson's Top-to-Toe® babatusfürdő - 500 ml
 3600542297813 Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml
@@ -106,7 +105,7 @@
 4006000133805 Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 400 ml
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
 4008600447047 Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db
-4009408042410 Facelle Mini Plus diszkrét tisztasági betét - 16 db
+4009408042410 Facelle Diskret Mini Plus tisztasági betét - 16 db
 4009408042519 Facelle Diskret Extra inkontinencia betét - 12 db
 4009408042533 Facelle Diskret Extra Plus inkontinencia betét - 10 db
 4009408042601 Facelle Diskret Extra inkontinencia betét - 10 db
@@ -218,7 +217,6 @@
 4068134119209 Babydream öko pelenka 3-as 5-9kg - 32 db
 4068134119216 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
 4068134119223 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
-4068134120342 Babydream szimmetrikus szilikon játszócumi 0-2 hónapos korig - 2 db
 4068134125705 Facelle ovulációs tesztcsík - 15 db
 4068134125767 Facelle Maxi éjszakai egészségügyi betét - 12 db
 4068134125842 Facelle Normal tisztasági betét - 50 db
@@ -287,7 +285,7 @@
 4305615467634 Facelle Medium inkontinencia nadrág - 10 db
 4305615500164 Babydream Duopack Jumbo bugyipelenka 5-ös, 12-17 kg - 40db
 4305615500171 Babydream Duopack Jumbo bugyipelenka 6-os, 15+ kg - 36db
-4305615512372 Facelle Comfort Lang tisztasági betét - 40 db
+4305615512372 Facelle Classic tisztasági betét - 40 db
 4305615514376 Facelle Super+ tampon - 32 db
 4305615514390 Facelle Diskret Hygiene Pants alsónadrág L-es - 8 db
 4305615543758 Babydream Jó Éjt esti fürdető - 500 ml
@@ -312,7 +310,7 @@
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night tampon - 16 db
 4305615689241 Alterra naptej F50 - 75 ml
-4305615691800 Facelle éjszakai egészségügyi betét - 8 db
+4305615691800 Facelle Ultra éjszakai egészségügyi betét - 8 db
 4305615696690 Babydream cumisüveg 0-6 hónapos korig 240 ml - 1 db
 4305615696713 Babydream cumisüveg széles nyakú 0-6 hónapos korig 300 ml - 1 db
 4305615696737 Babydream cumisüveg 0 hónapos kortól világítós - 300ml
@@ -644,8 +642,10 @@
 5999099800323 Panarom Kis Herceg olajkeverék - 30 ml
 5999099803133 Panarom Ekcéma krém - 50 ml
 5999099803300 Panarom fejbőrápoló és hajerősítő olaj rozmaringgal - 50 ml
+5999109103659 Sudocrem My Little bőrápoló krém - 22g
 5999109103857 Sudocrem Multi-Expert bőrvédő krém - 60 g
 5999109103864 Sudocrem Multi-Expert bőrvédő krém - 125 g
+5999109103871 Sudocrem Multi-Expert bőrvédő krém - 250 g
 5999116701053 Dora Natura No.13 bababalzsam - 30 ml
 5999116701701 Dora Natura Levendulaolajos popsikrém - 100 ml
 5999116702135 Dora Natura Krémes mandulaolaj babatestápoló - 200 ml
@@ -720,13 +720,13 @@
 5999883015124 Silent World poliuretán füldugó - 3 db
 5999883716922 JutaVit Baby izotóniás tengervizes orrspray - 50 ml
 5999883716939 JutaVit izotóniás tengervizes orrspray felnőtteknek - 100 ml
-5999884258001 Biointimo day intim betét - 10 db
-5999884258018 Biointimo night intim betét - 8 db
-5999884258025 Biointimo everyday tisztasági betét - 20 db
+5999884258001 Biointimo Day intim betét - 10 db
+5999884258018 Biointimo Night intim betét - 8 db
+5999884258025 Biointimo Everyday tisztasági betét - 20 db
 5999884258049 Biointimo menstruációs fájdalomcsillapító tapasz - 3 db
 5999884615095 Lansinoh 2 fázisú kézi mellszívó + Lansinoh 160 ml-es cumisüveg szett - 1 db
 5999885430048 Nózi Légtisztító stift - 1 db
-5999886179151 Biointimo intimbetét mosható poppy pads - 5 db
+5999886179151 Biointimo Poppy Pads mosható intimbetét - 5 db
 5999886190583 Love Diet gluténmentes zabpehely - 400 g
 5999886190743 Love diet lenmagpehely - 250 g
 5999886333164 Coconutoil Cosmetics Bio baba-mama masszázsolaj - 80 ml
@@ -748,6 +748,8 @@
 5999887847004 Juvia hüvelyhidratáló gél - 44 ml
 5999887930850 Vízangyal babapopsi vedokrém - 150 ml
 6001051006267 Nivea Sun Protect & Moisture Invisible Finish naptej FF50+ - 150 ml
+6001051006700 NIVEA SUN Kids Protect & Care hidratáló szórófejes gyermek naptej FF50+ 250 ml
+6001051006724 NIVEA SUN Protect & Moisture hidratáló szórófejes naptej FF50+ 250 ml
 6251007631665 Higeen kézfertőtlenítő - 110 ml
 6251007636400 HiGeen Together in Love kézfertőtlenítő gél vitamin gyöngyökkel - 50 ml
 6936983110655 Whitelab hüvelyi PH gyorsteszt - 1 db
@@ -768,10 +770,13 @@
 7310361147867 Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db
 7310361147935 Libero Touch nadrágpelenka, méret: 2, 3-6 kg - 47 db
 7310361149090 Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db
+7310361149205 Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db
 7310361157422 Libero Comfort nadrágpelenka, méret: 3, 5-8 kg - 76 db
 7310361165168 Libero Touch nadrágpelenka 5-ös méret, 11-17 kg - 30 db
+7310361165359 Libero Comfort Mega Pack nadrágpelenka 4-es méret, 7-14 kg - 74 db
 7310361165397 Libero Touch nadrágpelenka 4-es méret, 7-14 kg - 36 db
 7310361165977 Libero Comfort Mega Pack nadrágpelenka 5-ös méret 11-17 kg - 64 db
+7310361170094 Libero Comfort Triple Box nadrágpelenka 5-ös méret, 11-17 kg - 96 db
 7310615062243 Salvequick Aqua Resist víz és szennyeződésálló ragtapasz - 1 db
 7310615966244 Salvequick Családi Mix hypoallergén sebtapasz csomag - 26 db
 7310616022369 Salvequick vízhólyagtapasz - 10 db
@@ -826,9 +831,13 @@
 7322542488157 Libero Jumbo Up&Go bugyipelenka 5-ös méret 12-18 kg - 38 db
 7322542488393 Libero Jumbo Up&Go bugyipelenka 6-os méret 15-25 kg - 34 db
 7322542530177 Libresse Ultra Multistyle egészségügyi betét - 10 db
+7322542531242 Libero Touch nadrágpelenka 6-os méret, 13-20 kg - 27 db
 7322542531426 Libero Comfort Mega Pack nadrágpelenka 6-os méret 13-20 kg - 60 db
 7322542536421 Libero Jumbo Up&Go bugyipelenka 7-es méret 17+ kg - 32 db
 7322542537688 Libero Comfort Mega Pack nadrágpelenka 7-es méret, 16-26 kg - 54 db
+7322542560723 Libero Up&Go Triple Box bugyipelenka 4-es méret, 8-14 kg - 126 db
+7322542560808 Libero Up&Go Triple Box bugyipelenka 5-ös méret, 12-18 kg - 114 db
+7322542566589 Libero Comfort Triple Box nadrágpelenka 6-os méret, 13-20 kg - 84 db
 7340446631073 Femivity Ciklus Balance krém - 100 ml
 7613033033254 Beba Expertpro HA Start tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 600 g
 7613033062858 Beba Expertpro HA 1 tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 600 g

@@ -1,5 +1,126 @@
 [
   {
+    "date": "2026-07-16",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4009408042410",
+          "name": "Facelle Diskret Mini Plus tisztasági betét - 16 db"
+        },
+        {
+          "id": "4305615512372",
+          "name": "Facelle Classic tisztasági betét - 40 db"
+        },
+        {
+          "id": "4305615691800",
+          "name": "Facelle Ultra éjszakai egészségügyi betét - 8 db"
+        },
+        {
+          "id": "5999109103659",
+          "name": "Sudocrem My Little bőrápoló krém - 22g"
+        },
+        {
+          "id": "5999109103871",
+          "name": "Sudocrem Multi-Expert bőrvédő krém - 250 g"
+        },
+        {
+          "id": "5999884258001",
+          "name": "Biointimo Day intim betét - 10 db"
+        },
+        {
+          "id": "5999884258018",
+          "name": "Biointimo Night intim betét - 8 db"
+        },
+        {
+          "id": "5999884258025",
+          "name": "Biointimo Everyday tisztasági betét - 20 db"
+        },
+        {
+          "id": "5999886179151",
+          "name": "Biointimo Poppy Pads mosható intimbetét - 5 db"
+        },
+        {
+          "id": "6001051006700",
+          "name": "NIVEA SUN Kids Protect & Care hidratáló szórófejes gyermek naptej FF50+ 250 ml"
+        },
+        {
+          "id": "6001051006724",
+          "name": "NIVEA SUN Protect & Moisture hidratáló szórófejes naptej FF50+ 250 ml"
+        },
+        {
+          "id": "7310361149205",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db"
+        },
+        {
+          "id": "7310361165359",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 4-es méret, 7-14 kg - 74 db"
+        },
+        {
+          "id": "7310361170094",
+          "name": "Libero Comfort Triple Box nadrágpelenka 5-ös méret, 11-17 kg - 96 db"
+        },
+        {
+          "id": "7322542531242",
+          "name": "Libero Touch nadrágpelenka 6-os méret, 13-20 kg - 27 db"
+        },
+        {
+          "id": "7322542560723",
+          "name": "Libero Up&Go Triple Box bugyipelenka 4-es méret, 8-14 kg - 126 db"
+        },
+        {
+          "id": "7322542560808",
+          "name": "Libero Up&Go Triple Box bugyipelenka 5-ös méret, 12-18 kg - 114 db"
+        },
+        {
+          "id": "7322542566589",
+          "name": "Libero Comfort Triple Box nadrágpelenka 6-os méret, 13-20 kg - 84 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "3574669907712",
+          "name": "Johnson's Bedtime babasampon - 500 ml"
+        },
+        {
+          "id": "4009408042410",
+          "name": "Facelle Mini Plus diszkrét tisztasági betét - 16 db"
+        },
+        {
+          "id": "4068134120342",
+          "name": "Babydream szimmetrikus szilikon játszócumi 0-2 hónapos korig - 2 db"
+        },
+        {
+          "id": "4305615512372",
+          "name": "Facelle Comfort Lang tisztasági betét - 40 db"
+        },
+        {
+          "id": "4305615691800",
+          "name": "Facelle éjszakai egészségügyi betét - 8 db"
+        },
+        {
+          "id": "5999884258001",
+          "name": "Biointimo day intim betét - 10 db"
+        },
+        {
+          "id": "5999884258018",
+          "name": "Biointimo night intim betét - 8 db"
+        },
+        {
+          "id": "5999884258025",
+          "name": "Biointimo everyday tisztasági betét - 20 db"
+        },
+        {
+          "id": "5999886179151",
+          "name": "Biointimo intimbetét mosható poppy pads - 5 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-07-14",
     "rossmann": {
       "added": [
