@@ -2,7 +2,6 @@
 0000042241287 Hipp Babysanft kacsás pumpás mosakodóhab - 250 ml
 0000042241294 Hipp Babysanft kacsás utántöltő mosakodóhab - 250 ml
 0000042241317 Hipp Sensitiv Babysanft fókás tusfürdo és sampon - 200 ml
-0000042361114 Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 100 ml
 0000042419884 Nivea Intimo intim törlőkendő aloe - 15 db
 0000042428268 Hipp Babysnaft ajakápoló - 4,8 g
 0036000183399 Huggies Little Swimmers 3-4 úszópelenka 7-15 kg - 12 db
@@ -65,7 +64,6 @@
 3574669909952 Johnson's Top-to-Toe® babatusfürdő - 500 ml
 3600542297813 Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml
 3600542512961 Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml
-3600542520423 Garnier Ambre Solaire Sensitive Advances spray SPF50 - 150 ml
 3600542522915 Ambre Solaire Színezett spray naptej gyerekeknek - 270 ml
 3600542607544 Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml
 3600550368574 Mixa Baby habzó olaj fürdetéshez és zuhanyzáshoz babáknak - 400 ml
@@ -98,17 +96,14 @@
 4005800239298 Hansaplast Universal műanyag sebtapasz - 40 db
 4005800239434 Hansaplast Universal sebtapasz - 20 db
 4005800402982 Hansaplast Sensitive ragtapasz - 5 m
-4005808430208 NIVEA SUN Protect & Moisture hidratáló naptej FF50+ - 200 ml
-4005900600202 Nivea Sun Kids Sensitive napozó spray, F50 - 200 ml
 4005900717672 Hansaplast sebtapasz marvel - 20 db
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
-4006000133805 Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 400 ml
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
 4008600447047 Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db
 4009408042410 Facelle Diskret Mini Plus tisztasági betét - 16 db
 4009408042519 Facelle Diskret Extra inkontinencia betét - 12 db
 4009408042533 Facelle Diskret Extra Plus inkontinencia betét - 10 db
-4009408042601 Facelle Diskret Extra inkontinencia betét - 10 db
+4009408042601 Facelle Diskret Extra Plus fekete inkontinencia betét - 10 db
 4009408042625 Facelle Diskret Maxi intim higiéniai betét - 8 db
 4015400213932 Always Sensitive Normal Duo Pack egészségügyi betét - 20 db
 4015400214038 Always Ultra Sensitive Super Duo Pack egészségügyi betét - 16 db
@@ -154,7 +149,6 @@
 4028403118975 Bioglide síkosító - 40 ml
 4028403122606 Soft-Tampons Normal tampon - 3 db
 4047196039946 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
-4047196041420 Altapharma Srips Sensitiv sebtapasz - 20 db
 4047196041437 Altapharma Aqua sebtapasz - 20 db
 4047196041444 Altapharma Strips vízálló sebtapasz - 40 db
 4047196041451 Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
@@ -196,7 +190,7 @@
 4068134022868 Facelle Ultra Normal egészségügyi betét - 20 db
 4068134030948 Babydream szél és időjárás elleni balzsam - 50 ml
 4068134055170 Babydream megfázás elleni fürdető - 100 ml
-4068134066008 Facelle Diskret Men férfi női inkontinencia-alsónadrág - 8 db
+4068134066008 Facelle Diskret Men inkontinencia nadrág XL - 8 db
 4068134067791 Facelle Daily Fresh tisztasági betét - 50 db
 4068134071996 Babydream Extra Sensitive fürdető és sampon - 500 ml
 4068134072009 Babydream Sensitive mosokodó és sampon utántöltő - 500 ml
@@ -219,7 +213,7 @@
 4068134119223 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
 4068134125705 Facelle ovulációs tesztcsík - 15 db
 4068134125767 Facelle Maxi éjszakai egészségügyi betét - 12 db
-4068134125842 Facelle Normal tisztasági betét - 50 db
+4068134125842 Facelle Comfort tisztasági betét - 50 db
 4068134125859 Facelle Normal illatosított tisztasági betét - 50 db
 4068134125866 Facelle Aloe Vera tisztasági betét - 50 db
 4068134125873 Facelle extra hosszú illatosított tisztasági betét - 35 db
@@ -245,7 +239,6 @@
 4068134179791 SunOzon napozó spray LSF50 - 200 ml
 4068134179883 SunOzon Kids naptej gyerekeknek LSF50 - 50 ml
 4068134179920 SunOzon Kids naptej gyerekeknek LSF50+ - 200 ml
-4068134179937 SunOzon naptej LSF50 - 200 ml
 4068134192417 Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db
 4068134192424 Babydream Maxi Plus nadrágpelenka 4+-os méret 9-15 kg - 36 db
 4068134192431 Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db
@@ -287,7 +280,7 @@
 4305615500171 Babydream Duopack Jumbo bugyipelenka 6-os, 15+ kg - 36db
 4305615512372 Facelle Classic tisztasági betét - 40 db
 4305615514376 Facelle Super+ tampon - 32 db
-4305615514390 Facelle Diskret Hygiene Pants alsónadrág L-es - 8 db
+4305615514390 Facelle Diskret inkontinencia nadrág L - 8 db
 4305615543758 Babydream Jó Éjt esti fürdető - 500 ml
 4305615544021 Babydream Extra Sensitive Törlőkendő - 160 db
 4305615544038 Babydream Extra Sensitive törlőkendő - 320 db
@@ -309,7 +302,6 @@
 4305615619347 Altapharma sebspray - 50 ml
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night tampon - 16 db
-4305615689241 Alterra naptej F50 - 75 ml
 4305615691800 Facelle Ultra éjszakai egészségügyi betét - 8 db
 4305615696690 Babydream cumisüveg 0-6 hónapos korig 240 ml - 1 db
 4305615696713 Babydream cumisüveg széles nyakú 0-6 hónapos korig 300 ml - 1 db
@@ -333,7 +325,6 @@
 4305615827001 Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db
 4305615827278 Babydream napozókrém LSF 50+ - 75 ml
 4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
-4305615827711 SunOzon Med napozó spray LSF50+ - 200 ml
 4305615827940 SunOzon Sport napozó spray LSF 30 - 75 ml
 4305615828152 Babydream Napkrém 50+ Faktor - 200ml
 4305615835617 Babydream szilikon előke - 1 db
@@ -348,7 +339,7 @@
 4305615878317 Babydream Duopack Jumbo bugyipelenka 7-es, 17+ kg - 32 db
 4305615908076 Facelle Natural tampon - 16 db
 4305615908243 Facelle Normal egészségügyi betét - 14 db
-4305615908274 Facelle Normal tisztasági betét normál - 40 db
+4305615908274 Facelle Natural tisztasági betét normál - 40 db
 4305615911885 Babydream olajos krémtusfürdő kismamáknak - 250 ml
 4305615915319 Babydream Extra Sensitive törlőkendő 99% vízzel (3x60 db) - 180 db
 4305615915326 Babydream Extra Sensitive törlőkendő 99% vízzel (6x60 db) - 360 db
