@@ -96,6 +96,7 @@
 4005800239298 Hansaplast Universal műanyag sebtapasz - 40 db
 4005800239434 Hansaplast Universal sebtapasz - 20 db
 4005800402982 Hansaplast Sensitive ragtapasz - 5 m
+4005900695826 NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml
 4005900717672 Hansaplast sebtapasz marvel - 20 db
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
@@ -325,6 +326,7 @@
 4305615827001 Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db
 4305615827278 Babydream napozókrém LSF 50+ - 75 ml
 4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
+4305615827933 SunOzon Med naptej LSF50 - 50 ml
 4305615827940 SunOzon Sport napozó spray LSF 30 - 75 ml
 4305615828152 Babydream Napkrém 50+ Faktor - 200ml
 4305615835617 Babydream szilikon előke - 1 db
@@ -475,7 +477,6 @@
 5900516320324 Bella Super Plus tampon - 16 db
 5900516320348 Bella Super tampon - 16 db
 5900516402358 Bella Mamma eldobható melltartóbetét - 60 db
-5900516422226 Seni Care nedves törlőkendő - 10 db
 5900516651275 Bella intim Sensitive mosakodógél - 300 ml
 5900516653460 Bella intim mosakodógél tiniknek - 300 ml
 5900516690328 Seni soft super betegalátét 90 x 60 cm - 5 db
@@ -490,6 +491,7 @@
 5900516714420 Bella Herbs tisztasági betét vasfű kivonattal - 60 db
 5900516714505 Bella panty intima 100 % pamut - 30 db
 5900516735319 Seni Lady Slim Micro inkontinencia betét - 20 db
+5900516744977 Seni Care nedves törlőkendő - 10 db
 5900516800529 Seni Lady Pants eldobható alsónemű női M - 10 db
 5900516800536 Seni Lady Pants eldobható alsónemű női L - 10 db
 5900516801656 Seni Man Light Level 1 férfi inkontinencia betét - 15 db
@@ -829,7 +831,6 @@
 7322542560723 Libero Up&Go Triple Box bugyipelenka 4-es méret, 8-14 kg - 126 db
 7322542560808 Libero Up&Go Triple Box bugyipelenka 5-ös méret, 12-18 kg - 114 db
 7322542566589 Libero Comfort Triple Box nadrágpelenka 6-os méret, 13-20 kg - 84 db
-7340446631073 Femivity Ciklus Balance krém - 100 ml
 7613033033254 Beba Expertpro HA Start tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 600 g
 7613033062858 Beba Expertpro HA 1 tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 600 g
 7613035317499 Beba Optipro 2 tejalapú anyatej-kiegészítő tápszer 6 hónapos kortól - 1000 g

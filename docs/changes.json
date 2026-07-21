@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026-07-21",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4005900695826",
+          "name": "NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml"
+        },
+        {
+          "id": "4305615827933",
+          "name": "SunOzon Med naptej LSF50 - 50 ml"
+        },
+        {
+          "id": "5900516744977",
+          "name": "Seni Care nedves törlőkendő - 10 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "5900516422226",
+          "name": "Seni Care nedves törlőkendő - 10 db"
+        },
+        {
+          "id": "7340446631073",
+          "name": "Femivity Ciklus Balance krém - 100 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-07-18",
     "rossmann": {
       "added": [
