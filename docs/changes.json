@@ -1,5 +1,314 @@
 [
   {
+    "date": "2026-07-23",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4009408042625",
+          "name": "Facelle Diskret Maxi egészségügyi betét - 8 db"
+        },
+        {
+          "id": "4068134022868",
+          "name": "Facelle Maxi Normal egészségügyi betét - 20 db"
+        },
+        {
+          "id": "4068134125859",
+          "name": "Facelle Comfort illatosított tisztasági betét - 50 db"
+        },
+        {
+          "id": "4068134125866",
+          "name": "Facelle Comfort tisztasági betét Aloe Verával - 50 db"
+        },
+        {
+          "id": "4068134157454",
+          "name": "Facelle Diskret Slim Normal egészségügyi betét - 16 db"
+        },
+        {
+          "id": "4068134170453",
+          "name": "Facelle Hipster menstruációs bugyi S-es méret - 1 db"
+        },
+        {
+          "id": "4068134170484",
+          "name": "Facelle Hipster menstruációs bugyi XL-es méret - 1 db"
+        },
+        {
+          "id": "4305615465630",
+          "name": "Facelle Mini tampon - 32 db"
+        },
+        {
+          "id": "4305615467092",
+          "name": "Facelle Ultra Normal egészségügyi betét - 16 db"
+        },
+        {
+          "id": "4305615467108",
+          "name": "Facelle Ultra Normal egészségügyi betét - 16 db"
+        },
+        {
+          "id": "4305615467115",
+          "name": "Facelle Ultra Normal szárnyas egészségügyi betét aloe vera kivonattal - 16 db"
+        },
+        {
+          "id": "4305615467146",
+          "name": "Facelle Ultra extra hosszú egészségügyi betét - 12 db"
+        },
+        {
+          "id": "4305615467153",
+          "name": "Facelle Ultra éjszakai egészségügyi betét - 10 db"
+        },
+        {
+          "id": "4305615467306",
+          "name": "Facelle Flexibel tisztasági betét - 60 db"
+        },
+        {
+          "id": "4305615467399",
+          "name": "Facelle Comfort Pockets tisztasági betét - 30 db"
+        },
+        {
+          "id": "4305615467542",
+          "name": "Facelle terhességi teszt - 1 db"
+        },
+        {
+          "id": "4305615467634",
+          "name": "Facelle Diskret inkontinencia nadrág M - 10 db"
+        },
+        {
+          "id": "4305615579924",
+          "name": "Facelle Ultra Normal szárnyas betét - 16 db"
+        },
+        {
+          "id": "4305615605005",
+          "name": "Facelle Diskret Ultra Mini Plus tisztasági betét - 20 db"
+        },
+        {
+          "id": "4305615676678",
+          "name": "Facelle Night Protect tampon - 16 db"
+        },
+        {
+          "id": "4305615691800",
+          "name": "Facelle Ultra Protect éjszakai egészségügyi betét - 8 db"
+        },
+        {
+          "id": "4305615839165",
+          "name": "Facelle Diskret Super egészségügyi betét - 10 db"
+        },
+        {
+          "id": "4305615839172",
+          "name": "Facelle Diskret Super Plus inkontinencia betét - 10 db"
+        },
+        {
+          "id": "4305615908076",
+          "name": "Facelle So Free Normal tampon - 16 db"
+        },
+        {
+          "id": "4305615908243",
+          "name": "Facelle So Free Ultra Normal egészségügyi betét - 14 db"
+        },
+        {
+          "id": "4305615908274",
+          "name": "Facelle So Free Normal tisztasági betét normál - 40 db"
+        },
+        {
+          "id": "4305615963525",
+          "name": "Facelle Silkfeel Mini tampon - 32 db"
+        },
+        {
+          "id": "4305615963532",
+          "name": "Facelle SilkFeel Normal tampon - 32 db"
+        },
+        {
+          "id": "4305615965208",
+          "name": "Facelle Pure intim mosakodógél parfümmentes - 300 ml"
+        },
+        {
+          "id": "4305615969152",
+          "name": "Facelle Sensitiv intim mosakodógél - 300 ml"
+        },
+        {
+          "id": "4305615969169",
+          "name": "Facelle Meno Plus intim mosakodó gél - 300 ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "3600542512961",
+          "name": "Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml"
+        },
+        {
+          "id": "3600542607544",
+          "name": "Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml"
+        },
+        {
+          "id": "4009408042625",
+          "name": "Facelle Diskret Maxi intim higiéniai betét - 8 db"
+        },
+        {
+          "id": "4068134022868",
+          "name": "Facelle Ultra Normal egészségügyi betét - 20 db"
+        },
+        {
+          "id": "4068134083036",
+          "name": "SunOzon Sensitiv napozó spray LSF50+ - 200 ml"
+        },
+        {
+          "id": "4068134125859",
+          "name": "Facelle Normal illatosított tisztasági betét - 50 db"
+        },
+        {
+          "id": "4068134125866",
+          "name": "Facelle Aloe Vera tisztasági betét - 50 db"
+        },
+        {
+          "id": "4068134157454",
+          "name": "Facelle Diskret Slim Normal intim higiéniai betét - 16 db"
+        },
+        {
+          "id": "4068134170453",
+          "name": "Facelle menstruációs bugyi S-es méret - 1 db"
+        },
+        {
+          "id": "4068134170484",
+          "name": "Facelle Hipster menstruációs bugyi XL - 1 db"
+        },
+        {
+          "id": "4068134179920",
+          "name": "SunOzon Kids naptej gyerekeknek LSF50+ - 200 ml"
+        },
+        {
+          "id": "4305615465630",
+          "name": "Facelle Mini Comfort tampon - 32 db"
+        },
+        {
+          "id": "4305615467092",
+          "name": "Facelle Ultra Binden egészségügyi betét - 16 db"
+        },
+        {
+          "id": "4305615467108",
+          "name": "Facelle Ultra Binden egészségügyi betét - 16 db"
+        },
+        {
+          "id": "4305615467115",
+          "name": "Facelle Ultra szárnyas betét aloe vera kivonattal - 16 db"
+        },
+        {
+          "id": "4305615467146",
+          "name": "Facelle Ultra Binden extra hosszú betét - 12 db"
+        },
+        {
+          "id": "4305615467153",
+          "name": "Facelle Ultra Binden éjszakai egészségügyi betét - 10 db"
+        },
+        {
+          "id": "4305615467306",
+          "name": "Facelle String & Slip tisztasági betét - 60 db"
+        },
+        {
+          "id": "4305615467399",
+          "name": "Facelle Normál tisztasági betét - 30 db"
+        },
+        {
+          "id": "4305615467634",
+          "name": "Facelle Medium inkontinencia nadrág - 10 db"
+        },
+        {
+          "id": "4305615579924",
+          "name": "Facelle Ultra Binden szárnyas betét - 16 db"
+        },
+        {
+          "id": "4305615605005",
+          "name": "Facelle Ultra Mini Plus tisztasági betét - 20 db"
+        },
+        {
+          "id": "4305615676678",
+          "name": "Facelle Night tampon - 16 db"
+        },
+        {
+          "id": "4305615691800",
+          "name": "Facelle Ultra éjszakai egészségügyi betét - 8 db"
+        },
+        {
+          "id": "4305615839165",
+          "name": "Facelle betét super night - 10 db"
+        },
+        {
+          "id": "4305615839172",
+          "name": "Facelle inkontinencia betét super plus szárnyas - 10 db"
+        },
+        {
+          "id": "4305615908076",
+          "name": "Facelle Natural tampon - 16 db"
+        },
+        {
+          "id": "4305615908243",
+          "name": "Facelle Normal egészségügyi betét - 14 db"
+        },
+        {
+          "id": "4305615908274",
+          "name": "Facelle Natural tisztasági betét normál - 40 db"
+        },
+        {
+          "id": "4305615963525",
+          "name": "Facelle Mini tampon - 32 db"
+        },
+        {
+          "id": "4305615963532",
+          "name": "Facelle Comfort Normal tampon - 32 db"
+        },
+        {
+          "id": "4305615965208",
+          "name": "Facelle intim mosakodógél parfümmentes - 300 ml"
+        },
+        {
+          "id": "4305615969152",
+          "name": "Facelle intim mosakodógél, sensitiv - 300 ml"
+        },
+        {
+          "id": "4305615969169",
+          "name": "Facelle 50 Plus intim mosakodó gél - 300 ml"
+        },
+        {
+          "id": "5900516651275",
+          "name": "Bella intim Sensitive mosakodógél - 300 ml"
+        },
+        {
+          "id": "5995000710361",
+          "name": "Caola Hello Summer Kids napvédő spray SPF50+ - 200 ml"
+        },
+        {
+          "id": "5995000710378",
+          "name": "Caola Hello Summer naptej SPF30 - 200 ml"
+        },
+        {
+          "id": "5995327201467",
+          "name": "Neogranormon Sensitive törlőkendő érzékeny bőrre 4x55 db - 220 db"
+        },
+        {
+          "id": "5997005303401",
+          "name": "Herbaria gyermek naptej F50 - 200 ml"
+        },
+        {
+          "id": "5997742302224",
+          "name": "Dr.Kelen Sun bronzolaj SPF30 - 150 ml"
+        },
+        {
+          "id": "5998603320579",
+          "name": "Aloe Vera Organic napozó krém arcra és testre SPF30 - 50 ml"
+        },
+        {
+          "id": "6001051006267",
+          "name": "Nivea Sun Protect & Moisture Invisible Finish naptej FF50+ - 150 ml"
+        },
+        {
+          "id": "8594002310189",
+          "name": "Fit Go eper ízű müzliszelet joghurt bevonattal - 23 g"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-07-21",
     "rossmann": {
       "added": [
