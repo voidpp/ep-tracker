@@ -63,6 +63,7 @@
 3574669908429 Johnson's 2 az 1-ben buborékos fürdető és tusfürdő gyermekeknek - 500 ml
 3574669909952 Johnson's Top-to-Toe® babatusfürdő - 500 ml
 3600542297813 Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml
+3600542512961 Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml
 3600542522915 Ambre Solaire Színezett spray naptej gyerekeknek - 270 ml
 3600550368574 Mixa Baby habzó olaj fürdetéshez és zuhanyzáshoz babáknak - 400 ml
 3600550929324 Mixa Baby nyugtató, tisztító olaj atópiára hajlamos bőrre - 250 ml
@@ -147,11 +148,10 @@
 4028403118968 Aqua Glide síkosító - 125 ml
 4028403118975 Bioglide síkosító - 40 ml
 4028403122606 Soft-Tampons Normal tampon - 3 db
+4028403122613 Soft-Tampons Mini tampon - 3 db
 4047196039946 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
-4047196041437 Altapharma Aqua sebtapasz - 20 db
 4047196041444 Altapharma Strips vízálló sebtapasz - 40 db
 4047196041451 Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
-4047196041468 Altapharma Sensitiv sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196041475 Altapharma gyerek sebtapasz - 20 db
 4047196043301 Altapharma hideg-/melegborogatás 13x14cm - 1 db
 4047196052228 Babydream Classic törlőkendő - 60db
@@ -231,8 +231,8 @@
 4068134169907 Babydream Newborn nadrágpelenka 1-es méret, 2-5 kg - 27 db
 4068134169914 Babydream Mini nadrágpelenka 2-es méret, 3-6 kg - 36 db
 4068134170453 Facelle Hipster menstruációs bugyi S-es méret - 1 db
-4068134170460 Facelle Hipster menstruációs bugyi, M-es méret - 1 db
-4068134170477 Facelle Hipster menstruációs bugyi, L-es méret - 1 db
+4068134170460 Facelle Hipster menstruációs bugyi M-es méret - 1 db
+4068134170477 Facelle Hipster menstruációs bugyi L-es méret - 1 db
 4068134170484 Facelle Hipster menstruációs bugyi XL-es méret - 1 db
 4068134179791 SunOzon napozó spray LSF50 - 200 ml
 4068134179883 SunOzon Kids naptej gyerekeknek LSF50 - 50 ml
@@ -277,7 +277,7 @@
 4305615500164 Babydream Duopack Jumbo bugyipelenka 5-ös, 12-17 kg - 40db
 4305615500171 Babydream Duopack Jumbo bugyipelenka 6-os, 15+ kg - 36db
 4305615512372 Facelle Classic tisztasági betét - 40 db
-4305615514376 Facelle Super+ tampon - 32 db
+4305615514376 Facelle Super Plus tampon - 32 db
 4305615514390 Facelle Diskret inkontinencia nadrág L - 8 db
 4305615543758 Babydream Jó Éjt esti fürdető - 500 ml
 4305615544021 Babydream Extra Sensitive Törlőkendő - 160 db
@@ -286,12 +286,12 @@
 4305615544069 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
 4305615544144 Babydream száraz törlőkendő - 100 db
 4305615544267 Babydream melltartóbetét - 30 db
-4305615544298 Babydream testápoló olaj kismamáknak - 250 ml
+4305615544298 Babydream Mamas testápoló olaj kismamáknak - 250 ml
 4305615544304 Babydream Mellbimbóápoló - 30 ml
 4305615545042 Babydream Kézi Orrszívó - 1 db
 4305615570914 Babydream pelenkagyűjtő zacskó - 100 db
-4305615577807 Facelle menstruációs kehely s méretű - 1 db
-4305615577814 Facelle menstruációs kehely m méretű - 1 db
+4305615577807 Facelle menstruációs kehely S - 1 db
+4305615577814 Facelle menstruációs kehely M - 1 db
 4305615579924 Facelle Ultra Normal szárnyas betét - 16 db
 4305615604763 Babydream Extra Sensitive nedves törlőkendő - 80 db
 4305615604992 Facelle Ultra Mini inkontinencia betét - 26 db
@@ -324,7 +324,6 @@
 4305615827278 Babydream napozókrém LSF 50+ - 75 ml
 4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
 4305615827933 SunOzon Med naptej LSF50 - 50 ml
-4305615827940 SunOzon Sport napozó spray LSF 30 - 75 ml
 4305615828152 Babydream Napkrém 50+ Faktor - 200ml
 4305615835617 Babydream szilikon előke - 1 db
 4305615839165 Facelle Diskret Super egészségügyi betét - 10 db
@@ -511,6 +510,8 @@
 5908229304181 Bepanthen Baby kenőcs - 200 g
 5949031350072 Durex Invisible óvszer XL-es méret - 10 db
 5990031646498 Milumil 2 tejalapú anyatej-kiegészítő tápszer 6-12 hónapos korig - 1500 g
+5995000710361 Caola Hello Summer Kids napvédő spray SPF50+ - 200 ml
+5995000710378 Caola Hello Summer naptej SPF30 - 200 ml
 5995000820091 CaoNatur Baby folyékony hintőpor - 300 ml
 5995000830120 CaoNatur babahintőpor - 100 g
 5995327165011 Betadine oldat - 30 ml
@@ -528,6 +529,7 @@
 5996275234774 Silky Baby Sensitive törlőkendő 4*65 db - 260 db
 5997001770153 BradoLife kéz- és bőrfertőtlenítő kendő - 5 db
 5997001770825 BradoLife kézfertőtlenítő gél - 50 ml
+5997005303401 Herbaria gyermek naptej F50 - 200 ml
 5997005331145 Pannonhalmi Májvédő teakeverék - 20 db
 5997005341458 Herbária Lady Klimax filterezett teakeverék - 24 g
 5997005341489 Panonnhalmi Vesetisztító teakeverék (20x1,5g) - 30 g
@@ -591,7 +593,6 @@
 5998603330448 JimJams Baby folyékony hintőpor - 100 ml
 5998603330455 JimJams Baby Álom babafürdető és sampon 2in1 - 400 ml
 5998603330462 JimJams Baby babafürdető és samponhab 3in1 - 250 ml
-5998603330479 JimJams Baby illatmentes nedves popsitörlőkendő - 52 db
 5998603330561 JimJams Baby nedves popsitörlőkendő multipack 3x52 db - 156 db
 5998603380566 X-Epil Intimo Sensitive intim törlőkendő - 20 db
 5998603380573 X-Epil Intimo Sensitive intim mosakodógél - 250 ml
@@ -746,7 +747,7 @@
 6970130063630 Meditan hányingercsökkentő tapasz - 1 db
 6970130064071 Meditan fájdalomcsillapító könyök- és térdtapasz - 1 db
 6970130064088 Meditan fájdalomcsillapító nyaktapasz - 1 db
-6970392217109 Chicco digitális lázmérő - 1 db
+6970392217109 Chicco Digi Baby digitális hőmérő - 1 db
 6976864909985 Jót alszom Prémium szájtapasz horkolás ellen - 30 db
 7290016332667 Savvycheck Intim Candida gyorsteszt - 1 db
 7310361147867 Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db

@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-07-25",
+    "rossmann": {
+      "added": [
+        {
+          "id": "3600542512961",
+          "name": "Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml"
+        },
+        {
+          "id": "4028403122613",
+          "name": "Soft-Tampons Mini tampon - 3 db"
+        },
+        {
+          "id": "4068134170460",
+          "name": "Facelle Hipster menstruációs bugyi M-es méret - 1 db"
+        },
+        {
+          "id": "4068134170477",
+          "name": "Facelle Hipster menstruációs bugyi L-es méret - 1 db"
+        },
+        {
+          "id": "4305615514376",
+          "name": "Facelle Super Plus tampon - 32 db"
+        },
+        {
+          "id": "4305615544298",
+          "name": "Babydream Mamas testápoló olaj kismamáknak - 250 ml"
+        },
+        {
+          "id": "4305615577807",
+          "name": "Facelle menstruációs kehely S - 1 db"
+        },
+        {
+          "id": "4305615577814",
+          "name": "Facelle menstruációs kehely M - 1 db"
+        },
+        {
+          "id": "5995000710361",
+          "name": "Caola Hello Summer Kids napvédő spray SPF50+ - 200 ml"
+        },
+        {
+          "id": "5995000710378",
+          "name": "Caola Hello Summer naptej SPF30 - 200 ml"
+        },
+        {
+          "id": "5997005303401",
+          "name": "Herbaria gyermek naptej F50 - 200 ml"
+        },
+        {
+          "id": "6970392217109",
+          "name": "Chicco Digi Baby digitális hőmérő - 1 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4047196041437",
+          "name": "Altapharma Aqua sebtapasz - 20 db"
+        },
+        {
+          "id": "4047196041468",
+          "name": "Altapharma Sensitiv sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
+        },
+        {
+          "id": "4068134170460",
+          "name": "Facelle Hipster menstruációs bugyi, M-es méret - 1 db"
+        },
+        {
+          "id": "4068134170477",
+          "name": "Facelle Hipster menstruációs bugyi, L-es méret - 1 db"
+        },
+        {
+          "id": "4305615514376",
+          "name": "Facelle Super+ tampon - 32 db"
+        },
+        {
+          "id": "4305615544298",
+          "name": "Babydream testápoló olaj kismamáknak - 250 ml"
+        },
+        {
+          "id": "4305615577807",
+          "name": "Facelle menstruációs kehely s méretű - 1 db"
+        },
+        {
+          "id": "4305615577814",
+          "name": "Facelle menstruációs kehely m méretű - 1 db"
+        },
+        {
+          "id": "4305615827940",
+          "name": "SunOzon Sport napozó spray LSF 30 - 75 ml"
+        },
+        {
+          "id": "5998603330479",
+          "name": "JimJams Baby illatmentes nedves popsitörlőkendő - 52 db"
+        },
+        {
+          "id": "6970392217109",
+          "name": "Chicco digitális lázmérő - 1 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-07-23",
     "rossmann": {
       "added": [
