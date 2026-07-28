@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-28",
+    "rossmann": {
+      "added": [],
+      "removed": [
+        {
+          "id": "5900717311077",
+          "name": "Lirene Sun Protection védőemulzió SPF50 - 90 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-07-25",
     "rossmann": {
       "added": [
