@@ -297,7 +297,7 @@
 4305615604992 Facelle Ultra Mini inkontinencia betét - 26 db
 4305615605005 Facelle Diskret Ultra Mini Plus tisztasági betét - 20 db
 4305615617503 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
-4305615619347 Altapharma sebspray - 50 ml
+4305615619347 Altapharma sebkezelő spray - 50 ml
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night Protect tampon - 16 db
 4305615691800 Facelle Ultra Protect éjszakai egészségügyi betét - 8 db
@@ -424,8 +424,8 @@
 5060420234596 Lansinoh bidé - intim kézi zuhany - 360 ml
 5060420235357 Lansinoh mosható melltartóbetét mosózsákkal - 4 db
 5060420235388 Lansinoh szülés utáni mosható alsónemű - 4 db
-5060565106567 Revuele Oil Control fényvédő krém SPF 50+ - 50 ml
-5060565106574 Revuele Moisturze Boost fényvédő krém SPF 50 - 50 ml
+5060565106567 Revuele Sunprot Oil Control fényvédő krém SPF50+ - 50 ml
+5060565106574 Revuele Moisturze Boost fényvédő krém SPF50+ - 50 ml
 5070000573830 Best View Kontaktlencse Tartó - 1 db
 5099821002770 Hawaiian Glowing Protection napozókrém arcra SPF50 - 50 ml
 5099821137144 Hawaiian Hydrating Protection napozókrém SPF30 - 180 ml
@@ -732,7 +732,7 @@
 5999887930850 Vízangyal babapopsi vedokrém - 150 ml
 6001051006700 NIVEA SUN Kids Protect & Care hidratáló szórófejes gyermek naptej FF50+ 250 ml
 6001051006724 NIVEA SUN Protect & Moisture hidratáló szórófejes naptej FF50+ 250 ml
-6251007631665 Higeen kézfertőtlenítő - 110 ml
+6251007631665 Higeen Wild Berry kézfertőtlenítő gél - 110 ml
 6251007636400 HiGeen Together in Love kézfertőtlenítő gél vitamin gyöngyökkel - 50 ml
 6936983110655 Whitelab hüvelyi PH gyorsteszt - 1 db
 6936983110709 Whitelab húgyúti fertőzés gyorsteszt - 1 db
@@ -750,10 +750,10 @@
 6976864909985 Jót alszom Prémium szájtapasz horkolás ellen - 30 db
 7290016332667 Savvycheck Intim Candida gyorsteszt - 1 db
 7310361147867 Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db
-7310361147935 Libero Touch nadrágpelenka, méret: 2, 3-6 kg - 47 db
+7310361147935 Libero Touch nadrágpelenka 2-es 3-6kg - 47 db
 7310361149090 Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db
 7310361149205 Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db
-7310361157422 Libero Comfort nadrágpelenka, méret: 3, 5-8 kg - 76 db
+7310361157422 Libero Comfort Mega Pack nadrágpelenka 3-as 5-8kg - 76 db
 7310361165168 Libero Touch nadrágpelenka 5-ös méret, 11-17 kg - 30 db
 7310361165359 Libero Comfort Mega Pack nadrágpelenka 4-es méret, 7-14 kg - 74 db
 7310361165397 Libero Touch nadrágpelenka 4-es méret, 7-14 kg - 36 db
@@ -766,12 +766,12 @@
 7310616265247 Salvequick átlátszó sebtapasz, különböző méret - 20 db
 7310790088731 Libresse Ultra Normal egészségügyi betét - 10 db
 7310791245607 Libresse Ultra Thin Normal vékony szárnyas egészségügyi betét - 20 db
-7310794282005 Libresse Dailies Classic Protection Regular tisztasági betét 50 db
+7310794282005 Libresse Dailies Classic Protection Regular tisztasági betét - 50 db
 7322540137613 Libresse Natural Care Ultra Normal egészségügyi betét - 20 db
-7322540235876 Libresse Ultra Thin Normal vékony szárnyas egészségügyi betét - 40 db
+7322540235876 Libresse Ultra Normal vékony szárnyas egészségügyi betét - 40 db
 7322540276855 Libresse Normal tisztasági betét - 58 db
 7322540337938 Libresse Ultra Normal Deo Fresh egészségügyi betét - 10 db
-7322540344011 Libresse Ultra Normal Aloe vera & Camomile vékony szárnyas egészségügyi betét - 2 x 10 db
+7322540344011 Libresse Ultra Normal Aloe vera & Camomile vékony szárnyas egészségügyi betét - 20 db
 7322540388442 Libresse Ultra Long vékony szárnyas egészségügyi betét - 16 db
 7322540510591 Libresse Micro tisztasági betét - 44 db
 7322540520897 Tena betegalátét 60x90 cm - 30 db
@@ -781,41 +781,41 @@
 7322540593129 Tana Lady Maxi inkotintncia betét - 6 db
 7322540617696 Libresse Natural Care Ultra Normal egészségügyi betét - 40 db
 7322540678642 Libresse Multistyle tisztasági betét - 30 db
-7322540852127 Tena lady slim normál inkontinencia betét - 12 db
-7322540852141 Tena lady slim normál inkontinencia betét - 24 db
-7322540852486 Tena Lady Mini szárny nélküli enyhe inkontinencia betét - 20 db
-7322540852868 Tena Lady Mini Plus szárny nélküli enyhe inkontinencia betét - 16 db
-7322540894714 Tena lady inkontinencia betét mini magic - 34 db
+7322540852127 Tena Lady Slim Normal inkontinencia betét - 12 db
+7322540852141 Tena Lady Slim Normal inkontinencia betét - 24 db
+7322540852486 Tena Lady Mini inkontinencia betét - 20 db
+7322540852868 Tena Lady Mini Plus inkontinencia betét - 16 db
+7322540894714 Tena lady Mini Magic inkontinencia betét - 34 db
 7322540918281 Libresse Ultra Night Extra Wing egészségügyi betét - 8 db
 7322540960235 Libresse Ultra Goodnight Large Wings egészségügyi betét - 8 db
 7322540960273 Libresse Ultra Goodnight Large Wings egészségügyi betét - 16 db
 7322540984217 Libresse Ultra Night Extra Wing egészségügyi betét - 16 db
 7322540984705 Tena Lady Slim Mini inkontinencia betét - 10 db
-7322541069999 Libero Touch Newborn Premature nadrágpelenka 0-as <2,5 kg - 24 db
-7322541070230 Libero Touch 1-es 2-5 kg - 22 db
+7322541069999 Libero Touch koraszülött pelenka 0-ás <2,5kg - 24 db
+7322541070230 Libero Touch nadrágpelenka 1-es 2-5kg - 22 db
 7322541106106 Libresse Normal Deo Fresh tisztasági betét - 58 db
-7322541116082 Tena Lady Ultra Mini szárny nélküli enyhe inkontinencia betét - 28 db
+7322541116082 Tena Lady Ultra Mini inkontinencia betét - 28 db
 7322541116433 Tena Ultra Mini Plus inkontinencia betét - 24 db
 7322541120966 Tena Lady Maxi Night éjszakai betét - 12 db
 7322541360577 Tena Lady Ultra Mini Slim inkontinencia betét - 48 db
-7322541451299 Tena lady extra 20 inkontinencia betét - 20 db
+7322541451299 Tena Lady Extra inkontinencia betét - 20 db
 7322541451404 Tena Lady Extra szárny nélküli középsúlyos inkontinencia betét - 10 db
-7322541463193 Tena Lady inkontinencia betét extra plus - 16 db
+7322541463193 Tena Lady Extra Plus inkontinencia betét - 16 db
 7322541472065 Libresse Dailies Regular normál tisztasági betét - 80 db
 7322541501154 Tena Men férfi inkontinencia betét - 20 db
 7322542083819 Libresse Natural Care normál tisztasági betét - 76 db
-7322542135587 Tena Pants inkontinencia-nadrágpelenka normál, medium - 10 db
-7322542145050 Tena Pants inkontinencia nadrád normál, large - 10 db
+7322542135587 Tena Pants Normal inkontinencia-nadrágpelenka M - 10 db
+7322542145050 Tena Pants Normal inkontinencia nadrág L - 10 db
 7322542294765 Tena Lady Pants Crème eldobható női inkontinencia-fehérnemű M - 9 db
 7322542297360 Tena Lady Pants Crème eldobható női inkontinencia-fehérnemű L - 8 db
 7322542411285 Libresse Ultra Large+ éjszakai egészségügyi betét - 26 db
-7322542487938 Libero Jumbo Up&Go bugyipelenka 4-es méret 8-14 kg - 42 db
-7322542488157 Libero Jumbo Up&Go bugyipelenka 5-ös méret 12-18 kg - 38 db
-7322542488393 Libero Jumbo Up&Go bugyipelenka 6-os méret 15-25 kg - 34 db
+7322542487938 Libero Jumbo Up&Go bugyipelenka 4-es 8-14kg - 42 db
+7322542488157 Libero Jumbo Up&Go bugyipelenka 5-ös 12-18kg - 38 db
+7322542488393 Libero Jumbo Up&Go bugyipelenka 6-os 15-25kg - 34 db
 7322542530177 Libresse Ultra Multistyle egészségügyi betét - 10 db
 7322542531242 Libero Touch nadrágpelenka 6-os méret, 13-20 kg - 27 db
-7322542531426 Libero Comfort Mega Pack nadrágpelenka 6-os méret 13-20 kg - 60 db
-7322542536421 Libero Jumbo Up&Go bugyipelenka 7-es méret 17+ kg - 32 db
+7322542531426 Libero Comfort Mega Pack nadrágpelenka 6-os 13-20kg - 60 db
+7322542536421 Libero Jumbo Up&Go bugyipelenka 7-es 17+kg - 32 db
 7322542537688 Libero Comfort Mega Pack nadrágpelenka 7-es méret, 16-26 kg - 54 db
 7322542560723 Libero Up&Go Triple Box bugyipelenka 4-es méret, 8-14 kg - 126 db
 7322542560808 Libero Up&Go Triple Box bugyipelenka 5-ös méret, 12-18 kg - 114 db

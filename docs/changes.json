@@ -1,5 +1,226 @@
 [
   {
+    "date": "2026-07-30",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4305615619347",
+          "name": "Altapharma sebkezelő spray - 50 ml"
+        },
+        {
+          "id": "5060565106567",
+          "name": "Revuele Sunprot Oil Control fényvédő krém SPF50+ - 50 ml"
+        },
+        {
+          "id": "5060565106574",
+          "name": "Revuele Moisturze Boost fényvédő krém SPF50+ - 50 ml"
+        },
+        {
+          "id": "6251007631665",
+          "name": "Higeen Wild Berry kézfertőtlenítő gél - 110 ml"
+        },
+        {
+          "id": "7310361147935",
+          "name": "Libero Touch nadrágpelenka 2-es 3-6kg - 47 db"
+        },
+        {
+          "id": "7310361157422",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 3-as 5-8kg - 76 db"
+        },
+        {
+          "id": "7310794282005",
+          "name": "Libresse Dailies Classic Protection Regular tisztasági betét - 50 db"
+        },
+        {
+          "id": "7322540235876",
+          "name": "Libresse Ultra Normal vékony szárnyas egészségügyi betét - 40 db"
+        },
+        {
+          "id": "7322540344011",
+          "name": "Libresse Ultra Normal Aloe vera & Camomile vékony szárnyas egészségügyi betét - 20 db"
+        },
+        {
+          "id": "7322540852127",
+          "name": "Tena Lady Slim Normal inkontinencia betét - 12 db"
+        },
+        {
+          "id": "7322540852141",
+          "name": "Tena Lady Slim Normal inkontinencia betét - 24 db"
+        },
+        {
+          "id": "7322540852486",
+          "name": "Tena Lady Mini inkontinencia betét - 20 db"
+        },
+        {
+          "id": "7322540852868",
+          "name": "Tena Lady Mini Plus inkontinencia betét - 16 db"
+        },
+        {
+          "id": "7322540894714",
+          "name": "Tena lady Mini Magic inkontinencia betét - 34 db"
+        },
+        {
+          "id": "7322541069999",
+          "name": "Libero Touch koraszülött pelenka 0-ás <2,5kg - 24 db"
+        },
+        {
+          "id": "7322541070230",
+          "name": "Libero Touch nadrágpelenka 1-es 2-5kg - 22 db"
+        },
+        {
+          "id": "7322541116082",
+          "name": "Tena Lady Ultra Mini inkontinencia betét - 28 db"
+        },
+        {
+          "id": "7322541451299",
+          "name": "Tena Lady Extra inkontinencia betét - 20 db"
+        },
+        {
+          "id": "7322541463193",
+          "name": "Tena Lady Extra Plus inkontinencia betét - 16 db"
+        },
+        {
+          "id": "7322542135587",
+          "name": "Tena Pants Normal inkontinencia-nadrágpelenka M - 10 db"
+        },
+        {
+          "id": "7322542145050",
+          "name": "Tena Pants Normal inkontinencia nadrág L - 10 db"
+        },
+        {
+          "id": "7322542487938",
+          "name": "Libero Jumbo Up&Go bugyipelenka 4-es 8-14kg - 42 db"
+        },
+        {
+          "id": "7322542488157",
+          "name": "Libero Jumbo Up&Go bugyipelenka 5-ös 12-18kg - 38 db"
+        },
+        {
+          "id": "7322542488393",
+          "name": "Libero Jumbo Up&Go bugyipelenka 6-os 15-25kg - 34 db"
+        },
+        {
+          "id": "7322542531426",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 6-os 13-20kg - 60 db"
+        },
+        {
+          "id": "7322542536421",
+          "name": "Libero Jumbo Up&Go bugyipelenka 7-es 17+kg - 32 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4305615619347",
+          "name": "Altapharma sebspray - 50 ml"
+        },
+        {
+          "id": "5060565106567",
+          "name": "Revuele Oil Control fényvédő krém SPF 50+ - 50 ml"
+        },
+        {
+          "id": "5060565106574",
+          "name": "Revuele Moisturze Boost fényvédő krém SPF 50 - 50 ml"
+        },
+        {
+          "id": "6251007631665",
+          "name": "Higeen kézfertőtlenítő - 110 ml"
+        },
+        {
+          "id": "7310361147935",
+          "name": "Libero Touch nadrágpelenka, méret: 2, 3-6 kg - 47 db"
+        },
+        {
+          "id": "7310361157422",
+          "name": "Libero Comfort nadrágpelenka, méret: 3, 5-8 kg - 76 db"
+        },
+        {
+          "id": "7310794282005",
+          "name": "Libresse Dailies Classic Protection Regular tisztasági betét 50 db"
+        },
+        {
+          "id": "7322540235876",
+          "name": "Libresse Ultra Thin Normal vékony szárnyas egészségügyi betét - 40 db"
+        },
+        {
+          "id": "7322540344011",
+          "name": "Libresse Ultra Normal Aloe vera & Camomile vékony szárnyas egészségügyi betét - 2 x 10 db"
+        },
+        {
+          "id": "7322540852127",
+          "name": "Tena lady slim normál inkontinencia betét - 12 db"
+        },
+        {
+          "id": "7322540852141",
+          "name": "Tena lady slim normál inkontinencia betét - 24 db"
+        },
+        {
+          "id": "7322540852486",
+          "name": "Tena Lady Mini szárny nélküli enyhe inkontinencia betét - 20 db"
+        },
+        {
+          "id": "7322540852868",
+          "name": "Tena Lady Mini Plus szárny nélküli enyhe inkontinencia betét - 16 db"
+        },
+        {
+          "id": "7322540894714",
+          "name": "Tena lady inkontinencia betét mini magic - 34 db"
+        },
+        {
+          "id": "7322541069999",
+          "name": "Libero Touch Newborn Premature nadrágpelenka 0-as <2,5 kg - 24 db"
+        },
+        {
+          "id": "7322541070230",
+          "name": "Libero Touch 1-es 2-5 kg - 22 db"
+        },
+        {
+          "id": "7322541116082",
+          "name": "Tena Lady Ultra Mini szárny nélküli enyhe inkontinencia betét - 28 db"
+        },
+        {
+          "id": "7322541451299",
+          "name": "Tena lady extra 20 inkontinencia betét - 20 db"
+        },
+        {
+          "id": "7322541463193",
+          "name": "Tena Lady inkontinencia betét extra plus - 16 db"
+        },
+        {
+          "id": "7322542135587",
+          "name": "Tena Pants inkontinencia-nadrágpelenka normál, medium - 10 db"
+        },
+        {
+          "id": "7322542145050",
+          "name": "Tena Pants inkontinencia nadrád normál, large - 10 db"
+        },
+        {
+          "id": "7322542487938",
+          "name": "Libero Jumbo Up&Go bugyipelenka 4-es méret 8-14 kg - 42 db"
+        },
+        {
+          "id": "7322542488157",
+          "name": "Libero Jumbo Up&Go bugyipelenka 5-ös méret 12-18 kg - 38 db"
+        },
+        {
+          "id": "7322542488393",
+          "name": "Libero Jumbo Up&Go bugyipelenka 6-os méret 15-25 kg - 34 db"
+        },
+        {
+          "id": "7322542531426",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 6-os méret 13-20 kg - 60 db"
+        },
+        {
+          "id": "7322542536421",
+          "name": "Libero Jumbo Up&Go bugyipelenka 7-es méret 17+ kg - 32 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-07-28",
     "rossmann": {
       "added": [],
