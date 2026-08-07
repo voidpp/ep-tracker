@@ -1,5 +1,1634 @@
 [
   {
+    "date": "2026-08-07",
+    "rossmann": {
+      "added": [
+        {
+          "id": "2000002673149",
+          "name": "Lactovit Lactourea regeneráló intim mosakodógél és tusfürdő - 850 ml"
+        },
+        {
+          "id": "3045206501309",
+          "name": "Sanytol konyhai antibakteriális folyékony szappan - 250 ml"
+        },
+        {
+          "id": "3600542607544",
+          "name": "Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml"
+        },
+        {
+          "id": "3870128011274",
+          "name": "Violeta Double Care nadrágpelenka törlőkendővel 3-as méret 4-9 kg - 198 db"
+        },
+        {
+          "id": "3870128011304",
+          "name": "Violeta Double Care nadrágpelenka törlőkendővel 4-es méret 8-14 kg - 180 db"
+        },
+        {
+          "id": "3870128012677",
+          "name": "Violeta Double Care popsitörlő 99% vízzel - 56 db"
+        },
+        {
+          "id": "3870128019577",
+          "name": "Violeta Double Care popsitörlő 99% vízzel - 20 db"
+        },
+        {
+          "id": "3870128029651",
+          "name": "Violeta Double Care Air Dry nadrágpelenka nedves törlőkendővel 6-os méret 16+ kg - 144 db"
+        },
+        {
+          "id": "3870128029798",
+          "name": "Violeta Double Care nadrágpelenka törlőkendővel 5-ös méret 11-18 kg - 156 db"
+        },
+        {
+          "id": "3870128031784",
+          "name": "Violeta Double Care bugyipelenka 4-es méret 9-15 kg - 208 db"
+        },
+        {
+          "id": "3870128031807",
+          "name": "Violeta Double Care bugyipelenka 5-ös méret 12-17 kg - 48 db"
+        },
+        {
+          "id": "3870128031814",
+          "name": "Violeta Double Care bugyipelenka 5-ös méret 12-17 kb - 192 db"
+        },
+        {
+          "id": "3870128031838",
+          "name": "Violeta Double Care bugyipelenka 6-os méret 15-25 kg - 44 db"
+        },
+        {
+          "id": "3870128031845",
+          "name": "Violeta Double Care bugyipelenka 6-os méret 15-25 kg - 176 db"
+        },
+        {
+          "id": "4001638095105",
+          "name": "Weleda gátmasszázs olaj - 50 ml"
+        },
+        {
+          "id": "4001638096560",
+          "name": "Weleda Calendula illatanyagmentes ápolóolaj - 200 ml"
+        },
+        {
+          "id": "4001638523172",
+          "name": "Weleda Calendula babaápoló krém arcra és testre - 75 ml"
+        },
+        {
+          "id": "4001638530248",
+          "name": "Weleda Bio natúr védőbalzsam babáknak körömvirággal - 25 g"
+        },
+        {
+          "id": "4008600360070",
+          "name": "Nuk First Choice+ cumisüveg hőmérővel 300 ml 0-6 hónapos korig - 1 db"
+        },
+        {
+          "id": "4015400197546",
+          "name": "Naturella Ultra Normal egészségügyi betét - 40 db"
+        },
+        {
+          "id": "4018639010150",
+          "name": "Moltex Pure&Nat Öko pelenka, megapack 7-14 kg - 145 db"
+        },
+        {
+          "id": "4018639010167",
+          "name": "Moltex Pure&Nat Öko pelenka, megapack 11-25 kg - 125 db"
+        },
+        {
+          "id": "4018639010297",
+          "name": "Moltex Pure & Nature Newborn öko pelenka 2-4 kg - 88 db"
+        },
+        {
+          "id": "4018639010303",
+          "name": "Moltex Pure & Nature Midi öko pelenka 4-9 kg - 132 kg"
+        },
+        {
+          "id": "4018639010310",
+          "name": "Moltex Pure & Nature XL öko pelenka 16-30 kg - 84 db"
+        },
+        {
+          "id": "4018639010327",
+          "name": "Moltex Pure & Nature Mini öko pelenka 3-6 kg - 152 kg"
+        },
+        {
+          "id": "4024144610198",
+          "name": "Just glide vízbázisú síkosító - 20 ml"
+        },
+        {
+          "id": "4035223330500",
+          "name": "Erős aqua vízbázisú síkosító - 50 ml"
+        },
+        {
+          "id": "4062300445475",
+          "name": "Hipp Babysanft Soft&Pure nedves törlőkendő 3x48 db - 144 db"
+        },
+        {
+          "id": "4068134143044",
+          "name": "Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db"
+        },
+        {
+          "id": "4068134179920",
+          "name": "SunOzon Kids naptej gyerekeknek LSF50+ - 200 ml"
+        },
+        {
+          "id": "4068134179937",
+          "name": "SunOzon naptej LSF50 - 200 ml"
+        },
+        {
+          "id": "4305615827711",
+          "name": "SunOzon Med napozó spray LSF50+ - 200 ml"
+        },
+        {
+          "id": "4305615831350",
+          "name": "Facelle Diskret inkontinencia bugyi XXL-es méret - 10 db"
+        },
+        {
+          "id": "5010415211224",
+          "name": "Tommee Tippee Natural Start közepes folyású etetőcumi 3 hónapos kortól - 2 db"
+        },
+        {
+          "id": "5010415211248",
+          "name": "Tommee Tippee gyors folyású etetőcumi 6 hónapos kortól - 2 db"
+        },
+        {
+          "id": "5010415211286",
+          "name": "Tommee Tippee Advanced Anti-Colic közepes folyású etetőcumi 3 hónapos kortól - 2 db"
+        },
+        {
+          "id": "5010415212245",
+          "name": "Tommee Tippee Advanced Anti-Colic gyors folyású cumisüveg cumi 6 hónapos kortól - 2 db"
+        },
+        {
+          "id": "5010415224002",
+          "name": "Tommee Tippee Natural Start önsterilizáló cumisüveg 150 ml - 1 db"
+        },
+        {
+          "id": "5010415224057",
+          "name": "Tommee Tippee Önsterilizáló Advanced Anti-Colic cumisüveg 150 ml - 1 db"
+        },
+        {
+          "id": "5010415225023",
+          "name": "Tommee Tippee Natural Start önsterilizáló cumisüveg - 260 ml"
+        },
+        {
+          "id": "5010415225696",
+          "name": "Tommee Tippee Advanced Anti-Colic cumisüveg újszülött kortól, 260 ml - 1 db"
+        },
+        {
+          "id": "5010415226303",
+          "name": "Tommee Tippee Natural Start önsterilizáló cumisüveg /béka, süni 2x340 ml - 1 db"
+        },
+        {
+          "id": "5010415333575",
+          "name": "Tommee Tippee Fun játszócumi 0-6 hónapos kortól - 2 db"
+        },
+        {
+          "id": "5010415333582",
+          "name": "Tommee Tippee Fun játszócumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "5010415336279",
+          "name": "Tommee Tippee Breastlike anyamell formájú cumi 0-6 hónapos korig - 2 db"
+        },
+        {
+          "id": "5010415336286",
+          "name": "Tommee Tippee anyamell formájú nyugtató cumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "5010415480170",
+          "name": "Tommee Tippee Active Straw Insulated szívószálas hőtartó pohár 12 hónapos kortól 266ml /pink - 1 db"
+        },
+        {
+          "id": "5019090117418",
+          "name": "Munchkin mikrohullámú sterilizáló zacskó - 6 db"
+        },
+        {
+          "id": "5019090122573",
+          "name": "Munchkin itatópohár súlyozott szívószálas kék - 1 db"
+        },
+        {
+          "id": "5019090124829",
+          "name": "Munchkin itatópohár súlyozott szívószálas rózsaszín - 1 db"
+        },
+        {
+          "id": "5019090900188",
+          "name": "Munchkin Simple Clean itatópohár kék 296 ml - 1 db"
+        },
+        {
+          "id": "5019090900195",
+          "name": "Munchkin Simple Clean itatópohár rózsaszín 296 ml - 1 db"
+        },
+        {
+          "id": "5029053527574",
+          "name": "Huggies DryNites éjszakai bugyipelenka fiúknak 4-7 éves korig, 17-30 kg - 10 db"
+        },
+        {
+          "id": "5029053527581",
+          "name": "Huggies DryNites éjszakai bugyipelenka lányoknak 4-7 év - 10 db"
+        },
+        {
+          "id": "5029053527598",
+          "name": "Huggies DryNites éjszakai bugyipelenka fiúknak 8-13 év - 9 db"
+        },
+        {
+          "id": "5029053527604",
+          "name": "Huggies DryNites éjszakai bugyipelenka lányoknak 8-13 év - 9 db"
+        },
+        {
+          "id": "5029053548647",
+          "name": "Huggies Extra Care 0 újszülött nadrágpelenka <3,5 kg - 25 db"
+        },
+        {
+          "id": "5029053548760",
+          "name": "Huggies Little Movers 3 nadrágpelenka 4-9 kg - 78 db"
+        },
+        {
+          "id": "5029053548777",
+          "name": "Huggies Little Movers 4 nadrágpelenka 7-18 kg - 66 db"
+        },
+        {
+          "id": "5029053548784",
+          "name": "Huggies Little Movers 5 nadrágpelenka 11-25 kg - 58 db"
+        },
+        {
+          "id": "5029053549293",
+          "name": "Huggies Extra Care Pants 3 bugyipelenka 6-11 kg - 48 db"
+        },
+        {
+          "id": "5029053549323",
+          "name": "Huggies Extra Care Pants 4 bugyipelenka 9-14 kg - 38 db"
+        },
+        {
+          "id": "5029053549354",
+          "name": "Huggies Extra Care Pants 5 bugyipelenka 12-17 kg - 34 db"
+        },
+        {
+          "id": "5029053550039",
+          "name": "Huggies Pure nedves törlőkendő - 56 db"
+        },
+        {
+          "id": "5029053550091",
+          "name": "Huggies Pure Trio nedves törlőkendő - 168 db"
+        },
+        {
+          "id": "5029053550121",
+          "name": "Huggies Pure Quad nedves törlőkendő - 224 db"
+        },
+        {
+          "id": "5029053550152",
+          "name": "Huggies Natural Care nedves törlőkendő - 56 db"
+        },
+        {
+          "id": "5029053550176",
+          "name": "Huggies Natural Care Triplo nedves törlőkendő - 168 db"
+        },
+        {
+          "id": "5029053550183",
+          "name": "Huggies Natural Care Quad nedves törlőkendő - 224 db"
+        },
+        {
+          "id": "5029053550275",
+          "name": "Huggies Extra Care 2 újszülött nadrágpelenka 3-6 kg - 24 db"
+        },
+        {
+          "id": "5029053564371",
+          "name": "Huggies Little Movers 4 bugyipelenka 9-14 kg – 36 db"
+        },
+        {
+          "id": "5029053564388",
+          "name": "Huggies Little Movers 5 bugyipelenka 12-17 kg - 34 db"
+        },
+        {
+          "id": "5029053564395",
+          "name": "Huggies Little Movers bugyipelenka 15-25 kg, méret: 6 – 30 db"
+        },
+        {
+          "id": "5029053564876",
+          "name": "Huggies Extra Care 1 újszülött nadrágpelenka 2-5 kg - 26 db"
+        },
+        {
+          "id": "5029053567570",
+          "name": "Huggies Little Movers 3 nadrágpelenka 4-9 kg - 56 db"
+        },
+        {
+          "id": "5029053567587",
+          "name": "Huggies Little Movers nadrágpelenka 4-es méret, 7-18 kg - 50 db"
+        },
+        {
+          "id": "5029053567594",
+          "name": "Huggies Little Movers 5 nadrágpelenka 11-25 kg - 42 db"
+        },
+        {
+          "id": "5029053567822",
+          "name": "Huggies All Over Clean nedves törlőkendő - 56 db"
+        },
+        {
+          "id": "5029053574400",
+          "name": "Huggies Extra Care 3 nadrágpelenka 6-10 kg - 40 db"
+        },
+        {
+          "id": "5029053578057",
+          "name": "Huggies Extra Care 1 újszülött nadrágpelenka 2-5 kg - 84 db"
+        },
+        {
+          "id": "5029053578088",
+          "name": "Huggies Extra Care 2 újszülött nadrágpelenka 3-6 kg - 82 db"
+        },
+        {
+          "id": "5029053578095",
+          "name": "Huggies Extra Care 3 nadrágpelenka 6-10 kg - 72 db"
+        },
+        {
+          "id": "5029053578118",
+          "name": "Huggies Extra Care 4 nadrágpelenka 8-16 kg - 60 db"
+        },
+        {
+          "id": "5029053578132",
+          "name": "Huggies Extra Care 5 nadrágpelenka 11-25 kg - 50 db"
+        },
+        {
+          "id": "5029053581088",
+          "name": "Huggies Pants Overnight 4 éjszakai bugyipelenka 9-14 kg - 26 db"
+        },
+        {
+          "id": "5029053581095",
+          "name": "Huggies Pants Overnight 5 éjszakai bugyipelenka 12-17 kg - 24 db"
+        },
+        {
+          "id": "5029053581101",
+          "name": "Huggies Pants Overnight 6 éjszakai bugyipelenka 15-26 kg - 22 db"
+        },
+        {
+          "id": "5029053582436",
+          "name": "Huggies Extra Care Pants 6 bugyipelenka 15-25 kg - 32 db"
+        },
+        {
+          "id": "5029053583044",
+          "name": "Huggies Little Swimmers 2-3 mosható úszópelenka 5-11 kg - 1 db"
+        },
+        {
+          "id": "5029053583051",
+          "name": "Huggies Little Swimmers 3-4 mosható úszópelenka 11-14 kg - 1 db"
+        },
+        {
+          "id": "5029053583068",
+          "name": "Huggies Little Swimmers 5-6 mosható úszópelenka 13 kg+ - 1 db"
+        },
+        {
+          "id": "5029053583143",
+          "name": "Huggies Extra Care 4 nadrágpelenka 8-16 kg - 33 db"
+        },
+        {
+          "id": "5029053583150",
+          "name": "Huggies Extra Care 5 nadrágpelenka 11-25 - 28 db"
+        },
+        {
+          "id": "5029053585543",
+          "name": "Huggies Extra Care Sensitive babatörlőkendő - 48 db"
+        },
+        {
+          "id": "5029054253359",
+          "name": "Huggies Extra Care Sensitive Triplo babatörlőkendő - 144 db"
+        },
+        {
+          "id": "5060062991642",
+          "name": "Lansinoh anyatejtároló zacskó - 50 db"
+        },
+        {
+          "id": "5060062999693",
+          "name": "Lansinoh lassú folyású etetőcumi S, 1 hónapos kortól - 2 db"
+        },
+        {
+          "id": "5060420230765",
+          "name": "Lansinoh kontakt bimbóvédő szilikon mini - 2 db"
+        },
+        {
+          "id": "5060420230956",
+          "name": "Lansinoh 2 fázisú kompakt elektromos mellszívó - 1 db"
+        },
+        {
+          "id": "5060420233025",
+          "name": "Lansinoh anyatejgyűjtő és szilikon mellszívó - 1 db"
+        },
+        {
+          "id": "5060420233087",
+          "name": "Lansinoh üveg cumisüveg 1 hónapos kortól, 160 ml - 1 db"
+        },
+        {
+          "id": "5060420233117",
+          "name": "Lansinoh üveg cumisüveg 240 ml - 1 db"
+        },
+        {
+          "id": "5060420233162",
+          "name": "Lansinoh bimbókiemelő 2 méretű tölcsérrel - 1 db"
+        },
+        {
+          "id": "5060420233957",
+          "name": "Lansinoh anyatejtároló palack fedéllel 160 ml - 4 db"
+        },
+        {
+          "id": "5060420234077",
+          "name": "Lansinoh cumisüveg közepes folyású etetőcumival + fedéllel, 240 ml - 2 db"
+        },
+        {
+          "id": "5411416058496",
+          "name": "Moltex Pure & Nature Maxi öko bugyipelenka 7-12 kg - 88 db"
+        },
+        {
+          "id": "5411416058519",
+          "name": "Moltex Pure & Nature Junior öko bugyipelenka 9-14 kg - 80 db"
+        },
+        {
+          "id": "5411416058533",
+          "name": "Moltex Pure & Nature XL öko bugyipelenka +14 kg - 72 db"
+        },
+        {
+          "id": "5425021104899",
+          "name": "Bambinex bambusz újszülött pelenka 2-4 kg - 1 db"
+        },
+        {
+          "id": "5425021104929",
+          "name": "Bambinex mosható pelenkakülső kaméleon 2-4 kg - 1 db"
+        },
+        {
+          "id": "5425021104936",
+          "name": "Bambinex mosható pelenkakülső freya 3-8 kg - 1 db"
+        },
+        {
+          "id": "5425021104943",
+          "name": "Bambinex bambusz nadrágpelenka külső /duala 3-8 kg - 1 db"
+        },
+        {
+          "id": "5425021104950",
+          "name": "Bambinex mosható pelenkakülső kaméleon 6-20 kg - 1 db"
+        },
+        {
+          "id": "5425021104967",
+          "name": "Bambinex mosható pelenkakülső zebra mintás 6-20 kg - 1 db"
+        },
+        {
+          "id": "5425021104974",
+          "name": "Bambinex mosható pelenkakülső freya 6-20 kg - 1 db"
+        },
+        {
+          "id": "5425021104981",
+          "name": "Bambinex mosható pelenkakülső dinós 6-20 kg - 1 db"
+        },
+        {
+          "id": "5425021104998",
+          "name": "Bambinex mosható pelenkakülső waxine 6-20 kg - 1 db"
+        },
+        {
+          "id": "5425021105018",
+          "name": "Bambinex mosható pelenkakülső duala 6-20 kg - 1 db"
+        },
+        {
+          "id": "5425021105025",
+          "name": "Bambinex mosható pelenkakülső bolygók 6-20 kg - 1 db"
+        },
+        {
+          "id": "5900095017370",
+          "name": "Petino nedves törlőkendő - 84 db"
+        },
+        {
+          "id": "5900095033301",
+          "name": "Kindii Pure & Dry száraz törlőkendő - 50 db"
+        },
+        {
+          "id": "5900095036548",
+          "name": "Kindii Delicate Care nedves törlőkendő - 72 db"
+        },
+        {
+          "id": "5900516603663",
+          "name": "Bella Baby Happy Pants Midi 3 pelenkanadrág 6kg-11kg - 48 db"
+        },
+        {
+          "id": "5900516603670",
+          "name": "Bella Baby Happy Pants 4 Maxi pelenkanadrág 8kg-14kg - 44 db"
+        },
+        {
+          "id": "5900516603687",
+          "name": "Bella Baby Happy Junior 5 pelenkanadrág 11kg - 18kg - 40 db"
+        },
+        {
+          "id": "5900516690311",
+          "name": "Seni Soft Super betegalátét 60 x 60 cm - 5 db"
+        },
+        {
+          "id": "5900516691288",
+          "name": "Seni soft super betegalátét 60 x 60 cm - 30 db"
+        },
+        {
+          "id": "5900516691295",
+          "name": "Seni soft super betegalátét 90 x 60 cm - 30 db"
+        },
+        {
+          "id": "5900516801670",
+          "name": "Seni Man Extra Level 3 inkontinencia betét - 15 db"
+        },
+        {
+          "id": "5901691804883",
+          "name": "Canpol Babies intim zuhany - 1 db"
+        },
+        {
+          "id": "5901691844414",
+          "name": "Canpol Babies Easystart Anti-Colic cumisüveg 3 hónapos kortól 240 ml /kék - 1 db"
+        },
+        {
+          "id": "5901691853850",
+          "name": "Lovi Harmony szimmetrikus nyugtató cumi 6-18 hónapos korig /lány - 2 db"
+        },
+        {
+          "id": "5901691853867",
+          "name": "Lovi Harmony szimmetrikus nyugtató cumi 18 hónapos kortól /fiú - 2 db"
+        },
+        {
+          "id": "5901691853874",
+          "name": "Lovi Harmony szimmetrikus nyugtató cumi 18 hónapos kortól /lány - 2 db"
+        },
+        {
+          "id": "5901691866478",
+          "name": "Canpol Babies Easy&Natural elektromos orrszívó - 1 db"
+        },
+        {
+          "id": "5901691874473",
+          "name": "Lovi Night&Day szimmetrikus nyugtató cumi 6-18 hónapos korig /fiú - 2 db"
+        },
+        {
+          "id": "5901691874480",
+          "name": "Lovi Night&Day szimmetrikus nyugtató cumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "5901691874497",
+          "name": "Lovi Night&Day szimmetrikus nyugtató cumi 18 hónapos kortól /fiú - 2 db"
+        },
+        {
+          "id": "5901691874503",
+          "name": "Lovi Night&Day szimmetrikus nyugtató cumi 18 hónapos kortól /lány - 2 db"
+        },
+        {
+          "id": "5901691876590",
+          "name": "Canpol Babies Basic kézi mellszívó - 1 db"
+        },
+        {
+          "id": "5901691876798",
+          "name": "Canpol Babies Dots szilikon előke /rózsaszín - 1 db"
+        },
+        {
+          "id": "5901691877023",
+          "name": "Lovi Night&Day cumilánc /lány - 1 db"
+        },
+        {
+          "id": "5901691879058",
+          "name": "Canpol Babies szülés utáni nappali betét - 10 db"
+        },
+        {
+          "id": "5901691879065",
+          "name": "Canpol Babies szülés utáni éjszakai betét - 8 db"
+        },
+        {
+          "id": "5901691879331",
+          "name": "Canpol Babies szilikon cumitartó tok /szürke - 1 db"
+        },
+        {
+          "id": "5901691879348",
+          "name": "Canpol Babies szilikon cumitartó tok /pink - 1 db"
+        },
+        {
+          "id": "5901691880238",
+          "name": "Lovi Mammafeel cumisüveg 3 hónapos kortól 250 ml - 1 db"
+        },
+        {
+          "id": "5901691884281",
+          "name": "Lovi Mammafeel etetőcumi újszülött kortól mini- 1 db"
+        },
+        {
+          "id": "5901691884298",
+          "name": "Lovi Mammafeel etetőcumi 3 hónapos kortól lassú folyású - 1 db"
+        },
+        {
+          "id": "5901691884304",
+          "name": "Lovi Mammafeel etetőcumi 6 hónapos kortól medium - 1 db"
+        },
+        {
+          "id": "5901691884311",
+          "name": "Lovi Mammafeel etetőcumi 9 hónapos kortól gyors folyású - 1 db"
+        },
+        {
+          "id": "5901691884328",
+          "name": "Lovi Mammafeel etetőcumi 6 hónapos kortól /változó - 1 db"
+        },
+        {
+          "id": "5901691889521",
+          "name": "Canpol BabiesBoo szimmetrikus játszócumi 6-18 hónapos korig /narancssárga - 1 db"
+        },
+        {
+          "id": "5901691890145",
+          "name": "Canpol Babies vezeték nélküli elektromos mellszívó - 1 db"
+        },
+        {
+          "id": "5901691896871",
+          "name": "Canpol Babies mellnyugtató párnák lanolinnal - 8 db"
+        },
+        {
+          "id": "5901887024026",
+          "name": "Ziaja Baby fürdető olaj újszülött kortól - 370 ml"
+        },
+        {
+          "id": "5901887040262",
+          "name": "Ziaja baba krémes fürdető olaj 1 hónapos kortól - 300 ml"
+        },
+        {
+          "id": "5901887040286",
+          "name": "Ziaja baba fürdető gél 3 hónapos kortól - 300 ml"
+        },
+        {
+          "id": "5903407016535",
+          "name": "Canpol Babies 3D melltartóbetét - 30 db"
+        },
+        {
+          "id": "5903407163376",
+          "name": "Canpol babies Bunny&Company világító kaucsuk cseresznye alakú cumi 6-18 hónapos korig /kék -1 db"
+        },
+        {
+          "id": "5903407163383",
+          "name": "Canpol babies Bunny&Company világító kaucsuk cseresznye alakú cumi 6-18 hónapos korig /rózsaszín - 1 db"
+        },
+        {
+          "id": "5903407163413",
+          "name": "Canpol babies Bunny&Company világító kaucsuk cseresznye alakú cumi 0-6 hónapos korig /rózsaszín -1 db"
+        },
+        {
+          "id": "5903407163437",
+          "name": "Canpol babies Bunny&Company világító kaucsuk cseresznye alakú cumi 0-6 hónapos korig /kék -1 db"
+        },
+        {
+          "id": "5903407171500",
+          "name": "Lovi 360 Night&Day itatópohár /nyuszi - 250 ml"
+        },
+        {
+          "id": "5903407171517",
+          "name": "Lovi 360 Night&Day itatópohár /róka - 250 ml"
+        },
+        {
+          "id": "5903407172293",
+          "name": "Canpol babies 2in1 szülés utáni pelenka S/M - 5 db"
+        },
+        {
+          "id": "5903407172606",
+          "name": "Canpol babies egyszer használatos szülés utáni hűsítő betét - 1 db"
+        },
+        {
+          "id": "5903407172651",
+          "name": "Canpol babies szülés utáni hideg és meleg terápiás gélbetét - 2 db"
+        },
+        {
+          "id": "5903407172668",
+          "name": "Canpol babies hideg és meleg terápiás gél mellpárna - 2 db"
+        },
+        {
+          "id": "5903407173825",
+          "name": "Lovi Genius itatópohár 150 ml /bézs - 1 db"
+        },
+        {
+          "id": "5903407174952",
+          "name": "Canpol babies 2in1 szülés utáni pelenka L/XL - 5 db"
+        },
+        {
+          "id": "5903407177090",
+          "name": "Canpol babies SmartSense hordható elektromos mellszívó - 1 db"
+        },
+        {
+          "id": "5903407180021",
+          "name": "Lovi Mammafeel cumisüveg szett 150 ml - 2 db"
+        },
+        {
+          "id": "5903407180038",
+          "name": "Lovi Mammafeel cumisüveg szett 250ml - 2 db"
+        },
+        {
+          "id": "5903407180656",
+          "name": "Canpol babies Natural Shape anti-kólikás cumisüveg 150 ml - 1 db"
+        },
+        {
+          "id": "5903407180663",
+          "name": "Canpol babies Natural Shape anti-kólikás cumisüveg 260ml - 1 db"
+        },
+        {
+          "id": "5903407215624",
+          "name": "Lovi Supervent Medical cumisüveg 3 hónapos kortól 250 ml - 1 db"
+        },
+        {
+          "id": "5903407362519",
+          "name": "Canpol babies Love Mum&Dad világító szilikon szimmetrikus cumi 0-6 hónapos korig - 2 db"
+        },
+        {
+          "id": "5903407362526",
+          "name": "Canpol babies Love Mum&Dad világító szilikon szimmetrikus cumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "5903407362977",
+          "name": "Canpol babies Nightglow világító szilikon szimmetrikus cumi 0-6 hónapos korig - 2 db"
+        },
+        {
+          "id": "5903407362984",
+          "name": "Canpol babies Nightglow világító szilikon szimmetrikus cumi 0-6 hónapos korig - 2 db"
+        },
+        {
+          "id": "5903407369600",
+          "name": "Lovi Genius itatópohár 150 ml /kék - 1 db"
+        },
+        {
+          "id": "5903407370767",
+          "name": "Lovi Prime Tutti Frutti szilikon dinamikus cumi 6-18 hónapos korig /kék - 3 db"
+        },
+        {
+          "id": "5903407370781",
+          "name": "Lovi Prime Tutti Frutti szilikon dinamikus cumi 0-6 hónapos korig /menta - 2 db"
+        },
+        {
+          "id": "5903407370828",
+          "name": "Lovi Prime Tutti Frutti szilikon dinamikus cumi 6-18 hónapos korig /rózsa - 3 db"
+        },
+        {
+          "id": "5903407730011",
+          "name": "Canpol Babies elasztikus kismama bugyi mosható S/M - 2 db"
+        },
+        {
+          "id": "5903407730028",
+          "name": "Canpol Babies elasztikus kismama bugyi mosható L/XL - 2 db"
+        },
+        {
+          "id": "5905575902221",
+          "name": "Camry CR8185 babamérleg - 1 db"
+        },
+        {
+          "id": "5995000810092",
+          "name": "Caola babafürdető és sampon - 300 ml"
+        },
+        {
+          "id": "5997005303548",
+          "name": "Herba Kids popsikrém - 125 ml"
+        },
+        {
+          "id": "5997005341441",
+          "name": "Herbária vízhajtó borítékolt filteres tea - 20 db"
+        },
+        {
+          "id": "5997307517285",
+          "name": "Momert sterilizátor - 1 db"
+        },
+        {
+          "id": "5997591701919",
+          "name": "MomCare mellbimbó védőkrém - 30 ml"
+        },
+        {
+          "id": "5997591705139",
+          "name": "MomCare intim mosakodó kismamáknak - 200 ml"
+        },
+        {
+          "id": "5997953134928",
+          "name": "BabyBruin kétfázisú kézi mellszívó - 1 db"
+        },
+        {
+          "id": "5999563455806",
+          "name": "Éden Prémium kölestészta szélesmetélt - 200 g"
+        },
+        {
+          "id": "5999573640049",
+          "name": "This is Redy Boxer Night mensturációs bugyi S-es méret - 1 db"
+        },
+        {
+          "id": "5999573640063",
+          "name": "This is Redy menstruációs bugyi brazil fazonú S-es méret - 1 db"
+        },
+        {
+          "id": "5999573640100",
+          "name": "This is Redy Air tisztasági bugyi S-es méret - 1 db"
+        },
+        {
+          "id": "5999860875321",
+          "name": "Bambinex bambusz pelenka betéttel 4-10 kg - 1 db"
+        },
+        {
+          "id": "5999860875338",
+          "name": "Bambinex bambusz pelenka betéttel 10-20 kg - 1 db"
+        },
+        {
+          "id": "5999861352012",
+          "name": "Shedo Mano popsikrém natúr - 100 ml"
+        },
+        {
+          "id": "5999861352029",
+          "name": "Shedo Mano popsikrém ápoló olajokkal - 50 ml"
+        },
+        {
+          "id": "5999861352036",
+          "name": "Shedo Mano popsikrém ápoló olajokkal - 100 ml"
+        },
+        {
+          "id": "5999861352043",
+          "name": "Shedo Mano babaápoló olaj natúr - 50 ml"
+        },
+        {
+          "id": "5999861352067",
+          "name": "Shedo Mano körömvirágalzsam natúr - 30 ml"
+        },
+        {
+          "id": "5999861352098",
+          "name": "Shedo Mano testápoló natúr, normál bőrre - 200 ml"
+        },
+        {
+          "id": "5999861352128",
+          "name": "Shedo Mano arc-és testápoló natúr, száraz bőrre - 50 ml"
+        },
+        {
+          "id": "5999861352135",
+          "name": "Shedo Mano arc-és testápoló natúr, száraz bőrre - 100 ml"
+        },
+        {
+          "id": "5999861352173",
+          "name": "Shedo Mano fürdető levendulával és naranccsal - 200 ml"
+        },
+        {
+          "id": "5999861352180",
+          "name": "Shedo Mano fürdető citrommal és grapefruittal - 200 ml"
+        },
+        {
+          "id": "5999861352210",
+          "name": "Shedo Miraria testápoló balzsam - 50 ml"
+        },
+        {
+          "id": "5999863365065",
+          "name": "MomCare császármetszés utáni hasleszorító bugyi S/M méret /fekete - 1 db"
+        },
+        {
+          "id": "5999863365072",
+          "name": "MomCare császármetszés utáni hasleszorító bugyi L-XL méret /fekete - 1 db"
+        },
+        {
+          "id": "5999863365089",
+          "name": "MomCare császármetszés utáni hasleszorító bugyi 2XL méret /fekete - 1 db"
+        },
+        {
+          "id": "5999884615699",
+          "name": "Lansinoh 4 fázisú hordható mellszívó - 1 db"
+        },
+        {
+          "id": "5999886333263",
+          "name": "Coconutoil Cosmetics Bio mellbimbóvédő krém - 10 ml"
+        },
+        {
+          "id": "5999887801006",
+          "name": "HerbArting Naturkozmetikum popsikenőcs - 30 ml"
+        },
+        {
+          "id": "5999887801013",
+          "name": "HerbArting Naturkozmetikum popsikenőcs - 150 ml"
+        },
+        {
+          "id": "5999887801051",
+          "name": "HerbArting Naturkozmetikum baba testápoló - 250 ml"
+        },
+        {
+          "id": "5999887801068",
+          "name": "HerbArting Naturkozmetikum baba arckrém - 30 ml"
+        },
+        {
+          "id": "5999887801143",
+          "name": "HerbArting Naturkozmetikum fürdetőkrém - 250 ml"
+        },
+        {
+          "id": "5999887801419",
+          "name": "HerbArting Naturkozmetikum babasampon - 250 ml"
+        },
+        {
+          "id": "5999888038111",
+          "name": "MomCare szülés utáni bugyi S/M - 4 db"
+        },
+        {
+          "id": "5999888038128",
+          "name": "MomCare szülés utáni bugyi L/XL - 4 db"
+        },
+        {
+          "id": "5999888038159",
+          "name": "Momcare császármetszés hegkezelő szilikontapasz - 1 db"
+        },
+        {
+          "id": "5999888038197",
+          "name": "MomCare szülés utáni bugyi 2XL - 4 db"
+        },
+        {
+          "id": "6001051006267",
+          "name": "Nivea Sun Protect & Moisture Invisible Finish naptej FF50+ - 150 ml"
+        },
+        {
+          "id": "6936983110648",
+          "name": "Whitelab terhességi (HCG) gyorsteszt vizeletből - 1 db"
+        },
+        {
+          "id": "7310361147874",
+          "name": "Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 240 db"
+        },
+        {
+          "id": "7310361147942",
+          "name": "Libero Touch nadrágpelenka 2-es méret, 3-6 kg - 188 db"
+        },
+        {
+          "id": "7310361149106",
+          "name": "Libero Comfort nadrágpelenka 1-es méret, 2-5 kg - 344 db"
+        },
+        {
+          "id": "7310361149199",
+          "name": "Libero Comfort nadrágpelenka 2-es méret, 3-6 kg - 188 db"
+        },
+        {
+          "id": "7310361149212",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 282 db"
+        },
+        {
+          "id": "7310361149236",
+          "name": "Libero Comfort nadrágpelenka 3-as méret, 5-8 kg - 258 db"
+        },
+        {
+          "id": "7310361165311",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 4-es méret, 7-14 kg - 222 db"
+        },
+        {
+          "id": "7310361165595",
+          "name": "Libero Touch nadrágpelenka 5-ös méret, 11-17 kg - 120 db"
+        },
+        {
+          "id": "7310361165717",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 5-ös méret, 11-17 kg - 192 db"
+        },
+        {
+          "id": "7322541070001",
+          "name": "Libero Touch nadrágpelenka koraszülötteknek 0-ás méret, <2,5 kg - 144 db"
+        },
+        {
+          "id": "7322541070247",
+          "name": "Libero Touch nadrágpelenka 1-es méret, 2-5 kg - 132 db"
+        },
+        {
+          "id": "7322541500898",
+          "name": "Tena Men inkontinencia férfibetét - 24 db"
+        },
+        {
+          "id": "7322542264898",
+          "name": "Libero Touch bugyipelenka 3-as méret, 5-8 kg - 90 db"
+        },
+        {
+          "id": "7322542265017",
+          "name": "Libero Touch bugyipelenka 4-es méret, 7-10 kg - 87 db"
+        },
+        {
+          "id": "7322542265109",
+          "name": "Libero Touch bugyipelenka 5-ös méret, 9-14 kg - 27 db"
+        },
+        {
+          "id": "7322542265246",
+          "name": "Libero Touch bugyipelenka 6-os méret, 13-20 kg - 96 db"
+        },
+        {
+          "id": "7322542265352",
+          "name": "Libero Touch bugyipelenka 7-es méret, 16-26 kg - 88 db"
+        },
+        {
+          "id": "7322542487952",
+          "name": "Libero Jumbo Up&Go bugyipelenka 4-es méret, 8-14 kg - 252 db"
+        },
+        {
+          "id": "7322542488416",
+          "name": "Libero Jumbo Up&Go bugyipelenka 6-os méret, 15-25 kg - 204 db"
+        },
+        {
+          "id": "7322542531266",
+          "name": "Libero Touch nadrágpelenka 6-os méret, 13-20 kg - 108 db"
+        },
+        {
+          "id": "7322542531440",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 6-os méret, 13-20 kg - 180 db"
+        },
+        {
+          "id": "7322542536445",
+          "name": "Libero Jumbo Up&Go bugyipelenka 7-es méret, 17+ kg - 192 db"
+        },
+        {
+          "id": "7322542537459",
+          "name": "Libero Touch nadrágpelenka 7-es méret, 16-26 kg - 100 db"
+        },
+        {
+          "id": "7322542537701",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 7-es méret, 16-26 kg - 216 db"
+        },
+        {
+          "id": "8001090910745",
+          "name": "Pampers Active Baby pelenka 6-10 kg, méret: 3 - 208 db"
+        },
+        {
+          "id": "8001090910981",
+          "name": "Pampers Active Baby pelenka 11-16 kg, méret: 5 - 150 db"
+        },
+        {
+          "id": "8001090951533",
+          "name": "Pampers Active Baby pelenka 6-10kg, méret: 3 - 152 db"
+        },
+        {
+          "id": "8001090951618",
+          "name": "Pampers Active Baby pelenka 9-14kg, méret: 4 - 132 db"
+        },
+        {
+          "id": "8001090951892",
+          "name": "Pampers Active Baby pelenka 13-18 kg, méret: 6 - 96 db"
+        },
+        {
+          "id": "8001841041483",
+          "name": "Pampers Sensitive törlőkendő (12*52 db) - 624 db"
+        },
+        {
+          "id": "8003670845843",
+          "name": "Chicco antibakteriális melltartó betét - 30 db"
+        },
+        {
+          "id": "8006530116152",
+          "name": "Pampers Water nedves törlőkendő 12x60 db - 720 db"
+        },
+        {
+          "id": "8006530116374",
+          "name": "Pampers Water nedves törlőkendő 18x60 - 1080 db"
+        },
+        {
+          "id": "8006530116459",
+          "name": "Pampers Water nedves törlőkendő 9x60 db - 540 db"
+        },
+        {
+          "id": "8006530116596",
+          "name": "Pampers Water nedves törlőkendő 6x60 db - 360 db"
+        },
+        {
+          "id": "8006530134521",
+          "name": "Pampers Sensitive XXL nedves törlőkendő 3x80 db - 240 db"
+        },
+        {
+          "id": "8006530134668",
+          "name": "Pampers Sensitive XXL nedves törlőkendő 12x80 db - 960 db"
+        },
+        {
+          "id": "8006530134750",
+          "name": "Pampers Sensitive XXL nedves törlőkendő 9x80 db - 720 db"
+        },
+        {
+          "id": "8006530139977",
+          "name": "Pampers Aqua Soft nedves törlőkendő 18x48 db - 864 db"
+        },
+        {
+          "id": "8006530140232",
+          "name": "Pampers Aqua Soft nedves törlőkendő 15x60 db - 900 db"
+        },
+        {
+          "id": "8006530223478",
+          "name": "Pampers Premium Care Monthly Pack bugyipelenka 5-ös méret, 11-16 kg - 132 db"
+        },
+        {
+          "id": "8006530223584",
+          "name": "Pampers Premium Care Monthly Pack 7-es 15+kg - 99db"
+        },
+        {
+          "id": "8006530223591",
+          "name": "Pampers Premium Care Monthly Pack bugyipelenka 4-es méret, 9-14 kg - 156 db"
+        },
+        {
+          "id": "8006530223669",
+          "name": "Pampers Premium Care Monthly Pack bugyipelenka 2-es méret 4-8 kg - 204 db"
+        },
+        {
+          "id": "8006530223720",
+          "name": "Pampers Premium Care bugyipelenka 3-as méret, 6-10 kg - 180 db"
+        },
+        {
+          "id": "8006530223744",
+          "name": "Pampers Premium Care Month Pack bugyipelenka 6-os méret, 13-18 kg - 116 db"
+        },
+        {
+          "id": "8006530230131",
+          "name": "Pampers Active Baby Giant Pack bugyipelenka 7-es méret, 15+ kg - 52 db"
+        },
+        {
+          "id": "8006530260145",
+          "name": "Pampers Premium Care Megabox bugyipelenka 7-es méret, 15+ kg - 64 db"
+        },
+        {
+          "id": "8006530260176",
+          "name": "Pampers Premium Care Megabox bugyipelenka 6-os méret, 13-18 kg - 76 db"
+        },
+        {
+          "id": "8006530304627",
+          "name": "Pampers Pants Mega Pack+ bugyipelenka 8-as méret, 17+ kg - 64 db"
+        },
+        {
+          "id": "8006530305617",
+          "name": "Pampers Pants Monthly Pack bugyipelenka 6-os méret, 13-19 kg - 120 db"
+        },
+        {
+          "id": "8006530305662",
+          "name": "Pampers Pants Monthly Pack bugyipelenka 4-es méret, 9-15 kg - 156 db"
+        },
+        {
+          "id": "8006530305679",
+          "name": "Pampers Pants Monthly Pack bugyipelenka 5-ös méret, 11-17 kg - 136 db"
+        },
+        {
+          "id": "8006530305716",
+          "name": "Pampers Pants Monthly Pack bugyipelenka 3-as méret, 6-11 kg - 180 db"
+        },
+        {
+          "id": "8006530305747",
+          "name": "Pampers Pants Monthly Pack bugyipelenka 7-es méret, 15+ kg - 108 db"
+        },
+        {
+          "id": "8006530305761",
+          "name": "Pampers Pants Monthly Pack bugyipelenka 8-as méret, 17+ kg - 92 db"
+        },
+        {
+          "id": "8006530320139",
+          "name": "Pampers Premium Care Pants Monthly Box bugyipelenka 6-os méret, 13-19 kg - 72 db"
+        },
+        {
+          "id": "8006530320153",
+          "name": "Pampers Premium Care Pants Monthly Box bugyipelenka 5-ös méret, 11-17 kg - 80 db"
+        },
+        {
+          "id": "8006530320160",
+          "name": "Pampers Premium Care Pants Monthly Box bugyipelenka 4-es méret, 9-15 kg - 94 db"
+        },
+        {
+          "id": "8006530320184",
+          "name": "Pampers Premium Care Pants Month Box bugyipelenka 3-as méret, 6-11 kg - 114 db"
+        },
+        {
+          "id": "8006530320245",
+          "name": "Pampers Premium Care bugyipelenka 7-es méret, 15+ kg - 62 db"
+        },
+        {
+          "id": "8006530320573",
+          "name": "Pampers Night Jumbo Pants bugyipelenka 7-es méret, 15+ kg - 35 db"
+        },
+        {
+          "id": "8006530320603",
+          "name": "Pampers Night Jumbo Pants bugyipelenka 6-os méret, 15+ kg - 40 db"
+        },
+        {
+          "id": "8006530320658",
+          "name": "Pampers Night Jumbo Pants bugyipelenka 5-ös méret, 12-17 kg - 46 db"
+        },
+        {
+          "id": "8006530320665",
+          "name": "Pampers Night Jumbo Pants bugyipelenka 4-es méret, 9-15 kg - 52 db"
+        },
+        {
+          "id": "8006540032688",
+          "name": "Pampers Active Baby pelenka 13-18 kg, méret: 6 - 128 db"
+        },
+        {
+          "id": "8006540032725",
+          "name": "Pampers Active Baby pelenka 9-14 kg, méret: 4 - 180 db"
+        },
+        {
+          "id": "8006540068557",
+          "name": "Pampers Active Baby bugyipelenka 9-15 kg, méret: 4 - 176 db"
+        },
+        {
+          "id": "8006540497678",
+          "name": "Pampers Active Baby bugyipelenka 6kg - 11kg /méret: 3 - 204 db"
+        },
+        {
+          "id": "8006540630518",
+          "name": "Ninjamas Pyjama bugyipelenka 17-30 kg /űrhajós- 10 db"
+        },
+        {
+          "id": "8006540630549",
+          "name": "Ninjamas Pyjama bugyipelenka 17-30 kg /szívecskés- 10 db"
+        },
+        {
+          "id": "8006540630617",
+          "name": "Ninjamas Pyjama bugyipelenka 27-43 kg /űrhajós - 9 db"
+        },
+        {
+          "id": "8006540630648",
+          "name": "Ninjamas Pyjama bugyipelenka 27-43 kg /szívecskés - 9 db"
+        },
+        {
+          "id": "8006540778197",
+          "name": "Always Daily Protect Long Deo tisztasági betét - 64 db"
+        },
+        {
+          "id": "8006540811276",
+          "name": "Pampers Harmonie Aqua törlőkendő - 1152 db"
+        },
+        {
+          "id": "8006540863572",
+          "name": "Pampers Active Baby bugyipelenka /mancs őrjárat méret: 4, 9-15 kg - 72 db"
+        },
+        {
+          "id": "8033224601632",
+          "name": "Laica flexibilis digitális lázmérő - 1 db"
+        },
+        {
+          "id": "8056420222463",
+          "name": "Beper P303MED001 többfunkciós infra hőmérő - 1 db"
+        },
+        {
+          "id": "8058664008094",
+          "name": "Chicco Natural Ferde Műanyag Cumisüveg 150ml 0 Hónapos Kortól - 1 db"
+        },
+        {
+          "id": "8058664059010",
+          "name": "Chicco Physio Comfort Szilikon Cumi - 1 db"
+        },
+        {
+          "id": "8058664059034",
+          "name": "Chicco Physio Comfort Szilikon Cumi - 1 db"
+        },
+        {
+          "id": "8058664059041",
+          "name": "Chicco Physio Comfort szilikon cumi 6-16 hónapos kortól, rózsaszín - 1 db"
+        },
+        {
+          "id": "8058664059058",
+          "name": "Chicco Physio Comfort szilikon cumi 6-16 hónapos kortól, kék - 1 db"
+        },
+        {
+          "id": "8058664138463",
+          "name": "Chicco testápoló tej, mandulaolajjal - 500 ml"
+        },
+        {
+          "id": "8058664153480",
+          "name": "Chicco tejfelfogó kagyló - 2 db"
+        },
+        {
+          "id": "8058664173747",
+          "name": "Chicco tisztító kendő - 72 db"
+        },
+        {
+          "id": "8058664175956",
+          "name": "Chicco Rózsaszín Színben Szilikon Altatócumi 0-6 Hónapos Korig - 1 db"
+        },
+        {
+          "id": "8058664175987",
+          "name": "Chicco Kék Színben Szilikon Altatócumi 0-6 Hónapos Korig - 1 db"
+        },
+        {
+          "id": "8700216235648",
+          "name": "Pampers Harmonie bugyipelenka 15+ kg, méret: 6 - 19 db"
+        },
+        {
+          "id": "8700216251679",
+          "name": "Pampers Harmonie pelenka 11-16kg /méret: 5 - 21 db"
+        },
+        {
+          "id": "8700216251686",
+          "name": "Pampers Harmonie pelenka 9-15kg /méret: 4 - 24 db"
+        },
+        {
+          "id": "8700216251716",
+          "name": "Pampers Harmonie pelenka 6-10kg /méret: 3 - 28 db"
+        },
+        {
+          "id": "8700216251792",
+          "name": "Pampers Harmonie pelenka 2-5kg /méret: 1 - 35 db"
+        },
+        {
+          "id": "8700216346757",
+          "name": "Pampers Premium Care pelenka 2-5 kg /méret: 1 - 156 db"
+        },
+        {
+          "id": "8710103671602",
+          "name": "Philips Avent anyatejtároló poharak 180 ml-es - 10 db"
+        },
+        {
+          "id": "8710103826286",
+          "name": "Philips Avent varázsitató 9 hónapos kortól 300 ml /kék - 1 db"
+        },
+        {
+          "id": "8710103826316",
+          "name": "Philips Avent varázsitató 9 hónapos kortól 300 ml /lila - 1 db"
+        },
+        {
+          "id": "8710103845768",
+          "name": "Philips Avent eldobható melltartóbetét szett - 100 db"
+        },
+        {
+          "id": "8710103907749",
+          "name": "Philips Avent közepes mellbimbóvédő - 2 db"
+        },
+        {
+          "id": "8710103980421",
+          "name": "Philips Avent eldobható melltartóbetét - 24 db"
+        },
+        {
+          "id": "8710103985174",
+          "name": "Avent Natural Response cumifej 6. átfolyási sebességű - 2 db"
+        },
+        {
+          "id": "8710103989653",
+          "name": "Philips Avent Natural Response cumisüveg 3 hónapos kortól 260 ml /rózsaszín - 1 db"
+        },
+        {
+          "id": "8710103989677",
+          "name": "Philips Avent Natural Response cumisüveg 3 hónapos kortól 260 ml /kék - 1 db"
+        },
+        {
+          "id": "8710103989691",
+          "name": "Philips Avent Natural Response cumisüveg 3 hónapos kortól 260 ml - 1 db"
+        },
+        {
+          "id": "8710103989714",
+          "name": "Philips Avent Natural Response cumisüveg 3 hónapos kortól 260 ml - 1 db"
+        },
+        {
+          "id": "8710103989738",
+          "name": "Philips Avent Natural Response cumisüveg 3 hónapos kortól 260 ml - 2 db"
+        },
+        {
+          "id": "8710103989776",
+          "name": "Philips Avent Natural Response cumisüveg 6 hónapos kortól 330 ml - 2 db"
+        },
+        {
+          "id": "8710103990352",
+          "name": "Philips Avent Natural Response AirFree cumisüveg újszülött kortól 125 ml - 2 db"
+        },
+        {
+          "id": "8710103990406",
+          "name": "Philips Avent Natural Response AirFree cumisüveg 3 hónapos kortól 260 ml - 1 db"
+        },
+        {
+          "id": "8710103990420",
+          "name": "Philips Avent Natural Response AirFree cumisüveg 3 hónapos kortól 260 ml - 1 db"
+        },
+        {
+          "id": "8710103990451",
+          "name": "Philips Avent Natural Response cumisüveg újszülött kortól 125 ml - 2 db"
+        },
+        {
+          "id": "8710103990666",
+          "name": "Philips Avent Natural Response Válvula AirFree cumisüvegcsomag - 1 db"
+        },
+        {
+          "id": "8710103990710",
+          "name": "Philips Avent Natural Response cumisüvegcsomag - 1 db"
+        },
+        {
+          "id": "8710103990741",
+          "name": "Philips Avent Natural Response cumisüveg 3 hónapos kortól 260 ml-es - 3 db"
+        },
+        {
+          "id": "8710103990796",
+          "name": "Philips Avent Natural üveg cumisüveg 3 hónapos kortól 240 ml - 2 db"
+        },
+        {
+          "id": "8710103993728",
+          "name": "Philips digitális bébiőr - 1 db"
+        },
+        {
+          "id": "8710103996743",
+          "name": "Avent Classic Anti-Colic cumisüveg 1 hónapos kortól 260 ml - 2 db"
+        },
+        {
+          "id": "8710103996767",
+          "name": "Avent Classic Anti-Colic pótcumi újszülött kortól - 2 db"
+        },
+        {
+          "id": "8710103997115",
+          "name": "Avent Classic Anti-Colic cumisüveg újszülött kortól 125 ml - 2 db"
+        },
+        {
+          "id": "8712175938256",
+          "name": "Altapharma sportkötés, rugalmas 5 m - 1 db"
+        },
+        {
+          "id": "8718627520017",
+          "name": "Easyglide vízbázisú síkosító - 150 ml"
+        },
+        {
+          "id": "8718627520024",
+          "name": "Easyglide anál vízbázisú síkosító - 150 ml"
+        },
+        {
+          "id": "8718627521939",
+          "name": "Easytoys 7 ritmusú vibrációs tojás /fekete - 1 db"
+        },
+        {
+          "id": "8718627527825",
+          "name": "Easytoys mini G-pont vibrátor /pink - 1 db"
+        },
+        {
+          "id": "8718627529676",
+          "name": "Easytoys csiklókaros vibrátor /pink - 1 db"
+        },
+        {
+          "id": "8720689002158",
+          "name": "Philips Avent Advanced cumisüveg melegítő - 1 db"
+        },
+        {
+          "id": "8720689008112",
+          "name": "Philips Avent kézi mellszívó készlet - 1 db"
+        },
+        {
+          "id": "8720689008280",
+          "name": "Philips Avent mikrohullámú sterilizáló tasak - 5 db"
+        },
+        {
+          "id": "8720689021951",
+          "name": "Philips Avent babaápolási szett - 1 db"
+        },
+        {
+          "id": "8720689035842",
+          "name": "Philips Avent anyatejtároló zacskó 180 ml-es - 25 db"
+        },
+        {
+          "id": "8720689041300",
+          "name": "Avent Ultra Soft játszócumi 6-18 hónapos korig /lány - 2 db"
+        },
+        {
+          "id": "8720689041324",
+          "name": "Avent Ultra Soft játszócumi 6-18 hónapos korig /fiú - 2 db"
+        },
+        {
+          "id": "8720689041577",
+          "name": "Philips Avent Ultra Soft játszócumi 18 hónapos kortól - 2 db"
+        },
+        {
+          "id": "8720689041683",
+          "name": "Avent Ultra Soft játszócumi 0-6 hónapos korig /lány - 2 db"
+        },
+        {
+          "id": "8720689041690",
+          "name": "Avent Ultra Soft játszócumi 6-18 hónapos korig /fiú - 2 db"
+        },
+        {
+          "id": "8720689041850",
+          "name": "Philips Avent Ultra Air játszócumi 0-6 hónapos korig - 2 db"
+        },
+        {
+          "id": "8720689042314",
+          "name": "Avent Ultra Air játszócumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "8720689042376",
+          "name": "Philips Avent Ultra Air játszócumi 0-6 hónapos korig /fiú - 2 db"
+        },
+        {
+          "id": "8720689042383",
+          "name": "Philips Avent Ultra Air Happy játszócumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "8720689042390",
+          "name": "Philips Avent Ultra Air játszócumi 6-18 hónapos korig /lány- 2 db"
+        },
+        {
+          "id": "8720689042406",
+          "name": "Avent Ultra Soft játszócumi 0-6 hónapos korig /fiú - 2 db"
+        },
+        {
+          "id": "8720689042826",
+          "name": "Avent Ultra Air játszócumi 0-6 hónapos korig /lány - 2 db"
+        },
+        {
+          "id": "8720689043069",
+          "name": "Avent Ultra Air játszócumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "8720689043236",
+          "name": "Avent Ultra Air játszócumi 6-18 hónapos korig /fiú - 2 db"
+        },
+        {
+          "id": "8720689043298",
+          "name": "Philips Avent Ultra Air játszócumi 0-6 hónapos korig - 2 db"
+        },
+        {
+          "id": "8720689043861",
+          "name": "Philips Avent Ultra Air játszócumi 0-6 hónapos korig - 2 db"
+        },
+        {
+          "id": "9001616285004",
+          "name": "Mam melltartó betét - 30 db"
+        },
+        {
+          "id": "9001616333903",
+          "name": "Mam etetőcumi, 0 hónapos kortól - 1 db"
+        },
+        {
+          "id": "9001616333965",
+          "name": "Mam mini szilikon mellbimbóvédő - 2 db"
+        },
+        {
+          "id": "9001616670077",
+          "name": "Mam kemény ivócsőr és szelep - 1 db"
+        },
+        {
+          "id": "9001616670084",
+          "name": "Mam cseppmentes szilikon itatócsőr és szelep tanuló pohárhoz 4 hónapos kortól - 1 db"
+        },
+        {
+          "id": "9001616670091",
+          "name": "Mam sportzár és szelep 12 hónapos kortól - 1 db"
+        },
+        {
+          "id": "9001616671395",
+          "name": "Mam extra puha ivócsőr cumisüveghez és tanulópohárhoz, szimmetrikus, 4 hónapos kortól - 2 db"
+        },
+        {
+          "id": "9001616671562",
+          "name": "Mam aszimmetrikus extra puha ivócsőr 4 hónapos kortól - 2 db"
+        },
+        {
+          "id": "9001616707032",
+          "name": "Mam mellbimbó védő 2-es - 2 db"
+        },
+        {
+          "id": "9001616719547",
+          "name": "Mam 2:1 elektromos mellszívó készülék - 1 db"
+        },
+        {
+          "id": "9001616719561",
+          "name": "MAM kézi mellszívó készülék - 1 db"
+        },
+        {
+          "id": "9005800369075",
+          "name": "Nivea Baby sampon - 200 ml"
+        },
+        {
+          "id": "9005800369150",
+          "name": "Nivea Baby nyugtató popsiápoló - 100 ml"
+        },
+        {
+          "id": "9120044184533",
+          "name": "Selenacare női inkotinencia alsó M-es - 1 db"
+        },
+        {
+          "id": "9120044184762",
+          "name": "T.o.c menstruációs kehely L-es méret - 1 db"
+        },
+        {
+          "id": "9120044188166",
+          "name": "Selenacare női inkotinencia alsó L-es - 1 db"
+        },
+        {
+          "id": "9120044189545",
+          "name": "Selenacare férfi inkotinencia alsó M-es - 1 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4005900695826",
+          "name": "NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml"
+        },
+        {
+          "id": "4262368740332",
+          "name": "Mabyen mellmaszk fehérkáposztával - 2 db"
+        },
+        {
+          "id": "4305615827001",
+          "name": "Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db"
+        },
+        {
+          "id": "4305615827278",
+          "name": "Babydream napozókrém LSF 50+ - 75 ml"
+        },
+        {
+          "id": "5995327201474",
+          "name": "Neogranormon Sensitive törlőkendő érzékeny bőrre - 55 db"
+        },
+        {
+          "id": "5997005303401",
+          "name": "Herbaria gyermek naptej F50 - 200 ml"
+        },
+        {
+          "id": "5998603330561",
+          "name": "JimJams Baby nedves popsitörlőkendő multipack 3x52 db - 156 db"
+        },
+        {
+          "id": "6001051006700",
+          "name": "NIVEA SUN Kids Protect & Care hidratáló szórófejes gyermek naptej FF50+ 250 ml"
+        },
+        {
+          "id": "6001051006724",
+          "name": "NIVEA SUN Protect & Moisture hidratáló szórófejes naptej FF50+ 250 ml"
+        },
+        {
+          "id": "7310616022369",
+          "name": "Salvequick vízhólyagtapasz - 10 db"
+        },
+        {
+          "id": "9001616858505",
+          "name": "MAM Easy Active 330 ml-es cumisüveg 4+ hónap"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-03",
     "rossmann": {
       "added": [],
