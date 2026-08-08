@@ -1,5 +1,82 @@
 [
   {
+    "date": "2026-08-08",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4305615689241",
+          "name": "Alterra naptej F50 - 75 ml"
+        },
+        {
+          "id": "4305615827940",
+          "name": "SunOzon Sport napozó spray LSF 30 - 75 ml"
+        },
+        {
+          "id": "5411416061885",
+          "name": "Moltex Pure&Nature nedves törlőkendő - 60 db"
+        },
+        {
+          "id": "5411416075578",
+          "name": "Moltex Pure&Nat Öko pelenka, megapack 7-14 kg - 145 db"
+        },
+        {
+          "id": "5411416075585",
+          "name": "Moltex Pure&Nat Öko pelenka, megapack 11-25 kg - 125 db"
+        },
+        {
+          "id": "5998400316607",
+          "name": "Cerbona Rudi gluténmentes, laktózmentes zabrúd citromos töltelékkel, kakaós bevonattal - 30 g"
+        },
+        {
+          "id": "5998603320579",
+          "name": "Aloe Vera Organic napozó krém arcra és testre SPF30 - 50 ml"
+        },
+        {
+          "id": "5999863365249",
+          "name": "MomCare kórházi kelengye kismamáknak hüvelyi szülésre - 1 db"
+        },
+        {
+          "id": "5999863365263",
+          "name": "MomCare kórházi kelengye kismamáknak császármetszéses szülésre - 1 db"
+        },
+        {
+          "id": "9001616858505",
+          "name": "MAM Easy Active cumisüveg 4 hónapos kortól 330 ml - 1 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4018639010150",
+          "name": "Moltex Pure&Nat Öko pelenka, megapack 7-14 kg - 145 db"
+        },
+        {
+          "id": "4018639010167",
+          "name": "Moltex Pure&Nat Öko pelenka, megapack 11-25 kg - 125 db"
+        },
+        {
+          "id": "4068134014740",
+          "name": "SunOzon fényvédő stick LSF50+ - 20 g"
+        },
+        {
+          "id": "5411416071594",
+          "name": "Moltex Pure&Nature nedves törlőkendő - 60 db"
+        },
+        {
+          "id": "5997372370570",
+          "name": "Keve Dermofil napozó krém SPF30 - 200 ml"
+        },
+        {
+          "id": "5997742300145",
+          "name": "Dr.Kelen Sun F50+ GYEREK napkrém - 1 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-07",
     "rossmann": {
       "added": [

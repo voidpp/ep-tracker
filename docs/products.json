@@ -593,14 +593,6 @@
       "name": "Dr. Theiss tengervizes orrspray - 20 ml"
     },
     {
-      "id": "4018639010150",
-      "name": "Moltex Pure&Nat Öko pelenka, megapack 7-14 kg - 145 db"
-    },
-    {
-      "id": "4018639010167",
-      "name": "Moltex Pure&Nat Öko pelenka, megapack 11-25 kg - 125 db"
-    },
-    {
       "id": "4018639010297",
       "name": "Moltex Pure & Nature Newborn öko pelenka 2-4 kg - 88 db"
     },
@@ -859,10 +851,6 @@
     {
       "id": "4066299604219",
       "name": "Babydream Express lázmérő - 1db"
-    },
-    {
-      "id": "4068134014740",
-      "name": "SunOzon fényvédő stick LSF50+ - 20 g"
     },
     {
       "id": "4068134022868",
@@ -1329,6 +1317,10 @@
       "name": "Facelle Night Protect tampon - 16 db"
     },
     {
+      "id": "4305615689241",
+      "name": "Alterra naptej F50 - 75 ml"
+    },
+    {
       "id": "4305615691800",
       "name": "Facelle Ultra Protect éjszakai egészségügyi betét - 8 db"
     },
@@ -1419,6 +1411,10 @@
     {
       "id": "4305615827933",
       "name": "SunOzon Med naptej LSF50 - 50 ml"
+    },
+    {
+      "id": "4305615827940",
+      "name": "SunOzon Sport napozó spray LSF 30 - 75 ml"
     },
     {
       "id": "4305615828152",
@@ -2205,8 +2201,16 @@
       "name": "Moltex Pure & Nature XL öko bugyipelenka +14 kg - 72 db"
     },
     {
-      "id": "5411416071594",
+      "id": "5411416061885",
       "name": "Moltex Pure&Nature nedves törlőkendő - 60 db"
+    },
+    {
+      "id": "5411416075578",
+      "name": "Moltex Pure&Nat Öko pelenka, megapack 7-14 kg - 145 db"
+    },
+    {
+      "id": "5411416075585",
+      "name": "Moltex Pure&Nat Öko pelenka, megapack 11-25 kg - 125 db"
     },
     {
       "id": "5425021104899",
@@ -2985,10 +2989,6 @@
       "name": "Durex Invisible Regular Fit óvszer - 20 db"
     },
     {
-      "id": "5997372370570",
-      "name": "Keve Dermofil napozó krém SPF30 - 200 ml"
-    },
-    {
       "id": "5997385703037",
       "name": "Medifleur lábkrém cukorbetegek részére - 100 ml"
     },
@@ -3039,10 +3039,6 @@
     {
       "id": "5997700150706",
       "name": "Femifit intim mosakodó habtej - 250 ml"
-    },
-    {
-      "id": "5997742300145",
-      "name": "Dr.Kelen Sun F50+ GYEREK napkrém - 1 db"
     },
     {
       "id": "5997742301753",
@@ -3105,8 +3101,16 @@
       "name": "Cerbona gluténmentes epres-chia magos müzliszelet - 35 g"
     },
     {
+      "id": "5998400316607",
+      "name": "Cerbona Rudi gluténmentes, laktózmentes zabrúd citromos töltelékkel, kakaós bevonattal - 30 g"
+    },
+    {
       "id": "5998466503515",
       "name": "I-Care Lágy Lencséhez Kontaktlencsetisztító - 350 ml"
+    },
+    {
+      "id": "5998603320579",
+      "name": "Aloe Vera Organic napozó krém arcra és testre SPF30 - 50 ml"
     },
     {
       "id": "5998603320593",
@@ -3623,6 +3627,14 @@
     {
       "id": "5999863365089",
       "name": "MomCare császármetszés utáni hasleszorító bugyi 2XL méret /fekete - 1 db"
+    },
+    {
+      "id": "5999863365249",
+      "name": "MomCare kórházi kelengye kismamáknak hüvelyi szülésre - 1 db"
+    },
+    {
+      "id": "5999863365263",
+      "name": "MomCare kórházi kelengye kismamáknak császármetszéses szülésre - 1 db"
     },
     {
       "id": "5999882201580",
@@ -5639,6 +5651,10 @@
     {
       "id": "9001616853937",
       "name": "MAM Comfort 100% szilikon játszócumi 0-3 hónapos korig - 1 db"
+    },
+    {
+      "id": "9001616858505",
+      "name": "MAM Easy Active cumisüveg 4 hónapos kortól 330 ml - 1 db"
     },
     {
       "id": "9001616864506",
