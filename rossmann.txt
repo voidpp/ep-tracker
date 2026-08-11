@@ -18,7 +18,7 @@
 3574660334913 Carefree Plus Long tisztasági betét lágy illattal - 24 db
 3574660464337 Carefree Cotton tisztasági betét friss illattal - 76 db
 3574660464368 Carefree Cotton Aloe tisztasági betét - 76 db
-3574660587524 Johnson's Bedtime Babaolaj - 200 ml
+3574660587524 Johnson's Bedtime babaolaj - 200 ml
 3574660651751 Compeed vízhólyagtapasz vegyes méretben - 5 db
 3574660709216 Carefree Plus Large + Aloe tisztasági betét - 48 db
 3574661257044 Carefree Cotton Flexiform illatmentes tisztasági betét - 30 db
@@ -37,7 +37,7 @@
 3574661776873 o.b. menstruációs bugyi - 1 db
 3574661857633 o.b. ProComfort Super Plus tampon - 32 db
 3574661857640 o.b. ProComfort Super Plus tampon - 16 db
-3574661877471 Johnson's Bedtime babaápoló - 300 ml
+3574661877471 Johnson's testápoló babáknak - 300 ml
 3574661879512 Johnson's Cottontouch 2 az 1-ben babafürdető és -tusfürdő - 500 ml
 3574661883298 Jonhson's babahintőpor - 100 g
 3574661899992 o.bo. ProComfort Normal tampon - 32 db
@@ -62,12 +62,10 @@
 3574661900469 o.b. ProComfort Super tampon - 16 db
 3574661900476 o.b. Original Normal tampon - 16 db
 3574661900490 o.b. ExtraProtect Super Plus tampon - 16 db
-3574669908429 Johnson's 2 az 1-ben buborékos fürdető és tusfürdő gyermekeknek - 500 ml
-3574669909952 Johnson's Top-to-Toe® babatusfürdő - 500 ml
+3574669908429 Johnson's 2 az 1-ben buborékos fürdető és tusfürdő - 500 ml
+3574669909952 Johnson's Top To Toe babafürdető - 500 ml
 3600542297813 Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml
-3600542512961 Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml
 3600542522915 Ambre Solaire Színezett spray naptej gyerekeknek - 270 ml
-3600542607544 Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml
 3600550368574 Mixa Baby habzó olaj fürdetéshez és zuhanyzáshoz babáknak - 400 ml
 3600550929324 Mixa Baby nyugtató, tisztító olaj atópiára hajlamos bőrre - 250 ml
 3600551154466 Mixa micellás sampon babáknak - 300 ml
@@ -113,6 +111,7 @@
 4005800239298 Hansaplast Universal műanyag sebtapasz - 40 db
 4005800239434 Hansaplast Universal sebtapasz - 20 db
 4005800402982 Hansaplast Sensitive ragtapasz - 5 m
+4005900695826 NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml
 4005900717672 Hansaplast sebtapasz marvel - 20 db
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
 4008600360070 Nuk First Choice+ cumisüveg hőmérővel 300 ml 0-6 hónapos korig - 1 db
@@ -234,6 +233,7 @@
 4068134119209 Babydream öko pelenka 3-as 5-9kg - 32 db
 4068134119216 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
 4068134119223 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
+4068134120342 Babydream szimmetrikus szilikon játszócumi 0-2 hónapos korig - 2 db
 4068134125705 Facelle ovulációs tesztcsík - 15 db
 4068134125767 Facelle Maxi éjszakai egészségügyi betét - 12 db
 4068134125842 Facelle Comfort tisztasági betét - 50 db
@@ -696,7 +696,6 @@
 5949031350072 Durex Invisible óvszer XL-es méret - 10 db
 5990031646498 Milumil 2 tejalapú anyatej-kiegészítő tápszer 6-12 hónapos korig - 1500 g
 5995000710361 Caola Hello Summer Kids napvédő spray SPF50+ - 200 ml
-5995000710378 Caola Hello Summer naptej SPF30 - 200 ml
 5995000810092 Caola babafürdető és sampon - 300 ml
 5995000820091 CaoNatur Baby folyékony hintőpor - 300 ml
 5995000830120 CaoNatur babahintőpor - 100 g
@@ -754,7 +753,7 @@
 5997591705139 MomCare intim mosakodó kismamáknak - 200 ml
 5997652311118 Sába Női intim mosakodó illatmentes - 250 ml
 5997652311217 Saba intim síkosító - 75 ml
-5997672302196 Milumil 1 Optima anyatej-helyettesítő tápszer 0 hónapos kortól - 900 g
+5997672302196 Milumil Optima 1 anyatej-helyettesítő tápszer 0 hónapos kortól - 900 g
 5997700150119 Femifit intim zuhany - 1 db
 5997700150126 Colpo Clean intim zuhany - 1 db
 5997700150706 Femifit intim mosakodó habtej - 250 ml
@@ -776,7 +775,6 @@
 5998400316607 Cerbona Rudi gluténmentes, laktózmentes zabrúd citromos töltelékkel, kakaós bevonattal - 30 g
 5998466503515 I-Care Lágy Lencséhez Kontaktlencsetisztító - 350 ml
 5998603320579 Aloe Vera Organic napozó krém arcra és testre SPF30 - 50 ml
-5998603320593 Aloe Vera Organic napozó krém arcra és testre SPF50 - 150 ml
 5998603321408 JimJams Antibakteriális kéz és bőrfertőtlenítő spray - 250 ml
 5998603321507 JimJams Antibakteriális kéz- és bőrfertőtlenítő spray - 50 ml
 5998603330431 JimJams Baby hipoallergén védőkrém - 100 ml
@@ -954,7 +952,6 @@
 5999888038128 MomCare szülés utáni bugyi L/XL - 4 db
 5999888038159 Momcare császármetszés hegkezelő szilikontapasz - 1 db
 5999888038197 MomCare szülés utáni bugyi 2XL - 4 db
-6001051006267 Nivea Sun Protect & Moisture Invisible Finish naptej FF50+ - 150 ml
 6251007631665 Higeen Wild Berry kézfertőtlenítő gél - 110 ml
 6251007636400 HiGeen Together in Love kézfertőtlenítő gél vitamin gyöngyökkel - 50 ml
 6936983110648 Whitelab terhességi (HCG) gyorsteszt vizeletből - 1 db
@@ -1195,7 +1192,7 @@
 8006540234730 Pampers Night Pants éjszakai bugyipelenka 12-17 kg, méret: 5 - 22 db
 8006540234761 Pampers Night Pants éjszakai bugyipelenka 15+kg, méret: 6 - 19 db
 8006540300053 Blend-a-Dent Original Complete Duo műfogsorragasztó krém - 94 g
-8006540497678 Pampers Active Baby bugyipelenka 6kg - 11kg /méret: 3 - 204 db
+8006540491010 Pampers Premium Care bugyipelenka 13-19 kg /méret: 6 - 93 db
 8006540499382 Pampers Active Baby Jumbo Pack bugyipelenka 17+kg, méret: 8 - 32 db
 8006540523056 Pampers Sensitive nedves törlőkendő - 52 db
 8006540630518 Ninjamas Pyjama bugyipelenka 17-30 kg /űrhajós- 10 db
@@ -1211,6 +1208,7 @@
 8006540811085 Pampers Harmonie Aqua nedves törlőkendő - 10 db
 8006540811276 Pampers Harmonie Aqua törlőkendő - 1152 db
 8006540855812 Pampers Premium Care pelenka 4-8 kg/ méret: 2 - 136 db
+8006540855935 Pampers Premium Care pelenka 9-14 kg /méret: 4 - 174 db
 8006540857717 Pampers Premium Care pelenka 4-8 kg, méret: 2 - 88 db
 8006540857755 Pampers Premium Care pelenka 6-10 kg, méret: 3 - 78 db
 8006540858073 Pampers Premium Care pelenka 2-5 kg, méret: 1 - 72 db
@@ -1236,7 +1234,7 @@
 8058664175987 Chicco Kék Színben Szilikon Altatócumi 0-6 Hónapos Korig - 1 db
 8410076481597 Old El Paso sós tortilla chips - 185 g
 8410207115865 Johnson's babaolaj - 200 ml
-8410207115889 Johnson's aloe vera babaolaj - 200 ml
+8410207115889 Johnson's babaolaj aloe verával - 200 ml
 8410376017342 Gullón gluténmentes keksz csokoládé darabokkal - 200 g
 8410376044959 Gullón Dibus Sharkies gluténmentes reggeliző keksz - 250 g
 8410757101165 Trompy babahintőpor - 500 g
@@ -1264,6 +1262,7 @@
 8596024024679 Beliema Expert intim mosakodó - 200 ml
 8690510114537 Hops Baby nedves törlőkendő kamillával - 100 db
 8700216171311 Always Ultra Normal egészségügyi betét - 20 db
+8700216186742 Always Platinum Secure Night Extra egészségügyi betét - 8 db
 8700216186797 Always Platinum Secure Night egészségügyi betét - 20 db
 8700216213905 Always Ultimate Night egészségügyi betét 6-os méret - 8 db
 8700216235648 Pampers Harmonie bugyipelenka 15+ kg, méret: 6 - 19 db
@@ -1273,6 +1272,7 @@
 8700216251792 Pampers Harmonie pelenka 2-5kg /méret: 1 - 35 db
 8700216346757 Pampers Premium Care pelenka 2-5 kg /méret: 1 - 156 db
 8700216423915 Pampers Premium Care pelenka 15+kg/méret: 7 - 32 db
+8700216425773 Discreet Protective Waterlilly Plus tisztasági betét - 48 db
 8700216450287 Always Ultra Super Extra egészségügyi betét - 40 db
 8700216450294 Always Ultra Super Mega Pack egészségügyi betét - 48 db
 8700216450348 Always Ultra Normal egészségügyi betét - 56 db
@@ -1310,7 +1310,7 @@
 8710103989752 Avent Natural Response cumisüveg 330 ml - 1 db
 8710103989776 Philips Avent Natural Response cumisüveg 6 hónapos kortól 330 ml - 2 db
 8710103990352 Philips Avent Natural Response AirFree cumisüveg újszülött kortól 125 ml - 2 db
-8710103990383 Philips Avent Natural Response AirFree cumisüveg 3 hónapos kortól, 260 ml - 1 db
+8710103990383 Philips Avent Natural Response AirFree cumisüveg 3 hónapos kortól 260 ml - 1 db
 8710103990406 Philips Avent Natural Response AirFree cumisüveg 3 hónapos kortól 260 ml - 1 db
 8710103990420 Philips Avent Natural Response AirFree cumisüveg 3 hónapos kortól 260 ml - 1 db
 8710103990451 Philips Avent Natural Response cumisüveg újszülött kortól 125 ml - 2 db
@@ -1353,7 +1353,6 @@
 8720689041300 Avent Ultra Soft játszócumi 6-18 hónapos korig /lány - 2 db
 8720689041324 Avent Ultra Soft játszócumi 6-18 hónapos korig /fiú - 2 db
 8720689041577 Philips Avent Ultra Soft játszócumi 18 hónapos kortól - 2 db
-8720689041584 Philips Avent Ultra Soft játszócumi 18 hónapos kortól - 2 db
 8720689041683 Avent Ultra Soft játszócumi 0-6 hónapos korig /lány - 2 db
 8720689041690 Avent Ultra Soft játszócumi 6-18 hónapos korig /fiú - 2 db
 8720689041850 Philips Avent Ultra Air játszócumi 0-6 hónapos korig - 2 db

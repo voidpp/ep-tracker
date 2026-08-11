@@ -1,5 +1,126 @@
 [
   {
+    "date": "2026-08-11",
+    "rossmann": {
+      "added": [
+        {
+          "id": "3574660587524",
+          "name": "Johnson's Bedtime babaolaj - 200 ml"
+        },
+        {
+          "id": "3574661877471",
+          "name": "Johnson's testápoló babáknak - 300 ml"
+        },
+        {
+          "id": "3574669908429",
+          "name": "Johnson's 2 az 1-ben buborékos fürdető és tusfürdő - 500 ml"
+        },
+        {
+          "id": "3574669909952",
+          "name": "Johnson's Top To Toe babafürdető - 500 ml"
+        },
+        {
+          "id": "4005900695826",
+          "name": "NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml"
+        },
+        {
+          "id": "4068134120342",
+          "name": "Babydream szimmetrikus szilikon játszócumi 0-2 hónapos korig - 2 db"
+        },
+        {
+          "id": "5997672302196",
+          "name": "Milumil Optima 1 anyatej-helyettesítő tápszer 0 hónapos kortól - 900 g"
+        },
+        {
+          "id": "8006540491010",
+          "name": "Pampers Premium Care bugyipelenka 13-19 kg /méret: 6 - 93 db"
+        },
+        {
+          "id": "8006540855935",
+          "name": "Pampers Premium Care pelenka 9-14 kg /méret: 4 - 174 db"
+        },
+        {
+          "id": "8410207115889",
+          "name": "Johnson's babaolaj aloe verával - 200 ml"
+        },
+        {
+          "id": "8700216186742",
+          "name": "Always Platinum Secure Night Extra egészségügyi betét - 8 db"
+        },
+        {
+          "id": "8700216425773",
+          "name": "Discreet Protective Waterlilly Plus tisztasági betét - 48 db"
+        },
+        {
+          "id": "8710103990383",
+          "name": "Philips Avent Natural Response AirFree cumisüveg 3 hónapos kortól 260 ml - 1 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "3574660587524",
+          "name": "Johnson's Bedtime Babaolaj - 200 ml"
+        },
+        {
+          "id": "3574661877471",
+          "name": "Johnson's Bedtime babaápoló - 300 ml"
+        },
+        {
+          "id": "3574669908429",
+          "name": "Johnson's 2 az 1-ben buborékos fürdető és tusfürdő gyermekeknek - 500 ml"
+        },
+        {
+          "id": "3574669909952",
+          "name": "Johnson's Top-to-Toe® babatusfürdő - 500 ml"
+        },
+        {
+          "id": "3600542512961",
+          "name": "Garnier Ambre Solaire Sensitive Advanced naptej SPF 50+ - 150 ml"
+        },
+        {
+          "id": "3600542607544",
+          "name": "Garnier Ambre Solaire Sensitive Advanced Kids naptej spray SPF50+ - 150 ml"
+        },
+        {
+          "id": "5995000710378",
+          "name": "Caola Hello Summer naptej SPF30 - 200 ml"
+        },
+        {
+          "id": "5997672302196",
+          "name": "Milumil 1 Optima anyatej-helyettesítő tápszer 0 hónapos kortól - 900 g"
+        },
+        {
+          "id": "5998603320593",
+          "name": "Aloe Vera Organic napozó krém arcra és testre SPF50 - 150 ml"
+        },
+        {
+          "id": "6001051006267",
+          "name": "Nivea Sun Protect & Moisture Invisible Finish naptej FF50+ - 150 ml"
+        },
+        {
+          "id": "8006540497678",
+          "name": "Pampers Active Baby bugyipelenka 6kg - 11kg /méret: 3 - 204 db"
+        },
+        {
+          "id": "8410207115889",
+          "name": "Johnson's aloe vera babaolaj - 200 ml"
+        },
+        {
+          "id": "8710103990383",
+          "name": "Philips Avent Natural Response AirFree cumisüveg 3 hónapos kortól, 260 ml - 1 db"
+        },
+        {
+          "id": "8720689041584",
+          "name": "Philips Avent Ultra Soft játszócumi 18 hónapos kortól - 2 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-08",
     "rossmann": {
       "added": [
