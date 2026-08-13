@@ -273,14 +273,14 @@
 4068134192479 Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db
 4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
 4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
+4068134211392 Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db
+4068134211408 Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db
+4068134211415 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
 4084500759817 Clearblue Digitális terhességi teszt fogamzásjelzővel - 1 db
 4260206625797 WUNDmed kullancseltávolító készlet - 67 g
 4260206626565 Wundmed kullancseltávolító szett - 1 db
 4260537364556 Mabyen mandula olaj - 200 ml
 4262368741292 Mabyen babaápoló krém - 75 ml
-4305615062099 Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db
-4305615062105 Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db
-4305615062112 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
 4305615301686 Preventivo síkosító és masszázs gél - 200 ml
 4305615465616 Facelle Normal tampon - 64 db
 4305615465630 Facelle Mini tampon - 32 db
@@ -420,7 +420,7 @@
 5011831092220 Life Styles Skyn Large óvszer - 10 db
 5011831092251 LifeStyle Skyn Intense Feel óvszer - 10 db
 5011831103100 Life Style Skyn Elite óvszer - 10 db
-5013692273046 Jurassic World habfürdő - 300 ml
+5013692272551 Jurassic World habfürdő - 300 ml
 5019090117418 Munchkin mikrohullámú sterilizáló zacskó - 6 db
 5019090122573 Munchkin itatópohár súlyozott szívószálas kék - 1 db
 5019090124829 Munchkin itatópohár súlyozott szívószálas rózsaszín - 1 db
@@ -573,6 +573,7 @@
 5900095036142 Cleanic Pure Cotton éjszakai egészségügyi betét - 10 db
 5900095036548 Kindii Delicate Care nedves törlőkendő - 72 db
 5900516300487 Bella Nova Maxi egészségügyi betét - 10 db
+5900516301125 Bella Perfecta Slim Blue egészségügyi betét - 10 db
 5900516301194 Bella Nova szárnyas egészségügyi betét - 20 db
 5900516302016 Bella Perfecta Slim Night éjszakai egészségügyi betét - 7 db
 5900516302351 Bella For Teens Ultra Sensitive ultravékony légátereszto szárnyas egészségügyi betét - 10 db
@@ -613,6 +614,7 @@
 5900516714505 Bella panty intima 100 % pamut - 30 db
 5900516735319 Seni Lady Slim Micro inkontinencia betét - 20 db
 5900516744977 Seni Care nedves törlőkendő - 10 db
+5900516747114 Bella intim mosakodó - 250 ml
 5900516800529 Seni Lady Pants eldobható alsónemű női M - 10 db
 5900516800536 Seni Lady Pants eldobható alsónemű női L - 10 db
 5900516801656 Seni Man Light Level 1 férfi inkontinencia betét - 15 db
@@ -772,6 +774,7 @@
 5998400308985 Cerbona gluténmentes étcsokis-málnás müzliszelet - 35 g
 5998400310728 Cerbona gluténmentes almás-fahéjas zabkása - 50 g
 5998400313897 Cerbona gluténmentes epres-chia magos müzliszelet - 35 g
+5998400316577 Cerbona gluténmentes epres-citromos müzliszelet - 35 g
 5998400316607 Cerbona Rudi gluténmentes, laktózmentes zabrúd citromos töltelékkel, kakaós bevonattal - 30 g
 5998466503515 I-Care Lágy Lencséhez Kontaktlencsetisztító - 350 ml
 5998603320579 Aloe Vera Organic napozó krém arcra és testre SPF30 - 50 ml
@@ -832,6 +835,7 @@
 5999528942655 Canestest teszt hüvelyi fertőzésekre - 1 db
 5999528942662 Canesbalance hüvelygél - 7 db
 5999528943560 CanesFresh Sensitive intim mosakodógél - 200 ml
+5999528943577 Bepanthen Derma tápláló kézkrém - 50 ml
 5999528943614 Canesbalance hüvelykúp - 7 db
 5999538141437 Sunvita epres gyümölcsszelet - 20 g
 5999538141444 Sunvita almás gyümölcsszelet - 20 g
@@ -1239,6 +1243,13 @@
 8410376044959 Gullón Dibus Sharkies gluténmentes reggeliző keksz - 250 g
 8410757101165 Trompy babahintőpor - 500 g
 8411037885232 Mr. Brownie gluténmentes csokidarabos brownie - 150 g
+8436571632012 Babe koszmó elleni emulzió - 50 ml
+8437000945680 Babé testápoló - 500 ml
+8437000945697 Babé sampon - 200 ml
+8437000945710 Babé Atópiás fürdető - 200 ml
+8437000945727 Babé Atópiás testápoló - 200 ml
+8437000945734 Babé fürdető - 500 ml
+8437000945758 Babe Koszmó sampon - 200 ml
 8445290941176 Beba Supremepro 1 tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 400 g
 8445291080669 Beba ExpertPro HA AR speciális gyógyászati célra szánt élelmiszer születéstől kezdve 2x300 g - 600 g
 8445291667457 Lactogen Harmony 1 tejalapú anyatej-helyettesítő tápszer 0 hónapos kortól - 500 g
@@ -1343,7 +1354,6 @@
 8718627521939 Easytoys 7 ritmusú vibrációs tojás /fekete - 1 db
 8718627527825 Easytoys mini G-pont vibrátor /pink - 1 db
 8718627529676 Easytoys csiklókaros vibrátor /pink - 1 db
-8719327597866 Altruist Dermatologist fényvédő krém SPF 50 - 100 ml
 8720689002158 Philips Avent Advanced cumisüveg melegítő - 1 db
 8720689008112 Philips Avent kézi mellszívó készlet - 1 db
 8720689008280 Philips Avent mikrohullámú sterilizáló tasak - 5 db

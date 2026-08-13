@@ -1101,6 +1101,18 @@
       "name": "Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db"
     },
     {
+      "id": "4068134211392",
+      "name": "Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db"
+    },
+    {
+      "id": "4068134211408",
+      "name": "Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db"
+    },
+    {
+      "id": "4068134211415",
+      "name": "Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db"
+    },
+    {
       "id": "4084500759817",
       "name": "Clearblue Digitális terhességi teszt fogamzásjelzővel - 1 db"
     },
@@ -1119,18 +1131,6 @@
     {
       "id": "4262368741292",
       "name": "Mabyen babaápoló krém - 75 ml"
-    },
-    {
-      "id": "4305615062099",
-      "name": "Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db"
-    },
-    {
-      "id": "4305615062105",
-      "name": "Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db"
-    },
-    {
-      "id": "4305615062112",
-      "name": "Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db"
     },
     {
       "id": "4305615301686",
@@ -1689,7 +1689,7 @@
       "name": "Life Style Skyn Elite óvszer - 10 db"
     },
     {
-      "id": "5013692273046",
+      "id": "5013692272551",
       "name": "Jurassic World habfürdő - 300 ml"
     },
     {
@@ -2301,6 +2301,10 @@
       "name": "Bella Nova Maxi egészségügyi betét - 10 db"
     },
     {
+      "id": "5900516301125",
+      "name": "Bella Perfecta Slim Blue egészségügyi betét - 10 db"
+    },
+    {
       "id": "5900516301194",
       "name": "Bella Nova szárnyas egészségügyi betét - 20 db"
     },
@@ -2459,6 +2463,10 @@
     {
       "id": "5900516744977",
       "name": "Seni Care nedves törlőkendő - 10 db"
+    },
+    {
+      "id": "5900516747114",
+      "name": "Bella intim mosakodó - 250 ml"
     },
     {
       "id": "5900516800529",
@@ -3097,6 +3105,10 @@
       "name": "Cerbona gluténmentes epres-chia magos müzliszelet - 35 g"
     },
     {
+      "id": "5998400316577",
+      "name": "Cerbona gluténmentes epres-citromos müzliszelet - 35 g"
+    },
+    {
       "id": "5998400316607",
       "name": "Cerbona Rudi gluténmentes, laktózmentes zabrúd citromos töltelékkel, kakaós bevonattal - 30 g"
     },
@@ -3335,6 +3347,10 @@
     {
       "id": "5999528943560",
       "name": "CanesFresh Sensitive intim mosakodógél - 200 ml"
+    },
+    {
+      "id": "5999528943577",
+      "name": "Bepanthen Derma tápláló kézkrém - 50 ml"
     },
     {
       "id": "5999528943614",
@@ -4965,6 +4981,34 @@
       "name": "Mr. Brownie gluténmentes csokidarabos brownie - 150 g"
     },
     {
+      "id": "8436571632012",
+      "name": "Babe koszmó elleni emulzió - 50 ml"
+    },
+    {
+      "id": "8437000945680",
+      "name": "Babé testápoló - 500 ml"
+    },
+    {
+      "id": "8437000945697",
+      "name": "Babé sampon - 200 ml"
+    },
+    {
+      "id": "8437000945710",
+      "name": "Babé Atópiás fürdető - 200 ml"
+    },
+    {
+      "id": "8437000945727",
+      "name": "Babé Atópiás testápoló - 200 ml"
+    },
+    {
+      "id": "8437000945734",
+      "name": "Babé fürdető - 500 ml"
+    },
+    {
+      "id": "8437000945758",
+      "name": "Babe Koszmó sampon - 200 ml"
+    },
+    {
       "id": "8445290941176",
       "name": "Beba Supremepro 1 tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 400 g"
     },
@@ -5379,10 +5423,6 @@
     {
       "id": "8718627529676",
       "name": "Easytoys csiklókaros vibrátor /pink - 1 db"
-    },
-    {
-      "id": "8719327597866",
-      "name": "Altruist Dermatologist fényvédő krém SPF 50 - 100 ml"
     },
     {
       "id": "8720689002158",

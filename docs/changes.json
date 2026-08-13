@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-13",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4068134211392",
+          "name": "Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db"
+        },
+        {
+          "id": "4068134211408",
+          "name": "Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db"
+        },
+        {
+          "id": "4068134211415",
+          "name": "Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db"
+        },
+        {
+          "id": "5013692272551",
+          "name": "Jurassic World habfürdő - 300 ml"
+        },
+        {
+          "id": "5900516301125",
+          "name": "Bella Perfecta Slim Blue egészségügyi betét - 10 db"
+        },
+        {
+          "id": "5900516747114",
+          "name": "Bella intim mosakodó - 250 ml"
+        },
+        {
+          "id": "5998400316577",
+          "name": "Cerbona gluténmentes epres-citromos müzliszelet - 35 g"
+        },
+        {
+          "id": "5999528943577",
+          "name": "Bepanthen Derma tápláló kézkrém - 50 ml"
+        },
+        {
+          "id": "8436571632012",
+          "name": "Babe koszmó elleni emulzió - 50 ml"
+        },
+        {
+          "id": "8437000945680",
+          "name": "Babé testápoló - 500 ml"
+        },
+        {
+          "id": "8437000945697",
+          "name": "Babé sampon - 200 ml"
+        },
+        {
+          "id": "8437000945710",
+          "name": "Babé Atópiás fürdető - 200 ml"
+        },
+        {
+          "id": "8437000945727",
+          "name": "Babé Atópiás testápoló - 200 ml"
+        },
+        {
+          "id": "8437000945734",
+          "name": "Babé fürdető - 500 ml"
+        },
+        {
+          "id": "8437000945758",
+          "name": "Babe Koszmó sampon - 200 ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4305615062099",
+          "name": "Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db"
+        },
+        {
+          "id": "4305615062105",
+          "name": "Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db"
+        },
+        {
+          "id": "4305615062112",
+          "name": "Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db"
+        },
+        {
+          "id": "5013692273046",
+          "name": "Jurassic World habfürdő - 300 ml"
+        },
+        {
+          "id": "8719327597866",
+          "name": "Altruist Dermatologist fényvédő krém SPF 50 - 100 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-11",
     "rossmann": {
       "added": [
