@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-08-15",
+    "rossmann": {
+      "added": [
+        {
+          "id": "3574660464429",
+          "name": "Carefree Cotton Feel tisztasági betét - 76 db"
+        },
+        {
+          "id": "3574661651408",
+          "name": "Carefree 100% Organic Cotton Topsheet Normal tisztasági betét illatmentes - 30 db"
+        },
+        {
+          "id": "3574661776569",
+          "name": "o.b. menstruációs bugyi - 1 db"
+        },
+        {
+          "id": "3574661776903",
+          "name": "o.b. menstruációs bugyi - 1 db"
+        },
+        {
+          "id": "4047196067468",
+          "name": "Altapharma gyerek sebtapasz - 20 db"
+        },
+        {
+          "id": "4305615963549",
+          "name": "Facelle Silkfeel Super tampon - 32 db"
+        },
+        {
+          "id": "5900516004446",
+          "name": "Bella Perfecta Slim Green egészségügyi betét - 20 db"
+        },
+        {
+          "id": "5900516301934",
+          "name": "Bella Perfecta Slim Violet egészségügyi betét - 10 db"
+        },
+        {
+          "id": "5900516312381",
+          "name": "Bella Mini tisztasági betét - 36 db"
+        },
+        {
+          "id": "5900516713775",
+          "name": "Bella Panty Long tisztasági betét - 42 db"
+        },
+        {
+          "id": "5900516714437",
+          "name": "Bella Herbs Aloe Vera tisztasági betét - 1 db"
+        },
+        {
+          "id": "7322540083064",
+          "name": "Libresse Regular+ Natural Care egészségügyi betét - 10 db"
+        },
+        {
+          "id": "7322542145456",
+          "name": "Tena ProSkin Normal inkontinencia pelenkanadrág XL - 15 db"
+        },
+        {
+          "id": "8006540093849",
+          "name": "Always Ultra Secure Night Extra egészségügyi betét - 10 db"
+        },
+        {
+          "id": "8006540399521",
+          "name": "Naturella Ultra Night egészségügyi betét - 28 db"
+        },
+        {
+          "id": "8006540399569",
+          "name": "Naturella Ultra egészségügyi betét - 32 db"
+        },
+        {
+          "id": "8595611629617",
+          "name": "Dailee Pant Premium Maxi XXL inkontinencia nadrágpelenka - 10 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4047196041475",
+          "name": "Altapharma gyerek sebtapasz - 20 db"
+        },
+        {
+          "id": "4068134179937",
+          "name": "SunOzon naptej LSF50 - 200 ml"
+        },
+        {
+          "id": "5998603320579",
+          "name": "Aloe Vera Organic napozó krém arcra és testre SPF30 - 50 ml"
+        },
+        {
+          "id": "8001841041483",
+          "name": "Pampers Sensitive törlőkendő (12*52 db) - 624 db"
+        },
+        {
+          "id": "8718627529676",
+          "name": "Easytoys csiklókaros vibrátor /pink - 1 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-13",
     "rossmann": {
       "added": [

@@ -18,6 +18,7 @@
 3574660334913 Carefree Plus Long tisztasági betét lágy illattal - 24 db
 3574660464337 Carefree Cotton tisztasági betét friss illattal - 76 db
 3574660464368 Carefree Cotton Aloe tisztasági betét - 76 db
+3574660464429 Carefree Cotton Feel tisztasági betét - 76 db
 3574660587524 Johnson's Bedtime babaolaj - 200 ml
 3574660651751 Compeed vízhólyagtapasz vegyes méretben - 5 db
 3574660709216 Carefree Plus Large + Aloe tisztasági betét - 48 db
@@ -30,11 +31,14 @@
 3574661518503 Carefree Cotton illatmentes tisztasági betét - 34 db
 3574661604770 Carefree Plus Large Fresh tisztasági betét - 36 db
 3574661619156 o.b. Organic Super tampon - 16 db
+3574661651408 Carefree 100% Organic Cotton Topsheet Normal tisztasági betét illatmentes - 30 db
 3574661651439 Carefree 100% Organic Cotton Topsheet Long tisztasági betét illatmentes - 24 db
 3574661661988 Carefree Plus Large tisztasági betét illatmentes - 48 db
 3574661661995 Carefree Plus Large Fresh Scent tisztasági betét - 48 db
 3574661681238 Carefree Cotton Flexiform tisztasági betét friss illattal - 76 db
+3574661776569 o.b. menstruációs bugyi - 1 db
 3574661776873 o.b. menstruációs bugyi - 1 db
+3574661776903 o.b. menstruációs bugyi - 1 db
 3574661857633 o.b. ProComfort Super Plus tampon - 32 db
 3574661857640 o.b. ProComfort Super Plus tampon - 16 db
 3574661877471 Johnson's testápoló babáknak - 300 ml
@@ -176,7 +180,6 @@
 4047196039946 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196041444 Altapharma Strips vízálló sebtapasz - 40 db
 4047196041451 Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
-4047196041475 Altapharma gyerek sebtapasz - 20 db
 4047196043301 Altapharma hideg-/melegborogatás 13x14cm - 1 db
 4047196052228 Babydream Classic törlőkendő - 60db
 4047196052235 Babydream Érzékeny Bőrre Törlőkendő - 80 db
@@ -186,6 +189,7 @@
 4047196059371 Facelle tisztasági betét, ultra normál - 32 db
 4047196060384 Babydream játszócumi anatómiai szilikon 0-3h tároló dobozban - 2 db
 4047196062432 Babydream altatócumi 5 hónapos kortól - 2 db
+4047196067468 Altapharma gyerek sebtapasz - 20 db
 4062300267619 Hipp Babysanft nedves toalettpapír - 50 db
 4062300398900 Hipp Bio Combiotik tápszer újszülött kortól - 600 g
 4062300417311 HiPP Pre bio kecsketejalapú anyatej-helyettesítő tápszer újszülöttkortól - 400 g
@@ -263,7 +267,6 @@
 4068134179791 SunOzon napozó spray LSF50 - 200 ml
 4068134179883 SunOzon Kids naptej gyerekeknek LSF50 - 50 ml
 4068134179920 SunOzon Kids naptej gyerekeknek LSF50+ - 200 ml
-4068134179937 SunOzon naptej LSF50 - 200 ml
 4068134192417 Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db
 4068134192424 Babydream Maxi Plus nadrágpelenka 4+-os méret 9-15 kg - 36 db
 4068134192431 Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db
@@ -379,6 +382,7 @@
 4305615937038 Babydream XXL Megapack pelenka 5-ös, 10-16 kg - 102 db
 4305615963525 Facelle Silkfeel Mini tampon - 32 db
 4305615963532 Facelle SilkFeel Normal tampon - 32 db
+4305615963549 Facelle Silkfeel Super tampon - 32 db
 4305615965208 Facelle Pure intim mosakodógél parfümmentes - 300 ml
 4305615968766 Babydream fürdető és sampon utántöltő - 500 ml
 4305615969152 Facelle Sensitiv intim mosakodógél - 300 ml
@@ -572,9 +576,11 @@
 5900095036135 Cleanic Pure Cotton nappali egészségügyi betét - 10 db
 5900095036142 Cleanic Pure Cotton éjszakai egészségügyi betét - 10 db
 5900095036548 Kindii Delicate Care nedves törlőkendő - 72 db
+5900516004446 Bella Perfecta Slim Green egészségügyi betét - 20 db
 5900516300487 Bella Nova Maxi egészségügyi betét - 10 db
 5900516301125 Bella Perfecta Slim Blue egészségügyi betét - 10 db
 5900516301194 Bella Nova szárnyas egészségügyi betét - 20 db
+5900516301934 Bella Perfecta Slim Violet egészségügyi betét - 10 db
 5900516302016 Bella Perfecta Slim Night éjszakai egészségügyi betét - 7 db
 5900516302351 Bella For Teens Ultra Sensitive ultravékony légátereszto szárnyas egészségügyi betét - 10 db
 5900516302412 Bella for Teens Energy egészségügyi betét - 10 db
@@ -589,6 +595,7 @@
 5900516311582 Bella for Teens Sensitive tisztasági betét - 20 db
 5900516311612 Bella for Teens Relax illatosított tisztasági betét - 20 db
 5900516311643 Bella For Teens Energy vékony, légáteresztő tisztasági betét - 20 db
+5900516312381 Bella Mini tisztasági betét - 36 db
 5900516320287 Bella Tampon Mini tampon - 16 db
 5900516320300 Bella Tampo Regular tampon - 16 db
 5900516320324 Bella Super Plus tampon - 16 db
@@ -610,7 +617,9 @@
 5900516713201 Bella Perfecta Pure Normal ultravékony egészségügyi betét - 20 db
 5900516713348 Bella for Teens Energy Night egészségügyi betét - 8 db
 5900516713737 Bella for Teens Regular tampon - 16 db
+5900516713775 Bella Panty Long tisztasági betét - 42 db
 5900516714420 Bella Herbs tisztasági betét vasfű kivonattal - 60 db
+5900516714437 Bella Herbs Aloe Vera tisztasági betét - 1 db
 5900516714505 Bella panty intima 100 % pamut - 30 db
 5900516735319 Seni Lady Slim Micro inkontinencia betét - 20 db
 5900516744977 Seni Care nedves törlőkendő - 10 db
@@ -777,7 +786,6 @@
 5998400316577 Cerbona gluténmentes epres-citromos müzliszelet - 35 g
 5998400316607 Cerbona Rudi gluténmentes, laktózmentes zabrúd citromos töltelékkel, kakaós bevonattal - 30 g
 5998466503515 I-Care Lágy Lencséhez Kontaktlencsetisztító - 350 ml
-5998603320579 Aloe Vera Organic napozó krém arcra és testre SPF30 - 50 ml
 5998603321408 JimJams Antibakteriális kéz és bőrfertőtlenítő spray - 250 ml
 5998603321507 JimJams Antibakteriális kéz- és bőrfertőtlenítő spray - 50 ml
 5998603330431 JimJams Baby hipoallergén védőkrém - 100 ml
@@ -1000,6 +1008,7 @@
 7310790088731 Libresse Ultra Normal egészségügyi betét - 10 db
 7310791245607 Libresse Ultra Thin Normal vékony szárnyas egészségügyi betét - 20 db
 7310794282005 Libresse Dailies Classic Protection Regular tisztasági betét - 50 db
+7322540083064 Libresse Regular+ Natural Care egészségügyi betét - 10 db
 7322540137613 Libresse Natural Care Ultra Normal egészségügyi betét - 20 db
 7322540235876 Libresse Ultra Normal vékony szárnyas egészségügyi betét - 40 db
 7322540276855 Libresse Normal tisztasági betét - 58 db
@@ -1042,6 +1051,7 @@
 7322542083819 Libresse Natural Care normál tisztasági betét - 76 db
 7322542135587 Tena Pants Normal inkontinencia-nadrágpelenka M - 10 db
 7322542145050 Tena Pants Normal inkontinencia nadrág L - 10 db
+7322542145456 Tena ProSkin Normal inkontinencia pelenkanadrág XL - 15 db
 7322542264898 Libero Touch bugyipelenka 3-as méret, 5-8 kg - 90 db
 7322542265017 Libero Touch bugyipelenka 4-es méret, 7-10 kg - 87 db
 7322542265109 Libero Touch bugyipelenka 5-ös méret, 9-14 kg - 27 db
@@ -1095,7 +1105,6 @@
 8001090951618 Pampers Active Baby pelenka 9-14kg, méret: 4 - 132 db
 8001090951892 Pampers Active Baby pelenka 13-18 kg, méret: 6 - 96 db
 8001841041421 Pampers Sensitive nedves törlőkendő - 80 db
-8001841041483 Pampers Sensitive törlőkendő (12*52 db) - 624 db
 8001841062754 Pampers Sensitive nedves törlőkendő (4x80) - 320 db
 8001841063188 Pampers Sensitive nedves törlőkendő (15x80 db) - 1200 db
 8001841077598 Pampers Fresh Clean nedves törlőkendő - 80 db
@@ -1185,6 +1194,7 @@
 8006540069509 Pampers Active Baby Mega Pack bugyipelenka 11-17 kg, méret: 5 - 96 db
 8006540069530 Pampers Active Baby Mega Pack bugyipelenka 13-19 kg, méret: 6 - 84 db
 8006540069622 Pampers Active Baby Mega Pack bugyipelenka 15+ kg, méret: 7 - 74 db
+8006540093849 Always Ultra Secure Night Extra egészségügyi betét - 10 db
 8006540098257 Naturella Ultra Normal Plus egészségügyi betét - 18 db
 8006540100769 Naturella Normal Camomile tisztasági betét - 44 db
 8006540100806 Naturella Normal Camomile tisztasági betét - 74 db
@@ -1196,6 +1206,8 @@
 8006540234730 Pampers Night Pants éjszakai bugyipelenka 12-17 kg, méret: 5 - 22 db
 8006540234761 Pampers Night Pants éjszakai bugyipelenka 15+kg, méret: 6 - 19 db
 8006540300053 Blend-a-Dent Original Complete Duo műfogsorragasztó krém - 94 g
+8006540399521 Naturella Ultra Night egészségügyi betét - 28 db
+8006540399569 Naturella Ultra egészségügyi betét - 32 db
 8006540491010 Pampers Premium Care bugyipelenka 13-19 kg /méret: 6 - 93 db
 8006540499382 Pampers Active Baby Jumbo Pack bugyipelenka 17+kg, méret: 8 - 32 db
 8006540523056 Pampers Sensitive nedves törlőkendő - 52 db
@@ -1267,6 +1279,7 @@
 8595611628375 Dailee Discreet Premium Slim Extra inkontinencia betét – 30 db
 8595611628399 Dailee Discreet Premium Slim Maxi inkontinencia betét – 30 db
 8595611628870 Dailee Discreet Premium Slim Maxi Plus inkontinencia betét - 10 db
+8595611629617 Dailee Pant Premium Maxi XXL inkontinencia nadrágpelenka - 10 db
 8596024017619 Beliema Pro-Sensitive intim mosakodó - 200 ml
 8596024017954 Beliema Expert intim krém - 50 ml
 8596024018975 Beliema Effect Plus hüvelytabletta - 7 db
@@ -1353,7 +1366,6 @@
 8718627520024 Easyglide anál vízbázisú síkosító - 150 ml
 8718627521939 Easytoys 7 ritmusú vibrációs tojás /fekete - 1 db
 8718627527825 Easytoys mini G-pont vibrátor /pink - 1 db
-8718627529676 Easytoys csiklókaros vibrátor /pink - 1 db
 8720689002158 Philips Avent Advanced cumisüveg melegítő - 1 db
 8720689008112 Philips Avent kézi mellszívó készlet - 1 db
 8720689008280 Philips Avent mikrohullámú sterilizáló tasak - 5 db
