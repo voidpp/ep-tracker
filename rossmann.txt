@@ -228,7 +228,6 @@
 4068134094865 Babydream törlőkendő fémdobozban 99% vízzel - 60 db
 4068134101679 Babydream nedves törlőkendő 99°% vízzel - 20 db
 4068134107565 Babydream My Little Word törlőkendő - 35 db
-4068134107572 Babydream My Little Word törlőkendő - 60 db
 4068134111685 Babydream úszópelenka S-es méret 5-11 kg - 12 db
 4068134111692 Babydream úszópelenka M-es méret 9-15 kg - 12 db
 4068134111708 Babydream úszópelenka L-es méret 12-17 kg - 12 db
@@ -268,7 +267,6 @@
 4068134179883 SunOzon Kids naptej gyerekeknek LSF50 - 50 ml
 4068134179920 SunOzon Kids naptej gyerekeknek LSF50+ - 200 ml
 4068134192417 Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db
-4068134192424 Babydream Maxi Plus nadrágpelenka 4+-os méret 9-15 kg - 36 db
 4068134192431 Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db
 4068134192448 Babydream Junior+ nadrágpelenka 5+-os méret, 11-17 kg - 32 db
 4068134192455 Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db
@@ -341,7 +339,6 @@
 4305615719207 Isana fültisztító utántöltő - 160 db
 4305615719214 Isana dobozos kozmetikai pálcika - 200 db
 4305615737829 Babydream Ápoló Babaolaj - 250 ml
-4305615737836 Babydream Extra Sensitive Ápoló Babaolaj - 250 ml
 4305615737898 Babydream sampon babáknak - 250 ml
 4305615737904 Babydream Fürdető És Sampon - 500 ml
 4305615744315 Babydream Med testápoló - 200 ml
@@ -363,6 +360,7 @@
 4305615851891 Babydream Extra Sensitive Arckrém - 100 ml
 4305615852225 Babydream 1-es Tejalapú Anyatej-Helyettesíthető Tápszer Születéstől Kezdődően - 500 g
 4305615874852 Babydream testápoló tej - 250 ml
+4305615875040 Babydream Maxi Plus nadrágpelenka 4+-os méret 9-15 kg - 36 db
 4305615875118 Babydream pelenka duopack maxi 4- es 8-14 kg - 80 db
 4305615875125 Babydream Maxi Plusz nadrágpelenka 4+ 9-15 kg - 72 db
 4305615875132 Babydream Duopack Jumbo nadrágelenka 5-ös, 10-16 kg - 68 db
@@ -1222,7 +1220,6 @@
 8006540769973 Always Daily Fresh tisztasági betét - 76 db
 8006540778197 Always Daily Protect Long Deo tisztasági betét - 64 db
 8006540811085 Pampers Harmonie Aqua nedves törlőkendő - 10 db
-8006540811276 Pampers Harmonie Aqua törlőkendő - 1152 db
 8006540855812 Pampers Premium Care pelenka 4-8 kg/ méret: 2 - 136 db
 8006540855935 Pampers Premium Care pelenka 9-14 kg /méret: 4 - 174 db
 8006540857717 Pampers Premium Care pelenka 4-8 kg, méret: 2 - 88 db
