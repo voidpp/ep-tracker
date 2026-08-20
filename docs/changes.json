@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026-08-20",
+    "rossmann": {
+      "added": [
+        {
+          "id": "5054563309648",
+          "name": "Corega Ultimate Food Block műfogsorrögzítő - 40 g"
+        },
+        {
+          "id": "8445292189620",
+          "name": "Nestlé Sinlac rizs és szentjánoskenyérmag alapú banános pép 6 hónapos kortól - 300 g"
+        },
+        {
+          "id": "8718627529676",
+          "name": "Easytoys csiklókaros vibrátor /pink - 1 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134179920",
+          "name": "SunOzon Kids naptej gyerekeknek LSF50+ - 200 ml"
+        },
+        {
+          "id": "4305615827636",
+          "name": "SunOzon Sport napozó spray LSF50 - 200 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-18",
     "rossmann": {
       "added": [

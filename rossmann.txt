@@ -265,7 +265,6 @@
 4068134170484 Facelle Hipster menstruációs bugyi XL-es méret - 1 db
 4068134179791 SunOzon napozó spray LSF50 - 200 ml
 4068134179883 SunOzon Kids naptej gyerekeknek LSF50 - 50 ml
-4068134179920 SunOzon Kids naptej gyerekeknek LSF50+ - 200 ml
 4068134192417 Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db
 4068134192431 Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db
 4068134192448 Babydream Junior+ nadrágpelenka 5+-os méret, 11-17 kg - 32 db
@@ -348,7 +347,6 @@
 4305615761466 Babydream Natural mosakodó gél és sampon - 250 ml
 4305615761473 Babydream Natural mandulaolaj - 250 ml
 4305615761480 Babydream natural popsikrém - 75 ml
-4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
 4305615827711 SunOzon Med napozó spray LSF50+ - 200 ml
 4305615827933 SunOzon Med naptej LSF50 - 50 ml
 4305615827940 SunOzon Sport napozó spray LSF 30 - 75 ml
@@ -498,6 +496,7 @@
 5054563285980 Corega Tabs Bio Formula műfogsortisztító tabletta - 30 db
 5054563287632 Corega Bio Formula műfogsortisztító tabletta - 108 db
 5054563287847 Corega fehérítő hatású műfogsortisztító tabletta - 30 db
+5054563309648 Corega Ultimate Food Block műfogsorrögzítő - 40 g
 5056585803616 Scholl Freeze Away Max precíziós szemölcsfagyasztó spray - 35 ml
 5060062991000 Lansinoh éjszakai és nappali melltartóbetét - 60 db
 5060062991277 Lansinoh HPA Lanolin bimbóvédő krém - 10 ml
@@ -1262,6 +1261,7 @@
 8445290941176 Beba Supremepro 1 tejalapú anyatej-helyettesítő tápszer fehérje-hidrolizátumból 0 hónapos kortól - 400 g
 8445291080669 Beba ExpertPro HA AR speciális gyógyászati célra szánt élelmiszer születéstől kezdve 2x300 g - 600 g
 8445291667457 Lactogen Harmony 1 tejalapú anyatej-helyettesítő tápszer 0 hónapos kortól - 500 g
+8445292189620 Nestlé Sinlac rizs és szentjánoskenyérmag alapú banános pép 6 hónapos kortól - 300 g
 8588004638310 Biopont Biosaurus sajtos ízű sült kukoricás snack - 50 g
 8588004638327 Biopont Biosaurus ketchupos ízű sült kukoricás snack - 50 g
 8588007731865 Organique bio zöldséges burgonya snack - 85 g
@@ -1363,6 +1363,7 @@
 8718627520024 Easyglide anál vízbázisú síkosító - 150 ml
 8718627521939 Easytoys 7 ritmusú vibrációs tojás /fekete - 1 db
 8718627527825 Easytoys mini G-pont vibrátor /pink - 1 db
+8718627529676 Easytoys csiklókaros vibrátor /pink - 1 db
 8720689002158 Philips Avent Advanced cumisüveg melegítő - 1 db
 8720689008112 Philips Avent kézi mellszívó készlet - 1 db
 8720689008280 Philips Avent mikrohullámú sterilizáló tasak - 5 db
