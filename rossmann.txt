@@ -265,8 +265,7 @@
 4068134170484 Facelle Hipster menstruációs bugyi XL-es méret - 1 db
 4068134179791 SunOzon napozó spray LSF50 - 200 ml
 4068134179883 SunOzon Kids naptej gyerekeknek LSF50 - 50 ml
-4068134192417 Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db
-4068134192431 Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db
+4068134179937 SunOzon naptej LSF50 - 200 ml
 4068134192448 Babydream Junior+ nadrágpelenka 5+-os méret, 11-17 kg - 32 db
 4068134192455 Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db
 4068134192462 Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db
@@ -347,6 +346,7 @@
 4305615761466 Babydream Natural mosakodó gél és sampon - 250 ml
 4305615761473 Babydream Natural mandulaolaj - 250 ml
 4305615761480 Babydream natural popsikrém - 75 ml
+4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
 4305615827711 SunOzon Med napozó spray LSF50+ - 200 ml
 4305615827933 SunOzon Med naptej LSF50 - 50 ml
 4305615827940 SunOzon Sport napozó spray LSF 30 - 75 ml
@@ -355,10 +355,12 @@
 4305615835617 Babydream szilikon előke - 1 db
 4305615839165 Facelle Diskret Super egészségügyi betét - 10 db
 4305615839172 Facelle Diskret Super Plus inkontinencia betét - 10 db
+4305615851471 Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db
 4305615851891 Babydream Extra Sensitive Arckrém - 100 ml
 4305615852225 Babydream 1-es Tejalapú Anyatej-Helyettesíthető Tápszer Születéstől Kezdődően - 500 g
 4305615874852 Babydream testápoló tej - 250 ml
 4305615875040 Babydream Maxi Plus nadrágpelenka 4+-os méret 9-15 kg - 36 db
+4305615875057 Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db
 4305615875118 Babydream pelenka duopack maxi 4- es 8-14 kg - 80 db
 4305615875125 Babydream Maxi Plusz nadrágpelenka 4+ 9-15 kg - 72 db
 4305615875132 Babydream Duopack Jumbo nadrágelenka 5-ös, 10-16 kg - 68 db
@@ -1242,8 +1244,8 @@
 8058664138463 Chicco testápoló tej, mandulaolajjal - 500 ml
 8058664153480 Chicco tejfelfogó kagyló - 2 db
 8058664173747 Chicco tisztító kendő - 72 db
-8058664175956 Chicco Rózsaszín Színben Szilikon Altatócumi 0-6 Hónapos Korig - 1 db
-8058664175987 Chicco Kék Színben Szilikon Altatócumi 0-6 Hónapos Korig - 1 db
+8058664175956 Chicco PhysioForma Soft alvócumi 0-6 hónapos korig /rózsaszín - 1 db
+8058664175987 Chicco PhysioForma Soft alvócumi 0-6 hónapos korig /kék - 1 db
 8410076481597 Old El Paso sós tortilla chips - 185 g
 8410207115865 Johnson's babaolaj - 200 ml
 8410207115889 Johnson's babaolaj aloe verával - 200 ml
@@ -1445,7 +1447,7 @@
 9005800387468 Hansaplast Second Skin Protection sebtapasz - 6 db
 9005800388137 Hansaplast sebkezelő kenőcs - 50 g
 9005800397993 NIVEA INTIMO Sensitive Intim Mosakodógél - 250 ml
-9005800398013 NIVEA INTIMO Mild Intim Mosakodógél2 - 50 ml
+9005800398013 Nivea Intimo Mild intim mosakodógél - 250 ml
 9062300138075 Hipp 1 Bio Combiotik tejalapú anyatej-helyettesítő tápszer - 300 g
 9120044184533 Selenacare női inkotinencia alsó M-es - 1 db
 9120044184748 t.o.c. menstruációs kehely S - 1 db

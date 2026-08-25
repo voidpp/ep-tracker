@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-25",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4068134179937",
+          "name": "SunOzon naptej LSF50 - 200 ml"
+        },
+        {
+          "id": "4305615827636",
+          "name": "SunOzon Sport napozó spray LSF50 - 200 ml"
+        },
+        {
+          "id": "4305615851471",
+          "name": "Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db"
+        },
+        {
+          "id": "4305615875057",
+          "name": "Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db"
+        },
+        {
+          "id": "8058664175956",
+          "name": "Chicco PhysioForma Soft alvócumi 0-6 hónapos korig /rózsaszín - 1 db"
+        },
+        {
+          "id": "8058664175987",
+          "name": "Chicco PhysioForma Soft alvócumi 0-6 hónapos korig /kék - 1 db"
+        },
+        {
+          "id": "9005800398013",
+          "name": "Nivea Intimo Mild intim mosakodógél - 250 ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134192417",
+          "name": "Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db"
+        },
+        {
+          "id": "4068134192431",
+          "name": "Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db"
+        },
+        {
+          "id": "8058664175956",
+          "name": "Chicco Rózsaszín Színben Szilikon Altatócumi 0-6 Hónapos Korig - 1 db"
+        },
+        {
+          "id": "8058664175987",
+          "name": "Chicco Kék Színben Szilikon Altatócumi 0-6 Hónapos Korig - 1 db"
+        },
+        {
+          "id": "9005800398013",
+          "name": "NIVEA INTIMO Mild Intim Mosakodógél2 - 50 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-20",
     "rossmann": {
       "added": [
