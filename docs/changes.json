@@ -1,5 +1,114 @@
 [
   {
+    "date": "2026-08-28",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4047196067451",
+          "name": "Altapharma Strips vízálló sebtapasz - 40 db"
+        },
+        {
+          "id": "4068134138538",
+          "name": "Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db"
+        },
+        {
+          "id": "4068134215246",
+          "name": "Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db"
+        },
+        {
+          "id": "4068134215253",
+          "name": "Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db"
+        },
+        {
+          "id": "8058664059010",
+          "name": "Chicco PhysioForma Comfort cumi 0-6 hónapos korig /rózsaszín - 1 db"
+        },
+        {
+          "id": "8058664059034",
+          "name": "Chicco PhysioForma Comfort cumi 0-6 hónapos korig /kék - 1 db"
+        },
+        {
+          "id": "8058664059041",
+          "name": "Chicco PhysioForma Comfort cumi 6-16 hónapos korig /rózsaszín - 1 db"
+        },
+        {
+          "id": "8058664059058",
+          "name": "Chicco PhysioForma Comfort cumi 6-16 hónapos korig /kék - 1 db"
+        },
+        {
+          "id": "8058664138463",
+          "name": "Chicco testápoló tej mandulaolajjal - 500 ml"
+        },
+        {
+          "id": "8058664173747",
+          "name": "Chicco tisztító törlőkendő lótuszvízzel - 72 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4047196041444",
+          "name": "Altapharma Strips vízálló sebtapasz - 40 db"
+        },
+        {
+          "id": "4068134081933",
+          "name": "Babydream ápoló fürdető - 750 ml"
+        },
+        {
+          "id": "4068134179791",
+          "name": "SunOzon napozó spray LSF50 - 200 ml"
+        },
+        {
+          "id": "4068134192455",
+          "name": "Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db"
+        },
+        {
+          "id": "4305615544069",
+          "name": "Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db"
+        },
+        {
+          "id": "4305615617503",
+          "name": "Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db"
+        },
+        {
+          "id": "4305615827940",
+          "name": "SunOzon Sport napozó spray LSF 30 - 75 ml"
+        },
+        {
+          "id": "8058664059010",
+          "name": "Chicco Physio Comfort Szilikon Cumi - 1 db"
+        },
+        {
+          "id": "8058664059034",
+          "name": "Chicco Physio Comfort Szilikon Cumi - 1 db"
+        },
+        {
+          "id": "8058664059041",
+          "name": "Chicco Physio Comfort szilikon cumi 6-16 hónapos kortól, rózsaszín - 1 db"
+        },
+        {
+          "id": "8058664059058",
+          "name": "Chicco Physio Comfort szilikon cumi 6-16 hónapos kortól, kék - 1 db"
+        },
+        {
+          "id": "8058664138463",
+          "name": "Chicco testápoló tej, mandulaolajjal - 500 ml"
+        },
+        {
+          "id": "8058664173747",
+          "name": "Chicco tisztító kendő - 72 db"
+        },
+        {
+          "id": "8410076481597",
+          "name": "Old El Paso sós tortilla chips - 185 g"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-25",
     "rossmann": {
       "added": [

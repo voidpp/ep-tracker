@@ -178,7 +178,6 @@
 4028403122613 Soft-Tampons Mini tampon - 3 db
 4035223330500 Erős aqua vízbázisú síkosító - 50 ml
 4047196039946 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
-4047196041444 Altapharma Strips vízálló sebtapasz - 40 db
 4047196041451 Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196043301 Altapharma hideg-/melegborogatás 13x14cm - 1 db
 4047196052228 Babydream Classic törlőkendő - 60db
@@ -189,6 +188,7 @@
 4047196059371 Facelle tisztasági betét, ultra normál - 32 db
 4047196060384 Babydream játszócumi anatómiai szilikon 0-3h tároló dobozban - 2 db
 4047196062432 Babydream altatócumi 5 hónapos kortól - 2 db
+4047196067451 Altapharma Strips vízálló sebtapasz - 40 db
 4047196067468 Altapharma gyerek sebtapasz - 20 db
 4062300267619 Hipp Babysanft nedves toalettpapír - 50 db
 4062300398900 Hipp Bio Combiotik tápszer újszülött kortól - 600 g
@@ -221,7 +221,6 @@
 4068134067791 Facelle Daily Fresh tisztasági betét - 50 db
 4068134071996 Babydream Extra Sensitive fürdető és sampon - 500 ml
 4068134072009 Babydream Sensitive mosokodó és sampon utántöltő - 500 ml
-4068134081933 Babydream ápoló fürdető - 750 ml
 4068134083609 Babydream Mamas mellbimbó párna - 20 db
 4068134088062 Babydream Jumbo bugyipelenka 4-es 9-15 kg - 44 db
 4068134093639 Babydream Jó Éjszakát testápoló - 100 ml
@@ -245,6 +244,7 @@
 4068134125873 Facelle extra hosszú illatosított tisztasági betét - 35 db
 4068134138064 Babydream kenőcs panthenollal - 50 ml
 4068134138187 Prokudent Doboz protézistisztító - 1 db
+4068134138538 Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db
 4068134138576 Babydream Junior Plus nadrágpelenka 5+-os méret, 11-17 kg - 64 db
 4068134138583 Babydream XL nadrágpelenka 6-os méret, 14-20 kg - 60 db
 4068134138606 Babydream XXL nadrágpelenka 7-es méret, 16 kg-tól - 56 db
@@ -263,11 +263,9 @@
 4068134170460 Facelle Hipster menstruációs bugyi M-es méret - 1 db
 4068134170477 Facelle Hipster menstruációs bugyi L-es méret - 1 db
 4068134170484 Facelle Hipster menstruációs bugyi XL-es méret - 1 db
-4068134179791 SunOzon napozó spray LSF50 - 200 ml
 4068134179883 SunOzon Kids naptej gyerekeknek LSF50 - 50 ml
 4068134179937 SunOzon naptej LSF50 - 200 ml
 4068134192448 Babydream Junior+ nadrágpelenka 5+-os méret, 11-17 kg - 32 db
-4068134192455 Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db
 4068134192462 Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db
 4068134192479 Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db
 4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
@@ -275,6 +273,8 @@
 4068134211392 Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db
 4068134211408 Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db
 4068134211415 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
+4068134215246 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
+4068134215253 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
 4084500759817 Clearblue Digitális terhességi teszt fogamzásjelzővel - 1 db
 4260206625797 WUNDmed kullancseltávolító készlet - 67 g
 4260206626565 Wundmed kullancseltávolító szett - 1 db
@@ -309,7 +309,6 @@
 4305615544021 Babydream Extra Sensitive Törlőkendő - 160 db
 4305615544038 Babydream Extra Sensitive törlőkendő - 320 db
 4305615544045 Babydream Dobozos Törlőkendő - 80 db
-4305615544069 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
 4305615544144 Babydream száraz törlőkendő - 100 db
 4305615544267 Babydream melltartóbetét - 30 db
 4305615544298 Babydream Mamas testápoló olaj kismamáknak - 250 ml
@@ -322,7 +321,6 @@
 4305615604763 Babydream Extra Sensitive nedves törlőkendő - 80 db
 4305615604992 Facelle Ultra Mini inkontinencia betét - 26 db
 4305615605005 Facelle Diskret Ultra Mini Plus tisztasági betét - 20 db
-4305615617503 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
 4305615619347 Altapharma sebkezelő spray - 50 ml
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night Protect tampon - 16 db
@@ -349,7 +347,6 @@
 4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
 4305615827711 SunOzon Med napozó spray LSF50+ - 200 ml
 4305615827933 SunOzon Med naptej LSF50 - 50 ml
-4305615827940 SunOzon Sport napozó spray LSF 30 - 75 ml
 4305615828152 Babydream Napkrém 50+ Faktor - 200ml
 4305615831350 Facelle Diskret inkontinencia bugyi XXL-es méret - 10 db
 4305615835617 Babydream szilikon előke - 1 db
@@ -1236,17 +1233,16 @@
 8033224601632 Laica flexibilis digitális lázmérő - 1 db
 8056420222463 Beper P303MED001 többfunkciós infra hőmérő - 1 db
 8058664008094 Chicco Natural Ferde Műanyag Cumisüveg 150ml 0 Hónapos Kortól - 1 db
-8058664059010 Chicco Physio Comfort Szilikon Cumi - 1 db
-8058664059034 Chicco Physio Comfort Szilikon Cumi - 1 db
-8058664059041 Chicco Physio Comfort szilikon cumi 6-16 hónapos kortól, rózsaszín - 1 db
-8058664059058 Chicco Physio Comfort szilikon cumi 6-16 hónapos kortól, kék - 1 db
+8058664059010 Chicco PhysioForma Comfort cumi 0-6 hónapos korig /rózsaszín - 1 db
+8058664059034 Chicco PhysioForma Comfort cumi 0-6 hónapos korig /kék - 1 db
+8058664059041 Chicco PhysioForma Comfort cumi 6-16 hónapos korig /rózsaszín - 1 db
+8058664059058 Chicco PhysioForma Comfort cumi 6-16 hónapos korig /kék - 1 db
 8058664138333 Chicco Protection tusfürdő körömvirággal - 500 ml
-8058664138463 Chicco testápoló tej, mandulaolajjal - 500 ml
+8058664138463 Chicco testápoló tej mandulaolajjal - 500 ml
 8058664153480 Chicco tejfelfogó kagyló - 2 db
-8058664173747 Chicco tisztító kendő - 72 db
+8058664173747 Chicco tisztító törlőkendő lótuszvízzel - 72 db
 8058664175956 Chicco PhysioForma Soft alvócumi 0-6 hónapos korig /rózsaszín - 1 db
 8058664175987 Chicco PhysioForma Soft alvócumi 0-6 hónapos korig /kék - 1 db
-8410076481597 Old El Paso sós tortilla chips - 185 g
 8410207115865 Johnson's babaolaj - 200 ml
 8410207115889 Johnson's babaolaj aloe verával - 200 ml
 8410376017342 Gullón gluténmentes keksz csokoládé darabokkal - 200 g
