@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-29",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4068134014740",
+          "name": "SunOzon fényvédő stick LSF50+ - 20 g"
+        },
+        {
+          "id": "4068134083029",
+          "name": "SunOzon Sensitiv napozó spray LFS50 - 200 ml"
+        },
+        {
+          "id": "5391533830055",
+          "name": "ClevaMama szilikon etetőháló és pótháló - 1 db"
+        },
+        {
+          "id": "5995327208404",
+          "name": "Neogranormon Baby Aloe Vera törlőkendő 4x72 db - 288 db"
+        },
+        {
+          "id": "5995327208435",
+          "name": "Neogranormon Baby Sensitive törlőkendő 4x72 db - 288 db"
+        },
+        {
+          "id": "5995327208459",
+          "name": "Neogranormon Baby Sensitive törlőkendő - 72 db"
+        },
+        {
+          "id": "8588009456759",
+          "name": "X-Epil Intimo Meno Balance hüvelykúp - 10 db"
+        },
+        {
+          "id": "8719327597866",
+          "name": "Altruist Dermatologist fényvédő krém SPF 50 - 100 ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4305615827636",
+          "name": "SunOzon Sport napozó spray LSF50 - 200 ml"
+        },
+        {
+          "id": "4305615827933",
+          "name": "SunOzon Med naptej LSF50 - 50 ml"
+        },
+        {
+          "id": "5995327201498",
+          "name": "Neogranormon törlőkendő - 55 db"
+        },
+        {
+          "id": "5997742301753",
+          "name": "Dr.Kelen Sun F50+ Arcra napkrém - 1 db"
+        },
+        {
+          "id": "8712175938232",
+          "name": "Altapharma sebtapasz vízálló aqua kids - 20 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-28",
     "rossmann": {
       "added": [
