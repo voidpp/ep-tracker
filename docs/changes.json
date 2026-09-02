@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-09-02",
+    "rossmann": {
+      "added": [],
+      "removed": [
+        {
+          "id": "4005900695826",
+          "name": "NIVEA SUN Protect & Dry Touch napozó spray FF50 - 200 ml"
+        },
+        {
+          "id": "4068134179937",
+          "name": "SunOzon naptej LSF50 - 200 ml"
+        },
+        {
+          "id": "4305615604763",
+          "name": "Babydream Extra Sensitive nedves törlőkendő - 80 db"
+        },
+        {
+          "id": "4305615827711",
+          "name": "SunOzon Med napozó spray LSF50+ - 200 ml"
+        },
+        {
+          "id": "5391520944543",
+          "name": "Lactacyd Daily intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5995000710361",
+          "name": "Caola Hello Summer Kids napvédő spray SPF50+ - 200 ml"
+        },
+        {
+          "id": "5997742302194",
+          "name": "Dr.Kelen gyerek napspray F50+ - 150 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-08-29",
     "rossmann": {
       "added": [
