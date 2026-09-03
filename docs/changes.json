@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-09-03",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4068134138552",
+          "name": "Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134107565",
+          "name": "Babydream My Little Word törlőkendő - 35 db"
+        },
+        {
+          "id": "4068134192479",
+          "name": "Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db"
+        },
+        {
+          "id": "5391520948176",
+          "name": "Lactacyd Oxygen Fresh intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5391520949616",
+          "name": "Lactacyd Prebiotic Plus intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5391520951527",
+          "name": "Lactacyd Classic intim mosakodógél - 400 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-09-02",
     "rossmann": {
       "added": [],

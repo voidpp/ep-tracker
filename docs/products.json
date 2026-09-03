@@ -917,10 +917,6 @@
       "name": "Babydream nedves törlőkendő 99°% vízzel - 20 db"
     },
     {
-      "id": "4068134107565",
-      "name": "Babydream My Little Word törlőkendő - 35 db"
-    },
-    {
       "id": "4068134111685",
       "name": "Babydream úszópelenka S-es méret 5-11 kg - 12 db"
     },
@@ -991,6 +987,10 @@
     {
       "id": "4068134138538",
       "name": "Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db"
+    },
+    {
+      "id": "4068134138552",
+      "name": "Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db"
     },
     {
       "id": "4068134138576",
@@ -1075,10 +1075,6 @@
     {
       "id": "4068134192462",
       "name": "Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db"
-    },
-    {
-      "id": "4068134192479",
-      "name": "Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db"
     },
     {
       "id": "4068134200372",
@@ -2133,24 +2129,12 @@
       "name": "Lactacyd Pharma intim mosakodó antibakteriális hatóanyagokkal - 250 ml"
     },
     {
-      "id": "5391520948176",
-      "name": "Lactacyd Oxygen Fresh intim mosakodó - 200 ml"
-    },
-    {
-      "id": "5391520949616",
-      "name": "Lactacyd Prebiotic Plus intim mosakodó - 200 ml"
-    },
-    {
       "id": "5391520951503",
       "name": "Lactacyd Pharma nyugtató hatású intim mosakodó - 250 ml"
     },
     {
       "id": "5391520951510",
       "name": "Lactacyd Femina intim mosakodógél - 200 ml"
-    },
-    {
-      "id": "5391520951527",
-      "name": "Lactacyd Classic intim mosakodógél - 400 ml"
     },
     {
       "id": "5391520951541",

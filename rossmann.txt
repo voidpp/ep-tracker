@@ -227,7 +227,6 @@
 4068134093639 Babydream Jó Éjszakát testápoló - 100 ml
 4068134094865 Babydream törlőkendő fémdobozban 99% vízzel - 60 db
 4068134101679 Babydream nedves törlőkendő 99°% vízzel - 20 db
-4068134107565 Babydream My Little Word törlőkendő - 35 db
 4068134111685 Babydream úszópelenka S-es méret 5-11 kg - 12 db
 4068134111692 Babydream úszópelenka M-es méret 9-15 kg - 12 db
 4068134111708 Babydream úszópelenka L-es méret 12-17 kg - 12 db
@@ -246,6 +245,7 @@
 4068134138064 Babydream kenőcs panthenollal - 50 ml
 4068134138187 Prokudent Doboz protézistisztító - 1 db
 4068134138538 Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db
+4068134138552 Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db
 4068134138576 Babydream Junior Plus nadrágpelenka 5+-os méret, 11-17 kg - 64 db
 4068134138583 Babydream XL nadrágpelenka 6-os méret, 14-20 kg - 60 db
 4068134138606 Babydream XXL nadrágpelenka 7-es méret, 16 kg-tól - 56 db
@@ -267,7 +267,6 @@
 4068134179883 SunOzon Kids naptej gyerekeknek LSF50 - 50 ml
 4068134192448 Babydream Junior+ nadrágpelenka 5+-os méret, 11-17 kg - 32 db
 4068134192462 Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db
-4068134192479 Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db
 4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
 4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
 4068134211392 Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db
@@ -531,11 +530,8 @@
 5203937002375 Orino gluténmentes szezámmagos szelet mézzel - 45 g
 5391520943560 Lactacyd intim törlőkendő - 15 db
 5391520944505 Lactacyd Pharma intim mosakodó antibakteriális hatóanyagokkal - 250 ml
-5391520948176 Lactacyd Oxygen Fresh intim mosakodó - 200 ml
-5391520949616 Lactacyd Prebiotic Plus intim mosakodó - 200 ml
 5391520951503 Lactacyd Pharma nyugtató hatású intim mosakodó - 250 ml
 5391520951510 Lactacyd Femina intim mosakodógél - 200 ml
-5391520951527 Lactacyd Classic intim mosakodógél - 400 ml
 5391520951541 Lactacyd Sensitive intim mosakodó gél - 200 ml
 5391520951558 Lactacyd Soothing intim mosakodó - 200 ml
 5391533830055 ClevaMama szilikon etetőháló és pótháló - 1 db
