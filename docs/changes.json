@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-15",
+    "rossmann": {
+      "added": [],
+      "removed": [
+        {
+          "id": "4305615689241",
+          "name": "Alterra naptej F50 - 75 ml"
+        },
+        {
+          "id": "5900717801011",
+          "name": "Lirene Lactima Intense Intim mosakodó gél - 300 ml"
+        },
+        {
+          "id": "5995327201481",
+          "name": "Neogranormon törlőkendő 4x55 db - 220 db"
+        },
+        {
+          "id": "5997321776125",
+          "name": "Durex Invisible extra vékony óvszer - 10 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-09-13",
     "rossmann": {
       "added": [

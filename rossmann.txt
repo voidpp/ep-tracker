@@ -324,7 +324,6 @@
 4305615619347 Altapharma sebkezelő spray - 50 ml
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night Protect tampon - 16 db
-4305615689241 Alterra naptej F50 - 75 ml
 4305615691800 Facelle Ultra Protect éjszakai egészségügyi betét - 8 db
 4305615696690 Babydream cumisüveg 0-6 hónapos korig 240 ml - 1 db
 4305615696713 Babydream cumisüveg széles nyakú 0-6 hónapos korig 300 ml - 1 db
@@ -615,7 +614,6 @@
 5900516801656 Seni Man Light Level 1 férfi inkontinencia betét - 15 db
 5900516801663 Seni Man Normal Level 2 férfi inkontinencia betét - 15 db
 5900516801670 Seni Man Extra Level 3 inkontinencia betét - 15 db
-5900717801011 Lirene Lactima Intense Intim mosakodó gél - 300 ml
 5900852036514 Milumil HA Start Prosyneo anyatej-helyettesítő tápszer 0 hónapos kortól - 400 g
 5900852068720 Milupa 1 tejalapú anyatej-helyettesítő tápszer 0 hónapos kortól - 600 g
 5900931033106 Bobini Baby 2in1 fürdető és sampon - 500 ml
@@ -699,7 +697,6 @@
 5995327201429 Neogranormon Baby védőkrém - 100 g
 5995327201436 Neogranormon Baby védőkrém - 150 g
 5995327201443 Neogranormon Baby védőkrém - 30 g
-5995327201481 Neogranormon törlőkendő 4x55 db - 220 db
 5995327208404 Neogranormon Baby Aloe Vera törlőkendő 4x72 db - 288 db
 5995327208435 Neogranormon Baby Sensitive törlőkendő 4x72 db - 288 db
 5995327208459 Neogranormon Baby Sensitive törlőkendő - 72 db
@@ -736,7 +733,6 @@
 5997321773476 Durex extended pleasure óvszer - 10 db
 5997321773506 Durex Naturals Extra Sensitive síkosító - 100 ml
 5997321774015 Durex óvszer intense - 16 db
-5997321776125 Durex Invisible extra vékony óvszer - 10 db
 5997321776675 Durex Extra Safe óvszer - 24 db
 5997321776767 Durex Feel Intimate óvszer - 2x12 db
 5997321776774 Durex Feel Thin óvszer - 2x12 db
