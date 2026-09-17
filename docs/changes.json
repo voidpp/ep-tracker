@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-09-17",
+    "rossmann": {
+      "added": [
+        {
+          "id": "3574661879512",
+          "name": "Johnson's Baby Comfort Touch tusfürdő és sampon - 500 ml"
+        },
+        {
+          "id": "4018639010303",
+          "name": "Moltex Pure nadrágpelenka 3-as méret, 4-9 kg - 132 db"
+        },
+        {
+          "id": "4018639010310",
+          "name": "Moltex Pure nadrágpelenka 6-os méret, 16+ kg - 84 db"
+        },
+        {
+          "id": "4018639010327",
+          "name": "Moltex Pure nadrágpelenka 2-es méret, 3-6 kg - 152 db"
+        },
+        {
+          "id": "4062300419391",
+          "name": "Hipp Babysanft pumpás mosakodógél - 400 ml"
+        },
+        {
+          "id": "4305615828152",
+          "name": "Babydream Napkrém 50+ Faktor - 200ml"
+        },
+        {
+          "id": "5411416061885",
+          "name": "Moltex Pure nedves törlőkendő - 60 db"
+        },
+        {
+          "id": "5411416075578",
+          "name": "Moltex Pure nadrágpelenka 4-es méret, 7-14 kg - 145 db"
+        },
+        {
+          "id": "5411416075585",
+          "name": "Moltex Pure nadrágpelenka 5-ös méret, 11-16 kg - 125 db"
+        },
+        {
+          "id": "5997953129955",
+          "name": "Babybruin tejgyűjtő zacskó 350 ml - 20 db"
+        },
+        {
+          "id": "5997953130968",
+          "name": "BabyBruin textilpelenka - 4 db"
+        },
+        {
+          "id": "8700216865029",
+          "name": "Pampers Premium Care nadrágpelenka 6-os méret, 13kg-18kg - 50 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "3574661879512",
+          "name": "Johnson's Cottontouch 2 az 1-ben babafürdető és -tusfürdő - 500 ml"
+        },
+        {
+          "id": "4018639010303",
+          "name": "Moltex Pure & Nature Midi öko pelenka 4-9 kg - 132 kg"
+        },
+        {
+          "id": "4018639010310",
+          "name": "Moltex Pure & Nature XL öko pelenka 16-30 kg - 84 db"
+        },
+        {
+          "id": "4018639010327",
+          "name": "Moltex Pure & Nature Mini öko pelenka 3-6 kg - 152 kg"
+        },
+        {
+          "id": "4062300419391",
+          "name": "Hipp Babysanft mosakodógél pumpás - 400 ml"
+        },
+        {
+          "id": "4068134125705",
+          "name": "Facelle ovulációs tesztcsík - 15 db"
+        },
+        {
+          "id": "4305615827636",
+          "name": "SunOzon Sport napozó spray LSF50 - 200 ml"
+        },
+        {
+          "id": "5411416061885",
+          "name": "Moltex Pure&Nature nedves törlőkendő - 60 db"
+        },
+        {
+          "id": "5411416075578",
+          "name": "Moltex Pure&Nat Öko pelenka, megapack 7-14 kg - 145 db"
+        },
+        {
+          "id": "5411416075585",
+          "name": "Moltex Pure&Nat Öko pelenka, megapack 11-25 kg - 125 db"
+        },
+        {
+          "id": "5997953129955",
+          "name": "Babybruin Tejgyűjtő Zacskó 350 ml - 20 db"
+        },
+        {
+          "id": "5997953130968",
+          "name": "Babybruin Textilpelenka - 4 db"
+        },
+        {
+          "id": "8700216865029",
+          "name": "Pampers Premium Care nadrágelenka 6-os méret 13kg-18kg - 50 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-09-15",
     "rossmann": {
       "added": [],

@@ -42,7 +42,7 @@
 3574661857633 o.b. ProComfort Super Plus tampon - 32 db
 3574661857640 o.b. ProComfort Super Plus tampon - 16 db
 3574661877471 Johnson's testápoló babáknak - 300 ml
-3574661879512 Johnson's Cottontouch 2 az 1-ben babafürdető és -tusfürdő - 500 ml
+3574661879512 Johnson's Baby Comfort Touch tusfürdő és sampon - 500 ml
 3574661883298 Jonhson's babahintőpor - 100 g
 3574661899992 o.bo. ProComfort Normal tampon - 32 db
 3574661900209 o.b. ProComfort Super tampon - 32 db
@@ -151,9 +151,9 @@
 4016369621110 Dr.Theiss Echinacea csepp - 50 ml
 4016369629130 Dr. Theiss tengervizes orrspray - 20 ml
 4018639010297 Moltex Pure & Nature Newborn öko pelenka 2-4 kg - 88 db
-4018639010303 Moltex Pure & Nature Midi öko pelenka 4-9 kg - 132 kg
-4018639010310 Moltex Pure & Nature XL öko pelenka 16-30 kg - 84 db
-4018639010327 Moltex Pure & Nature Mini öko pelenka 3-6 kg - 152 kg
+4018639010303 Moltex Pure nadrágpelenka 3-as méret, 4-9 kg - 132 db
+4018639010310 Moltex Pure nadrágpelenka 6-os méret, 16+ kg - 84 db
+4018639010327 Moltex Pure nadrágpelenka 2-es méret, 3-6 kg - 152 db
 4019042000011 Masculan Sensitive 1 gumióvszer - 10 db
 4019042000028 Masculan 2 gumióvszer - 10 db
 4019042000035 Masculan 3 gumióvszer - 10 db
@@ -198,7 +198,7 @@
 4062300419346 Hipp Babysanft családi habfürdő - 1000 ml
 4062300419353 Hipp Babysanft Szép Álmokat fürdető - 350 ml
 4062300419377 Hipp Babysanft babasampon - 200 ml
-4062300419391 Hipp Babysanft mosakodógél pumpás - 400 ml
+4062300419391 Hipp Babysanft pumpás mosakodógél - 400 ml
 4062300419421 Hipp BabySanft testápoló - 350 ml
 4062300419445 Hipp Babysanft babaolaj - 200 ml
 4062300445475 Hipp Babysanft Soft&Pure nedves törlőkendő 3x48 db - 144 db
@@ -237,7 +237,6 @@
 4068134119216 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
 4068134119223 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
 4068134120342 Babydream szimmetrikus szilikon játszócumi 0-2 hónapos korig - 2 db
-4068134125705 Facelle ovulációs tesztcsík - 15 db
 4068134125767 Facelle Maxi éjszakai egészségügyi betét - 12 db
 4068134125842 Facelle Comfort tisztasági betét - 50 db
 4068134125859 Facelle Comfort illatosított tisztasági betét - 50 db
@@ -343,7 +342,7 @@
 4305615761466 Babydream Natural mosakodó gél és sampon - 250 ml
 4305615761473 Babydream Natural mandulaolaj - 250 ml
 4305615761480 Babydream natural popsikrém - 75 ml
-4305615827636 SunOzon Sport napozó spray LSF50 - 200 ml
+4305615828152 Babydream Napkrém 50+ Faktor - 200ml
 4305615831350 Facelle Diskret inkontinencia bugyi XXL-es méret - 10 db
 4305615835617 Babydream szilikon előke - 1 db
 4305615839165 Facelle Diskret Super egészségügyi betét - 10 db
@@ -539,9 +538,9 @@
 5411416058496 Moltex Pure & Nature Maxi öko bugyipelenka 7-12 kg - 88 db
 5411416058519 Moltex Pure & Nature Junior öko bugyipelenka 9-14 kg - 80 db
 5411416058533 Moltex Pure & Nature XL öko bugyipelenka +14 kg - 72 db
-5411416061885 Moltex Pure&Nature nedves törlőkendő - 60 db
-5411416075578 Moltex Pure&Nat Öko pelenka, megapack 7-14 kg - 145 db
-5411416075585 Moltex Pure&Nat Öko pelenka, megapack 11-25 kg - 125 db
+5411416061885 Moltex Pure nedves törlőkendő - 60 db
+5411416075578 Moltex Pure nadrágpelenka 4-es méret, 7-14 kg - 145 db
+5411416075585 Moltex Pure nadrágpelenka 5-ös méret, 11-16 kg - 125 db
 5425021104899 Bambinex bambusz újszülött pelenka 2-4 kg - 1 db
 5425021104929 Bambinex mosható pelenkakülső kaméleon 2-4 kg - 1 db
 5425021104936 Bambinex mosható pelenkakülső freya 3-8 kg - 1 db
@@ -757,8 +756,8 @@
 5997951100864 Variocom mandulaliszt - 300 g
 5997951101755 Variocom chia mag - 250 g
 5997953118584 Babybruin mintás textilpelenka (70x70 cm) - 2 db
-5997953129955 Babybruin Tejgyűjtő Zacskó 350 ml - 20 db
-5997953130968 Babybruin Textilpelenka - 4 db
+5997953129955 Babybruin tejgyűjtő zacskó 350 ml - 20 db
+5997953130968 BabyBruin textilpelenka - 4 db
 5997953134928 BabyBruin kétfázisú kézi mellszívó - 1 db
 5997953137264 BabyBruin világító játszócumi 1-es méret - 1 db
 5997953137295 BabyBruin világító latex játszócumi 2-es méret - 1 db
@@ -1291,7 +1290,7 @@
 8700216861052 Always Ultra Day&Night Duo Pack egészségügyi betét - 14 db
 8700216861069 Always Ultra Super Duo Pack egészségügyi betét - 16 db
 8700216861120 Always Ultra Micro Touch Normal Plus egészségügyi betét - 10 db
-8700216865029 Pampers Premium Care nadrágelenka 6-os méret 13kg-18kg - 50 db
+8700216865029 Pampers Premium Care nadrágpelenka 6-os méret, 13kg-18kg - 50 db
 8700216882347 Naturella Ultra Night Plus egészségügyi betét - 12 db
 8700216882378 Naturella Ultra Night Plus egészségügyi betét - 24 db
 8710103671602 Philips Avent anyatejtároló poharak 180 ml-es - 10 db
