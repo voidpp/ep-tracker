@@ -118,7 +118,6 @@
 4005800402982 Hansaplast Sensitive ragtapasz - 5 m
 4005900717672 Hansaplast sebtapasz marvel - 20 db
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
-4006000133805 Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 400 ml
 4008600360070 Nuk First Choice+ cumisüveg hőmérővel 300 ml 0-6 hónapos korig - 1 db
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
 4008600447047 Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db
@@ -267,6 +266,7 @@
 4068134170484 Facelle Hipster menstruációs bugyi XL-es méret - 1 db
 4068134179791 SunOzon napozó spray LSF50 - 200 ml
 4068134180407 Babydream extra sensitive mandulaolaj - 250 ml
+4068134188526 Facelle ovulációs teszt - 10 db
 4068134192462 Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db
 4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
 4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
@@ -323,6 +323,7 @@
 4305615619347 Altapharma sebkezelő spray - 50 ml
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night Protect tampon - 16 db
+4305615689241 Alterra naptej F50 - 75 ml
 4305615691800 Facelle Ultra Protect éjszakai egészségügyi betét - 8 db
 4305615696690 Babydream cumisüveg 0-6 hónapos korig 240 ml - 1 db
 4305615696713 Babydream cumisüveg széles nyakú 0-6 hónapos korig 300 ml - 1 db
@@ -750,7 +751,6 @@
 5997700150119 Femifit intim zuhany - 1 db
 5997700150126 Colpo Clean intim zuhany - 1 db
 5997700150706 Femifit intim mosakodó habtej - 250 ml
-5997742300145 Dr.Kelen Sun F50+ GYEREK napkrém - 1 db
 5997742301753 Dr.Kelen Sun F50+ Arcra napkrém - 1 db
 5997742302354 Dr.Kelen Kid lipo-krém ekcéma ellen - 75 ml
 5997951100864 Variocom mandulaliszt - 300 g

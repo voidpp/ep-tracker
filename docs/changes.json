@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-09-19",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4068134188526",
+          "name": "Facelle ovulációs teszt - 10 db"
+        },
+        {
+          "id": "4305615689241",
+          "name": "Alterra naptej F50 - 75 ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4006000133805",
+          "name": "Nivea Sun Protect & Moisture hidratáló naptej FF50+ - 400 ml"
+        },
+        {
+          "id": "5997742300145",
+          "name": "Dr.Kelen Sun F50+ GYEREK napkrém - 1 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-09-17",
     "rossmann": {
       "added": [
