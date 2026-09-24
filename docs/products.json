@@ -273,6 +273,10 @@
       "name": "o.b. ExtraProtect Super Plus tampon - 16 db"
     },
     {
+      "id": "3574669907712",
+      "name": "Johnson's Bedtime 2 az 1-ben babasampon és babatusfürdő - 500 ml"
+    },
+    {
       "id": "3574669908429",
       "name": "Johnson's 2 az 1-ben buborékos fürdető és tusfürdő - 500 ml"
     },
@@ -485,12 +489,48 @@
       "name": "Nuk First Choice+ cumisüveg hőmérővel 300 ml 0-6 hónapos korig - 1 db"
     },
     {
+      "id": "4008600446316",
+      "name": "NUK Perfect Match tanulópohár Micimackó mintával 6 hónapos kortól 150 ml - 1 db"
+    },
+    {
       "id": "4008600446996",
       "name": "Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db"
     },
     {
       "id": "4008600447047",
       "name": "Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db"
+    },
+    {
+      "id": "4008600447368",
+      "name": "Nuk First Choice Classic Day & Night szilikon cumi 18-36 hónapos korig /lila - 2 db"
+    },
+    {
+      "id": "4008600447375",
+      "name": "Nuk First Choice Classic Day & Night szilikon cumi 18-36 hónapos korig /kék - 2 db"
+    },
+    {
+      "id": "4008600447412",
+      "name": "Nuk First Choice Classic Day & Night szilikon cumi 6-18 hónapos korig /lila - 2 db"
+    },
+    {
+      "id": "4008600447429",
+      "name": "Nuk First Choice Classic Day & Night szilikon cumi 6-18 hónapos korig /kék - 2 db"
+    },
+    {
+      "id": "4008600447467",
+      "name": "Nuk First Choice Classic Day & Night szilikon cumi 0-6 hónapos korig /lila - 2 db"
+    },
+    {
+      "id": "4008600447474",
+      "name": "Nuk First Choice Classic Day & Night szilikon cumi 0-6 hónapos korig /kék - 2 db"
+    },
+    {
+      "id": "4008600447863",
+      "name": "NUK Perfect Match Air Mickey szilikon cumi 6-18 hónapos korig - 2 db"
+    },
+    {
+      "id": "4008600447870",
+      "name": "NUK Perfect Match Air szilikon cumi Mickey & Minnie mintával 6-18 hónapos korig - 2 db"
     },
     {
       "id": "4009408042410",
@@ -717,10 +757,6 @@
       "name": "Erős aqua vízbázisú síkosító - 50 ml"
     },
     {
-      "id": "4047196039946",
-      "name": "Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
-    },
-    {
       "id": "4047196041451",
       "name": "Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
     },
@@ -759,6 +795,10 @@
     {
       "id": "4047196062432",
       "name": "Babydream altatócumi 5 hónapos kortól - 2 db"
+    },
+    {
+      "id": "4047196067444",
+      "name": "Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
     },
     {
       "id": "4047196067451",
@@ -1063,10 +1103,6 @@
     {
       "id": "4068134170484",
       "name": "Facelle Hipster menstruációs bugyi XL-es méret - 1 db"
-    },
-    {
-      "id": "4068134179791",
-      "name": "SunOzon napozó spray LSF50 - 200 ml"
     },
     {
       "id": "4068134180407",
@@ -1381,10 +1417,6 @@
       "name": "Babydream natural popsikrém - 75 ml"
     },
     {
-      "id": "4305615828152",
-      "name": "Babydream Napkrém 50+ Faktor - 200ml"
-    },
-    {
       "id": "4305615831350",
       "name": "Facelle Diskret inkontinencia bugyi XXL-es méret - 10 db"
     },
@@ -1603,10 +1635,6 @@
     {
       "id": "5010415336613",
       "name": "Tommee Tippee NightGlow éjszakai nyugtató cumi sterilizáló tokkal 6-18 hónapos korig - 2 db"
-    },
-    {
-      "id": "5010415336620",
-      "name": "Tommee Tippee NightGlow éjszakai nyugtató cumi sterilizáló tokkal 0-6 hónapos korig - 2 db"
     },
     {
       "id": "5010415336637",
@@ -2133,8 +2161,20 @@
       "name": "Lactacyd Pharma intim mosakodó antibakteriális hatóanyagokkal - 250 ml"
     },
     {
+      "id": "5391520948176",
+      "name": "Lactacyd Oxygen Fresh intim mosakodó - 200 ml"
+    },
+    {
+      "id": "5391520949616",
+      "name": "Lactacyd Prebiotic Plus intim mosakodó - 200 ml"
+    },
+    {
       "id": "5391520951503",
       "name": "Lactacyd Pharma nyugtató hatású intim mosakodó - 250 ml"
+    },
+    {
+      "id": "5391520951527",
+      "name": "Lactacyd Classic intim mosakodógél - 400 ml"
     },
     {
       "id": "5391520951558",
@@ -2797,6 +2837,10 @@
       "name": "Neogranormon Baby védőkrém - 30 g"
     },
     {
+      "id": "5995327208398",
+      "name": "Neogranormon Baby Aloe Vera törlőkendő - 72 db"
+    },
+    {
       "id": "5995327208404",
       "name": "Neogranormon Baby Aloe Vera törlőkendő 4x72 db - 288 db"
     },
@@ -3013,10 +3057,6 @@
       "name": "Femifit intim mosakodó habtej - 250 ml"
     },
     {
-      "id": "5997742301753",
-      "name": "Dr.Kelen Sun F50+ Arcra napkrém - 1 db"
-    },
-    {
       "id": "5997742302354",
       "name": "Dr.Kelen Kid lipo-krém ekcéma ellen - 75 ml"
     },
@@ -3081,6 +3121,10 @@
       "name": "I-Care Lágy Lencséhez Kontaktlencsetisztító - 350 ml"
     },
     {
+      "id": "5998603320593",
+      "name": "Aloe Vera Organic napozó krém arcra és testre SPF50 - 150 ml"
+    },
+    {
       "id": "5998603321408",
       "name": "JimJams Antibakteriális kéz és bőrfertőtlenítő spray - 250 ml"
     },
@@ -3103,6 +3147,14 @@
     {
       "id": "5998603330462",
       "name": "JimJams Baby babafürdető és samponhab 3in1 - 250 ml"
+    },
+    {
+      "id": "5998603330752",
+      "name": "JimJams Baby Aqua touch nedves törlőkendő - 100 db"
+    },
+    {
+      "id": "5998603330769",
+      "name": "JimJams Baby Aqua touch nedves törlőkendő multipack 4x100 db - 400 db"
     },
     {
       "id": "5998603380566",
@@ -5003,6 +5055,10 @@
     {
       "id": "8588007731865",
       "name": "Organique bio zöldséges burgonya snack - 85 g"
+    },
+    {
+      "id": "8588009456742",
+      "name": "X-Epil Intimo Flora Balance hüvelykúp - 10 db"
     },
     {
       "id": "8588009456759",

@@ -66,6 +66,7 @@
 3574661900469 o.b. ProComfort Super tampon - 16 db
 3574661900476 o.b. Original Normal tampon - 16 db
 3574661900490 o.b. ExtraProtect Super Plus tampon - 16 db
+3574669907712 Johnson's Bedtime 2 az 1-ben babasampon és babatusfürdő - 500 ml
 3574669908429 Johnson's 2 az 1-ben buborékos fürdető és tusfürdő - 500 ml
 3574669909952 Johnson's Top To Toe babafürdető - 500 ml
 3600542297813 Garnier Ambre Solaire Sensitive Advanced Super UV fluid arcra SPF 50+ - 40 ml
@@ -119,8 +120,17 @@
 4005900717672 Hansaplast sebtapasz marvel - 20 db
 4006000002514 Nivea Sun Spot Control Luminous 630 napozó arckrém FF50 - 40 ml
 4008600360070 Nuk First Choice+ cumisüveg hőmérővel 300 ml 0-6 hónapos korig - 1 db
+4008600446316 NUK Perfect Match tanulópohár Micimackó mintával 6 hónapos kortól 150 ml - 1 db
 4008600446996 Nuk Perfect Match Air szilikon cumi 6-18 hónapos korig - 2 db
 4008600447047 Nuk Perfect Match Air szilikon cumi 0-6 hónapos korig - 2 db
+4008600447368 Nuk First Choice Classic Day & Night szilikon cumi 18-36 hónapos korig /lila - 2 db
+4008600447375 Nuk First Choice Classic Day & Night szilikon cumi 18-36 hónapos korig /kék - 2 db
+4008600447412 Nuk First Choice Classic Day & Night szilikon cumi 6-18 hónapos korig /lila - 2 db
+4008600447429 Nuk First Choice Classic Day & Night szilikon cumi 6-18 hónapos korig /kék - 2 db
+4008600447467 Nuk First Choice Classic Day & Night szilikon cumi 0-6 hónapos korig /lila - 2 db
+4008600447474 Nuk First Choice Classic Day & Night szilikon cumi 0-6 hónapos korig /kék - 2 db
+4008600447863 NUK Perfect Match Air Mickey szilikon cumi 6-18 hónapos korig - 2 db
+4008600447870 NUK Perfect Match Air szilikon cumi Mickey & Minnie mintával 6-18 hónapos korig - 2 db
 4009408042410 Facelle Diskret Mini Plus tisztasági betét - 16 db
 4009408042519 Facelle Diskret Extra inkontinencia betét - 12 db
 4009408042533 Facelle Diskret Extra Plus inkontinencia betét - 10 db
@@ -177,7 +187,6 @@
 4028403122606 Soft-Tampons Normal tampon - 3 db
 4028403122613 Soft-Tampons Mini tampon - 3 db
 4035223330500 Erős aqua vízbázisú síkosító - 50 ml
-4047196039946 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196041451 Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196043301 Altapharma hideg-/melegborogatás 13x14cm - 1 db
 4047196052228 Babydream Classic törlőkendő - 60db
@@ -188,6 +197,7 @@
 4047196059371 Facelle tisztasági betét, ultra normál - 32 db
 4047196060384 Babydream játszócumi anatómiai szilikon 0-3h tároló dobozban - 2 db
 4047196062432 Babydream altatócumi 5 hónapos kortól - 2 db
+4047196067444 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196067451 Altapharma Strips vízálló sebtapasz - 40 db
 4047196067468 Altapharma gyerek sebtapasz - 20 db
 4062300267619 Hipp Babysanft nedves toalettpapír - 50 db
@@ -264,7 +274,6 @@
 4068134170460 Facelle Hipster menstruációs bugyi M-es méret - 1 db
 4068134170477 Facelle Hipster menstruációs bugyi L-es méret - 1 db
 4068134170484 Facelle Hipster menstruációs bugyi XL-es méret - 1 db
-4068134179791 SunOzon napozó spray LSF50 - 200 ml
 4068134180407 Babydream extra sensitive mandulaolaj - 250 ml
 4068134188526 Facelle ovulációs teszt - 10 db
 4068134192462 Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db
@@ -343,7 +352,6 @@
 4305615761466 Babydream Natural mosakodó gél és sampon - 250 ml
 4305615761473 Babydream Natural mandulaolaj - 250 ml
 4305615761480 Babydream natural popsikrém - 75 ml
-4305615828152 Babydream Napkrém 50+ Faktor - 200ml
 4305615831350 Facelle Diskret inkontinencia bugyi XXL-es méret - 10 db
 4305615835617 Babydream szilikon előke - 1 db
 4305615839165 Facelle Diskret Super egészségügyi betét - 10 db
@@ -399,7 +407,6 @@
 5010415336279 Tommee Tippee Breastlike anyamell formájú cumi 0-6 hónapos korig - 2 db
 5010415336286 Tommee Tippee anyamell formájú nyugtató cumi 6-18 hónapos korig - 2 db
 5010415336613 Tommee Tippee NightGlow éjszakai nyugtató cumi sterilizáló tokkal 6-18 hónapos korig - 2 db
-5010415336620 Tommee Tippee NightGlow éjszakai nyugtató cumi sterilizáló tokkal 0-6 hónapos korig - 2 db
 5010415336637 Tommee Tippee NightGlow éjszakai nyugtató cumi sterilizáló tokkal 18-36 hónapos korig - 2 db
 5010415480170 Tommee Tippee Active Straw Insulated szívószálas hőtartó pohár 12 hónapos kortól 266ml /pink - 1 db
 5011025083300 Sudocrem krém - 60 g
@@ -531,7 +538,10 @@
 5203937002375 Orino gluténmentes szezámmagos szelet mézzel - 45 g
 5391520943560 Lactacyd intim törlőkendő - 15 db
 5391520944505 Lactacyd Pharma intim mosakodó antibakteriális hatóanyagokkal - 250 ml
+5391520948176 Lactacyd Oxygen Fresh intim mosakodó - 200 ml
+5391520949616 Lactacyd Prebiotic Plus intim mosakodó - 200 ml
 5391520951503 Lactacyd Pharma nyugtató hatású intim mosakodó - 250 ml
+5391520951527 Lactacyd Classic intim mosakodógél - 400 ml
 5391520951558 Lactacyd Soothing intim mosakodó - 200 ml
 5391533830055 ClevaMama szilikon etetőháló és pótháló - 1 db
 5400951003801 Paranit Strong fejtetű elleni spray - 100 ml
@@ -697,6 +707,7 @@
 5995327201429 Neogranormon Baby védőkrém - 100 g
 5995327201436 Neogranormon Baby védőkrém - 150 g
 5995327201443 Neogranormon Baby védőkrém - 30 g
+5995327208398 Neogranormon Baby Aloe Vera törlőkendő - 72 db
 5995327208404 Neogranormon Baby Aloe Vera törlőkendő 4x72 db - 288 db
 5995327208435 Neogranormon Baby Sensitive törlőkendő 4x72 db - 288 db
 5995327208459 Neogranormon Baby Sensitive törlőkendő - 72 db
@@ -751,7 +762,6 @@
 5997700150119 Femifit intim zuhany - 1 db
 5997700150126 Colpo Clean intim zuhany - 1 db
 5997700150706 Femifit intim mosakodó habtej - 250 ml
-5997742301753 Dr.Kelen Sun F50+ Arcra napkrém - 1 db
 5997742302354 Dr.Kelen Kid lipo-krém ekcéma ellen - 75 ml
 5997951100864 Variocom mandulaliszt - 300 g
 5997951101755 Variocom chia mag - 250 g
@@ -768,12 +778,15 @@
 5998400316577 Cerbona gluténmentes epres-citromos müzliszelet - 35 g
 5998400316607 Cerbona Rudi gluténmentes, laktózmentes zabrúd citromos töltelékkel, kakaós bevonattal - 30 g
 5998466503515 I-Care Lágy Lencséhez Kontaktlencsetisztító - 350 ml
+5998603320593 Aloe Vera Organic napozó krém arcra és testre SPF50 - 150 ml
 5998603321408 JimJams Antibakteriális kéz és bőrfertőtlenítő spray - 250 ml
 5998603321507 JimJams Antibakteriális kéz- és bőrfertőtlenítő spray - 50 ml
 5998603330431 JimJams Baby hipoallergén védőkrém - 100 ml
 5998603330448 JimJams Baby folyékony hintőpor - 100 ml
 5998603330455 JimJams Baby Álom babafürdető és sampon 2in1 - 400 ml
 5998603330462 JimJams Baby babafürdető és samponhab 3in1 - 250 ml
+5998603330752 JimJams Baby Aqua touch nedves törlőkendő - 100 db
+5998603330769 JimJams Baby Aqua touch nedves törlőkendő multipack 4x100 db - 400 db
 5998603380566 X-Epil Intimo Sensitive intim törlőkendő - 20 db
 5998603380573 X-Epil Intimo Sensitive intim mosakodógél - 250 ml
 5998603391982 X-Epil érzéki síkosító gél - 100 ml
@@ -1249,6 +1262,7 @@
 8588004638310 Biopont Biosaurus sajtos ízű sült kukoricás snack - 50 g
 8588004638327 Biopont Biosaurus ketchupos ízű sült kukoricás snack - 50 g
 8588007731865 Organique bio zöldséges burgonya snack - 85 g
+8588009456742 X-Epil Intimo Flora Balance hüvelykúp - 10 db
 8588009456759 X-Epil Intimo Meno Balance hüvelykúp - 10 db
 8595611623158 Dailee Lady Premium Slim Ultra Mini inkontinencia betét – 28 db
 8595611626630 Dailee Bed Premium Fix betegalátét 60x90 cm - 30 db

@@ -1,5 +1,114 @@
 [
   {
+    "date": "2026-09-24",
+    "rossmann": {
+      "added": [
+        {
+          "id": "3574669907712",
+          "name": "Johnson's Bedtime 2 az 1-ben babasampon és babatusfürdő - 500 ml"
+        },
+        {
+          "id": "4008600446316",
+          "name": "NUK Perfect Match tanulópohár Micimackó mintával 6 hónapos kortól 150 ml - 1 db"
+        },
+        {
+          "id": "4008600447368",
+          "name": "Nuk First Choice Classic Day & Night szilikon cumi 18-36 hónapos korig /lila - 2 db"
+        },
+        {
+          "id": "4008600447375",
+          "name": "Nuk First Choice Classic Day & Night szilikon cumi 18-36 hónapos korig /kék - 2 db"
+        },
+        {
+          "id": "4008600447412",
+          "name": "Nuk First Choice Classic Day & Night szilikon cumi 6-18 hónapos korig /lila - 2 db"
+        },
+        {
+          "id": "4008600447429",
+          "name": "Nuk First Choice Classic Day & Night szilikon cumi 6-18 hónapos korig /kék - 2 db"
+        },
+        {
+          "id": "4008600447467",
+          "name": "Nuk First Choice Classic Day & Night szilikon cumi 0-6 hónapos korig /lila - 2 db"
+        },
+        {
+          "id": "4008600447474",
+          "name": "Nuk First Choice Classic Day & Night szilikon cumi 0-6 hónapos korig /kék - 2 db"
+        },
+        {
+          "id": "4008600447863",
+          "name": "NUK Perfect Match Air Mickey szilikon cumi 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "4008600447870",
+          "name": "NUK Perfect Match Air szilikon cumi Mickey & Minnie mintával 6-18 hónapos korig - 2 db"
+        },
+        {
+          "id": "4047196067444",
+          "name": "Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
+        },
+        {
+          "id": "5391520948176",
+          "name": "Lactacyd Oxygen Fresh intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5391520949616",
+          "name": "Lactacyd Prebiotic Plus intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5391520951527",
+          "name": "Lactacyd Classic intim mosakodógél - 400 ml"
+        },
+        {
+          "id": "5995327208398",
+          "name": "Neogranormon Baby Aloe Vera törlőkendő - 72 db"
+        },
+        {
+          "id": "5998603320593",
+          "name": "Aloe Vera Organic napozó krém arcra és testre SPF50 - 150 ml"
+        },
+        {
+          "id": "5998603330752",
+          "name": "JimJams Baby Aqua touch nedves törlőkendő - 100 db"
+        },
+        {
+          "id": "5998603330769",
+          "name": "JimJams Baby Aqua touch nedves törlőkendő multipack 4x100 db - 400 db"
+        },
+        {
+          "id": "8588009456742",
+          "name": "X-Epil Intimo Flora Balance hüvelykúp - 10 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4047196039946",
+          "name": "Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
+        },
+        {
+          "id": "4068134179791",
+          "name": "SunOzon napozó spray LSF50 - 200 ml"
+        },
+        {
+          "id": "4305615828152",
+          "name": "Babydream Napkrém 50+ Faktor - 200ml"
+        },
+        {
+          "id": "5010415336620",
+          "name": "Tommee Tippee NightGlow éjszakai nyugtató cumi sterilizáló tokkal 0-6 hónapos korig - 2 db"
+        },
+        {
+          "id": "5997742301753",
+          "name": "Dr.Kelen Sun F50+ Arcra napkrém - 1 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-09-19",
     "rossmann": {
       "added": [
