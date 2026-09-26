@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-09-26",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4068134138545",
+          "name": "Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db"
+        },
+        {
+          "id": "4068134191458",
+          "name": "Babydream törlőkendő kókuszolajjal - 80 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134192462",
+          "name": "Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-09-24",
     "rossmann": {
       "added": [

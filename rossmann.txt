@@ -255,6 +255,7 @@
 4068134138187 Prokudent Doboz protézistisztító - 1 db
 4068134138521 Babydream Junior+ nadrágpelenka 5+-os méret, 11-17 kg - 32 db
 4068134138538 Babydream XXL nadrágpelenka 6-os 14-20 kg - 30 db
+4068134138545 Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db
 4068134138552 Babydream XXL+ nadrágpelenka 7-es méret, 16 kg+ - 28 db
 4068134138576 Babydream Junior Plus nadrágpelenka 5+-os méret, 11-17 kg - 64 db
 4068134138583 Babydream XL nadrágpelenka 6-os méret, 14-20 kg - 60 db
@@ -276,7 +277,7 @@
 4068134170484 Facelle Hipster menstruációs bugyi XL-es méret - 1 db
 4068134180407 Babydream extra sensitive mandulaolaj - 250 ml
 4068134188526 Facelle ovulációs teszt - 10 db
-4068134192462 Babydream XL+ nadrágpelenka 6+-os méret, 15-21 kg - 28 db
+4068134191458 Babydream törlőkendő kókuszolajjal - 80 db
 4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
 4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
 4068134211408 Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db
