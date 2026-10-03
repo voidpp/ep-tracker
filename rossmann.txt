@@ -253,7 +253,6 @@
 4068134191458 Babydream törlőkendő kókuszolajjal - 80 db
 4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
 4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
-4068134211408 Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db
 4068134211415 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
 4068134215246 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
 4068134215253 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
@@ -263,6 +262,7 @@
 4260537364556 Mabyen mandula olaj - 200 ml
 4262368741292 Mabyen babaápoló krém - 75 ml
 4305615062099 Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db
+4305615062105 Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db
 4305615301686 Preventivo síkosító és masszázs gél - 200 ml
 4305615465616 Facelle Normal tampon - 64 db
 4305615465630 Facelle Mini tampon - 32 db
@@ -436,7 +436,6 @@
 5201314180524 Carroten Family naptej spray SPF50 - 270 ml
 5203937002375 Orino gluténmentes szezámmagos szelet mézzel - 45 g
 5391520943560 Lactacyd intim törlőkendő - 15 db
-5391520944505 Lactacyd Pharma intim mosakodó antibakteriális hatóanyagokkal - 250 ml
 5391520948176 Lactacyd Oxygen Fresh intim mosakodó - 200 ml
 5391520949616 Lactacyd Prebiotic Plus intim mosakodó - 200 ml
 5391520951503 Lactacyd Pharma nyugtató hatású intim mosakodó - 250 ml

@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-10-03",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4305615062105",
+          "name": "Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134211408",
+          "name": "Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db"
+        },
+        {
+          "id": "5391520944505",
+          "name": "Lactacyd Pharma intim mosakodó antibakteriális hatóanyagokkal - 250 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-10-01",
     "rossmann": {
       "added": [
