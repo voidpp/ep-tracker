@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-10-05",
+    "rossmann": {
+      "added": [
+        {
+          "id": "5400951992426",
+          "name": "Lactacyd Classic intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5400951992761",
+          "name": "Lactacyd hidratáló intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5400951992792",
+          "name": "Lactacyd hidratáló intim mosakodó - 400 ml"
+        },
+        {
+          "id": "5400951992877",
+          "name": "Lactacyd nyugtató intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5400951992952",
+          "name": "Lactacyd nyugtató intim mosakodó - 400 ml"
+        },
+        {
+          "id": "5400951993058",
+          "name": "Lactacyd gombaellenes intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5400951993119",
+          "name": "Lactacyd antibakteriális intim mosakodó - 200 ml"
+        }
+      ],
+      "removed": []
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-10-03",
     "rossmann": {
       "added": [
