@@ -1,5 +1,54 @@
 [
   {
+    "date": "2026-10-08",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4064273120021",
+          "name": "Bepanthen Sensiderm krém - 20 g"
+        },
+        {
+          "id": "4064273150059",
+          "name": "Bepanthen Sensiderm krém - 50 g"
+        },
+        {
+          "id": "5908229301715",
+          "name": "Bepanthen Baby kenőcs - 30 g"
+        },
+        {
+          "id": "5908229301722",
+          "name": "Bepanthen Baby kenőcs - 100 g"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4064273120021",
+          "name": "Bepanthen Sensiderm Krém - 20 g"
+        },
+        {
+          "id": "4064273150059",
+          "name": "Bepanthen sensiderm krém - 50 g"
+        },
+        {
+          "id": "5391520951558",
+          "name": "Lactacyd Soothing intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5908229301715",
+          "name": "Bepanthen Baby Kenőcs - 30 g"
+        },
+        {
+          "id": "5908229301722",
+          "name": "Bepanthen Baby Kenőcs - 100 g"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-10-07",
     "rossmann": {
       "added": [],

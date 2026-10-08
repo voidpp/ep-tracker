@@ -193,8 +193,8 @@
 4062300473720 HiPP ápoló fürdető különösen érzékeny bőrre - 200 ml
 4063528077219 Wild Stripes sebtapasz /batikolt - 20 db
 4063528077271 Wild Stripes sebtapasz /űr - 20 db
-4064273120021 Bepanthen Sensiderm Krém - 20 g
-4064273150059 Bepanthen sensiderm krém - 50 g
+4064273120021 Bepanthen Sensiderm krém - 20 g
+4064273150059 Bepanthen Sensiderm krém - 50 g
 4066299604196 Sanitas digitális lázmérő - 1 db
 4066299604219 Babydream Express lázmérő - 1db
 4068134022868 Facelle Maxi Normal egészségügyi betét - 20 db
@@ -440,7 +440,6 @@
 5391520949616 Lactacyd Prebiotic Plus intim mosakodó - 200 ml
 5391520951503 Lactacyd Pharma nyugtató hatású intim mosakodó - 250 ml
 5391520951527 Lactacyd Classic intim mosakodógél - 400 ml
-5391520951558 Lactacyd Soothing intim mosakodó - 200 ml
 5391533830055 ClevaMama szilikon etetőháló és pótháló - 1 db
 5400951003801 Paranit Strong fejtetű elleni spray - 100 ml
 5400951991115 Predictor Early otthoni terhességi teszt - 1 db
@@ -515,8 +514,8 @@
 5901887040279 Ziaja baba tusfürdő testre és hajra, 6 hónapos kortól - 400 ml
 5906688230010 Bezgluten gluténmentes barna magos kenyér - 230 g
 5907609330789 Eveline Cosmetics napvédő arckrém SPF50 - 50 ml
-5908229301715 Bepanthen Baby Kenőcs - 30 g
-5908229301722 Bepanthen Baby Kenőcs - 100 g
+5908229301715 Bepanthen Baby kenőcs - 30 g
+5908229301722 Bepanthen Baby kenőcs - 100 g
 5908229304181 Bepanthen Baby kenőcs - 200 g
 5949031350072 Durex Invisible óvszer XL-es méret - 10 db
 5990031646498 Milumil 2 tejalapú anyatej-kiegészítő tápszer 6-12 hónapos korig - 1500 g
