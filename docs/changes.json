@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-13",
+    "rossmann": {
+      "added": [
+        {
+          "id": "7322542675052",
+          "name": "Libresse Ultra Night Extra Wing egészségügyi betét - 16 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "7322540984217",
+          "name": "Libresse Ultra Night Extra Wing egészségügyi betét - 16 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-10-10",
     "rossmann": {
       "added": [
