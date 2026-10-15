@@ -709,10 +709,6 @@
       "name": "Hipp Babysanft nedves toalettpapír - 50 db"
     },
     {
-      "id": "4062300398900",
-      "name": "Hipp Bio Combiotik tápszer újszülött kortól - 600 g"
-    },
-    {
       "id": "4062300417311",
       "name": "HiPP Pre bio kecsketejalapú anyatej-helyettesítő tápszer újszülöttkortól - 400 g"
     },
@@ -771,6 +767,10 @@
     {
       "id": "4062300473720",
       "name": "HiPP ápoló fürdető különösen érzékeny bőrre - 200 ml"
+    },
+    {
+      "id": "4062300479241",
+      "name": "Hipp Bio Combiotik tápszer újszülött kortól - 600 g"
     },
     {
       "id": "4063528077219",
@@ -871,14 +871,6 @@
     {
       "id": "4068134119209",
       "name": "Babydream öko pelenka 3-as 5-9kg - 32 db"
-    },
-    {
-      "id": "4068134119216",
-      "name": "Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db"
-    },
-    {
-      "id": "4068134119223",
-      "name": "Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db"
     },
     {
       "id": "4068134120342",
@@ -1031,6 +1023,14 @@
     {
       "id": "4068134215253",
       "name": "Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db"
+    },
+    {
+      "id": "4068134231291",
+      "name": "Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db"
+    },
+    {
+      "id": "4068134231307",
+      "name": "Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db"
     },
     {
       "id": "4084500759817",
@@ -2833,6 +2833,14 @@
       "name": "Bambinex székletfogó lap - 1 db"
     },
     {
+      "id": "5999863699009",
+      "name": "Meditan fájdalomcsillapító mentolos hidegtapasz - 1 db"
+    },
+    {
+      "id": "5999863699016",
+      "name": "Meditan fájdalomcsillapító melegítő tapasz - 1 db"
+    },
+    {
       "id": "5999882201580",
       "name": "Babyzoo babapopsikrém - 200 ml"
     },
@@ -3041,10 +3049,6 @@
       "name": "Savvycheck Intim Candida gyorsteszt - 1 db"
     },
     {
-      "id": "7310361147867",
-      "name": "Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db"
-    },
-    {
       "id": "7310361149090",
       "name": "Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db"
     },
@@ -3083,6 +3087,10 @@
     {
       "id": "7310361180406",
       "name": "Libero Touch nadrágpelenka 1-es 2-5kg - 22 db"
+    },
+    {
+      "id": "7310361180420",
+      "name": "Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db"
     },
     {
       "id": "7310615062243",
@@ -4051,6 +4059,10 @@
     {
       "id": "8710103996781",
       "name": "Avent Classic Anti-Colic pótcumi 6 hónapos kortól - 2 db"
+    },
+    {
+      "id": "8710908657122",
+      "name": "Dove Baby hidratáló babafürdető érzékeny bőrre - 200 ml"
     },
     {
       "id": "8710908657399",

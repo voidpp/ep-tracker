@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026-10-15",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4062300479241",
+          "name": "Hipp Bio Combiotik tápszer újszülött kortól - 600 g"
+        },
+        {
+          "id": "4068134231291",
+          "name": "Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db"
+        },
+        {
+          "id": "4068134231307",
+          "name": "Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db"
+        },
+        {
+          "id": "5999863699009",
+          "name": "Meditan fájdalomcsillapító mentolos hidegtapasz - 1 db"
+        },
+        {
+          "id": "5999863699016",
+          "name": "Meditan fájdalomcsillapító melegítő tapasz - 1 db"
+        },
+        {
+          "id": "7310361180420",
+          "name": "Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db"
+        },
+        {
+          "id": "8710908657122",
+          "name": "Dove Baby hidratáló babafürdető érzékeny bőrre - 200 ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4062300398900",
+          "name": "Hipp Bio Combiotik tápszer újszülött kortól - 600 g"
+        },
+        {
+          "id": "4068134119216",
+          "name": "Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db"
+        },
+        {
+          "id": "4068134119223",
+          "name": "Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db"
+        },
+        {
+          "id": "7310361147867",
+          "name": "Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-10-13",
     "rossmann": {
       "added": [

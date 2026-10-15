@@ -175,7 +175,6 @@
 4047196067451 Altapharma Strips vízálló sebtapasz - 40 db
 4047196067468 Altapharma gyerek sebtapasz - 20 db
 4062300267619 Hipp Babysanft nedves toalettpapír - 50 db
-4062300398900 Hipp Bio Combiotik tápszer újszülött kortól - 600 g
 4062300417311 HiPP Pre bio kecsketejalapú anyatej-helyettesítő tápszer újszülöttkortól - 400 g
 4062300417328 HiPP 2 bio kecsketejalapú anyatej-kiegészítő tápszer 6 hónapos kortól - 400 g
 4062300419346 Hipp Babysanft családi habfürdő - 1000 ml
@@ -191,6 +190,7 @@
 4062300467378 HiPP Babysanft Pure Water nedves törlőkendő - 48 db
 4062300473690 HiPP Babysanft családi krém különösen érzékeny bőrre - 300 ml
 4062300473720 HiPP ápoló fürdető különösen érzékeny bőrre - 200 ml
+4062300479241 Hipp Bio Combiotik tápszer újszülött kortól - 600 g
 4063528077219 Wild Stripes sebtapasz /batikolt - 20 db
 4063528077271 Wild Stripes sebtapasz /űr - 20 db
 4064273120021 Bepanthen Sensiderm krém - 20 g
@@ -216,8 +216,6 @@
 4068134115447 Babydream Midi nadrágpelenka 3-as 5-9 kg - 43 db
 4068134115454 Babydream Midi nadrágpelenka 3-as 5-9 kg - 86 db
 4068134119209 Babydream öko pelenka 3-as 5-9kg - 32 db
-4068134119216 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
-4068134119223 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
 4068134120342 Babydream szimmetrikus szilikon játszócumi 0-2 hónapos korig - 2 db
 4068134125767 Facelle Maxi éjszakai egészségügyi betét - 12 db
 4068134125842 Facelle Comfort tisztasági betét - 50 db
@@ -256,6 +254,8 @@
 4068134211415 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
 4068134215246 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
 4068134215253 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
+4068134231291 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
+4068134231307 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
 4084500759817 Clearblue Digitális terhességi teszt fogamzásjelzővel - 1 db
 4260206625797 WUNDmed kullancseltávolító készlet - 67 g
 4260206626565 Wundmed kullancseltávolító szett - 1 db
@@ -706,6 +706,8 @@
 5999860692454 Foody free hummus chips cukkinivel - 50 g
 5999860692461 Foody free lencse chips sóval - 50 g
 5999860875000 Bambinex székletfogó lap - 1 db
+5999863699009 Meditan fájdalomcsillapító mentolos hidegtapasz - 1 db
+5999863699016 Meditan fájdalomcsillapító melegítő tapasz - 1 db
 5999882201580 Babyzoo babapopsikrém - 200 ml
 5999882201603 Babyzoo babahintőpor - 100 g
 5999882201627 Babyzoo babatestápoló - 200 ml
@@ -758,7 +760,6 @@
 6970392217109 Chicco Digi Baby digitális hőmérő - 1 db
 6976864909985 Jót alszom Prémium szájtapasz horkolás ellen - 30 db
 7290016332667 Savvycheck Intim Candida gyorsteszt - 1 db
-7310361147867 Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db
 7310361149090 Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db
 7310361149205 Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db
 7310361157422 Libero Comfort Mega Pack nadrágpelenka 3-as 5-8kg - 76 db
@@ -769,6 +770,7 @@
 7310361170094 Libero Comfort Triple Box nadrágpelenka 5-ös méret, 11-17 kg - 96 db
 7310361180253 Libero Touch nadrágpelenka 2-es 3-6kg - 47 db
 7310361180406 Libero Touch nadrágpelenka 1-es 2-5kg - 22 db
+7310361180420 Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db
 7310615062243 Salvequick Aqua Resist víz és szennyeződésálló ragtapasz - 1 db
 7310615966244 Salvequick Családi Mix hypoallergén sebtapasz csomag - 26 db
 7310616041551 Salvequick sebtapasz, 4 féle méret - 22 db
@@ -1011,6 +1013,7 @@
 8710103996750 Philips Avent Anti-Colic cumisüveg 3 hónapos kortól, 330 ml - 1 db
 8710103996774 Avent Classic Anti-Colic pótcumi 3 hónapos kortól - 2 db
 8710103996781 Avent Classic Anti-Colic pótcumi 6 hónapos kortól - 2 db
+8710908657122 Dove Baby hidratáló babafürdető érzékeny bőrre - 200 ml
 8710908657399 Dove Baby illatmentes babafürdető és sampon érzékeny bőrre - 200 ml
 8710908657900 Dove Baby sampon hidratáló - 200 ml
 8710908658075 Dove Baby hidratáló testápoló - 200 ml
