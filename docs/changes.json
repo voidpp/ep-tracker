@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-17",
+    "rossmann": {
+      "added": [],
+      "removed": [
+        {
+          "id": "5907609330789",
+          "name": "Eveline Cosmetics napvédő arckrém SPF50 - 50 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-10-15",
     "rossmann": {
       "added": [
