@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-22",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4068134055187",
+          "name": "Babydream megfázás elleni balzsam - 100 ml"
+        },
+        {
+          "id": "4068134196033",
+          "name": "Babydream ujjas, zsebes vízlepergető előke - 1 db"
+        },
+        {
+          "id": "4068134211422",
+          "name": "Babydream bugyipelenka XXL 7-es méret 16kg+ - 16 db"
+        },
+        {
+          "id": "7310361180550",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 3-as 5-8kg - 76 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134148544",
+          "name": "Babydream ujjas, zsebes vízlepergető előke - 1 db"
+        },
+        {
+          "id": "7310361157422",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 3-as 5-8kg - 76 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-10-17",
     "rossmann": {
       "added": [],

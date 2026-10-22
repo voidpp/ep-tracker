@@ -200,6 +200,7 @@
 4068134022868 Facelle Maxi Normal egészségügyi betét - 20 db
 4068134030948 Babydream szél és időjárás elleni balzsam - 50 ml
 4068134055170 Babydream megfázás elleni fürdető - 100 ml
+4068134055187 Babydream megfázás elleni balzsam - 100 ml
 4068134066008 Facelle Diskret Men inkontinencia nadrág XL - 8 db
 4068134067791 Facelle Daily Fresh tisztasági betét - 50 db
 4068134071996 Babydream Extra Sensitive fürdető és sampon - 500 ml
@@ -236,7 +237,6 @@
 4068134139696 Altapharma sebtapasz ujjra - 16 db
 4068134139771 Altapharma steril sebtapasz 7,5 x 7,5 cm - 10 db
 4068134143044 Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db
-4068134148544 Babydream ujjas, zsebes vízlepergető előke - 1 db
 4068134152466 Facelle Extra Lang Protect tisztasági betét - 30 db
 4068134156723 Babydream Extra Sensitive törlőkendő 12x80 db - 960 db
 4068134157454 Facelle Diskret Slim Normal egészségügyi betét - 16 db
@@ -249,9 +249,11 @@
 4068134180407 Babydream extra sensitive mandulaolaj - 250 ml
 4068134188526 Facelle ovulációs teszt - 10 db
 4068134191458 Babydream törlőkendő kókuszolajjal - 80 db
+4068134196033 Babydream ujjas, zsebes vízlepergető előke - 1 db
 4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
 4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
 4068134211415 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
+4068134211422 Babydream bugyipelenka XXL 7-es méret 16kg+ - 16 db
 4068134215246 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
 4068134215253 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
 4068134231291 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
@@ -761,7 +763,6 @@
 7290016332667 Savvycheck Intim Candida gyorsteszt - 1 db
 7310361149090 Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db
 7310361149205 Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db
-7310361157422 Libero Comfort Mega Pack nadrágpelenka 3-as 5-8kg - 76 db
 7310361165168 Libero Touch nadrágpelenka 5-ös méret, 11-17 kg - 30 db
 7310361165359 Libero Comfort Mega Pack nadrágpelenka 4-es méret, 7-14 kg - 74 db
 7310361165397 Libero Touch nadrágpelenka 4-es méret, 7-14 kg - 36 db
@@ -770,6 +771,7 @@
 7310361180253 Libero Touch nadrágpelenka 2-es 3-6kg - 47 db
 7310361180406 Libero Touch nadrágpelenka 1-es 2-5kg - 22 db
 7310361180420 Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db
+7310361180550 Libero Comfort Mega Pack nadrágpelenka 3-as 5-8kg - 76 db
 7310615062243 Salvequick Aqua Resist víz és szennyeződésálló ragtapasz - 1 db
 7310615966244 Salvequick Családi Mix hypoallergén sebtapasz csomag - 26 db
 7310616041551 Salvequick sebtapasz, 4 féle méret - 22 db
