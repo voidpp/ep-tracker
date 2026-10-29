@@ -74,6 +74,7 @@
 3663555006742 Compeed vízhólyagtapasz kis méretben - 6 db
 3700244201016 Gynophilus Restore hüvelytabletta - 2 db
 3800032904423 Bilka intim mosakodó gél levendulával - 200 ml
+3800032907738 Bilka intim mosakodó körömvirággal - 280 ml
 3800233070033 Rice Up barna rizs szelet chia maggal és quinoával - 120 g
 3800233070071 Rice Up barna rizs szelet szupermagvakkal - 120 g
 3800233070118 Rice Up rizs chips hagymás-tejfölös ízesítéssel - 60 g
@@ -371,7 +372,7 @@
 5010415336637 Tommee Tippee NightGlow éjszakai nyugtató cumi sterilizáló tokkal 18-36 hónapos korig - 2 db
 5011025083300 Sudocrem krém - 60 g
 5011025083355 Sudocrem krém - 125 g
-5011025083409 Sudocrem Krém - 250 g
+5011025083409 Sudocrem krém - 250 g
 5011025083454 Sudocrem krém - 400 g
 5011831076497 LifeStyles Ribbed Xtra Pleasure óvszer - 12 db
 5011831086106 Manix Skyn Original latex mentes óvszer - 20 db
@@ -584,10 +585,10 @@
 5997742302354 Dr.Kelen Kid lipo-krém ekcéma ellen - 75 ml
 5997951100864 Variocom mandulaliszt - 300 g
 5997951101755 Variocom chia mag - 250 g
-5997953118584 Babybruin mintás textilpelenka (70x70 cm) - 2 db
+5997953118584 BabyBruin mintás textilpelenka (70x70 cm) - 2 db
 5997953129955 Babybruin tejgyűjtő zacskó 350 ml - 20 db
 5997953130968 BabyBruin textilpelenka - 4 db
-5997953137264 BabyBruin világító játszócumi 1-es méret - 1 db
+5997953137264 BabyBruin cseresznye alakú, latex játszócumi, világító karikával 1-es méret - 1 db
 5997953137295 BabyBruin világító latex játszócumi 2-es méret - 1 db
 5998400307698 Cerbona gluténmentes meggyes-csokis szelet - 35 g
 5998400308985 Cerbona gluténmentes étcsokis-málnás müzliszelet - 35 g
@@ -660,10 +661,10 @@
 5999538141437 Sunvita epres gyümölcsszelet - 20 g
 5999538141444 Sunvita almás gyümölcsszelet - 20 g
 5999538141451 Sunvita kékáfonyás gyümölcsszelet - 20 g
-5999539488579 Sudocrem Soft Clean Törlőkendő - 55 db
-5999539488586 Sudocrem Sensitive Extra Puha Törlőkendő - 55 db
-5999539488593 Sudocrem Soft Clean Törlőkendő (4x55 db) - 220 db
-5999539488609 Sudocrem Sensitive Törlőkendő - (4x55db) 220 db
+5999539488579 Sudocrem Soft Clean törlőkendő - 55 db
+5999539488586 Sudocrem Sensitive törlőkendő - 55 db
+5999539488593 Sudocrem Soft Clean törlőkendő 4x55 db - 220 db
+5999539488609 Sudocrem Sensitive törlőkendő 4x55 db - 220 db
 5999542081583 Bergland gluténmentes tallér, köménymaggal - 100 g
 5999551073395 Medistus Antivirus lágypasztilla - 10 db
 5999559554964 Syrene kamillás babahintőpor - 500 g

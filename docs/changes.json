@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-10-29",
+    "rossmann": {
+      "added": [
+        {
+          "id": "3800032907738",
+          "name": "Bilka intim mosakodó körömvirággal - 280 ml"
+        },
+        {
+          "id": "5011025083409",
+          "name": "Sudocrem krém - 250 g"
+        },
+        {
+          "id": "5997953118584",
+          "name": "BabyBruin mintás textilpelenka (70x70 cm) - 2 db"
+        },
+        {
+          "id": "5997953137264",
+          "name": "BabyBruin cseresznye alakú, latex játszócumi, világító karikával 1-es méret - 1 db"
+        },
+        {
+          "id": "5999539488579",
+          "name": "Sudocrem Soft Clean törlőkendő - 55 db"
+        },
+        {
+          "id": "5999539488586",
+          "name": "Sudocrem Sensitive törlőkendő - 55 db"
+        },
+        {
+          "id": "5999539488593",
+          "name": "Sudocrem Soft Clean törlőkendő 4x55 db - 220 db"
+        },
+        {
+          "id": "5999539488609",
+          "name": "Sudocrem Sensitive törlőkendő 4x55 db - 220 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "5011025083409",
+          "name": "Sudocrem Krém - 250 g"
+        },
+        {
+          "id": "5997953118584",
+          "name": "Babybruin mintás textilpelenka (70x70 cm) - 2 db"
+        },
+        {
+          "id": "5997953137264",
+          "name": "BabyBruin világító játszócumi 1-es méret - 1 db"
+        },
+        {
+          "id": "5999539488579",
+          "name": "Sudocrem Soft Clean Törlőkendő - 55 db"
+        },
+        {
+          "id": "5999539488586",
+          "name": "Sudocrem Sensitive Extra Puha Törlőkendő - 55 db"
+        },
+        {
+          "id": "5999539488593",
+          "name": "Sudocrem Soft Clean Törlőkendő (4x55 db) - 220 db"
+        },
+        {
+          "id": "5999539488609",
+          "name": "Sudocrem Sensitive Törlőkendő - (4x55db) 220 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-10-22",
     "rossmann": {
       "added": [
