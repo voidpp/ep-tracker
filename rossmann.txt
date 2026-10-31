@@ -257,6 +257,7 @@
 4068134211422 Babydream bugyipelenka XXL 7-es méret 16kg+ - 16 db
 4068134215246 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
 4068134215253 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
+4068134215260 Babydream Extra Sensitive nedves törlőkendő - 80 db
 4068134231291 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
 4068134231307 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
 4084500759817 Clearblue Digitális terhességi teszt fogamzásjelzővel - 1 db
@@ -450,7 +451,6 @@
 5400951992358 Lactacyd Extra Sensitive intim mosakodó extra érzékeny bőrre - 400 ml
 5400951992426 Lactacyd Classic intim mosakodó - 200 ml
 5400951992471 Lactacyd Classic intim mosakodó - 400 ml
-5400951992617 Lactacyd Fresh intim mosakodó - 200 ml
 5400951992662 Lactacyd Fresh intim moskodó - 400 ml
 5400951992761 Lactacyd hidratáló intim mosakodó - 200 ml
 5400951992792 Lactacyd hidratáló intim mosakodó - 400 ml
@@ -490,7 +490,7 @@
 5900516320348 Bella Super tampon - 16 db
 5900516402358 Bella Mamma eldobható melltartóbetét - 60 db
 5900516653460 Bella intim mosakodógél tiniknek - 300 ml
-5900516690328 Seni soft super betegalátét 90 x 60 cm - 5 db
+5900516690328 Seni Soft Super betegalátét 90 x 60 cm - 5 db
 5900516699093 Seni Lady Slim Mini inkontinencia betét - 20 db
 5900516699116 Seni Lady Slim Normal inkontinencia betét - 20 db
 5900516699123 Seni Lady Slim Extra inkontinencia betét - 15 db
@@ -504,10 +504,10 @@
 5900516714437 Bella Herbs Aloe Vera tisztasági betét - 1 db
 5900516714505 Bella panty intima 100 % pamut - 30 db
 5900516735319 Seni Lady Slim Micro inkontinencia betét - 20 db
-5900516744977 Seni Care nedves törlőkendő - 10 db
+5900516744977 Seni Care Soft nedves törlőkendő - 10 db
 5900516747114 Bella intim mosakodó - 250 ml
-5900516800529 Seni Lady Pants eldobható alsónemű női M - 10 db
-5900516800536 Seni Lady Pants eldobható alsónemű női L - 10 db
+5900516800529 Seni Lady Pants női egyszerhasználatos alsónemű M-es méret - 10 db
+5900516800536 Seni Lady Pants női egyszerhasználatos alsónemű L-es méret - 10 db
 5900516801656 Seni Man Light Level 1 férfi inkontinencia betét - 15 db
 5900516801663 Seni Man Normal Level 2 férfi inkontinencia betét - 15 db
 5900852036514 Milumil HA Start Prosyneo anyatej-helyettesítő tápszer 0 hónapos kortól - 400 g
@@ -737,7 +737,7 @@
 5999887073991 JutaVit hagyományos higanymentes lázmérő - 1 db
 5999887074059 JutaVit flexibilis digitális lázmérő - 1 db
 5999887074103 JutaVit Werner vérnyomásmérő - 1 db
-5999887074448 Jutavit probium7+inulin kapszula - 30 db
+5999887074448 JutaVit Probium7+Inulin kapszula - 30 db
 5999887075063 JutaVit körömgomba kezelő toll - 4 ml
 5999887702150 Hester's life veryberry granola - 320 g
 5999887702167 Hester's Life granola csokoládéval, mogyoróval és eperrel - 320 g
