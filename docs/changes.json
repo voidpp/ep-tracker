@@ -1,5 +1,5226 @@
 [
   {
+    "date": "2026-11-04",
+    "rossmann": {
+      "added": [],
+      "removed": []
+    },
+    "dm": {
+      "added": [
+        {
+          "id": "1000304",
+          "name": "986   tampon normál      O.B.TAMPON 32DB   NORMÁL"
+        },
+        {
+          "id": "1023097",
+          "name": "1234   inkontinencia enyhe      TENA INKONT.BETÉT   28DB ULTRA MINI"
+        },
+        {
+          "id": "1175793",
+          "name": "1126   glut.kenyér/szendv.k      SCHAR GLUTÉNMENT.   SÓS PEREC 60G SALIN"
+        },
+        {
+          "id": "1175798",
+          "name": "1123   glut.édesség      SCHAR GLUTÉNMENT.   ÉDES KIFLIK 200G BM."
+        },
+        {
+          "id": "1196038",
+          "name": "1125   glut.kenyér/szendv.k      SCHAR GLUTÉNMENT.   MINI ZSEMLE 200G CIA"
+        },
+        {
+          "id": "1229817",
+          "name": "1253   egyéb higiénia      VISIOMAX szemcsepp 15x04 ml Hyaluronnal"
+        },
+        {
+          "id": "1237143",
+          "name": "930   intim mosakodó      NIVEA INTIMO INTIM MOSAKODÓ GÉL 250ML"
+        },
+        {
+          "id": "1238418",
+          "name": "1204   Napkrém      SUNDANCE napkrém FF30 100ml"
+        },
+        {
+          "id": "1268485",
+          "name": "1173   napkrém gyerek      SUNDANCE Kids napkrém FF50 100ml"
+        },
+        {
+          "id": "1269986",
+          "name": "152   Melltartóbetét      babylove melltartó betét 30db"
+        },
+        {
+          "id": "1301928",
+          "name": "1174   napkrém gyerek      SUNDANCE Kids napkrém Med FF50+ 100ml"
+        },
+        {
+          "id": "1314954",
+          "name": "1247   kontaktlencse      VISIOMAX kombinált oldat 360 ml Hyaluron"
+        },
+        {
+          "id": "1314955",
+          "name": "1248   kontaktlencse      VISIOMAX kombioldat 360 ml"
+        },
+        {
+          "id": "1314956",
+          "name": "1249   kontaktlencse      VISIOMAX kontaktl áp kombiold 360 ml sup"
+        },
+        {
+          "id": "1314957",
+          "name": "1252   kontaktlencse      VISIOMAX szemcsepp 15 ml Hyaluronnal"
+        },
+        {
+          "id": "1335746",
+          "name": "934   naptej spray      NIVEA SUN NAP.SPRAY FF30 200ML PRO&BRO"
+        },
+        {
+          "id": "1337342",
+          "name": "1205   Napkrém      SUNDANCE napkrém FF50 100ml"
+        },
+        {
+          "id": "1344792",
+          "name": "1199   Napozó spray      SUNDANCE nap.spray FF30 50ml"
+        },
+        {
+          "id": "1354523",
+          "name": "1233   inkontinencia enyhe      TENA INKONT.BETÉT   24DB ULTRA MINI PLUS"
+        },
+        {
+          "id": "1367850",
+          "name": "1186   Napvédelem érzékeny bőr      SUNDANCE nap.fluid FF50+ 50ml Med"
+        },
+        {
+          "id": "1379600",
+          "name": "1120   fertotlenítés      Sanft&Sicher wc   papír üloke 10db"
+        },
+        {
+          "id": "1417776",
+          "name": "1049   Nedves törlőkendő      Pampers törlőkendő 4x44 db Harm.Calend."
+        },
+        {
+          "id": "1428972",
+          "name": "1193   Napozó spray      SUNDANCE nap.spray   sport FF30 200ml"
+        },
+        {
+          "id": "1441990",
+          "name": "1251   kontaktlencse      VISIOMAX kontaktl.áp 60ml kombiold.super"
+        },
+        {
+          "id": "1449711",
+          "name": "1216   napozó spray aerosol      SUNDANCE sport spray FF50 200ml átl. aer"
+        },
+        {
+          "id": "1449721",
+          "name": "1200   Napozó spray      SUNdance nap.spray FF30 sport 75ml"
+        },
+        {
+          "id": "1474882",
+          "name": "1214   Naptej      SUNDANCE naptej véd&barn. FF50 200ml"
+        },
+        {
+          "id": "1491981",
+          "name": "1259   babafürdeto      WELEDA BABY+KIND   SAMP.&FÜRDETO 200ML"
+        },
+        {
+          "id": "1491985",
+          "name": "1260   babakrém      WELEDA CAL.BABAKRÉM 75ML PEL.KIÜT.ELLEN"
+        },
+        {
+          "id": "1491986",
+          "name": "1261   babakrém      WELEDA CALENDULA   ÁPOLÓ BABAKRÉM 75ML"
+        },
+        {
+          "id": "1493299",
+          "name": "1250   kontaktlencse      VISIOMAX kontaktl. tiszt. kombiold 360ml"
+        },
+        {
+          "id": "1536172",
+          "name": "933   napkrém norm/érzék.      NIVEA SUN NAP.KRÉM FF50 50ML ARCANTI-AG"
+        },
+        {
+          "id": "1536461",
+          "name": "1191   napkrém norm/érzék.      SUNDANCE nap.krém gél FF50 150ml MED"
+        },
+        {
+          "id": "1543426",
+          "name": "1217   Napozó arcra      SUNDANE nap.fluid   FF30 50ml matt"
+        },
+        {
+          "id": "1545732",
+          "name": "852   sebtapasz normál      Mivolis gyerek tapasz 20 db aqua"
+        },
+        {
+          "id": "1550790",
+          "name": "856   sebtapasz normál      Mivolis ragtapasz 20 db aqua"
+        },
+        {
+          "id": "1550791",
+          "name": "858   sebtapasz vágható      Mivolis ragtapasz 5m*25cm"
+        },
+        {
+          "id": "1550792",
+          "name": "859   sebtapasz vágható      Mivolis rugalmas tapasz 10cmx6cm 10 db"
+        },
+        {
+          "id": "1550793",
+          "name": "857   sebtapasz normál      Mivolis ragtapasz 20 db sensitive"
+        },
+        {
+          "id": "1550794",
+          "name": "854   kész kötések      Mivolis öntapadó ujjkötöző 5 m"
+        },
+        {
+          "id": "1550795",
+          "name": "851   sebtapasz normál      Mivolis gyerek tapasz 20 db"
+        },
+        {
+          "id": "1550801",
+          "name": "863   sebtapasz vágható      Mivolis sebtapasz 1mx6cm"
+        },
+        {
+          "id": "1550807",
+          "name": "860   sebtapasz normál      Mivolis sebösszehúzó csíkok 20 db"
+        },
+        {
+          "id": "1551245",
+          "name": "853   kész kötések      Mivolis kesztyű   1db pamut"
+        },
+        {
+          "id": "1551508",
+          "name": "866   kész kötések      Mivolis steril sebtapasz 5 db"
+        },
+        {
+          "id": "1551509",
+          "name": "864   kész kötések      Mivolis sportkötés10mx375cm"
+        },
+        {
+          "id": "1551511",
+          "name": "865   Kötszer      Mivolis ster. sebtap 8cmx10cm 5db vízáll"
+        },
+        {
+          "id": "1551513",
+          "name": "849   Kötszer      Mivolis elasztikus kötöző 2x4m"
+        },
+        {
+          "id": "1551517",
+          "name": "867   Kötöző      Mivolis térdrögzítő 1db medium"
+        },
+        {
+          "id": "1551522",
+          "name": "868   Kötöző      Mivolis térdrögzítő 1db large"
+        },
+        {
+          "id": "1551537",
+          "name": "861   egyéb higiénia      Mivolis sebspray 50 ml"
+        },
+        {
+          "id": "1551771",
+          "name": "855   Kötöző      Mivolis öntapadós   kötöző 6cmx5m"
+        },
+        {
+          "id": "1552240",
+          "name": "850   egyéb higiénia      Mivolis füldugó 8x2 db"
+        },
+        {
+          "id": "1552732",
+          "name": "848   Vérnyomás-/lázmérő      Mivolis digitális lázmérő flexib. fejjel"
+        },
+        {
+          "id": "1552899",
+          "name": "1172   Napvédelem gyermekeknek      SUNDANCE Kids nap.r. 100ml med us.FF50+"
+        },
+        {
+          "id": "1562894",
+          "name": "862   Klassszikus sebtapasz      Mivolis sebtapasz   6cmx05m gyerek"
+        },
+        {
+          "id": "1574061",
+          "name": "1190   Naptej      SUNDANCE nap.krém   FF50+ 100ml"
+        },
+        {
+          "id": "1575159",
+          "name": "1179   Napozó arcra      SUNDANCE matt fluid arcra FF50 50ml"
+        },
+        {
+          "id": "1576602",
+          "name": "1187   Napvédelem érzékeny bőr      SUNDANCE nap.fluid FF50+ 50ml sensitiv"
+        },
+        {
+          "id": "1581159",
+          "name": "1185   Napvédelem érzékeny bőr      SUNDANCE nap.fluid FF30 50ml sensitiv"
+        },
+        {
+          "id": "1601233",
+          "name": "869   sebtapasz normál      Mivolis vízálló sebtapasz 40 db"
+        },
+        {
+          "id": "1602668",
+          "name": "1184   Napozó arcra      SUNDANCE nap.fluid FF30 50ml anti-age"
+        },
+        {
+          "id": "1602700",
+          "name": "1206   Napozó arcra      SUNDANCE napozófluid FF50 50ml anti-age"
+        },
+        {
+          "id": "1626097",
+          "name": "1192   Napvédelem érzékeny bőr      SUNDANCE nap.krém- gél FF50+ 30ml"
+        },
+        {
+          "id": "1638042",
+          "name": "153   terh/szoptatási kieg      babylove melltartó betét 60db"
+        },
+        {
+          "id": "1657493",
+          "name": "1262   Kismama ápolóolaj és testápoló      Weleda stria elleni testvaj mam.150ml OS"
+        },
+        {
+          "id": "1670589",
+          "name": "1006   Éjszakai bugyipelenka      Pampers ninja.bugyip7(17-30kg)10dbszívOS"
+        },
+        {
+          "id": "1670595",
+          "name": "1005   Éjszakai bugyipelenka      Pampers ninja.bugyip7(17-30kg)10db űr OS"
+        },
+        {
+          "id": "1670596",
+          "name": "1008   Éjszakai bugyipelenka      Pampers ninja.bugyip8(27-43kg)9db űr OS"
+        },
+        {
+          "id": "1670597",
+          "name": "1007   Éjszakai bugyipelenka      Pampers ninja.bugyip8(27-43kg)9db szívOS"
+        },
+        {
+          "id": "1678392",
+          "name": "1167   Napozó ajakápoló      SUNDANCE ajakápoló kókusz FF30 10ml"
+        },
+        {
+          "id": "1678934",
+          "name": "1189   Napvédelem érzékeny bőr      SUNDANCE nap.krém   FF50 100ml sensitiv"
+        },
+        {
+          "id": "1679548",
+          "name": "936   Napozó arcra      NIVEA SUN napozó arckrém FF50 50ml lumin"
+        },
+        {
+          "id": "1681516",
+          "name": "1042   Nedves törlőkendő      Pampers törlőkendő 10 db Harm.Aqua PF"
+        },
+        {
+          "id": "1681607",
+          "name": "668   Egyéb szoptatás kiegészítők      Lansinoh szül. után bet. 0-2 hét 10db OS"
+        },
+        {
+          "id": "1691425",
+          "name": "1044   Nedves törlőkendő      PAMPERS TÖRLŐKENDŐ 15X80DB SENSITIVE OS"
+        },
+        {
+          "id": "1691426",
+          "name": "1043   Nedves törlőkendő      PAMPERS TÖRLŐKENDŐ 15X80DB FRESH CL. OS"
+        },
+        {
+          "id": "1693421",
+          "name": "1121   Gyerek fürdőkiegészítő      SauBär habfürdő 40ml Hősies/Mesés"
+        },
+        {
+          "id": "1720868",
+          "name": "1048   Nedves törlőkendő      Pampers törlőkendő 48db Harm.Aqua PF S+"
+        },
+        {
+          "id": "1740808",
+          "name": "924   babasampon      NIVEA BABY SAMPON   200ML"
+        },
+        {
+          "id": "1749133",
+          "name": "980   tampon normál      O.B.TAMPON 16DB   NORMÁL"
+        },
+        {
+          "id": "1749135",
+          "name": "985   tampon egyéb      O.B.TAMPON 16DB SUPER"
+        },
+        {
+          "id": "1780709",
+          "name": "982   tampon egyéb      O.B.TAMPON 16DB   SUPER PLUS"
+        },
+        {
+          "id": "1799759",
+          "name": "1171   Napozó spray gyerek      SUNDANCE Kids nap. spray FF50 200ml"
+        },
+        {
+          "id": "1799760",
+          "name": "1197   naptej spray      SUNDANCE nap.spray FF30 200ml"
+        },
+        {
+          "id": "1799766",
+          "name": "1169   Napozó spray gyerek      SUNDANCE Kids nap. sp. FF50+ 200ml Med"
+        },
+        {
+          "id": "1799770",
+          "name": "1203   naptej spray      SUNDANCE nap.spray FF50 200ml"
+        },
+        {
+          "id": "1799791",
+          "name": "1181   Napozó spray      SUNDANCE nap. spray FF50+ 200ml"
+        },
+        {
+          "id": "1800119",
+          "name": "1201   Napozó spray      SUNDANCE nap.spray FF50 200ml sensitiv"
+        },
+        {
+          "id": "1800121",
+          "name": "1180   Napozó spray      SUNDANCE MED nap.   spray FF50+ 200ml us"
+        },
+        {
+          "id": "1834044",
+          "name": "1153   tampon egyéb      SOFT TAMPON 3DB   NORMÁL"
+        },
+        {
+          "id": "1868213",
+          "name": "1218   tampon egyéb      SWIMPON AQUA STOP   TAMPON 6DB"
+        },
+        {
+          "id": "1874156",
+          "name": "1183   Napvédelem érzékeny bőr      SUNDANCE nap.balzsam FF50 200ml sensitiv"
+        },
+        {
+          "id": "1885521",
+          "name": "1208   naptej norm./érzék.      SUNDANCE naptej FF30 200ml"
+        },
+        {
+          "id": "1885522",
+          "name": "1210   naptej norm./érzék.      SUNDANCE naptej FF50 200ml"
+        },
+        {
+          "id": "1885547",
+          "name": "1212   naptej norm./érzék.      SUNDANCE naptej FF50+ 200ml"
+        },
+        {
+          "id": "1886487",
+          "name": "667   terh/szoptatási kieg      LANSINOH NORMÁL   BIMBÓVÉDŐ 2DB W2+"
+        },
+        {
+          "id": "1888279",
+          "name": "1051   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 4X80DB SENSITIVE"
+        },
+        {
+          "id": "1888280",
+          "name": "1050   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 4X80DB FRESH CLEAN"
+        },
+        {
+          "id": "1892537",
+          "name": "1211   Naptej      SUNDANCE naptej FF50 500ml"
+        },
+        {
+          "id": "1892786",
+          "name": "1198   Napozó spray      SUNDANCE nap.spray FF30 200ml véd&barn."
+        },
+        {
+          "id": "1893342",
+          "name": "1176   naptej norm./érzék.      SUNDANCE Kids naptej FF50+ 200ml"
+        },
+        {
+          "id": "1894112",
+          "name": "917   glut.édesség      NICK'S GM SZELET 40G KÓKUSZ"
+        },
+        {
+          "id": "1894304",
+          "name": "918   glut.édesség      NICK'S GM SZELET 40G MOGYORÓ-KARAMELLA"
+        },
+        {
+          "id": "1917001",
+          "name": "1117   Klassszikus sebtapasz      Salvequick sebtapasz 20db mancsőrjárat"
+        },
+        {
+          "id": "1918170",
+          "name": "1177   naptej gyerek      SUNDANCE Kids naptej FF50+ 200ml MED u.s"
+        },
+        {
+          "id": "1918600",
+          "name": "1209   Naptej      SUNDANCE naptej FF30 50 ml PG"
+        },
+        {
+          "id": "1918601",
+          "name": "1207   Naptej      SUNDANCE naptej   FF50 50ml"
+        },
+        {
+          "id": "1918602",
+          "name": "1182   Napvédelem érzékeny bőr      SUNDANCE nap.balzsam FF30 50ml érz.bőrre"
+        },
+        {
+          "id": "1918632",
+          "name": "1175   Napvédelem gyermekeknek      SUNDANCE kids naptej érz. FF50+ 50ml PG"
+        },
+        {
+          "id": "1918633",
+          "name": "1170   Napvédelem gyermekeknek      SUNDANCE kids nap. sp.sens. FF50 200ml"
+        },
+        {
+          "id": "1918637",
+          "name": "1202   Napvédelem érzékeny bőr      SUNDANCE nap.spray sensitive FF30 200ml"
+        },
+        {
+          "id": "1918651",
+          "name": "1213   Naptej      SUNDANCE naptej véd&barn. FF30 200ml"
+        },
+        {
+          "id": "1918671",
+          "name": "1178   Napvédelem gyermekeknek      SUNDANCE Kids naptej FF50+ 50ml Med U.S."
+        },
+        {
+          "id": "1918675",
+          "name": "1195   Napozó spray      SUNDANCE nap.spray átl. FF50 200ml"
+        },
+        {
+          "id": "1918676",
+          "name": "1196   Napozó spray      SUNDANCE nap.spray átl. FF50+ 200ml"
+        },
+        {
+          "id": "1920963",
+          "name": "937   Naptej      NIVEA SUN naptej   FF50+ 270ml prot&moi"
+        },
+        {
+          "id": "1922713",
+          "name": "1194   Napozó spray      SUNDANCE nap.spray átl. FF30 200ml"
+        },
+        {
+          "id": "2002896",
+          "name": "1045   Nedves törlőkendő      Pampers törlőkendő 3x48db Harm.Aqua PF"
+        },
+        {
+          "id": "2002901",
+          "name": "1060   Bébi- és gyerek nedves tisztítókendő      Pampers törlőkendő 52 db sensitive PF"
+        },
+        {
+          "id": "2026928",
+          "name": "928   intim mosakodó      NIVEA INTIM MOS. GÉL 250ML FRESH COMFORT"
+        },
+        {
+          "id": "2026941",
+          "name": "1122   glut.édesség      SCHAR GLUTÉNMENT.   CSOKIS KEKSZ 100G"
+        },
+        {
+          "id": "2027463",
+          "name": "962   Tampon      o.b. tampon organic mini 16db"
+        },
+        {
+          "id": "2027526",
+          "name": "728   Napozó arcra      MÁDARA fényvédő arc-krém ff30 nude 40ml"
+        },
+        {
+          "id": "2028934",
+          "name": "1028   Pelenka 1-es méret      Pampers pc pelenka 1 (2-5kg) 72db"
+        },
+        {
+          "id": "2028951",
+          "name": "1082   Etetőcumi      PHILIPS AVENT Nat. 1.pótcum 0h+ 2db W2+"
+        },
+        {
+          "id": "2028952",
+          "name": "1087   Etetőcumi      PHILIPS AVENT pótcum 2db Natural 3h+ W2+"
+        },
+        {
+          "id": "2028953",
+          "name": "1085   Etetőcumi      PHILIPS AVENT pótcum 2db Natur.gyors 6h+"
+        },
+        {
+          "id": "2028954",
+          "name": "1084   Etetőcumi      PHILIPS AVENT pótcum 2db N.gyors 6h+ W2+"
+        },
+        {
+          "id": "2028958",
+          "name": "1083   Üveg cumisüveg 0-6 hónapos      PHILIPS AVENT Nat.ü.cumisü. 0h+ 120ml OS"
+        },
+        {
+          "id": "2028960",
+          "name": "1078   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg Natur. 0h+ 125mlw2+"
+        },
+        {
+          "id": "2028961",
+          "name": "1079   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg Natural 1h+ 260ml"
+        },
+        {
+          "id": "2028964",
+          "name": "1080   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üvegNatural 3h+ 330ml"
+        },
+        {
+          "id": "2028966",
+          "name": "1075   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg AirFree 0h+ 125ml"
+        },
+        {
+          "id": "2028967",
+          "name": "1076   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg AirFree 1h+ 260ml"
+        },
+        {
+          "id": "2029052",
+          "name": "890   Tisztasági betét      Naturella tiszt.bet. Cam. Light 100db OS"
+        },
+        {
+          "id": "2029053",
+          "name": "886   Egészségügyi betét szárnyas      Naturella eü. betét Ultra Norm.Plus 36db"
+        },
+        {
+          "id": "2031326",
+          "name": "1017   Bugyipelenka 8-as méret      PAMPERS PANTS JP BU GYIP. 8(19KG+) 32 DB"
+        },
+        {
+          "id": "2031327",
+          "name": "1022   Bugyipelenka 7-es méret      pampers pc pants   bugyip. 7(17kg+)27db"
+        },
+        {
+          "id": "2032029",
+          "name": "927   Baba és gyerek testápoló      NIVEA BABY uni. krémMY FIRST CREAM 75ml"
+        },
+        {
+          "id": "2032034",
+          "name": "926   Baba és gyerek testápoló      NIVEA BABY TESTÁPOLÓBED TIME 200ML"
+        },
+        {
+          "id": "2032374",
+          "name": "921   Baba és gyerek testápoló      NIVEA BABY   SOFT KRÉM 200ML"
+        },
+        {
+          "id": "2032375",
+          "name": "925   Babafürdető és hajápolás      NIVEA BABY SAMPON   ÉS FÜRDETŐ 500ML"
+        },
+        {
+          "id": "2051339",
+          "name": "1072   fogkrém fehérítő      PARODONTAX FOGKRÉM 75ML WHITENING"
+        },
+        {
+          "id": "2070201",
+          "name": "1224   tampon egyéb      TAMPAX COMPAK   SUPER DUO 16DB"
+        },
+        {
+          "id": "2070202",
+          "name": "1223   tampon egyéb      TAMPAX COMPAK   REGULAR DUO 16DB"
+        },
+        {
+          "id": "2070890",
+          "name": "1036   pelenka normál      PAMPERS PELENKA   PC 0 <25KG 30DB"
+        },
+        {
+          "id": "2075375",
+          "name": "929   Intim mosakodó      NIVEA Intimo intim mos.gél Sensi. 250ml"
+        },
+        {
+          "id": "2076565",
+          "name": "872   Babafürdető és hajápolás      MIXA BABY TÁPLÁLÓ   TUSF&SAMP 2IN1 400ML"
+        },
+        {
+          "id": "2076566",
+          "name": "871   babafürdeto      MIXA BABY HABZÓ   FÜRDO OLAJ 400L"
+        },
+        {
+          "id": "2097983",
+          "name": "884   eü. betét ultra      NATURELLA EÜ. BETÉT 20DB ULTRA NORMÁL"
+        },
+        {
+          "id": "2097985",
+          "name": "882   eü. betét ultra      NATURELLA EÜ. BETÉT 16DB ULTRA SUPER DUO"
+        },
+        {
+          "id": "2097988",
+          "name": "881   eü. betét ultra      NATURELLA EÜ. BETÉT 14DB ULTRA NIGHT"
+        },
+        {
+          "id": "2100054",
+          "name": "979   tampon egyéb      O.B.TAMPON 16DB   MINI PROCOMFORT"
+        },
+        {
+          "id": "2100056",
+          "name": "981   tampon egyéb      O.B.TAMPON 16DB   NORMÁL PROCOMFORT"
+        },
+        {
+          "id": "2100057",
+          "name": "984   tampon egyéb      O.B.TAMPON 16DB   SUPER PROCOMFORT"
+        },
+        {
+          "id": "2100058",
+          "name": "987   tampon egyéb      O.B.TAMPON 32DB   NORMÁL PROCOMFORT"
+        },
+        {
+          "id": "2100059",
+          "name": "955   tampon egyéb      O.B. TAMPON   PROCOMFORT SUPER 32D"
+        },
+        {
+          "id": "2100060",
+          "name": "983   tampon egyéb      O.B.TAMPON 16DB   SUPER PLUS PROCOMFOR"
+        },
+        {
+          "id": "2100099",
+          "name": "1069   fogkrém érzékeny      PARODONTAX FOGKRÉM 75ML COMP.PR. EX FR."
+        },
+        {
+          "id": "2100100",
+          "name": "1070   fogkrém fehérítő      PARODONTAX FOGKRÉM 75ML COMP.PR. WHITE"
+        },
+        {
+          "id": "2101231",
+          "name": "977   tampon egyéb      O.B. TAMPON PROCOMFORT SUPER PLUS 32DB"
+        },
+        {
+          "id": "2101669",
+          "name": "1127   glut.kenyér/szendv.k      SCHAR GLUTM. PAN BLANKO KENYÉR 250G"
+        },
+        {
+          "id": "2101671",
+          "name": "1128   glut.kenyér/szendv.k      SCHAR GLUTMENT. PAN RUSTICO KENY. 250G"
+        },
+        {
+          "id": "2108364",
+          "name": "870   babafürdető      MIXA BABY ATOPIANCE TISZTÍTÓ OLAJ 250ML"
+        },
+        {
+          "id": "2109378",
+          "name": "764   Egyéb szoptatás kiegészítők      MAM KÉZI MELLSZÍVÓ w2+"
+        },
+        {
+          "id": "2110736",
+          "name": "1148   fogkrém fehéríto      SENSODYNE FOGKRÉM   75ML RAPID WHITENING"
+        },
+        {
+          "id": "2110743",
+          "name": "1129   tyúkszemirtó tapasz      SCHOLL TYÚKSZEMIRT.VÍZÁLL.SZORÍTÓ.TAP8DB"
+        },
+        {
+          "id": "2111532",
+          "name": "1040   pelenka normál      PAMPERS PELENKA PC SP 1 ÚJSZÜLÖTT 26DB"
+        },
+        {
+          "id": "2111533",
+          "name": "1041   pelenka normál      PAMPERS PELENKA PC SP 2 MINI 23DB"
+        },
+        {
+          "id": "2111535",
+          "name": "1030   Pelenka 2-es méret      Pampers pc pelenka 2(4-8 kg) 68 db"
+        },
+        {
+          "id": "2111536",
+          "name": "1025   bugyi pelenka      PAMPERS PC PANTS   PELENKA MIDI 48DB"
+        },
+        {
+          "id": "2111537",
+          "name": "1024   bugyi pelenka      PAMPERS PC PANTS   PELENKA MAXI 38DB"
+        },
+        {
+          "id": "2111538",
+          "name": "1023   bugyi pelenka      PAMPERS PC PANTS   PELENKA JUNIOR 34DB"
+        },
+        {
+          "id": "2111539",
+          "name": "1026   bugyi pelenka      PAMPERS PC PANTS   PELENKA XL 31DB"
+        },
+        {
+          "id": "2111679",
+          "name": "935   Napozó spray      NIVEA SUN napozó   spray FF50+ 200ml"
+        },
+        {
+          "id": "2113778",
+          "name": "997   pelenka jumbo csomag      PAMPERS MAXI PACK+ PELENKA 7 44DB"
+        },
+        {
+          "id": "2114339",
+          "name": "1222   tampon egyéb      TAMPAX COMPAK   PEARL REGULAR DUO 16"
+        },
+        {
+          "id": "2114944",
+          "name": "1056   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 80DB SENSITIVE"
+        },
+        {
+          "id": "2114945",
+          "name": "1055   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 80DB FRESH CLEAN"
+        },
+        {
+          "id": "2116588",
+          "name": "1220   egyéb higiénia      T.O.C. INTIM KEHELY \"S\" MÉRET"
+        },
+        {
+          "id": "2116589",
+          "name": "1219   egyéb higiénia      T.O.C. INTIM KEHELY \"M\" MÉRET"
+        },
+        {
+          "id": "2121531",
+          "name": "954   tampon egyéb      O.B. TAMPON   PROCOMFORT MINI 32DB"
+        },
+        {
+          "id": "2123300",
+          "name": "1010   Bugyipelenka 4-es méret      Pampers pants bugyip4(9-15kg) 108db OS"
+        },
+        {
+          "id": "2123302",
+          "name": "1011   Bugyipelenka 5-ös méret      Pampers pants bugyip5(12-17kg) 96 db OS"
+        },
+        {
+          "id": "2123303",
+          "name": "1012   Bugyipelenka 6-os méret      Pampers pants bugyip6(14-19kg) 84 db OS"
+        },
+        {
+          "id": "2123543",
+          "name": "1016   bugyi pelenka      PAMPERS PANTS JP   MIDI 6-11KG 62DB"
+        },
+        {
+          "id": "2123545",
+          "name": "1015   bugyi pelenka      PAMPERS PANTS JP   MAXI 9-15KG 52DB"
+        },
+        {
+          "id": "2123548",
+          "name": "1014   bugyi pelenka      PAMPERS PANTS JP   JUNIOR 12-17KG 48DB"
+        },
+        {
+          "id": "2123550",
+          "name": "1020   bugyi pelenka      PAMPERS PANTS JP XL 15KG+ 44DB"
+        },
+        {
+          "id": "2123776",
+          "name": "945   Tampon      O.B TAMPON ORGANIC 16DB NORMÁL"
+        },
+        {
+          "id": "2123777",
+          "name": "961   Tampon      O.B. TAMPON ORGANIC 16DB SUPER"
+        },
+        {
+          "id": "2124785",
+          "name": "1149   fogkrém érzékeny      SENSODYNE FOGKRÉM   75ML REP.&PROT.EX.FR"
+        },
+        {
+          "id": "2124802",
+          "name": "931   intim törlőkendők      NIVEA INTIMO INTIM TÖRLŐKENDŐ 15DB ALOE"
+        },
+        {
+          "id": "2124837",
+          "name": "1021   bugyi pelenka      PAMPERS PANTS JP XXL17KG+ 38DB"
+        },
+        {
+          "id": "2125445",
+          "name": "1118   tyúkszemirtó tapasz      SALVEQUICK TYÚKSZEM ÉS BŐRKEM.ELL.TAPASZ"
+        },
+        {
+          "id": "2125446",
+          "name": "1116   egyéb lábápolás      SALVEQUICK MED SZEMÖLCSTAPASZ 20DB"
+        },
+        {
+          "id": "2125876",
+          "name": "658   Intim mosakodó      Lactovit intim mosakodó Sensitive 250ml"
+        },
+        {
+          "id": "2125982",
+          "name": "999   Bugyipelenka 4-es méret      PAMPERS NIGHT BUGYIP 4(9-15KG) 25DB OS"
+        },
+        {
+          "id": "2125983",
+          "name": "1000   Éjszakai bugyipelenka      PAMPERS NIGHT BUGYIP 5(12-17KG) 22DB OS"
+        },
+        {
+          "id": "2125984",
+          "name": "1001   Éjszakai bugyipelenka      PAMPERS NIGHT BUGYIP 6(15KG+) 19DB OS"
+        },
+        {
+          "id": "2127132",
+          "name": "889   tiszt. betét normál      NATURELLA TISZT.BET. 44DB CAM. NORMAL"
+        },
+        {
+          "id": "2127133",
+          "name": "888   Tisztasági betét      Naturella tiszt.bet Norm Kamilla 74db"
+        },
+        {
+          "id": "2127135",
+          "name": "883   eü. betét normál      NATURELLA EÜ. BETÉT 18DB NORMAL PLUS"
+        },
+        {
+          "id": "2127136",
+          "name": "887   Egészségügyi betét szárnyas      Naturella eü. betét Ultra Normal 40db"
+        },
+        {
+          "id": "2127212",
+          "name": "1290   intim mosakodó      ZIAJA INTIM MOSAKODÓ 500ML LAKTOBIONSAV"
+        },
+        {
+          "id": "2127266",
+          "name": "952   Tampon      o.b. ProComfort tampon normál 64db"
+        },
+        {
+          "id": "2127267",
+          "name": "953   Tampon      o.b. ProComfort tampon super 54db"
+        },
+        {
+          "id": "2127318",
+          "name": "951   Tampon      o.b. ProComfort tampon mini 64db"
+        },
+        {
+          "id": "2127406",
+          "name": "947   Tampon      o.b. ExtraProtect tampon normál 16db"
+        },
+        {
+          "id": "2127407",
+          "name": "949   Tampon      o.b. ExtraProtect tampon super 16db"
+        },
+        {
+          "id": "2127409",
+          "name": "948   Tampon      o.b. ExtraProtect tampon normál 56db"
+        },
+        {
+          "id": "2127410",
+          "name": "950   Tampon      o.b. ExtraProtect tampon super plus 16db"
+        },
+        {
+          "id": "2127412",
+          "name": "946   Tampon      o.b. ExtraProtect   tampon super 42db"
+        },
+        {
+          "id": "2129087",
+          "name": "811   terh/szoptatási kieg      MAM TÁROLÓ POHÁR 5DBw"
+        },
+        {
+          "id": "2129399",
+          "name": "891   Egészségügyi betét szárnyas      Naturella Ultr eü.b night 28db"
+        },
+        {
+          "id": "2129400",
+          "name": "885   Egészségügyi betét szárnyas      Naturella eü. betét Ultra Maxi 32db"
+        },
+        {
+          "id": "2142561",
+          "name": "1124   glut.kenyér/szendv.k      SCHAR GLUTÉNMENT.   KENYÉR 240G PANE CAS"
+        },
+        {
+          "id": "2173141",
+          "name": "1151   fogkrém érzékeny      SENSODYNE FOGKRÉM   75ML SENS.&GUM WHITE"
+        },
+        {
+          "id": "2184390",
+          "name": "718   tiszt. betét normál      LIBRESSE TISZT.BETÉT 32DB SO SLIM"
+        },
+        {
+          "id": "2195656",
+          "name": "715   Egészségügyi betét szárnyas      Libresse eü.b. ultra goodnight 8db"
+        },
+        {
+          "id": "2196171",
+          "name": "720   tiszt. betét normál      LIBRESSE TISZT.BETÉT 58DB NATURAL CARE"
+        },
+        {
+          "id": "2196172",
+          "name": "714   Egészségügyi betét szárnyas      Libresse eü.b. ultra goodnight 16db"
+        },
+        {
+          "id": "2197511",
+          "name": "726   Óvszer      LifeStyles SKYN   óvszer Elite 10db"
+        },
+        {
+          "id": "2200192",
+          "name": "1037   pelenka normál      PAMPERS PELENKA PC 6 XL 38DB"
+        },
+        {
+          "id": "2231865",
+          "name": "725   Óvszer      LifeStyles óvszer   Ribbed by Manix 12db"
+        },
+        {
+          "id": "2232792",
+          "name": "701   eü. betét normál      LIBRESSE EÜ.B. 20DB INV.DUO W. NORMAL"
+        },
+        {
+          "id": "2232793",
+          "name": "698   eü. betét normál      LIBRESSE EÜ.B. 16DB INV.DUO W. SUPER"
+        },
+        {
+          "id": "2237577",
+          "name": "703   eü. betét normál      LIBRESSE EÜ.B. 20DB ULTRA NORM. NATURAL"
+        },
+        {
+          "id": "2238503",
+          "name": "1150   fogkrém érzékeny      SENSODYNE FOGKRÉM   75ML REPAIR&PROTECT"
+        },
+        {
+          "id": "2245719",
+          "name": "723   óvsz. norm/sikosító      LIFESTYLES ÓVSZER   10DB SKYN ORIGINAL"
+        },
+        {
+          "id": "2248688",
+          "name": "1071   fogkrém általános      PARODONTAX FOGKRÉM 75ML EXTRA FRESH"
+        },
+        {
+          "id": "2251790",
+          "name": "727   Óvszer      LifeStyles SKYN   óvszer Ext.Lub. 10db"
+        },
+        {
+          "id": "2262200",
+          "name": "1236   Inkontinencia betét közepes      Tena Lady inko.betét Maxi 12db"
+        },
+        {
+          "id": "2273695",
+          "name": "1221   Applikátoros tampon      Tampax CEF   Regular 18db"
+        },
+        {
+          "id": "2274128",
+          "name": "1232   inkontinencia enyhe      TENA INKONT.BETÉT   20 DB MINI"
+        },
+        {
+          "id": "2274129",
+          "name": "1231   inkontinencia enyhe      TENA INKONT.BETÉT   16DB MINI PLUS"
+        },
+        {
+          "id": "2274748",
+          "name": "713   Egészségügyi betét szárnyas      Libresse eü.b. Ultra Goodn. X-Large 8db"
+        },
+        {
+          "id": "2274749",
+          "name": "705   eü. betét normál      LIBRESSE EÜ.B. 40DB INV.WING NORMAL"
+        },
+        {
+          "id": "2274751",
+          "name": "717   tiszt. betét normál      LIBRESSE TISZT.BETET 30DB MULTISTYLE"
+        },
+        {
+          "id": "2274868",
+          "name": "1086   Etetőcumi      PHILIPS AVENT pótcum 2db Natural 0h+ W2"
+        },
+        {
+          "id": "2278533",
+          "name": "922   Babafürdető és hajápolás      NIVEA BABY GYENGÉD BABASAMPON"
+        },
+        {
+          "id": "2278828",
+          "name": "702   eü. betét normál      LIBRESSE EÜ.B. 20DB ULTRA ALOE&CAMILLA"
+        },
+        {
+          "id": "2278829",
+          "name": "716   Tisztasági betét      Libresse tiszt.bet. Normal 58db"
+        },
+        {
+          "id": "2285662",
+          "name": "724   óvsz. norm/sikosító      LIFESTYLES ÓVSZER   12DB ULTRA VÉKONY"
+        },
+        {
+          "id": "2289902",
+          "name": "708   Egészségügyi betét szárnyas      Libresse eü.b. Maxi Goodnight 20db"
+        },
+        {
+          "id": "2321691",
+          "name": "704   eü. betét normál      LIBRESSE EÜ.B. 36DB ULTRA LONG"
+        },
+        {
+          "id": "2358230",
+          "name": "697   eü. betét normál      LIBRESSE EÜ.B. 10DB INV. W. NORM. DEOF."
+        },
+        {
+          "id": "2429796",
+          "name": "993   Pelenka 3-as méret      Pampers giant pack 3 (6-10kg) 82 db"
+        },
+        {
+          "id": "2429798",
+          "name": "996   Pelenka 6/6+-os méret      Pampers giant pack 6 (13-18kg) 52 db"
+        },
+        {
+          "id": "2429799",
+          "name": "994   Pelenka 4/4+-os méret      Pampers giant pack 4 (9-14kg) 70 db"
+        },
+        {
+          "id": "2429800",
+          "name": "995   Pelenka 5/5+-os méret      Pampers giant pack 5 (11-16kg) 60 db"
+        },
+        {
+          "id": "2432041",
+          "name": "1038   pelenka normál      PAMPERS PELENKA PC JP 4 MAXI 68DB"
+        },
+        {
+          "id": "2432042",
+          "name": "1039   pelenka normál      PAMPERS PELENKA PC JP 5 JUNIOR 58DB"
+        },
+        {
+          "id": "2433837",
+          "name": "1130   tyúkszemirtó tapasz      SCHOLL TYÚKSZEMTAKARÓ PÁRNA"
+        },
+        {
+          "id": "2436311",
+          "name": "1052   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 52DB SENSITIVE"
+        },
+        {
+          "id": "2439574",
+          "name": "988   Félkészétel      OLD EL PASO tortilla lepény gm 6db 216g"
+        },
+        {
+          "id": "2443935",
+          "name": "1033   Pelenka 4/4+-os méret      Pampers pc pelenka 4(9-14kg) 104 db OS"
+        },
+        {
+          "id": "2443936",
+          "name": "1034   Pelenka 5/5+-os méret      Pampers pc pelenka 5(11-16kg) 88 db OS"
+        },
+        {
+          "id": "2443937",
+          "name": "1032   Pelenka 3-as méret      Pampers pc pelenka 3(6-10kg)120 db OS"
+        },
+        {
+          "id": "2444337",
+          "name": "1029   Pelenka 3-as méret      Pampers pc pelenka 3 (6-10 kg) 78 db"
+        },
+        {
+          "id": "2480885",
+          "name": "1228   inkontinencia enyhe      TENA INKONT.BETÉT   12DB MAXI NIGHT"
+        },
+        {
+          "id": "2480901",
+          "name": "1227   inkontinencia enyhe      TENA INKONT.BETÉT   10DB EXTRA"
+        },
+        {
+          "id": "2482697",
+          "name": "1077   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg Deco 1h+ 260ml w2+"
+        },
+        {
+          "id": "2486308",
+          "name": "878   Intim ápolás      MomCare varázsmogy. regeneráló hab 100ml"
+        },
+        {
+          "id": "2486313",
+          "name": "877   Intim ápolás      MomCare szülés utáni bugyi S/M 4db"
+        },
+        {
+          "id": "2486326",
+          "name": "876   Intim ápolás      MomCare szülés utáni bugyi L/XL 4db"
+        },
+        {
+          "id": "2493193",
+          "name": "1229   inkontinencia enyhe      TENA INKONT.BETÉT   12DB SLIM NORMAL"
+        },
+        {
+          "id": "2512485",
+          "name": "721   Tisztasági betét      Libresse tiszt.betét Classic 50db OS"
+        },
+        {
+          "id": "2531872",
+          "name": "824   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB SZUPER VÉKONY"
+        },
+        {
+          "id": "2531875",
+          "name": "821   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB ÉRDES"
+        },
+        {
+          "id": "2531876",
+          "name": "820   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB BORDÁZOTT"
+        },
+        {
+          "id": "2531877",
+          "name": "819   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB ANATÓMIAILAG FORM."
+        },
+        {
+          "id": "2544254",
+          "name": "1242   Inkontinencia alsónemű női/unisex      Tena Pants   Normal L 10db"
+        },
+        {
+          "id": "2550397",
+          "name": "1235   inkontinencia enyhe      TENA INKONT.BETÉT   MAN 20DB MEDIUM"
+        },
+        {
+          "id": "2550398",
+          "name": "1239   Inkontinencia betét enyhe      Tena Lady inko.betét Slim Mini 10db"
+        },
+        {
+          "id": "2554068",
+          "name": "1111   glut.sós snack      RICE UP GM BARNARIZS CHIPS 60G BARBECUE"
+        },
+        {
+          "id": "2556318",
+          "name": "661   terh/szoptat. ápolás      LANSINOH BIMBÓVÉDO KRÉM 10ML HPA LANOLI"
+        },
+        {
+          "id": "2556319",
+          "name": "662   terh/szoptat. ápolás      LANSINOH BIMBÓVÉDO KRÉM 40ML HPA LANOLI"
+        },
+        {
+          "id": "2556320",
+          "name": "666   terh/szoptatási kieg      LANSINOH MELLTARTÓ- BETÉT 60DB"
+        },
+        {
+          "id": "2556321",
+          "name": "665   terh/szoptatási kieg      LANSINOH MELLTARTÓ- BETÉT 24DB"
+        },
+        {
+          "id": "2556323",
+          "name": "659   terh/szoptatási kieg      LANSINOH ANYATEJ   TÁROLÓ ZACSKÓ 25DB"
+        },
+        {
+          "id": "2556324",
+          "name": "669   Anatómiai segédeszk.      LANSINOH THERAGYÖNGY MELLPÁRNA"
+        },
+        {
+          "id": "2557815",
+          "name": "1013   Bugyipelenka 7-es méret      Pampers pants bugyip7(17+kg) 74 db OS"
+        },
+        {
+          "id": "2557951",
+          "name": "823   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB PUR"
+        },
+        {
+          "id": "2560197",
+          "name": "1241   Inkontinencia alsónemű női/unisex      Tena Lady Pants Plus pelenkanadrág M 9db"
+        },
+        {
+          "id": "2560198",
+          "name": "1240   Inkontinencia alsónemű női/unisex      Tena Lady Pants Plus pelenkanadrág L 8db"
+        },
+        {
+          "id": "2560420",
+          "name": "829   Sikosító      Masculan síkosító   gél Strawberry 75ml"
+        },
+        {
+          "id": "2560592",
+          "name": "827   óvsz. norm/sikosító      MASCULAN SÍKOSÍTÓ   GÉL 50ML"
+        },
+        {
+          "id": "2596788",
+          "name": "1137   Inkontinencia betét közepes      Seni Lady Slim inko.betét extra 15db"
+        },
+        {
+          "id": "2630456",
+          "name": "1100   Napozó arcra      PURITO fényvédő   d. soft SPF50+ 60ml"
+        },
+        {
+          "id": "2634271",
+          "name": "1009   Bugyipelenka 3-as méret      Pampers pants bugyip3(6-11kg) 128 db OS"
+        },
+        {
+          "id": "2634272",
+          "name": "1031   Pelenka 2-es méret      Pampers pc pelenka 2(4-8kg) 136 db OS"
+        },
+        {
+          "id": "2672716",
+          "name": "1162   babakrém      SUDOCREM PELENKAKIÜT. ELLENI KRÉM 60G"
+        },
+        {
+          "id": "2672717",
+          "name": "1161   babakrém      SUDOCREM PELENKAKIÜT. ELLENI KRÉM 125G"
+        },
+        {
+          "id": "2676368",
+          "name": "1141   Inkontinencia betét enyhe      Seni Lady Slim inko.betét normál 20db"
+        },
+        {
+          "id": "2700324",
+          "name": "826   óvsz. norm/sikosító      MASCULAN ÓVSZER 21DB 1 SZUPER VÉKONY"
+        },
+        {
+          "id": "2703138",
+          "name": "1225   inkontinencia erős      TENA INKONT. BETÉT   20DB EXTRA"
+        },
+        {
+          "id": "2703139",
+          "name": "1226   inkontinencia erős      TENA INKONT. BETÉT   24DB SLIM NORMÁL"
+        },
+        {
+          "id": "2710766",
+          "name": "1292   terh/szoptat. ápolás      ZIAJA INTIM MOSAKODÓ KISMAMÁKNAK 300ML"
+        },
+        {
+          "id": "2712183",
+          "name": "1073   fogkrém általános      PARODONTAX FOGKRÉM F DUOPACK 2X75ML"
+        },
+        {
+          "id": "2718070",
+          "name": "1291   Intim mosakodó      Ziaja intim mosakodó kamillával 200ml"
+        },
+        {
+          "id": "2837684",
+          "name": "1269   gyomor kaps/tab/pasz      WÖRISHOFENI MAGENPFLEGE TABLETTA 60DB"
+        },
+        {
+          "id": "2837826",
+          "name": "1270   ideg kapsz./tab/pasz      WÖRISHOFENI NERVENPFLEGE TABLETTA 60DB"
+        },
+        {
+          "id": "2838051",
+          "name": "1268   gyomor kaps/tab/pasz      WÖRISHOFENI LEBER ÉSGALLENPFL. TABL.60DB"
+        },
+        {
+          "id": "2838813",
+          "name": "1267   gyomor kaps/tab/pasz      WÖRISHOFENI DARMPFLEGE TABLETTA 42DB"
+        },
+        {
+          "id": "2839381",
+          "name": "1066   gyógy filteres tea      PANNONHALMI FILT.TEA 20X15G SZÍVNYUGTAT"
+        },
+        {
+          "id": "2839382",
+          "name": "1065   gyógy filteres tea      PANNONHALMI FILT.TEA 20X15G MÁJVÉDO"
+        },
+        {
+          "id": "2844947",
+          "name": "897   gyógy filteres tea      NATURLAND FILTERES TEA NYUGTATÓ 25X15G"
+        },
+        {
+          "id": "2844949",
+          "name": "895   gyógy filteres tea      NATURLAND FILT.TEA SALAKTALANÍTÓ 25X1G"
+        },
+        {
+          "id": "2844950",
+          "name": "896   gyógy filteres tea      NATURLAND FILTERES TEA MÁJVÉDO 25X15G"
+        },
+        {
+          "id": "2845268",
+          "name": "1099   gyomor kaps/tab/pasz      PROTEXIN BALANCE KAPSZULA 60DB"
+        },
+        {
+          "id": "2845342",
+          "name": "757   etetocumi szilikon      MAM ETETOCUMI EXTRA GYORS- PÜRÉS (X) 6H+"
+        },
+        {
+          "id": "2845343",
+          "name": "756   etetocumi szilikon      MAM ETETOCUMI KÖZEP. - TEJES (2) 2H+"
+        },
+        {
+          "id": "2845519",
+          "name": "1271   ideg kapsz./tab/pasz      WÖRISHOFENI NERVENPFLEGE TABLETTA120DB"
+        },
+        {
+          "id": "2845846",
+          "name": "1067   gyógy filteres tea      PANNONHALMI FILT.TEA20X15G VESETISZTITO"
+        },
+        {
+          "id": "2845857",
+          "name": "900   gyógy. fürdo/kenocs      NATURLAND KRÉM 70G INNO-REUMA"
+        },
+        {
+          "id": "2851967",
+          "name": "719   tiszt. betét normál      LIBRESSE TISZT.BETÉT 44DB MICRO UTÁNT."
+        },
+        {
+          "id": "2853436",
+          "name": "904   tyúkszemírtó      NATURLAND TYÚKSZEMIRTÓ BALZSAM 20G"
+        },
+        {
+          "id": "2856607",
+          "name": "1280   intim törlőkendők      X-EPIL INTIMO INTIM TÖRLŐKENDŐ 20 DB"
+        },
+        {
+          "id": "2856609",
+          "name": "1278   intim mosakodó      X-EPIL INTIMO INTIM MOSAKODÓGÉL 250 ML"
+        },
+        {
+          "id": "2857009",
+          "name": "831   Tabl./drazsé/pastill      MEBUCAIN MINT SZOPOGATÓ TABLETTA 20DB"
+        },
+        {
+          "id": "2857030",
+          "name": "1102   orv.gyom.tab/draz/pa      RENNIE ANTACIDUM   RÁGÓTABLETTA 24 DB"
+        },
+        {
+          "id": "2857041",
+          "name": "1157   Tabl./drazsé/pastill      STREPSILS MENTHOL   EUKALIPTUS TABL.24DB"
+        },
+        {
+          "id": "2857185",
+          "name": "944   orv.megf.csep/amp/to      NUROFEN SZUSZP.GYER.100ML EP.3HÓ 20MG/ML"
+        },
+        {
+          "id": "2857217",
+          "name": "941   orv.gyom.csep/amp/to      NORMAFLORE BELSOLEGES SZUSZPENZIÓ 10X5ML"
+        },
+        {
+          "id": "2857230",
+          "name": "942   orv.gyom.csep/amp/to      NORMAFLORE BELSOLEGES SZUSZPENZIÓ 20X5ML"
+        },
+        {
+          "id": "2864252",
+          "name": "1156   Tabl./drazsé/pastill      STREPSILS HONEY&LEMON TABL.24DB"
+        },
+        {
+          "id": "2867542",
+          "name": "1284   Terhességi teszt      X-EPIL TERHESSÉGI   TESZT CSÍK 2DB/DOBOZ"
+        },
+        {
+          "id": "2870755",
+          "name": "832   terh/szoptat. élelm.      MECSEK TEJSZAPORÍTÓ TEAKEVERÉK 20x2G"
+        },
+        {
+          "id": "2876626",
+          "name": "991   Anatómiai segédeszk.      ORRSZI PORSZI ORR- SZÍVÓ MŰANYAG SZETT"
+        },
+        {
+          "id": "2882925",
+          "name": "899   gyógy. fürdo/kenocs      NATURLAND KRÉM 100ML FEK. NADÁLYTO 2IN1"
+        },
+        {
+          "id": "2887563",
+          "name": "906   baba nedves törlok.      NEOGRANORMON   TÖRLOKENDO QUATRO 4*55DB"
+        },
+        {
+          "id": "2888776",
+          "name": "943   orv.megf.csep/amp/to      NUROFEN SZUSZ.100ML EPER 6-12ÉV 40MG/ML"
+        },
+        {
+          "id": "2889361",
+          "name": "1274   intim mosakodó      X-EPIL INTIM MOS.GÉL 400ML"
+        },
+        {
+          "id": "2889746",
+          "name": "1285   Terhességi teszt      X-EPIL TERHESSÉGI   TESZT PEN"
+        },
+        {
+          "id": "2889935",
+          "name": "822   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB GOLD"
+        },
+        {
+          "id": "2889937",
+          "name": "706   eü. betét normál      LIBRESSE EÜ.B. 40DB ULTRA NORM. NATURAL"
+        },
+        {
+          "id": "2892174",
+          "name": "752   cumisüveg muanyag      MAM CUMISÜVEG 4HÓ+ 330ML w2"
+        },
+        {
+          "id": "2892192",
+          "name": "758   etetocumi szilikon      MAM ETETOCUMI GYORS&CSEPEGÉSMENT.(3) 4H+"
+        },
+        {
+          "id": "2894774",
+          "name": "901   ideg tonik/elixír      NATURLAND NAGY SVÉDCSEPP + C-VIT 500ML"
+        },
+        {
+          "id": "2894804",
+          "name": "902   ideg tonik/elixír      NATURLAND NAGY SVÉDCSEPP 500ML"
+        },
+        {
+          "id": "2900255",
+          "name": "655   intim törlőkendők      LACTACYD INTIM TÖRLŐKENDŐ 15DB"
+        },
+        {
+          "id": "2902981",
+          "name": "836   kezdo tápszer (1)      MILUMIL 1 TÁPSZER   0HÓ 900G s"
+        },
+        {
+          "id": "2903944",
+          "name": "1092   Terhességi teszt      PREDICTOR TERHESSÉGI TESZT"
+        },
+        {
+          "id": "2905248",
+          "name": "905   baba nedves törlok.      NEOGRANORMON   TÖRLOKENDO 4*55DB SENS."
+        },
+        {
+          "id": "2910458",
+          "name": "1230   inkontinencia enyhe      TENA INKONT.BETÉT   16DB EXTRA PLUS"
+        },
+        {
+          "id": "2911801",
+          "name": "1288   Terhességi teszt      X-EPIL TERHESSÉGI TESZT PEN 1DB"
+        },
+        {
+          "id": "2911802",
+          "name": "1286   Terhességi teszt      X-EPIL TERHESSÉGI TESZT CSÍK 1DB"
+        },
+        {
+          "id": "2912553",
+          "name": "830   óvsz. norm/sikosító      MASCULAN SÍKOSÍTÓ GÉL 75ML WARMING"
+        },
+        {
+          "id": "2913234",
+          "name": "903   gyógy. fürdo/kenocs      NATURLAND ORRKENOCS 10G"
+        },
+        {
+          "id": "2913681",
+          "name": "1158   babakrém      SUDOCREM   KRÉM 250G"
+        },
+        {
+          "id": "2921283",
+          "name": "1257   gyomor kaps/tab/pasz      WALMARK DEGASIN KAP SZULA 32DB"
+        },
+        {
+          "id": "2926101",
+          "name": "700   eü. betét normál      LIBRESSE EÜ.B. 20DB DUO ULTRA DEO FRESH"
+        },
+        {
+          "id": "2927683",
+          "name": "1289   babafürdető      ZIAJA BABA HIPOALL. FÜRDETŐ 400ML"
+        },
+        {
+          "id": "2928205",
+          "name": "844   speciális tápszer      MILUMIL PEPTI JUNIOR GYEREKITAL 12H+450G"
+        },
+        {
+          "id": "2928412",
+          "name": "656   intim mosakodó      LACTACYD PHARMA   INTIM MOS.ANTI 250ML"
+        },
+        {
+          "id": "2928786",
+          "name": "538   egyéb higiénia      IDELYN BELIEMA EXP. INTIM KRÉM 50ML"
+        },
+        {
+          "id": "2928787",
+          "name": "539   intim mosakodó      IDELYN BELIEMA EXP. INTIM MOSAKODÓ 200ML"
+        },
+        {
+          "id": "2930192",
+          "name": "825   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB XXL"
+        },
+        {
+          "id": "2930264",
+          "name": "684   pelenka normál      LIBERO TOUCH PELENKA 1 (2-5KG) 22DB"
+        },
+        {
+          "id": "2931261",
+          "name": "1255   kontaktlencse      VIZOL S 021% SZEMCSEPP 10 ML"
+        },
+        {
+          "id": "2931534",
+          "name": "1155   Tabl./drazsé/pastill      STREPSILS EPERÍZŰ   CUKORM. TAB 24DB"
+        },
+        {
+          "id": "2931535",
+          "name": "1154   Tabl./drazsé/pastill      STREPSILS CITROM ÍZŰ CUKORM. TAB. 24DB"
+        },
+        {
+          "id": "2931636",
+          "name": "730   glut.édesség      MAJOMKENYÉR GM KEKSZ 50G NARANCS-FAHÉJ"
+        },
+        {
+          "id": "2931757",
+          "name": "1279   intim törlőkendők      X-EPIL INTIMO INTIM TÖRLŐK. SENSI 20 DB"
+        },
+        {
+          "id": "2931812",
+          "name": "845   követő tápszer (23)      MILUMIL PEPTI PLUS 2 TÁPSZER 6HÓ+ 450G"
+        },
+        {
+          "id": "2931972",
+          "name": "840   kezdő tápszer (1)      MILUMIL HA START PROSYNEO 0HÓ+ 400G S"
+        },
+        {
+          "id": "2933375",
+          "name": "1277   intim mosakodó      X-EPIL INTIMO INTIM MOS.GÉL 250 ML SENS."
+        },
+        {
+          "id": "2933547",
+          "name": "699   eü. betét ultra      LIBRESSE EÜ.B. 16DB ULTRA NIGHT EXTRA W."
+        },
+        {
+          "id": "2934474",
+          "name": "1047   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 3X52DB SENSITIVE"
+        },
+        {
+          "id": "2934476",
+          "name": "1046   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 3X52DB FRESH CLEAN"
+        },
+        {
+          "id": "2934812",
+          "name": "1256   kontaktlencse      VIZOL S 04% OLDATOS SZEMCSEPP 10 ML"
+        },
+        {
+          "id": "2935233",
+          "name": "1258   egyéb lábápolás      WARTNER SZEMÖLCSELTÁV. STIFT 2.0 15ML"
+        },
+        {
+          "id": "2936247",
+          "name": "1254   Anatómiai segédeszk.      VITAPLUS GYÓGYSZERADAGOLÓ 1 HETES"
+        },
+        {
+          "id": "2936722",
+          "name": "1112   glut.sós snack      RICE UP GM BARNARIZS CHIPS 60G HAGY-TEJF"
+        },
+        {
+          "id": "2936820",
+          "name": "1108   puffasztott rizs      RICE UP GM BARNA RIZS SZELET 30G ÉTCSOKI"
+        },
+        {
+          "id": "2936823",
+          "name": "1109   puffasztott rizs      RICE UP GM BARNA RIZS SZELET 30G TEJCSOK"
+        },
+        {
+          "id": "2938108",
+          "name": "1088   fertőtlenítés      POCKETPOP KÉZFERT. 29 ML MIA'S CANDY"
+        },
+        {
+          "id": "2938110",
+          "name": "1090   fertőtlenítés      POCKETPOP KÉZFERT. 29ML LENA'S STRAWBER"
+        },
+        {
+          "id": "2938112",
+          "name": "1089   fertőtlenítés      POCKETPOP KÉZFERT. 29ML LAURA'S CHERRY"
+        },
+        {
+          "id": "2938227",
+          "name": "1103   orv.gyom.tab/draz/pa      RENNIE CUKORMENTES RÁGÓTABLETTA 36 DB"
+        },
+        {
+          "id": "2938480",
+          "name": "1054   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 6X80DB SENSITIVE"
+        },
+        {
+          "id": "2938481",
+          "name": "1053   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 6X80DB FRESH CLEAN"
+        },
+        {
+          "id": "2939715",
+          "name": "1107   gyógy. fürdő/kenőcs      REPARON HERBAL VÉGBÉLKÚP 10 DB"
+        },
+        {
+          "id": "2939724",
+          "name": "537   egyéb higiénia      IDELYN BELIEMA EFF. PLUS HÜVELYTABL. 7DB"
+        },
+        {
+          "id": "2939993",
+          "name": "992   Csepp/ampulla/tonik      OTRIVIN GYEREK ORRCSEPP 05 MG/ML"
+        },
+        {
+          "id": "2939995",
+          "name": "1152   Tabl./drazsé/pastill      SEPTOFORT TABLETTA 12DB"
+        },
+        {
+          "id": "2940270",
+          "name": "1114   intim mosakodó      SÁBA INT.MOS. 250ML ILLATMENTES NŐI   OS"
+        },
+        {
+          "id": "2940271",
+          "name": "1113   intim mosakodó      SÁBA INT MOS. 250ML ILLATMENTES FFI   OS"
+        },
+        {
+          "id": "2940292",
+          "name": "1133   Inkontinencia ápol.      SENI CARE BŐRV. KRÉM ARGININ 200ML   OS"
+        },
+        {
+          "id": "2940293",
+          "name": "1134   Inkontinencia ápol.      SENI CARE MOSDATÓ- KRÉM 3IN1 1000ML OS"
+        },
+        {
+          "id": "2940703",
+          "name": "841   speciális tápszer      MILUMIL HA2 PROS.   6HÓ 400G"
+        },
+        {
+          "id": "2940704",
+          "name": "842   speciális tápszer      MILUMIL HA3 PROS.   12HÓ 400G"
+        },
+        {
+          "id": "2941018",
+          "name": "837   követő tápszer (23)      MILUMIL 2 TÁPSZ.   6-12HÓ 1000G"
+        },
+        {
+          "id": "2941302",
+          "name": "839   speciális tápszer      MILUMIL 3 JUNIOR   12HÓ 1000G"
+        },
+        {
+          "id": "2941546",
+          "name": "760   etetőcumi szilikon      MAM ETETŐCUMI B3   GYORS 4H+ W2+"
+        },
+        {
+          "id": "2941762",
+          "name": "838   speciális tápszer      MILUMIL 3 JUN.ITAL 12HÓ 1000G VANÍLIA"
+        },
+        {
+          "id": "2942083",
+          "name": "1064   Pelenkakiütés elleni krém      PANAROM KENŐCS   50ML NAPSUGÁR"
+        },
+        {
+          "id": "2942497",
+          "name": "875   baba nedves törlők.      MOLTEX ÖKO TÖRLŐ   KENDŐ 60DB OS"
+        },
+        {
+          "id": "2942540",
+          "name": "729   orv.vit.tab/dra/pasz      MAGNE B6 BEVONT   TABLETTA 60DB"
+        },
+        {
+          "id": "2942551",
+          "name": "910   Problémás bőr krém/ampulla      NEOGRANORMON KENŐCS 100G"
+        },
+        {
+          "id": "2942558",
+          "name": "1097   Terhességi teszt      PRIMA TESZT   KORAI TERHESSÉG 2DB"
+        },
+        {
+          "id": "2943077",
+          "name": "916   glut.édesség      NICK'S GM SZELET 28G TEJKARAMELLA"
+        },
+        {
+          "id": "2943947",
+          "name": "1164   Nedves törlőkendő      SUDOCREM TÖRLŐKENDŐ 4X55DB SOFT CLEAN"
+        },
+        {
+          "id": "2943948",
+          "name": "1163   Nedves törlőkendő      SUDOCREM TÖRLŐKENDŐ 4X55DB SENSITIVE"
+        },
+        {
+          "id": "2944020",
+          "name": "536   Vérnyomásmérő      I-MEDICAL VÉRNYOMÁS MÉRŐ FELKAROS 1DB OS"
+        },
+        {
+          "id": "2945244",
+          "name": "1273   Sikosító      X-Epil érzéki síkosító gél 100ml OS"
+        },
+        {
+          "id": "2945508",
+          "name": "1074   Sikosító      PENISEX intim krém salve for HIM 50ml OS"
+        },
+        {
+          "id": "2945917",
+          "name": "1135   Inkontinencia - Betegápolás      Seni Care nedves   törlőkendő 80db"
+        },
+        {
+          "id": "2945942",
+          "name": "828   Sikosító      Masculan síkosító   gél Green Apple 75ml"
+        },
+        {
+          "id": "2945972",
+          "name": "1138   Inkontinencia betét enyhe      Seni Lady Slim inko.betét micro 20db"
+        },
+        {
+          "id": "2945973",
+          "name": "1140   Inkontinencia betét enyhe      Seni Lady Slim inko.betét mini 20db"
+        },
+        {
+          "id": "2945994",
+          "name": "707   Egészségügyi betét szárnyas      Libresse eü.b. maxi goodnight 10db"
+        },
+        {
+          "id": "2945999",
+          "name": "1238   Inkontinencia betét enyhe      Tena Lady inko.betét normal night 10db"
+        },
+        {
+          "id": "2946001",
+          "name": "664   Intim ápolás      Lansinoh hideg/melegterápiás párna"
+        },
+        {
+          "id": "2946309",
+          "name": "1106   Aranyér/szájápoló gél      Reparon herbal   kenőcs 25g"
+        },
+        {
+          "id": "2946835",
+          "name": "1246   Gyümölcsszelet      VIBLANCE granola   szelet pekándió 55g"
+        },
+        {
+          "id": "2947092",
+          "name": "766   Mellbimbóvédő      MAM mellbimbóvédő   2méret 2db W2+"
+        },
+        {
+          "id": "2947095",
+          "name": "759   Etetőcumi      MAM etetőcumi 0hó+ 1 db w2"
+        },
+        {
+          "id": "2947387",
+          "name": "1081   Egyéb baba kiegészítő      PHILIPS AVENT etető szett VIA poharak OS"
+        },
+        {
+          "id": "2947389",
+          "name": "767   Egyéb baba kiegészítő      MAM mikrohullámú   gőzsterilizáló OS"
+        },
+        {
+          "id": "2947586",
+          "name": "765   Mellbimbóvédő      MAM mellbimbóvédő   1-es méret 2db"
+        },
+        {
+          "id": "2948213",
+          "name": "1245   glut.cereália/müzli      VIBLANCE granola   pekándió 275g"
+        },
+        {
+          "id": "2948427",
+          "name": "911   Egyéb sebápolás      Neogranormon kenőcs 25g"
+        },
+        {
+          "id": "2948484",
+          "name": "674   Pelenka 7-es méret      Libero Comfort MegaP pel 7 (16-26kg)62db"
+        },
+        {
+          "id": "2948487",
+          "name": "683   Pelenka 2-es méret      Libero Newborn pel. JP 2 (3-6kg) 68db"
+        },
+        {
+          "id": "2948998",
+          "name": "1281   Terhességi teszt      X-Epil korai   terhességi teszt 1db"
+        },
+        {
+          "id": "2949124",
+          "name": "940   Speciális sampon      NizoCare sampon 200 ml viszkető fejbőrre"
+        },
+        {
+          "id": "2949178",
+          "name": "1264   Egyéb diagnosztika      WHITELAB pajzsmirigy-alulm. gyteszt 1db"
+        },
+        {
+          "id": "2949464",
+          "name": "818   Óvszer      Masculan óvszer   Frutti Edition 10db"
+        },
+        {
+          "id": "2949598",
+          "name": "1265   Egyéb diagnosztika      WHITELAB vashiány   gyorsteszt 1db"
+        },
+        {
+          "id": "2949599",
+          "name": "1263   Egyéb diagnosztika      WHITELAB húgyúti   fertőzés gyteszt 1db"
+        },
+        {
+          "id": "2949600",
+          "name": "1104   Kontaktlencse ápolószer      ReNu kont.lencse   multif. ápoló 100ml"
+        },
+        {
+          "id": "2949601",
+          "name": "1105   Kontaktlencse ápolószer      ReNu kont.lencse   multif. ápoló 360ml"
+        },
+        {
+          "id": "2949623",
+          "name": "1110   Rágcsálnivalók      rice UP gm barnarizs chips sajtos 60g"
+        },
+        {
+          "id": "2949714",
+          "name": "843   1-es kezdő HA tápszer      Milumil komfort HA1 tápszer 0hó+ 600g"
+        },
+        {
+          "id": "2949767",
+          "name": "1094   Egyéb diagnosztika      PRIMA gyorsteszt 1dbgluténérzékenység"
+        },
+        {
+          "id": "2949768",
+          "name": "1095   Egyéb diagnosztika      PRIMA gyorsteszt 2db menopauza fsh"
+        },
+        {
+          "id": "2949770",
+          "name": "1093   Egyéb diagnosztika      PRIMA gyorsteszt 1db helicobacter pylori"
+        },
+        {
+          "id": "2949822",
+          "name": "919   Édes ostya      NICK'S ostyaszelet gm csokis 35g"
+        },
+        {
+          "id": "2949841",
+          "name": "1098   Egyéb diagnosztika      Prima teszt   magzatvíz szivárgás"
+        },
+        {
+          "id": "2949875",
+          "name": "722   Tisztasági betét      Libresse tiszt.betét Natural Care 76db"
+        },
+        {
+          "id": "2949876",
+          "name": "1237   Inkontinencia betét közepes      Tena Lady inko.betét Maxi 6db"
+        },
+        {
+          "id": "2950474",
+          "name": "908   Pelenkakiütés elleni krém      Neogranormon Baby   védőkrém 30g"
+        },
+        {
+          "id": "2950475",
+          "name": "907   Pelenkakiütés elleni krém      Neogranormon Baby   védőkrém 100g"
+        },
+        {
+          "id": "2950529",
+          "name": "731   Sütemény      Majomkenyér keksz gm csokidarabos 50g"
+        },
+        {
+          "id": "2950656",
+          "name": "816   Kézfertőtlenítés      Mancsőrjárat kéz-   tisztító gél 35ml"
+        },
+        {
+          "id": "2950799",
+          "name": "1096   Terhességi teszt      Prima teszt   korai terhesség 1db"
+        },
+        {
+          "id": "2951015",
+          "name": "1283   Sikosító      X-Epil síkosító gél Sensitive 100ml"
+        },
+        {
+          "id": "2951017",
+          "name": "1275   Intim mosakodó      X-Epil intim mos.gél sensitive 400ml"
+        },
+        {
+          "id": "2951037",
+          "name": "894   Babapúder      NATURLAND   babahintőpor 60g"
+        },
+        {
+          "id": "2951143",
+          "name": "1101   Egyéb diagnosztika      RapiChek diabétesz   teszt 2db"
+        },
+        {
+          "id": "2951493",
+          "name": "663   Kismama ápolás      Lansinoh császárm. után hidrogél 2db OS"
+        },
+        {
+          "id": "2951652",
+          "name": "847   2-es tápszer      Milupa 2 tápszer 6hó+ 500g Szép álmokat"
+        },
+        {
+          "id": "2951800",
+          "name": "1119   Gyomor      SALVUS GYÓGYVÍZ 15L DRS"
+        },
+        {
+          "id": "2951920",
+          "name": "1272   Folyékony sebtapasz      wtn windex bőrkond.spray 100ml sérülés"
+        },
+        {
+          "id": "2952008",
+          "name": "1132   Menstruációs fehérnemű mosható      Selenacare fehérnemű Tiniknek Sporty 158"
+        },
+        {
+          "id": "2952011",
+          "name": "1131   Menstruációs fehérnemű mosható      Selenacare fehérnemű Tiniknek Hipst. 164"
+        },
+        {
+          "id": "2952067",
+          "name": "735   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic   cumisüveg 0H+ 160ml"
+        },
+        {
+          "id": "2952069",
+          "name": "736   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic   cumisüveg 2H+ 260ml"
+        },
+        {
+          "id": "2952071",
+          "name": "734   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic   cum.üv. 4H+ 320ml W2"
+        },
+        {
+          "id": "2952078",
+          "name": "792   Cumi 0 hónapos kortól      MAM Perfect   cumi 2-6H 1db OS"
+        },
+        {
+          "id": "2952084",
+          "name": "799   Cumi 0 hónapos kortól      MAM Supreme   cumi 0H+ 2db W2+"
+        },
+        {
+          "id": "2952085",
+          "name": "801   Cumi 6 hónapos kortól      MAM Supreme   cumi 6H+ 2db W2+"
+        },
+        {
+          "id": "2952086",
+          "name": "800   Cumi 16 hónapos kortól      MAM Supreme   cumi 16H+ 2db W2"
+        },
+        {
+          "id": "2952091",
+          "name": "786   Cumi 0 hónapos kortól      MAM Original Start cumi 0H+ 1db"
+        },
+        {
+          "id": "2952093",
+          "name": "769   Cumi 0 hónapos kortól      MAM Original   cumi 2-6H 2db W2+"
+        },
+        {
+          "id": "2952094",
+          "name": "771   Cumi 6 hónapos kortól      MAM Original   cumi 6H+ 2db W2+"
+        },
+        {
+          "id": "2952095",
+          "name": "768   Cumi 16 hónapos kortól      MAM Original   cumi 16H+ 2db W2+"
+        },
+        {
+          "id": "2952096",
+          "name": "791   Cumi 0 hónapos kortól      MAM Originial Night cumi 2-6H 2db W2+"
+        },
+        {
+          "id": "2952099",
+          "name": "733   Cumi 6 hónapos kortól      MAM Air Night   cumi 6H+ 1db"
+        },
+        {
+          "id": "2952100",
+          "name": "732   Cumi 16 hónapos kortól      MAM Air Night   cumi 16H+ 1db W2"
+        },
+        {
+          "id": "2952104",
+          "name": "1266   Intim ápolás      Women's Cream Plus progeszteron krém"
+        },
+        {
+          "id": "2952106",
+          "name": "778   Cumi 0 hónapos kortól      MAM Original Night cumi 2-6H 1db"
+        },
+        {
+          "id": "2952107",
+          "name": "779   Cumi 6 hónapos kortól      MAM Original Night cumi 6H+ 1db"
+        },
+        {
+          "id": "2952109",
+          "name": "770   Cumi 6 hónapos kortól      MAM Original   cumi 6H+ 1db"
+        },
+        {
+          "id": "2952681",
+          "name": "1276   Intim ápolás      X-Epil Intimo   hüvelytabletta 7db"
+        },
+        {
+          "id": "2952707",
+          "name": "909   Pelenkakiütés elleni krém      Neogranormon Baby   védőkrém 150g"
+        },
+        {
+          "id": "2974803",
+          "name": "1244   Inkontinencia alsónemű női/unisex      Tena Pants Normal M 10db"
+        },
+        {
+          "id": "2975144",
+          "name": "1243   Inkontinencia alsónemű női/unisex      Tena Pants Normal L 10db"
+        },
+        {
+          "id": "2976621",
+          "name": "915   Egyéb junior ital      Nestlé sinlac pép 6hó 650g"
+        },
+        {
+          "id": "2976665",
+          "name": "914   Egyéb junior ital      Nestlé sinlac netur.pép 6 hó 650 g"
+        },
+        {
+          "id": "2977497",
+          "name": "898   Aranyér/szájápoló gél      Naturland Glicerin kúp felnőtteknek 12db"
+        },
+        {
+          "id": "2977986",
+          "name": "1115   Egyéb segédeszközök      Salonpas tapasz 20db"
+        },
+        {
+          "id": "3037770",
+          "name": "846   1-es kezdő tápszer      Milupa 1 tápszer 0hó 600g"
+        },
+        {
+          "id": "3039053",
+          "name": "834   Köhögés      medistus TussCare szirup 140ml"
+        },
+        {
+          "id": "3039066",
+          "name": "835   Köhögés      medistus TussCare szirup gyerek 140ml"
+        },
+        {
+          "id": "3041591",
+          "name": "1168   Napozó arcra      Sundance arcszérum hydro+ lsf50+ 50ml"
+        },
+        {
+          "id": "3046047",
+          "name": "1139   Inkontinencia betét enyhe      Seni Lady Slim inko.betét micro 20db"
+        },
+        {
+          "id": "3049505",
+          "name": "1068   Intim ápolás      Papilocare hüvelygél 7x5ml"
+        },
+        {
+          "id": "3058041",
+          "name": "939   Napozó arcra      NIVEA SUN primer szérum 2in1 FF50+ 30ml"
+        },
+        {
+          "id": "3058057",
+          "name": "932   Napvédelem gyermekeknek      NIVEA SUN kids naptej spray FF50+ 270ml"
+        },
+        {
+          "id": "3058097",
+          "name": "938   Naptej      NIVEA SUN P&M naptej invis.FF50+ 150ml"
+        },
+        {
+          "id": "3062415",
+          "name": "710   Egészségügyi betét szárnyas      Libresse eü.b. Night Ultra Large 26db"
+        },
+        {
+          "id": "3063241",
+          "name": "680   Pelenka 1-es méret      Libero Comfort pelenka 1 (2-5kg) 43 db"
+        },
+        {
+          "id": "3063385",
+          "name": "682   Pelenka 3-as méret      Libero Comfort pelenka 3 (5-8kg) 43 db"
+        },
+        {
+          "id": "3066349",
+          "name": "808   Cumi 6 hónapos kortól      MAM Supreme Night cumi 6+ F 2db"
+        },
+        {
+          "id": "3066350",
+          "name": "809   Cumi 6 hónapos kortól      MAM Supreme Night cumi 6+ L 2db"
+        },
+        {
+          "id": "3066351",
+          "name": "810   Cumi 6 hónapos kortól      MAM Supreme Night cumi 6+ U 2db"
+        },
+        {
+          "id": "3066452",
+          "name": "805   Cumi 16 hónapos kortól      MAM Supreme Night cumi 16+ F 2db"
+        },
+        {
+          "id": "3066453",
+          "name": "806   Cumi 16 hónapos kortól      MAM Supreme Night cumi 16+ L 2db"
+        },
+        {
+          "id": "3066454",
+          "name": "807   Cumi 16 hónapos kortól      MAM Supreme Night cumi 16+ U 2db"
+        },
+        {
+          "id": "3066455",
+          "name": "787   Cumi 0 hónapos kortól      MAM Original Start cumi 0+ F 2db"
+        },
+        {
+          "id": "3066456",
+          "name": "788   Cumi 0 hónapos kortól      MAM Original Start cumi 0+ L 2db"
+        },
+        {
+          "id": "3066457",
+          "name": "789   Cumi 0 hónapos kortól      MAM Original Start cumi 0+ U 2db"
+        },
+        {
+          "id": "3066458",
+          "name": "783   Cumi 6 hónapos kortól      MAM Original Night cumi 6+ F 2db"
+        },
+        {
+          "id": "3066459",
+          "name": "784   Cumi 6 hónapos kortól      MAM Original Night cumi 6+ L 2db"
+        },
+        {
+          "id": "3066460",
+          "name": "785   Cumi 6 hónapos kortól      MAM Original Night cumi 6+ U 2db"
+        },
+        {
+          "id": "3066461",
+          "name": "780   Cumi 16 hónapos kortól      MAM Original Night cumi 16+ F 2db"
+        },
+        {
+          "id": "3066462",
+          "name": "781   Cumi 16 hónapos kortól      MAM Original Night cumi 16+ L 2db"
+        },
+        {
+          "id": "3066463",
+          "name": "782   Cumi 16 hónapos kortól      MAM Original Night cumi 16+ U 2db"
+        },
+        {
+          "id": "3066464",
+          "name": "802   Cumi 0 hónapos kortól      MAM Supreme Night cumi 0+ F 2db"
+        },
+        {
+          "id": "3066465",
+          "name": "803   Cumi 0 hónapos kortól      MAM Supreme Night cumi 0+ L 2db"
+        },
+        {
+          "id": "3066466",
+          "name": "804   Cumi 0 hónapos kortól      MAM Supreme Night cumi 0+ U 2db"
+        },
+        {
+          "id": "3066467",
+          "name": "737   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg F 160ml"
+        },
+        {
+          "id": "3066468",
+          "name": "740   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg L 160ml"
+        },
+        {
+          "id": "3066469",
+          "name": "743   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg U 160ml"
+        },
+        {
+          "id": "3066470",
+          "name": "738   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg F 260ml"
+        },
+        {
+          "id": "3066471",
+          "name": "744   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg U 260ml"
+        },
+        {
+          "id": "3066472",
+          "name": "741   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg L 260ml"
+        },
+        {
+          "id": "3066473",
+          "name": "739   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic Matt cumisüveg F 320ml"
+        },
+        {
+          "id": "3066474",
+          "name": "742   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic Matt cumisüveg L 320ml"
+        },
+        {
+          "id": "3066475",
+          "name": "745   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic Matt cumisüveg U 320ml"
+        },
+        {
+          "id": "3066476",
+          "name": "813   Pohár      MAM Trainer Night tanulópohár F 220ml"
+        },
+        {
+          "id": "3066477",
+          "name": "814   Pohár      MAM Trainer Night tanulópohár L 220ml"
+        },
+        {
+          "id": "3066478",
+          "name": "815   Pohár      MAM Trainer Night tanulópohár U 220ml"
+        },
+        {
+          "id": "3066479",
+          "name": "796   Pohár      MAM Starter ivópohár F 150ml"
+        },
+        {
+          "id": "3066480",
+          "name": "797   Pohár      MAM Starter ivópohár L 150ml"
+        },
+        {
+          "id": "3066481",
+          "name": "798   Pohár      MAM Starter ivópohár U 150ml"
+        },
+        {
+          "id": "3066485",
+          "name": "761   Pohár      MAM Fun to Drink Night ivópohár F 270ml"
+        },
+        {
+          "id": "3066486",
+          "name": "762   Pohár      MAM Fun to Drink Night ivópohár L 270ml"
+        },
+        {
+          "id": "3066487",
+          "name": "763   Pohár      MAM Fun to Drink Night ivópohár U 270ml"
+        },
+        {
+          "id": "3066488",
+          "name": "793   Pohár      MAM Sports Cup ivópohár F 330ml"
+        },
+        {
+          "id": "3066489",
+          "name": "794   Pohár      MAM Sports Cup ivópohár L 330ml"
+        },
+        {
+          "id": "3066490",
+          "name": "795   Pohár      MAM Sports Cup ivópohár U 330ml"
+        },
+        {
+          "id": "3067348",
+          "name": "873   Testápoló / tej      Mixa testápoló niacinamid 250ml"
+        },
+        {
+          "id": "3068069",
+          "name": "893   Egészségügyi betét szárnyas      Naturella Ultr eü.b night plus 24db"
+        },
+        {
+          "id": "3068146",
+          "name": "892   Egészségügyi betét szárnyas      Naturella Ultr eü.b night plus 12db"
+        },
+        {
+          "id": "3068388",
+          "name": "1035   Pelenka 6/6+-os méret      Pampers pc pelenka 6 (13-18kg) 50db"
+        },
+        {
+          "id": "3084056",
+          "name": "686   Pelenka 3-as méret      Libero touch pelenka 3 (5-8kg) 40 db"
+        },
+        {
+          "id": "3084116",
+          "name": "685   Pelenka 2-es méret      Libero touch pelenka 2 (3-6kg) 47 db"
+        },
+        {
+          "id": "3084264",
+          "name": "657   1-es kezdő tápszer      Lactogen harmony 1 tápszer 0hó 500g"
+        },
+        {
+          "id": "3084632",
+          "name": "681   Pelenka 2-es méret      Libero Comfort pelenka 2 (3-6kg) 47 db"
+        },
+        {
+          "id": "3086169",
+          "name": "677   Pelenka 3-as méret      Libero Comfort MegaPpel 3 (5-8kg) 76 db"
+        },
+        {
+          "id": "3094526",
+          "name": "1159   Pelenkakiütés elleni krém      Sudocrem krém 400g"
+        },
+        {
+          "id": "3094726",
+          "name": "1136   Inkontinencia betét erős      Seni Lady inko.betét SUPER NIGHT 12db OS"
+        },
+        {
+          "id": "3094727",
+          "name": "1142   Inkontinencia betét erős      Seni San inko.betét maxi 30db OS"
+        },
+        {
+          "id": "3094728",
+          "name": "1143   Inkontinencia betét közepes      Seni San inko.betét normal 30db OS"
+        },
+        {
+          "id": "3094752",
+          "name": "1144   Inkontinencia alsónemű női/unisex      Seni Super nadrágpelenka M 30db OS"
+        },
+        {
+          "id": "3094753",
+          "name": "1145   Inkontinencia alsónemű női/unisex      Seni Super nadrágpelenka S 30db OS"
+        },
+        {
+          "id": "3094755",
+          "name": "1146   Inkontinencia alsónemű női/unisex      Seni Super Trio nadrágpelenka S 10db OS"
+        },
+        {
+          "id": "3094758",
+          "name": "1147   Inkontinencia alsónemű női/unisex      Seni Super Trio nadrágpelenka XL 10db OS"
+        },
+        {
+          "id": "3094989",
+          "name": "990   Száj-orr maszk egyszeri      Ooops! Prof.seb.arcmaszk 10db 3 rétegű"
+        },
+        {
+          "id": "3095075",
+          "name": "790   Cumi 0 hónapos kortól      MAM Original Start Night cumi 0+ 2db"
+        },
+        {
+          "id": "3095076",
+          "name": "812   Anyatej tárolás      MAM tejtároló zacskó 25db"
+        },
+        {
+          "id": "3097007",
+          "name": "691   Bugyipelenka 4-es méret      Libero up&go bugyip.4 (8-14kg) 42 db"
+        },
+        {
+          "id": "3097063",
+          "name": "692   Bugyipelenka 5-ös méret      Libero up&go bugyip.5 (12-18kg) 38 db"
+        },
+        {
+          "id": "3097074",
+          "name": "693   Bugyipelenka 6-os méret      Libero up&go bugyip.6 (15-25kg) 34 db"
+        },
+        {
+          "id": "3101618",
+          "name": "687   Pelenka 4/4+-os méret      Libero touch pelenka 4 (7-14kg) 36 db"
+        },
+        {
+          "id": "3101676",
+          "name": "689   Pelenka 5/5+-os méret      Libero touch pelenka 5 (11-17kg) 30 db"
+        },
+        {
+          "id": "3102126",
+          "name": "678   Pelenka 5/5+-os méret      Libero comfort MegaPpel 5(11-17 kg)64db"
+        },
+        {
+          "id": "3102171",
+          "name": "679   Pelenka 6/6+-os méret      Libero comfort MegaPpel 6(13-20 kg)60db"
+        },
+        {
+          "id": "3102180",
+          "name": "670   Pelenka 4/4+-os méret      Libero comfort BIGP.pel.4(7-14kg)224db"
+        },
+        {
+          "id": "3102181",
+          "name": "671   Pelenka 5/5+-os méret      Libero comfort BIGP.pel.5(11-17kg)192db"
+        },
+        {
+          "id": "3102198",
+          "name": "672   Pelenka 6/6+-os méret      Libero comfort BIGP.pel.6(13-20kg)120db"
+        },
+        {
+          "id": "3103216",
+          "name": "675   Pelenka 7-es méret      Libero comfort MegaP pel 7(16-26kg) 54db"
+        },
+        {
+          "id": "3103222",
+          "name": "673   Pelenka 4/4+-os méret      Libero comfort MegaP pel 4 (7-14kg) 74db"
+        },
+        {
+          "id": "3110210",
+          "name": "880   Gabonaital      NATRUE zabital barista sütőtök gm 1l"
+        },
+        {
+          "id": "3110660",
+          "name": "1188   Napozó arcra      SUNDANCE nap.fluid oil cont FF50 50 ml"
+        },
+        {
+          "id": "3117627",
+          "name": "1058   Bébi- és gyerek nedves tisztítókendő      Pampers törlőkendő 4x60 db 99% vízzel"
+        },
+        {
+          "id": "3121755",
+          "name": "695   Bugyipelenka 4-es méret      Libero Up&GoTriple bpel. 4(7-14kg)126db"
+        },
+        {
+          "id": "3121756",
+          "name": "696   Bugyipelenka 5-ös méret      Libero Up&GoTriple bpel.5(11-17kg)114db"
+        },
+        {
+          "id": "3127235",
+          "name": "775   Cumi 6 hónapos kortól      MAM Original cumi 6H+ F 2db"
+        },
+        {
+          "id": "3127236",
+          "name": "776   Cumi 6 hónapos kortól      MAM Original cumi 6H+ L 2db"
+        },
+        {
+          "id": "3127237",
+          "name": "777   Cumi 6 hónapos kortól      MAM Original cumi 6H+ U 2db"
+        },
+        {
+          "id": "3127238",
+          "name": "772   Cumi 16 hónapos kortól      MAM Original cumi 16H+ F 2db"
+        },
+        {
+          "id": "3127239",
+          "name": "773   Cumi 16 hónapos kortól      MAM Original cumi 16H+ L 2db"
+        },
+        {
+          "id": "3127240",
+          "name": "774   Cumi 16 hónapos kortól      MAM Original cumi 16H+ U 2db"
+        },
+        {
+          "id": "3127241",
+          "name": "753   Műanyag cumisüveg 0-6 hónapos      MAM Easy Active cumisüveg F 330ml"
+        },
+        {
+          "id": "3127292",
+          "name": "754   Műanyag cumisüveg 0-6 hónapos      MAM Easy Active cumisüveg L 330ml"
+        },
+        {
+          "id": "3127293",
+          "name": "755   Műanyag cumisüveg 0-6 hónapos      MAM Easy Active cumisüveg U 330ml"
+        },
+        {
+          "id": "3127294",
+          "name": "749   Baba szájápolás      MAM Cooler hűtőrágóka F 1db"
+        },
+        {
+          "id": "3127295",
+          "name": "750   Baba szájápolás      MAM Cooler hűtőrágóka L 1db"
+        },
+        {
+          "id": "3127296",
+          "name": "751   Baba szájápolás      MAM Cooler hűtőrágóka U 1db"
+        },
+        {
+          "id": "3127297",
+          "name": "746   Baba szájápolás      MAM baba fogkefe F 1db"
+        },
+        {
+          "id": "3127298",
+          "name": "747   Baba szájápolás      MAM baba fogkefe L 1db"
+        },
+        {
+          "id": "3127299",
+          "name": "748   Baba szájápolás      MAM baba fogkefe U 1db"
+        },
+        {
+          "id": "3130748",
+          "name": "1282   Sikosító      X-Epil síkosító gél eper ízű 100ml"
+        },
+        {
+          "id": "3131421",
+          "name": "879   Sütemény      MR. BROWNIE gm brownie 6db 150g"
+        },
+        {
+          "id": "3132646",
+          "name": "1091   Terhességi teszt      Predictor korai terhességi teszt 2db"
+        },
+        {
+          "id": "3133695",
+          "name": "969   Tampon      o.b. tampon ProComfort mini 64db"
+        },
+        {
+          "id": "3133698",
+          "name": "975   Tampon      o.b. tampon ProComfort super 54db"
+        },
+        {
+          "id": "3133699",
+          "name": "957   Tampon      o.b. tampon ExtraProtect normál 56db"
+        },
+        {
+          "id": "3133727",
+          "name": "972   Tampon      o.b. tampon ProComfort normál 64db"
+        },
+        {
+          "id": "3134069",
+          "name": "965   Tampon      o.b. tampon Original super 16db"
+        },
+        {
+          "id": "3134076",
+          "name": "966   Tampon      o.b. tampon Original super plus 16db"
+        },
+        {
+          "id": "3134094",
+          "name": "964   Tampon      o.b. tampon Original normál 32db"
+        },
+        {
+          "id": "3134096",
+          "name": "967   Tampon      o.b. tampon ProComfort mini 16db"
+        },
+        {
+          "id": "3134113",
+          "name": "963   Tampon      o.b. tampon Original normál 16db"
+        },
+        {
+          "id": "3134120",
+          "name": "970   Tampon      o.b. tampon ProComfort normál 16db"
+        },
+        {
+          "id": "3134148",
+          "name": "712   Egészségügyi betét szárnyas      Libresse eü.b. Normal Multistyle 10db"
+        },
+        {
+          "id": "3134311",
+          "name": "973   Tampon      o.b. tampon ProComfort super 16db"
+        },
+        {
+          "id": "3134319",
+          "name": "958   Tampon      o.b. tampon ExtraProtect super 16db"
+        },
+        {
+          "id": "3134329",
+          "name": "974   Tampon      o.b. tampon ProComfort super 32db"
+        },
+        {
+          "id": "3134333",
+          "name": "976   Tampon      o.b. tampon ProComfort super plus 16db"
+        },
+        {
+          "id": "3134340",
+          "name": "956   Tampon      o.b. tampon ExtraProtect normál 16db"
+        },
+        {
+          "id": "3134343",
+          "name": "971   Tampon      o.b. tampon ProComfort normál 32db"
+        },
+        {
+          "id": "3134367",
+          "name": "978   Tampon      o.b. tampon ProComfort super plus 32db"
+        },
+        {
+          "id": "3134384",
+          "name": "959   Tampon      o.b. tampon ExtraProtect super 42db"
+        },
+        {
+          "id": "3134392",
+          "name": "960   Tampon      o.b. tampon ExtraProtect super plus 16db"
+        },
+        {
+          "id": "3135271",
+          "name": "1019   Bugyipelenka 4-es méret      Pampers pants jp bugyip.4(9-15kg) 54db"
+        },
+        {
+          "id": "3135353",
+          "name": "1027   Bugyipelenka 4-es méret      Pampers pc pants bugyip.4(9-15kg) 40db"
+        },
+        {
+          "id": "3135382",
+          "name": "1018   Bugyipelenka 6-os méret      Pampers pants jp bugyip. 6(13-19kg) 42db"
+        },
+        {
+          "id": "3135473",
+          "name": "1061   Bébi- és gyerek nedves tisztítókendő      Pampers törlőkendő 60 db 99% vízzel"
+        },
+        {
+          "id": "3135797",
+          "name": "1062   Bébi- és gyerek nedves tisztítókendő      Pampers törlőkendő 60db aqua soft touch"
+        },
+        {
+          "id": "3135990",
+          "name": "968   Tampon      o.b. tampon ProComfort mini 32db"
+        },
+        {
+          "id": "3136841",
+          "name": "1063   Textil pelenka      Pampers törlőkendő 6x60 db 99% vízzel"
+        },
+        {
+          "id": "3136882",
+          "name": "1057   Textil pelenka      Pampers törlőkendő 4x52db fresh cleanPF"
+        },
+        {
+          "id": "3136883",
+          "name": "1059   Textil pelenka      Pampers törlőkendő 4x60db a. soft touch"
+        },
+        {
+          "id": "3138007",
+          "name": "874   Sütemény      mokyen keksz gm gyömbér-citrom 50g"
+        },
+        {
+          "id": "3138610",
+          "name": "1165   Bébi- és gyerek nedves tisztítókendő      Sudocrem törlőkendő 55 db sensitive"
+        },
+        {
+          "id": "3138612",
+          "name": "1166   Bébi- és gyerek nedves tisztítókendő      Sudocrem törlőkendő 55 db soft clean"
+        },
+        {
+          "id": "3138659",
+          "name": "920   Édes ostya      NICK'S ostyaszelet gm mogyoróvajas 35g"
+        },
+        {
+          "id": "3144616",
+          "name": "676   Pelenka 2-es méret      Libero Comfort MegaPpel 2 (3-6kg) 94 db"
+        },
+        {
+          "id": "3144617",
+          "name": "694   Bugyipelenka 7-es méret      Libero Up&Go bugyip.7 (17kg+) 32 db"
+        },
+        {
+          "id": "3148557",
+          "name": "817   Napozó arcra      manna arckrém fényv.FF30 skinfilter 30ml"
+        },
+        {
+          "id": "3148921",
+          "name": "833   Napozó arcra      MediNatural fényvédő arckrém SPF30 50ml"
+        },
+        {
+          "id": "3150394",
+          "name": "1160   Pelenkakiütés elleni krém      Sudocrem krém my little 22g aloe verával"
+        },
+        {
+          "id": "3152573",
+          "name": "1215   Napkrém      SUNDANCE Sens. SonnenbalsamLSF50 PG 50ml"
+        },
+        {
+          "id": "3156359",
+          "name": "989   Vérnyomásmérő      Omron M2 Essential vérnyomásmérő"
+        },
+        {
+          "id": "3156497",
+          "name": "913   Bébi- és gyerek nedves tisztítókendő      Neogranormon törlőkendő 4x72 db sens."
+        },
+        {
+          "id": "3156645",
+          "name": "912   Bébi- és gyerek nedves tisztítókendő      Neogranormon törlőkendő 4x72 db"
+        },
+        {
+          "id": "3158259",
+          "name": "1002   Éjszakai bugyipelenka      Pampers night bugyip JP 4 (9-15kg) 52 db"
+        },
+        {
+          "id": "3158260",
+          "name": "1003   Éjszakai bugyipelenka      Pampers night bugyip JP 5 (11-17kg) 46db"
+        },
+        {
+          "id": "3158261",
+          "name": "998   Éjszakai bugyipelenka      Pampers night bugyip JP 6 (13-19kg) 40"
+        },
+        {
+          "id": "3158272",
+          "name": "1004   Éjszakai bugyipelenka      Pampers night bugyip JP 7 (15kg+) 35db"
+        },
+        {
+          "id": "3158613",
+          "name": "709   Egészségügyi betét szárnyas      Libresse eü.b. Maxi Goodnight 36db"
+        },
+        {
+          "id": "3160405",
+          "name": "923   Pelenkakiütés elleni krém      NIVEA BABY popsiápoló 135ml"
+        },
+        {
+          "id": "3161729",
+          "name": "711   Egészségügyi betét szárnyas      Libresse eü.b. Night Ultra Large 36db"
+        },
+        {
+          "id": "3162806",
+          "name": "1287   Terhességi teszt      X-Epil terhességi teszt digitális 1db"
+        },
+        {
+          "id": "3164815",
+          "name": "688   Pelenka 4/4+-os méret      Libero touch pelenka 4 duo(7-14kg) 72db"
+        },
+        {
+          "id": "3164816",
+          "name": "690   Pelenka 5/5+-os méret      Libero touch pelenka 5duo (11-17kg) 60db"
+        },
+        {
+          "id": "3166937",
+          "name": "660   Anyatej tárolás      Lansinoh anyatejtároló zacskó 50db"
+        },
+        {
+          "id": "3171586",
+          "name": "654   Intim mosakodó      Lactacyd intim mos. Sensitive 400ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "1000304",
+          "name": "996   tampon normál      O.B.TAMPON 32DB   NORMÁL"
+        },
+        {
+          "id": "1023097",
+          "name": "1246   inkontinencia enyhe      TENA INKONT.BETÉT   28DB ULTRA MINI"
+        },
+        {
+          "id": "1144304",
+          "name": "945   naptej spray      NIVEA SUN P&M NAP.SPRAY FF30 200ML"
+        },
+        {
+          "id": "1175571",
+          "name": "946   naptej spray      NIVEA SUN P&M NAP.SPRAY FF50+ 200ML"
+        },
+        {
+          "id": "1175793",
+          "name": "1138   glut.kenyér/szendv.k      SCHAR GLUTÉNMENT.   SÓS PEREC 60G SALIN"
+        },
+        {
+          "id": "1175798",
+          "name": "1135   glut.édesség      SCHAR GLUTÉNMENT.   ÉDES KIFLIK 200G BM."
+        },
+        {
+          "id": "1196038",
+          "name": "1137   glut.kenyér/szendv.k      SCHAR GLUTÉNMENT.   MINI ZSEMLE 200G CIA"
+        },
+        {
+          "id": "1229817",
+          "name": "1266   egyéb higiénia      VISIOMAX szemcsepp 15x04 ml Hyaluronnal"
+        },
+        {
+          "id": "1237143",
+          "name": "927   intim mosakodó      NIVEA INTIMO INTIM MOSAKODÓ GÉL 250ML"
+        },
+        {
+          "id": "1238418",
+          "name": "1216   Napkrém      SUNDANCE napkrém FF30 100ml"
+        },
+        {
+          "id": "1257352",
+          "name": "1218   Téli napvédelem      SUNDANCE napkrém+   stift FF50 20ml+3g"
+        },
+        {
+          "id": "1268390",
+          "name": "944   Naptej      NIVEA SUN NAPTEJ HIDRAT. FF50+ 200ML"
+        },
+        {
+          "id": "1268485",
+          "name": "1185   napkrém gyerek      SUNDANCE Kids napkrém FF50 100ml"
+        },
+        {
+          "id": "1269986",
+          "name": "153   Melltartóbetét      babylove melltartó betét 30db"
+        },
+        {
+          "id": "1301928",
+          "name": "1186   napkrém gyerek      SUNDANCE Kids napkrém Med FF50+ 100ml"
+        },
+        {
+          "id": "1314954",
+          "name": "1260   kontaktlencse      VISIOMAX kombinált oldat 360 ml Hyaluron"
+        },
+        {
+          "id": "1314955",
+          "name": "1261   kontaktlencse      VISIOMAX kombioldat 360 ml"
+        },
+        {
+          "id": "1314956",
+          "name": "1262   kontaktlencse      VISIOMAX kontaktl áp kombiold 360 ml sup"
+        },
+        {
+          "id": "1314957",
+          "name": "1265   kontaktlencse      VISIOMAX szemcsepp 15 ml Hyaluronnal"
+        },
+        {
+          "id": "1335746",
+          "name": "939   naptej spray      NIVEA SUN NAP.SPRAY FF30 200ML PRO&BRO"
+        },
+        {
+          "id": "1337342",
+          "name": "1217   Napkrém      SUNDANCE napkrém FF50 100ml"
+        },
+        {
+          "id": "1344792",
+          "name": "1211   Napozó spray      SUNDANCE nap.spray FF30 50ml"
+        },
+        {
+          "id": "1354523",
+          "name": "1245   inkontinencia enyhe      TENA INKONT.BETÉT   24DB ULTRA MINI PLUS"
+        },
+        {
+          "id": "1367850",
+          "name": "1198   Napvédelem érzékeny bőr      SUNDANCE nap.fluid FF50+ 50ml Med"
+        },
+        {
+          "id": "1379600",
+          "name": "1132   fertotlenítés      Sanft&Sicher wc   papír üloke 10db"
+        },
+        {
+          "id": "1417776",
+          "name": "1059   Nedves törlőkendő      Pampers törlőkendő 4x44 db Harm.Calend."
+        },
+        {
+          "id": "1428972",
+          "name": "1205   Napozó spray      SUNDANCE nap.spray   sport FF30 200ml"
+        },
+        {
+          "id": "1441990",
+          "name": "1264   kontaktlencse      VISIOMAX kontaktl.áp 60ml kombiold.super"
+        },
+        {
+          "id": "1449711",
+          "name": "1228   napozó spray aerosol      SUNDANCE sport spray FF50 200ml átl. aer"
+        },
+        {
+          "id": "1449721",
+          "name": "1212   Napozó spray      SUNdance nap.spray FF30 sport 75ml"
+        },
+        {
+          "id": "1491981",
+          "name": "1272   babafürdeto      WELEDA BABY+KIND   SAMP.&FÜRDETO 200ML"
+        },
+        {
+          "id": "1491985",
+          "name": "1273   babakrém      WELEDA CAL.BABAKRÉM 75ML PEL.KIÜT.ELLEN"
+        },
+        {
+          "id": "1491986",
+          "name": "1274   babakrém      WELEDA CALENDULA   ÁPOLÓ BABAKRÉM 75ML"
+        },
+        {
+          "id": "1493299",
+          "name": "1263   kontaktlencse      VISIOMAX kontaktl. tiszt. kombiold 360ml"
+        },
+        {
+          "id": "1536172",
+          "name": "937   napkrém norm/érzék.      NIVEA SUN NAP.KRÉM FF50 50ML ARCANTI-AG"
+        },
+        {
+          "id": "1536461",
+          "name": "1204   napkrém norm/érzék.      SUNDANCE nap.krém gél FF50 150ml MED"
+        },
+        {
+          "id": "1543426",
+          "name": "1229   Napozó arcra      SUNDANE nap.fluid   FF30 50ml matt"
+        },
+        {
+          "id": "1545732",
+          "name": "849   sebtapasz normál      Mivolis gyerek tapasz 20 db aqua"
+        },
+        {
+          "id": "1550790",
+          "name": "853   sebtapasz normál      Mivolis ragtapasz 20 db aqua"
+        },
+        {
+          "id": "1550791",
+          "name": "855   sebtapasz vágható      Mivolis ragtapasz 5m*25cm"
+        },
+        {
+          "id": "1550792",
+          "name": "856   sebtapasz vágható      Mivolis rugalmas tapasz 10cmx6cm 10 db"
+        },
+        {
+          "id": "1550793",
+          "name": "854   sebtapasz normál      Mivolis ragtapasz 20 db sensitive"
+        },
+        {
+          "id": "1550794",
+          "name": "851   kész kötések      Mivolis öntapadó ujjkötöző 5 m"
+        },
+        {
+          "id": "1550795",
+          "name": "848   sebtapasz normál      Mivolis gyerek tapasz 20 db"
+        },
+        {
+          "id": "1550801",
+          "name": "860   sebtapasz vágható      Mivolis sebtapasz 1mx6cm"
+        },
+        {
+          "id": "1550807",
+          "name": "857   sebtapasz normál      Mivolis sebösszehúzó csíkok 20 db"
+        },
+        {
+          "id": "1551245",
+          "name": "850   kész kötések      Mivolis kesztyű   1db pamut"
+        },
+        {
+          "id": "1551508",
+          "name": "863   kész kötések      Mivolis steril sebtapasz 5 db"
+        },
+        {
+          "id": "1551509",
+          "name": "861   kész kötések      Mivolis sportkötés10mx375cm"
+        },
+        {
+          "id": "1551511",
+          "name": "862   Kötszer      Mivolis ster. sebtap 8cmx10cm 5db vízáll"
+        },
+        {
+          "id": "1551513",
+          "name": "846   Kötszer      Mivolis elasztikus kötöző 2x4m"
+        },
+        {
+          "id": "1551517",
+          "name": "864   Kötöző      Mivolis térdrögzítő 1db medium"
+        },
+        {
+          "id": "1551522",
+          "name": "865   Kötöző      Mivolis térdrögzítő 1db large"
+        },
+        {
+          "id": "1551537",
+          "name": "858   egyéb higiénia      Mivolis sebspray 50 ml"
+        },
+        {
+          "id": "1551771",
+          "name": "852   Kötöző      Mivolis öntapadós   kötöző 6cmx5m"
+        },
+        {
+          "id": "1552240",
+          "name": "847   egyéb higiénia      Mivolis füldugó 8x2 db"
+        },
+        {
+          "id": "1552732",
+          "name": "845   Vérnyomás-/lázmérő      Mivolis digitális lázmérő flexib. fejjel"
+        },
+        {
+          "id": "1552899",
+          "name": "1184   Napvédelem gyermekeknek      SUNDANCE Kids nap.r. 100ml med us.FF50+"
+        },
+        {
+          "id": "1562894",
+          "name": "859   Klassszikus sebtapasz      Mivolis sebtapasz   6cmx05m gyerek"
+        },
+        {
+          "id": "1574061",
+          "name": "1202   Naptej      SUNDANCE nap.krém   FF50+ 100ml"
+        },
+        {
+          "id": "1575159",
+          "name": "1191   Napozó arcra      SUNDANCE matt fluid arcra FF50 50ml"
+        },
+        {
+          "id": "1576602",
+          "name": "1199   Napvédelem érzékeny bőr      SUNDANCE nap.fluid FF50+ 50ml sensitiv"
+        },
+        {
+          "id": "1581159",
+          "name": "1197   Napvédelem érzékeny bőr      SUNDANCE nap.fluid FF30 50ml sensitiv"
+        },
+        {
+          "id": "1601233",
+          "name": "866   sebtapasz normál      Mivolis vízálló sebtapasz 40 db"
+        },
+        {
+          "id": "1602668",
+          "name": "1196   Napozó arcra      SUNDANCE nap.fluid FF30 50ml anti-age"
+        },
+        {
+          "id": "1602700",
+          "name": "1219   Napozó arcra      SUNDANCE napozófluid FF50 50ml anti-age"
+        },
+        {
+          "id": "1626097",
+          "name": "1203   Napvédelem érzékeny bőr      SUNDANCE nap.krém- gél FF50+ 30ml"
+        },
+        {
+          "id": "1638042",
+          "name": "152   terh/szoptatási kieg      babylove melltartó betét 60db"
+        },
+        {
+          "id": "1657493",
+          "name": "1275   Kismama ápolóolaj és testápoló      Weleda stria elleni testvaj mam.150ml OS"
+        },
+        {
+          "id": "1668856",
+          "name": "938   naptej spray      NIVEA SUN NAP.SPRAY ÁTL. FF50 200ML"
+        },
+        {
+          "id": "1670589",
+          "name": "1016   Éjszakai bugyipelenka      Pampers ninja.bugyip7(17-30kg)10dbszívOS"
+        },
+        {
+          "id": "1670595",
+          "name": "1015   Éjszakai bugyipelenka      Pampers ninja.bugyip7(17-30kg)10db űr OS"
+        },
+        {
+          "id": "1670596",
+          "name": "1018   Éjszakai bugyipelenka      Pampers ninja.bugyip8(27-43kg)9db űr OS"
+        },
+        {
+          "id": "1670597",
+          "name": "1017   Éjszakai bugyipelenka      Pampers ninja.bugyip8(27-43kg)9db szívOS"
+        },
+        {
+          "id": "1673413",
+          "name": "1060   Nedves törlőkendő      Pampers törlőkendő 4x48db Harm.Aqua PF"
+        },
+        {
+          "id": "1678392",
+          "name": "1179   Napozó ajakápoló      SUNDANCE ajakápoló kókusz FF30 10ml"
+        },
+        {
+          "id": "1678934",
+          "name": "1201   Napvédelem érzékeny bőr      SUNDANCE nap.krém   FF50 100ml sensitiv"
+        },
+        {
+          "id": "1679548",
+          "name": "941   Napozó arcra      NIVEA SUN napozó arckrém FF50 50ml lumin"
+        },
+        {
+          "id": "1681516",
+          "name": "1052   Nedves törlőkendő      Pampers törlőkendő 10 db Harm.Aqua PF"
+        },
+        {
+          "id": "1681607",
+          "name": "667   Egyéb szoptatás kiegészítők      Lansinoh szül. után bet. 0-2 hét 10db OS"
+        },
+        {
+          "id": "1691425",
+          "name": "1054   Nedves törlőkendő      PAMPERS TÖRLŐKENDŐ 15X80DB SENSITIVE OS"
+        },
+        {
+          "id": "1691426",
+          "name": "1053   Nedves törlőkendő      PAMPERS TÖRLŐKENDŐ 15X80DB FRESH CL. OS"
+        },
+        {
+          "id": "1693421",
+          "name": "1133   Gyerek fürdőkiegészítő      SauBär habfürdő 40ml Hősies/Mesés"
+        },
+        {
+          "id": "1720868",
+          "name": "1058   Nedves törlőkendő      Pampers törlőkendő 48db Harm.Aqua PF S+"
+        },
+        {
+          "id": "1740808",
+          "name": "921   babasampon      NIVEA BABY SAMPON   200ML"
+        },
+        {
+          "id": "1749133",
+          "name": "990   tampon normál      O.B.TAMPON 16DB   NORMÁL"
+        },
+        {
+          "id": "1749135",
+          "name": "995   tampon egyéb      O.B.TAMPON 16DB SUPER"
+        },
+        {
+          "id": "1780709",
+          "name": "992   tampon egyéb      O.B.TAMPON 16DB   SUPER PLUS"
+        },
+        {
+          "id": "1798744",
+          "name": "933   naptej gyerek      NIVEA SUN KIDS NAP.SPRAY FF50 200ML"
+        },
+        {
+          "id": "1799759",
+          "name": "1183   Napozó spray gyerek      SUNDANCE Kids nap. spray FF50 200ml"
+        },
+        {
+          "id": "1799760",
+          "name": "1209   naptej spray      SUNDANCE nap.spray FF30 200ml"
+        },
+        {
+          "id": "1799766",
+          "name": "1181   Napozó spray gyerek      SUNDANCE Kids nap. sp. FF50+ 200ml Med"
+        },
+        {
+          "id": "1799770",
+          "name": "1215   naptej spray      SUNDANCE nap.spray FF50 200ml"
+        },
+        {
+          "id": "1799791",
+          "name": "1193   Napozó spray      SUNDANCE nap. spray FF50+ 200ml"
+        },
+        {
+          "id": "1800119",
+          "name": "1213   Napozó spray      SUNDANCE nap.spray FF50 200ml sensitiv"
+        },
+        {
+          "id": "1800121",
+          "name": "1192   Napozó spray      SUNDANCE MED nap.   spray FF50+ 200ml us"
+        },
+        {
+          "id": "1814643",
+          "name": "943   Naptej      NIVEA SUN NAPTEJ HIDRAT. FF30 200ML PR&M"
+        },
+        {
+          "id": "1834044",
+          "name": "1165   tampon egyéb      SOFT TAMPON 3DB   NORMÁL"
+        },
+        {
+          "id": "1868213",
+          "name": "1230   tampon egyéb      SWIMPON AQUA STOP   TAMPON 6DB"
+        },
+        {
+          "id": "1874156",
+          "name": "1195   Napvédelem érzékeny bőr      SUNDANCE nap.balzsam FF50 200ml sensitiv"
+        },
+        {
+          "id": "1885521",
+          "name": "1221   naptej norm./érzék.      SUNDANCE naptej FF30 200ml"
+        },
+        {
+          "id": "1885522",
+          "name": "1223   naptej norm./érzék.      SUNDANCE naptej FF50 200ml"
+        },
+        {
+          "id": "1885547",
+          "name": "1225   naptej norm./érzék.      SUNDANCE naptej FF50+ 200ml"
+        },
+        {
+          "id": "1886487",
+          "name": "666   terh/szoptatási kieg      LANSINOH NORMÁL   BIMBÓVÉDŐ 2DB W2+"
+        },
+        {
+          "id": "1888279",
+          "name": "1062   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 4X80DB SENSITIVE"
+        },
+        {
+          "id": "1888280",
+          "name": "1061   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 4X80DB FRESH CLEAN"
+        },
+        {
+          "id": "1892537",
+          "name": "1224   Naptej      SUNDANCE naptej FF50 500ml"
+        },
+        {
+          "id": "1892786",
+          "name": "1210   Napozó spray      SUNDANCE nap.spray FF30 200ml véd&barn."
+        },
+        {
+          "id": "1893342",
+          "name": "1188   naptej norm./érzék.      SUNDANCE Kids naptej FF50+ 200ml"
+        },
+        {
+          "id": "1894112",
+          "name": "914   glut.édesség      NICK'S GM SZELET 40G KÓKUSZ"
+        },
+        {
+          "id": "1894304",
+          "name": "915   glut.édesség      NICK'S GM SZELET 40G MOGYORÓ-KARAMELLA"
+        },
+        {
+          "id": "1917001",
+          "name": "1129   Klassszikus sebtapasz      Salvequick sebtapasz 20db mancsőrjárat"
+        },
+        {
+          "id": "1918170",
+          "name": "1189   naptej gyerek      SUNDANCE Kids naptej FF50+ 200ml MED u.s"
+        },
+        {
+          "id": "1918600",
+          "name": "1222   Naptej      SUNDANCE naptej FF30 50 ml PG"
+        },
+        {
+          "id": "1918601",
+          "name": "1220   Naptej      SUNDANCE naptej   FF50 50ml"
+        },
+        {
+          "id": "1918602",
+          "name": "1194   Napvédelem érzékeny bőr      SUNDANCE nap.balzsam FF30 50ml érz.bőrre"
+        },
+        {
+          "id": "1918632",
+          "name": "1187   Napvédelem gyermekeknek      SUNDANCE kids naptej érz. FF50+ 50ml PG"
+        },
+        {
+          "id": "1918633",
+          "name": "1182   Napvédelem gyermekeknek      SUNDANCE kids nap. sp.sens. FF50 200ml"
+        },
+        {
+          "id": "1918637",
+          "name": "1214   Napvédelem érzékeny bőr      SUNDANCE nap.spray sensitive FF30 200ml"
+        },
+        {
+          "id": "1918651",
+          "name": "1226   Naptej      SUNDANCE naptej véd&barn. FF30 200ml"
+        },
+        {
+          "id": "1918671",
+          "name": "1190   Napvédelem gyermekeknek      SUNDANCE Kids naptej FF50+ 50ml Med U.S."
+        },
+        {
+          "id": "1918675",
+          "name": "1207   Napozó spray      SUNDANCE nap.spray átl. FF50 200ml"
+        },
+        {
+          "id": "1918676",
+          "name": "1208   Napozó spray      SUNDANCE nap.spray átl. FF50+ 200ml"
+        },
+        {
+          "id": "1920963",
+          "name": "942   Naptej      NIVEA SUN naptej   FF50+ 270ml prot&moi"
+        },
+        {
+          "id": "1922713",
+          "name": "1206   Napozó spray      SUNDANCE nap.spray átl. FF30 200ml"
+        },
+        {
+          "id": "2002896",
+          "name": "1055   Nedves törlőkendő      Pampers törlőkendő 3x48db Harm.Aqua PF"
+        },
+        {
+          "id": "2002901",
+          "name": "1072   Bébi- és gyerek nedves tisztítókendő      Pampers törlőkendő 52 db sensitive PF"
+        },
+        {
+          "id": "2026928",
+          "name": "925   intim mosakodó      NIVEA INTIM MOS. GÉL 250ML FRESH COMFORT"
+        },
+        {
+          "id": "2026941",
+          "name": "1134   glut.édesség      SCHAR GLUTÉNMENT.   CSOKIS KEKSZ 100G"
+        },
+        {
+          "id": "2027463",
+          "name": "972   Tampon      o.b. tampon organic mini 16db"
+        },
+        {
+          "id": "2027526",
+          "name": "725   Napozó arcra      MÁDARA fényvédő arc-krém ff30 nude 40ml"
+        },
+        {
+          "id": "2028934",
+          "name": "1038   Pelenka 1-es méret      Pampers pc pelenka 1 (2-5kg) 72db"
+        },
+        {
+          "id": "2028951",
+          "name": "1094   Etetőcumi      PHILIPS AVENT Nat. 1.pótcum 0h+ 2db W2+"
+        },
+        {
+          "id": "2028952",
+          "name": "1099   Etetőcumi      PHILIPS AVENT pótcum 2db Natural 3h+ W2+"
+        },
+        {
+          "id": "2028953",
+          "name": "1097   Etetőcumi      PHILIPS AVENT pótcum 2db Natur.gyors 6h+"
+        },
+        {
+          "id": "2028954",
+          "name": "1096   Etetőcumi      PHILIPS AVENT pótcum 2db N.gyors 6h+ W2+"
+        },
+        {
+          "id": "2028958",
+          "name": "1095   Üveg cumisüveg 0-6 hónapos      PHILIPS AVENT Nat.ü.cumisü. 0h+ 120ml OS"
+        },
+        {
+          "id": "2028960",
+          "name": "1090   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg Natur. 0h+ 125mlw2+"
+        },
+        {
+          "id": "2028961",
+          "name": "1091   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg Natural 1h+ 260ml"
+        },
+        {
+          "id": "2028964",
+          "name": "1092   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üvegNatural 3h+ 330ml"
+        },
+        {
+          "id": "2028966",
+          "name": "1087   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg AirFree 0h+ 125ml"
+        },
+        {
+          "id": "2028967",
+          "name": "1088   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg AirFree 1h+ 260ml"
+        },
+        {
+          "id": "2029052",
+          "name": "887   Tisztasági betét      Naturella tiszt.bet. Cam. Light 100db OS"
+        },
+        {
+          "id": "2029053",
+          "name": "883   Egészségügyi betét szárnyas      Naturella eü. betét Ultra Norm.Plus 36db"
+        },
+        {
+          "id": "2031326",
+          "name": "1027   Bugyipelenka 8-as méret      PAMPERS PANTS JP BU GYIP. 8(19KG+) 32 DB"
+        },
+        {
+          "id": "2031327",
+          "name": "1032   Bugyipelenka 7-es méret      pampers pc pants   bugyip. 7(17kg+)27db"
+        },
+        {
+          "id": "2031990",
+          "name": "936   Napozó arcra      NIVEA SUN nap.fluid invisible FF50+ 40ml"
+        },
+        {
+          "id": "2032029",
+          "name": "924   Baba és gyerek testápoló      NIVEA BABY uni. krémMY FIRST CREAM 75ml"
+        },
+        {
+          "id": "2032034",
+          "name": "923   Baba és gyerek testápoló      NIVEA BABY TESTÁPOLÓBED TIME 200ML"
+        },
+        {
+          "id": "2032374",
+          "name": "918   Baba és gyerek testápoló      NIVEA BABY   SOFT KRÉM 200ML"
+        },
+        {
+          "id": "2032375",
+          "name": "922   Babafürdető és hajápolás      NIVEA BABY SAMPON   ÉS FÜRDETŐ 500ML"
+        },
+        {
+          "id": "2051339",
+          "name": "1084   fogkrém fehérítő      PARODONTAX FOGKRÉM 75ML WHITENING"
+        },
+        {
+          "id": "2056411",
+          "name": "932   naptej gyerek      NIVEA SUN KIDS NAP. SPRAY FF50+ 200ML SZ"
+        },
+        {
+          "id": "2070201",
+          "name": "1236   tampon egyéb      TAMPAX COMPAK   SUPER DUO 16DB"
+        },
+        {
+          "id": "2070202",
+          "name": "1235   tampon egyéb      TAMPAX COMPAK   REGULAR DUO 16DB"
+        },
+        {
+          "id": "2070890",
+          "name": "1046   pelenka normál      PAMPERS PELENKA   PC 0 <25KG 30DB"
+        },
+        {
+          "id": "2075375",
+          "name": "926   Intim mosakodó      NIVEA Intimo intim mos.gél Sensi. 250ml"
+        },
+        {
+          "id": "2076565",
+          "name": "869   Babafürdető és hajápolás      MIXA BABY TÁPLÁLÓ   TUSF&SAMP 2IN1 400ML"
+        },
+        {
+          "id": "2076566",
+          "name": "868   babafürdeto      MIXA BABY HABZÓ   FÜRDO OLAJ 400L"
+        },
+        {
+          "id": "2082772",
+          "name": "929   naptej spray      NIVEA SUN DRY OIL NAP.SPRAY FF30 200ML"
+        },
+        {
+          "id": "2097983",
+          "name": "881   eü. betét ultra      NATURELLA EÜ. BETÉT 20DB ULTRA NORMÁL"
+        },
+        {
+          "id": "2097985",
+          "name": "879   eü. betét ultra      NATURELLA EÜ. BETÉT 16DB ULTRA SUPER DUO"
+        },
+        {
+          "id": "2097988",
+          "name": "878   eü. betét ultra      NATURELLA EÜ. BETÉT 14DB ULTRA NIGHT"
+        },
+        {
+          "id": "2100054",
+          "name": "989   tampon egyéb      O.B.TAMPON 16DB   MINI PROCOMFORT"
+        },
+        {
+          "id": "2100056",
+          "name": "991   tampon egyéb      O.B.TAMPON 16DB   NORMÁL PROCOMFORT"
+        },
+        {
+          "id": "2100057",
+          "name": "994   tampon egyéb      O.B.TAMPON 16DB   SUPER PROCOMFORT"
+        },
+        {
+          "id": "2100058",
+          "name": "997   tampon egyéb      O.B.TAMPON 32DB   NORMÁL PROCOMFORT"
+        },
+        {
+          "id": "2100059",
+          "name": "965   tampon egyéb      O.B. TAMPON   PROCOMFORT SUPER 32D"
+        },
+        {
+          "id": "2100060",
+          "name": "993   tampon egyéb      O.B.TAMPON 16DB   SUPER PLUS PROCOMFOR"
+        },
+        {
+          "id": "2100099",
+          "name": "1081   fogkrém érzékeny      PARODONTAX FOGKRÉM 75ML COMP.PR. EX FR."
+        },
+        {
+          "id": "2100100",
+          "name": "1082   fogkrém fehérítő      PARODONTAX FOGKRÉM 75ML COMP.PR. WHITE"
+        },
+        {
+          "id": "2101231",
+          "name": "987   tampon egyéb      O.B. TAMPON PROCOMFORT SUPER PLUS 32DB"
+        },
+        {
+          "id": "2101669",
+          "name": "1139   glut.kenyér/szendv.k      SCHAR GLUTM. PAN BLANKO KENYÉR 250G"
+        },
+        {
+          "id": "2101671",
+          "name": "1140   glut.kenyér/szendv.k      SCHAR GLUTMENT. PAN RUSTICO KENY. 250G"
+        },
+        {
+          "id": "2108364",
+          "name": "867   babafürdető      MIXA BABY ATOPIANCE TISZTÍTÓ OLAJ 250ML"
+        },
+        {
+          "id": "2109378",
+          "name": "761   Egyéb szoptatás kiegészítők      MAM KÉZI MELLSZÍVÓ w2+"
+        },
+        {
+          "id": "2110736",
+          "name": "1160   fogkrém fehéríto      SENSODYNE FOGKRÉM   75ML RAPID WHITENING"
+        },
+        {
+          "id": "2110743",
+          "name": "1141   tyúkszemirtó tapasz      SCHOLL TYÚKSZEMIRT.VÍZÁLL.SZORÍTÓ.TAP8DB"
+        },
+        {
+          "id": "2111532",
+          "name": "1050   pelenka normál      PAMPERS PELENKA PC SP 1 ÚJSZÜLÖTT 26DB"
+        },
+        {
+          "id": "2111533",
+          "name": "1051   pelenka normál      PAMPERS PELENKA PC SP 2 MINI 23DB"
+        },
+        {
+          "id": "2111535",
+          "name": "1040   Pelenka 2-es méret      Pampers pc pelenka 2(4-8 kg) 68 db"
+        },
+        {
+          "id": "2111536",
+          "name": "1035   bugyi pelenka      PAMPERS PC PANTS   PELENKA MIDI 48DB"
+        },
+        {
+          "id": "2111537",
+          "name": "1034   bugyi pelenka      PAMPERS PC PANTS   PELENKA MAXI 38DB"
+        },
+        {
+          "id": "2111538",
+          "name": "1033   bugyi pelenka      PAMPERS PC PANTS   PELENKA JUNIOR 34DB"
+        },
+        {
+          "id": "2111539",
+          "name": "1036   bugyi pelenka      PAMPERS PC PANTS   PELENKA XL 31DB"
+        },
+        {
+          "id": "2111679",
+          "name": "940   Napozó spray      NIVEA SUN napozó   spray FF50+ 200ml"
+        },
+        {
+          "id": "2113778",
+          "name": "1007   pelenka jumbo csomag      PAMPERS MAXI PACK+ PELENKA 7 44DB"
+        },
+        {
+          "id": "2114339",
+          "name": "1234   tampon egyéb      TAMPAX COMPAK   PEARL REGULAR DUO 16"
+        },
+        {
+          "id": "2114944",
+          "name": "1068   Bébi- és gyerek nedves tisztítókendő      PAMPERS TÖRLŐKENDŐ 80DB SENSITIVE"
+        },
+        {
+          "id": "2114945",
+          "name": "1066   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 80DB FRESH CLEAN"
+        },
+        {
+          "id": "2116588",
+          "name": "1232   egyéb higiénia      T.O.C. INTIM KEHELY \"S\" MÉRET"
+        },
+        {
+          "id": "2116589",
+          "name": "1231   egyéb higiénia      T.O.C. INTIM KEHELY \"M\" MÉRET"
+        },
+        {
+          "id": "2121531",
+          "name": "964   tampon egyéb      O.B. TAMPON   PROCOMFORT MINI 32DB"
+        },
+        {
+          "id": "2123300",
+          "name": "1020   Bugyipelenka 4-es méret      Pampers pants bugyip4(9-15kg) 108db OS"
+        },
+        {
+          "id": "2123302",
+          "name": "1021   Bugyipelenka 5-ös méret      Pampers pants bugyip5(12-17kg) 96 db OS"
+        },
+        {
+          "id": "2123303",
+          "name": "1022   Bugyipelenka 6-os méret      Pampers pants bugyip6(14-19kg) 84 db OS"
+        },
+        {
+          "id": "2123543",
+          "name": "1026   bugyi pelenka      PAMPERS PANTS JP   MIDI 6-11KG 62DB"
+        },
+        {
+          "id": "2123545",
+          "name": "1025   bugyi pelenka      PAMPERS PANTS JP   MAXI 9-15KG 52DB"
+        },
+        {
+          "id": "2123548",
+          "name": "1024   bugyi pelenka      PAMPERS PANTS JP   JUNIOR 12-17KG 48DB"
+        },
+        {
+          "id": "2123550",
+          "name": "1030   bugyi pelenka      PAMPERS PANTS JP XL 15KG+ 44DB"
+        },
+        {
+          "id": "2123776",
+          "name": "955   Tampon      O.B TAMPON ORGANIC 16DB NORMÁL"
+        },
+        {
+          "id": "2123777",
+          "name": "971   Tampon      O.B. TAMPON ORGANIC 16DB SUPER"
+        },
+        {
+          "id": "2124785",
+          "name": "1161   fogkrém érzékeny      SENSODYNE FOGKRÉM   75ML REP.&PROT.EX.FR"
+        },
+        {
+          "id": "2124802",
+          "name": "928   intim törlőkendők      NIVEA INTIMO INTIM TÖRLŐKENDŐ 15DB ALOE"
+        },
+        {
+          "id": "2124837",
+          "name": "1031   bugyi pelenka      PAMPERS PANTS JP XXL17KG+ 38DB"
+        },
+        {
+          "id": "2125445",
+          "name": "1130   tyúkszemirtó tapasz      SALVEQUICK TYÚKSZEM ÉS BŐRKEM.ELL.TAPASZ"
+        },
+        {
+          "id": "2125446",
+          "name": "1128   egyéb lábápolás      SALVEQUICK MED SZEMÖLCSTAPASZ 20DB"
+        },
+        {
+          "id": "2125876",
+          "name": "657   Intim mosakodó      Lactovit intim mosakodó Sensitive 250ml"
+        },
+        {
+          "id": "2125982",
+          "name": "1009   Bugyipelenka 4-es méret      PAMPERS NIGHT BUGYIP 4(9-15KG) 25DB OS"
+        },
+        {
+          "id": "2125983",
+          "name": "1010   Éjszakai bugyipelenka      PAMPERS NIGHT BUGYIP 5(12-17KG) 22DB OS"
+        },
+        {
+          "id": "2125984",
+          "name": "1011   Éjszakai bugyipelenka      PAMPERS NIGHT BUGYIP 6(15KG+) 19DB OS"
+        },
+        {
+          "id": "2127132",
+          "name": "886   tiszt. betét normál      NATURELLA TISZT.BET. 44DB CAM. NORMAL"
+        },
+        {
+          "id": "2127133",
+          "name": "885   Tisztasági betét      Naturella tiszt.bet Norm Kamilla 74db"
+        },
+        {
+          "id": "2127135",
+          "name": "880   eü. betét normál      NATURELLA EÜ. BETÉT 18DB NORMAL PLUS"
+        },
+        {
+          "id": "2127136",
+          "name": "884   Egészségügyi betét szárnyas      Naturella eü. betét Ultra Normal 40db"
+        },
+        {
+          "id": "2127212",
+          "name": "1303   intim mosakodó      ZIAJA INTIM MOSAKODÓ 500ML LAKTOBIONSAV"
+        },
+        {
+          "id": "2127266",
+          "name": "962   Tampon      o.b. ProComfort tampon normál 64db"
+        },
+        {
+          "id": "2127267",
+          "name": "963   Tampon      o.b. ProComfort tampon super 54db"
+        },
+        {
+          "id": "2127318",
+          "name": "961   Tampon      o.b. ProComfort tampon mini 64db"
+        },
+        {
+          "id": "2127406",
+          "name": "957   Tampon      o.b. ExtraProtect tampon normál 16db"
+        },
+        {
+          "id": "2127407",
+          "name": "959   Tampon      o.b. ExtraProtect tampon super 16db"
+        },
+        {
+          "id": "2127409",
+          "name": "958   Tampon      o.b. ExtraProtect tampon normál 56db"
+        },
+        {
+          "id": "2127410",
+          "name": "960   Tampon      o.b. ExtraProtect tampon super plus 16db"
+        },
+        {
+          "id": "2127412",
+          "name": "956   Tampon      o.b. ExtraProtect   tampon super 42db"
+        },
+        {
+          "id": "2128464",
+          "name": "935   Napvédelem gyermekeknek      NIVEA SUN kids zseb-naptej FF50+ 50ml"
+        },
+        {
+          "id": "2129087",
+          "name": "808   terh/szoptatási kieg      MAM TÁROLÓ POHÁR 5DBw"
+        },
+        {
+          "id": "2129399",
+          "name": "888   Egészségügyi betét szárnyas      Naturella Ultr eü.b night 28db"
+        },
+        {
+          "id": "2129400",
+          "name": "882   Egészségügyi betét szárnyas      Naturella eü. betét Ultra Maxi 32db"
+        },
+        {
+          "id": "2142561",
+          "name": "1136   glut.kenyér/szendv.k      SCHAR GLUTÉNMENT.   KENYÉR 240G PANE CAS"
+        },
+        {
+          "id": "2173141",
+          "name": "1163   fogkrém érzékeny      SENSODYNE FOGKRÉM   75ML SENS.&GUM WHITE"
+        },
+        {
+          "id": "2184390",
+          "name": "715   tiszt. betét normál      LIBRESSE TISZT.BETÉT 32DB SO SLIM"
+        },
+        {
+          "id": "2195656",
+          "name": "712   Egészségügyi betét szárnyas      Libresse eü.b. ultra goodnight 8db"
+        },
+        {
+          "id": "2196171",
+          "name": "717   tiszt. betét normál      LIBRESSE TISZT.BETÉT 58DB NATURAL CARE"
+        },
+        {
+          "id": "2196172",
+          "name": "711   Egészségügyi betét szárnyas      Libresse eü.b. ultra goodnight 16db"
+        },
+        {
+          "id": "2197511",
+          "name": "723   Óvszer      LifeStyles SKYN   óvszer Elite 10db"
+        },
+        {
+          "id": "2200192",
+          "name": "1047   pelenka normál      PAMPERS PELENKA PC 6 XL 38DB"
+        },
+        {
+          "id": "2231865",
+          "name": "722   Óvszer      LifeStyles óvszer   Ribbed by Manix 12db"
+        },
+        {
+          "id": "2232792",
+          "name": "698   eü. betét normál      LIBRESSE EÜ.B. 20DB INV.DUO W. NORMAL"
+        },
+        {
+          "id": "2232793",
+          "name": "695   eü. betét normál      LIBRESSE EÜ.B. 16DB INV.DUO W. SUPER"
+        },
+        {
+          "id": "2237577",
+          "name": "700   eü. betét normál      LIBRESSE EÜ.B. 20DB ULTRA NORM. NATURAL"
+        },
+        {
+          "id": "2238503",
+          "name": "1162   fogkrém érzékeny      SENSODYNE FOGKRÉM   75ML REPAIR&PROTECT"
+        },
+        {
+          "id": "2245719",
+          "name": "720   óvsz. norm/sikosító      LIFESTYLES ÓVSZER   10DB SKYN ORIGINAL"
+        },
+        {
+          "id": "2248688",
+          "name": "1083   fogkrém általános      PARODONTAX FOGKRÉM 75ML EXTRA FRESH"
+        },
+        {
+          "id": "2251790",
+          "name": "724   Óvszer      LifeStyles SKYN   óvszer Ext.Lub. 10db"
+        },
+        {
+          "id": "2262200",
+          "name": "1248   Inkontinencia betét közepes      Tena Lady inko.betét Maxi 12db"
+        },
+        {
+          "id": "2273695",
+          "name": "1233   Applikátoros tampon      Tampax CEF   Regular 18db"
+        },
+        {
+          "id": "2274128",
+          "name": "1244   inkontinencia enyhe      TENA INKONT.BETÉT   20 DB MINI"
+        },
+        {
+          "id": "2274129",
+          "name": "1243   inkontinencia enyhe      TENA INKONT.BETÉT   16DB MINI PLUS"
+        },
+        {
+          "id": "2274748",
+          "name": "710   Egészségügyi betét szárnyas      Libresse eü.b. Ultra Goodn. X-Large 8db"
+        },
+        {
+          "id": "2274749",
+          "name": "702   eü. betét normál      LIBRESSE EÜ.B. 40DB INV.WING NORMAL"
+        },
+        {
+          "id": "2274751",
+          "name": "714   tiszt. betét normál      LIBRESSE TISZT.BETET 30DB MULTISTYLE"
+        },
+        {
+          "id": "2274868",
+          "name": "1098   Etetőcumi      PHILIPS AVENT pótcum 2db Natural 0h+ W2"
+        },
+        {
+          "id": "2278533",
+          "name": "919   Babafürdető és hajápolás      NIVEA BABY GYENGÉD BABASAMPON"
+        },
+        {
+          "id": "2278828",
+          "name": "699   eü. betét normál      LIBRESSE EÜ.B. 20DB ULTRA ALOE&CAMILLA"
+        },
+        {
+          "id": "2278829",
+          "name": "713   Tisztasági betét      Libresse tiszt.bet. Normal 58db"
+        },
+        {
+          "id": "2285662",
+          "name": "721   óvsz. norm/sikosító      LIFESTYLES ÓVSZER   12DB ULTRA VÉKONY"
+        },
+        {
+          "id": "2289902",
+          "name": "705   Egészségügyi betét szárnyas      Libresse eü.b. Maxi Goodnight 20db"
+        },
+        {
+          "id": "2321691",
+          "name": "701   eü. betét normál      LIBRESSE EÜ.B. 36DB ULTRA LONG"
+        },
+        {
+          "id": "2358230",
+          "name": "694   eü. betét normál      LIBRESSE EÜ.B. 10DB INV. W. NORM. DEOF."
+        },
+        {
+          "id": "2429796",
+          "name": "1003   Pelenka 3-as méret      Pampers giant pack 3 (6-10kg) 82 db"
+        },
+        {
+          "id": "2429798",
+          "name": "1006   Pelenka 6/6+-os méret      Pampers giant pack 6 (13-18kg) 52 db"
+        },
+        {
+          "id": "2429799",
+          "name": "1004   Pelenka 4/4+-os méret      Pampers giant pack 4 (9-14kg) 70 db"
+        },
+        {
+          "id": "2429800",
+          "name": "1005   Pelenka 5/5+-os méret      Pampers giant pack 5 (11-16kg) 60 db"
+        },
+        {
+          "id": "2432041",
+          "name": "1048   pelenka normál      PAMPERS PELENKA PC JP 4 MAXI 68DB"
+        },
+        {
+          "id": "2432042",
+          "name": "1049   pelenka normál      PAMPERS PELENKA PC JP 5 JUNIOR 58DB"
+        },
+        {
+          "id": "2433837",
+          "name": "1142   tyúkszemirtó tapasz      SCHOLL TYÚKSZEMTAKARÓ PÁRNA"
+        },
+        {
+          "id": "2436311",
+          "name": "1063   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 52DB SENSITIVE"
+        },
+        {
+          "id": "2439574",
+          "name": "998   Félkészétel      OLD EL PASO tortilla lepény gm 6db 216g"
+        },
+        {
+          "id": "2443935",
+          "name": "1043   Pelenka 4/4+-os méret      Pampers pc pelenka 4(9-14kg) 104 db OS"
+        },
+        {
+          "id": "2443936",
+          "name": "1044   Pelenka 5/5+-os méret      Pampers pc pelenka 5(11-16kg) 88 db OS"
+        },
+        {
+          "id": "2443937",
+          "name": "1042   Pelenka 3-as méret      Pampers pc pelenka 3(6-10kg)120 db OS"
+        },
+        {
+          "id": "2444337",
+          "name": "1039   Pelenka 3-as méret      Pampers pc pelenka 3 (6-10 kg) 78 db"
+        },
+        {
+          "id": "2480885",
+          "name": "1240   inkontinencia enyhe      TENA INKONT.BETÉT   12DB MAXI NIGHT"
+        },
+        {
+          "id": "2480901",
+          "name": "1239   inkontinencia enyhe      TENA INKONT.BETÉT   10DB EXTRA"
+        },
+        {
+          "id": "2482697",
+          "name": "1089   Műanyag cumisüveg 0-6 hónapos      PHILIPS AVENT c.üveg Deco 1h+ 260ml w2+"
+        },
+        {
+          "id": "2486308",
+          "name": "875   Intim ápolás      MomCare varázsmogy. regeneráló hab 100ml"
+        },
+        {
+          "id": "2486313",
+          "name": "874   Intim ápolás      MomCare szülés utáni bugyi S/M 4db"
+        },
+        {
+          "id": "2486326",
+          "name": "873   Intim ápolás      MomCare szülés utáni bugyi L/XL 4db"
+        },
+        {
+          "id": "2493193",
+          "name": "1241   inkontinencia enyhe      TENA INKONT.BETÉT   12DB SLIM NORMAL"
+        },
+        {
+          "id": "2512485",
+          "name": "718   Tisztasági betét      Libresse tiszt.betét Classic 50db OS"
+        },
+        {
+          "id": "2531872",
+          "name": "821   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB SZUPER VÉKONY"
+        },
+        {
+          "id": "2531875",
+          "name": "818   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB ÉRDES"
+        },
+        {
+          "id": "2531876",
+          "name": "817   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB BORDÁZOTT"
+        },
+        {
+          "id": "2531877",
+          "name": "816   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB ANATÓMIAILAG FORM."
+        },
+        {
+          "id": "2544254",
+          "name": "1254   Inkontinencia alsónemű női/unisex      Tena Pants   Normal L 10db"
+        },
+        {
+          "id": "2550397",
+          "name": "1247   inkontinencia enyhe      TENA INKONT.BETÉT   MAN 20DB MEDIUM"
+        },
+        {
+          "id": "2550398",
+          "name": "1251   Inkontinencia betét enyhe      Tena Lady inko.betét Slim Mini 10db"
+        },
+        {
+          "id": "2554068",
+          "name": "1123   glut.sós snack      RICE UP GM BARNARIZS CHIPS 60G BARBECUE"
+        },
+        {
+          "id": "2556318",
+          "name": "660   terh/szoptat. ápolás      LANSINOH BIMBÓVÉDO KRÉM 10ML HPA LANOLI"
+        },
+        {
+          "id": "2556319",
+          "name": "661   terh/szoptat. ápolás      LANSINOH BIMBÓVÉDO KRÉM 40ML HPA LANOLI"
+        },
+        {
+          "id": "2556320",
+          "name": "665   terh/szoptatási kieg      LANSINOH MELLTARTÓ- BETÉT 60DB"
+        },
+        {
+          "id": "2556321",
+          "name": "664   terh/szoptatási kieg      LANSINOH MELLTARTÓ- BETÉT 24DB"
+        },
+        {
+          "id": "2556323",
+          "name": "658   terh/szoptatási kieg      LANSINOH ANYATEJ   TÁROLÓ ZACSKÓ 25DB"
+        },
+        {
+          "id": "2556324",
+          "name": "668   Anatómiai segédeszk.      LANSINOH THERAGYÖNGY MELLPÁRNA"
+        },
+        {
+          "id": "2557815",
+          "name": "1023   Bugyipelenka 7-es méret      Pampers pants bugyip7(17+kg) 74 db OS"
+        },
+        {
+          "id": "2557951",
+          "name": "820   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB PUR"
+        },
+        {
+          "id": "2560197",
+          "name": "1253   Inkontinencia alsónemű női/unisex      Tena Lady Pants Plus pelenkanadrág M 9db"
+        },
+        {
+          "id": "2560198",
+          "name": "1252   Inkontinencia alsónemű női/unisex      Tena Lady Pants Plus pelenkanadrág L 8db"
+        },
+        {
+          "id": "2560420",
+          "name": "826   Sikosító      Masculan síkosító   gél Strawberry 75ml"
+        },
+        {
+          "id": "2560592",
+          "name": "824   óvsz. norm/sikosító      MASCULAN SÍKOSÍTÓ   GÉL 50ML"
+        },
+        {
+          "id": "2596788",
+          "name": "1149   Inkontinencia betét közepes      Seni Lady Slim inko.betét extra 15db"
+        },
+        {
+          "id": "2630456",
+          "name": "1112   Napozó arcra      PURITO fényvédő   d. soft SPF50+ 60ml"
+        },
+        {
+          "id": "2634271",
+          "name": "1019   Bugyipelenka 3-as méret      Pampers pants bugyip3(6-11kg) 128 db OS"
+        },
+        {
+          "id": "2634272",
+          "name": "1041   Pelenka 2-es méret      Pampers pc pelenka 2(4-8kg) 136 db OS"
+        },
+        {
+          "id": "2672716",
+          "name": "1174   babakrém      SUDOCREM PELENKAKIÜT. ELLENI KRÉM 60G"
+        },
+        {
+          "id": "2672717",
+          "name": "1173   babakrém      SUDOCREM PELENKAKIÜT. ELLENI KRÉM 125G"
+        },
+        {
+          "id": "2676368",
+          "name": "1153   Inkontinencia betét enyhe      Seni Lady Slim inko.betét normál 20db"
+        },
+        {
+          "id": "2700324",
+          "name": "823   óvsz. norm/sikosító      MASCULAN ÓVSZER 21DB 1 SZUPER VÉKONY"
+        },
+        {
+          "id": "2703138",
+          "name": "1237   inkontinencia erős      TENA INKONT. BETÉT   20DB EXTRA"
+        },
+        {
+          "id": "2703139",
+          "name": "1238   inkontinencia erős      TENA INKONT. BETÉT   24DB SLIM NORMÁL"
+        },
+        {
+          "id": "2710766",
+          "name": "1305   terh/szoptat. ápolás      ZIAJA INTIM MOSAKODÓ KISMAMÁKNAK 300ML"
+        },
+        {
+          "id": "2712183",
+          "name": "1085   fogkrém általános      PARODONTAX FOGKRÉM F DUOPACK 2X75ML"
+        },
+        {
+          "id": "2718070",
+          "name": "1304   Intim mosakodó      Ziaja intim mosakodó kamillával 200ml"
+        },
+        {
+          "id": "2837684",
+          "name": "1282   gyomor kaps/tab/pasz      WÖRISHOFENI MAGENPFLEGE TABLETTA 60DB"
+        },
+        {
+          "id": "2837826",
+          "name": "1283   ideg kapsz./tab/pasz      WÖRISHOFENI NERVENPFLEGE TABLETTA 60DB"
+        },
+        {
+          "id": "2838051",
+          "name": "1281   gyomor kaps/tab/pasz      WÖRISHOFENI LEBER ÉSGALLENPFL. TABL.60DB"
+        },
+        {
+          "id": "2838813",
+          "name": "1280   gyomor kaps/tab/pasz      WÖRISHOFENI DARMPFLEGE TABLETTA 42DB"
+        },
+        {
+          "id": "2839381",
+          "name": "1078   gyógy filteres tea      PANNONHALMI FILT.TEA 20X15G SZÍVNYUGTAT"
+        },
+        {
+          "id": "2839382",
+          "name": "1077   gyógy filteres tea      PANNONHALMI FILT.TEA 20X15G MÁJVÉDO"
+        },
+        {
+          "id": "2844947",
+          "name": "894   gyógy filteres tea      NATURLAND FILTERES TEA NYUGTATÓ 25X15G"
+        },
+        {
+          "id": "2844949",
+          "name": "892   gyógy filteres tea      NATURLAND FILT.TEA SALAKTALANÍTÓ 25X1G"
+        },
+        {
+          "id": "2844950",
+          "name": "893   gyógy filteres tea      NATURLAND FILTERES TEA MÁJVÉDO 25X15G"
+        },
+        {
+          "id": "2845268",
+          "name": "1111   gyomor kaps/tab/pasz      PROTEXIN BALANCE KAPSZULA 60DB"
+        },
+        {
+          "id": "2845342",
+          "name": "754   etetocumi szilikon      MAM ETETOCUMI EXTRA GYORS- PÜRÉS (X) 6H+"
+        },
+        {
+          "id": "2845343",
+          "name": "753   etetocumi szilikon      MAM ETETOCUMI KÖZEP. - TEJES (2) 2H+"
+        },
+        {
+          "id": "2845519",
+          "name": "1284   ideg kapsz./tab/pasz      WÖRISHOFENI NERVENPFLEGE TABLETTA120DB"
+        },
+        {
+          "id": "2845846",
+          "name": "1079   gyógy filteres tea      PANNONHALMI FILT.TEA20X15G VESETISZTITO"
+        },
+        {
+          "id": "2845857",
+          "name": "897   gyógy. fürdo/kenocs      NATURLAND KRÉM 70G INNO-REUMA"
+        },
+        {
+          "id": "2851967",
+          "name": "716   tiszt. betét normál      LIBRESSE TISZT.BETÉT 44DB MICRO UTÁNT."
+        },
+        {
+          "id": "2853436",
+          "name": "901   tyúkszemírtó      NATURLAND TYÚKSZEMIRTÓ BALZSAM 20G"
+        },
+        {
+          "id": "2856607",
+          "name": "1293   intim törlőkendők      X-EPIL INTIMO INTIM TÖRLŐKENDŐ 20 DB"
+        },
+        {
+          "id": "2856609",
+          "name": "1291   intim mosakodó      X-EPIL INTIMO INTIM MOSAKODÓGÉL 250 ML"
+        },
+        {
+          "id": "2857009",
+          "name": "828   Tabl./drazsé/pastill      MEBUCAIN MINT SZOPOGATÓ TABLETTA 20DB"
+        },
+        {
+          "id": "2857030",
+          "name": "1114   orv.gyom.tab/draz/pa      RENNIE ANTACIDUM   RÁGÓTABLETTA 24 DB"
+        },
+        {
+          "id": "2857041",
+          "name": "1169   Tabl./drazsé/pastill      STREPSILS MENTHOL   EUKALIPTUS TABL.24DB"
+        },
+        {
+          "id": "2857185",
+          "name": "954   orv.megf.csep/amp/to      NUROFEN SZUSZP.GYER.100ML EP.3HÓ 20MG/ML"
+        },
+        {
+          "id": "2857217",
+          "name": "951   orv.gyom.csep/amp/to      NORMAFLORE BELSOLEGES SZUSZPENZIÓ 10X5ML"
+        },
+        {
+          "id": "2857230",
+          "name": "952   orv.gyom.csep/amp/to      NORMAFLORE BELSOLEGES SZUSZPENZIÓ 20X5ML"
+        },
+        {
+          "id": "2864252",
+          "name": "1168   Tabl./drazsé/pastill      STREPSILS HONEY&LEMON TABL.24DB"
+        },
+        {
+          "id": "2867542",
+          "name": "1297   Terhességi teszt      X-EPIL TERHESSÉGI   TESZT CSÍK 2DB/DOBOZ"
+        },
+        {
+          "id": "2870755",
+          "name": "829   terh/szoptat. élelm.      MECSEK TEJSZAPORÍTÓ TEAKEVERÉK 20x2G"
+        },
+        {
+          "id": "2876626",
+          "name": "1001   Anatómiai segédeszk.      ORRSZI PORSZI ORR- SZÍVÓ MŰANYAG SZETT"
+        },
+        {
+          "id": "2882925",
+          "name": "896   gyógy. fürdo/kenocs      NATURLAND KRÉM 100ML FEK. NADÁLYTO 2IN1"
+        },
+        {
+          "id": "2887563",
+          "name": "903   baba nedves törlok.      NEOGRANORMON   TÖRLOKENDO QUATRO 4*55DB"
+        },
+        {
+          "id": "2888776",
+          "name": "953   orv.megf.csep/amp/to      NUROFEN SZUSZ.100ML EPER 6-12ÉV 40MG/ML"
+        },
+        {
+          "id": "2889361",
+          "name": "1287   intim mosakodó      X-EPIL INTIM MOS.GÉL 400ML"
+        },
+        {
+          "id": "2889746",
+          "name": "1298   Terhességi teszt      X-EPIL TERHESSÉGI   TESZT PEN"
+        },
+        {
+          "id": "2889935",
+          "name": "819   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB GOLD"
+        },
+        {
+          "id": "2889937",
+          "name": "703   eü. betét normál      LIBRESSE EÜ.B. 40DB ULTRA NORM. NATURAL"
+        },
+        {
+          "id": "2892174",
+          "name": "749   cumisüveg muanyag      MAM CUMISÜVEG 4HÓ+ 330ML w2"
+        },
+        {
+          "id": "2892192",
+          "name": "755   etetocumi szilikon      MAM ETETOCUMI GYORS&CSEPEGÉSMENT.(3) 4H+"
+        },
+        {
+          "id": "2894774",
+          "name": "898   ideg tonik/elixír      NATURLAND NAGY SVÉDCSEPP + C-VIT 500ML"
+        },
+        {
+          "id": "2894804",
+          "name": "899   ideg tonik/elixír      NATURLAND NAGY SVÉDCSEPP 500ML"
+        },
+        {
+          "id": "2900255",
+          "name": "654   intim törlőkendők      LACTACYD INTIM TÖRLŐKENDŐ 15DB"
+        },
+        {
+          "id": "2902981",
+          "name": "833   kezdo tápszer (1)      MILUMIL 1 TÁPSZER   0HÓ 900G s"
+        },
+        {
+          "id": "2903944",
+          "name": "1104   Terhességi teszt      PREDICTOR TERHESSÉGI TESZT"
+        },
+        {
+          "id": "2905248",
+          "name": "902   baba nedves törlok.      NEOGRANORMON   TÖRLOKENDO 4*55DB SENS."
+        },
+        {
+          "id": "2910458",
+          "name": "1242   inkontinencia enyhe      TENA INKONT.BETÉT   16DB EXTRA PLUS"
+        },
+        {
+          "id": "2911801",
+          "name": "1301   Terhességi teszt      X-EPIL TERHESSÉGI TESZT PEN 1DB"
+        },
+        {
+          "id": "2911802",
+          "name": "1299   Terhességi teszt      X-EPIL TERHESSÉGI TESZT CSÍK 1DB"
+        },
+        {
+          "id": "2912553",
+          "name": "827   óvsz. norm/sikosító      MASCULAN SÍKOSÍTÓ GÉL 75ML WARMING"
+        },
+        {
+          "id": "2913234",
+          "name": "900   gyógy. fürdo/kenocs      NATURLAND ORRKENOCS 10G"
+        },
+        {
+          "id": "2913681",
+          "name": "1170   babakrém      SUDOCREM   KRÉM 250G"
+        },
+        {
+          "id": "2921283",
+          "name": "1270   gyomor kaps/tab/pasz      WALMARK DEGASIN KAP SZULA 32DB"
+        },
+        {
+          "id": "2926101",
+          "name": "697   eü. betét normál      LIBRESSE EÜ.B. 20DB DUO ULTRA DEO FRESH"
+        },
+        {
+          "id": "2927683",
+          "name": "1302   babafürdető      ZIAJA BABA HIPOALL. FÜRDETŐ 400ML"
+        },
+        {
+          "id": "2928205",
+          "name": "841   speciális tápszer      MILUMIL PEPTI JUNIOR GYEREKITAL 12H+450G"
+        },
+        {
+          "id": "2928412",
+          "name": "655   intim mosakodó      LACTACYD PHARMA   INTIM MOS.ANTI 250ML"
+        },
+        {
+          "id": "2928786",
+          "name": "537   egyéb higiénia      IDELYN BELIEMA EXP. INTIM KRÉM 50ML"
+        },
+        {
+          "id": "2928787",
+          "name": "538   intim mosakodó      IDELYN BELIEMA EXP. INTIM MOSAKODÓ 200ML"
+        },
+        {
+          "id": "2930192",
+          "name": "822   óvsz. norm/sikosító      MASCULAN ÓVSZER 10DB XXL"
+        },
+        {
+          "id": "2930264",
+          "name": "683   pelenka normál      LIBERO TOUCH PELENKA 1 (2-5KG) 22DB"
+        },
+        {
+          "id": "2931261",
+          "name": "1268   kontaktlencse      VIZOL S 021% SZEMCSEPP 10 ML"
+        },
+        {
+          "id": "2931534",
+          "name": "1167   Tabl./drazsé/pastill      STREPSILS EPERÍZŰ   CUKORM. TAB 24DB"
+        },
+        {
+          "id": "2931535",
+          "name": "1166   Tabl./drazsé/pastill      STREPSILS CITROM ÍZŰ CUKORM. TAB. 24DB"
+        },
+        {
+          "id": "2931636",
+          "name": "727   glut.édesség      MAJOMKENYÉR GM KEKSZ 50G NARANCS-FAHÉJ"
+        },
+        {
+          "id": "2931757",
+          "name": "1292   intim törlőkendők      X-EPIL INTIMO INTIM TÖRLŐK. SENSI 20 DB"
+        },
+        {
+          "id": "2931812",
+          "name": "842   követő tápszer (23)      MILUMIL PEPTI PLUS 2 TÁPSZER 6HÓ+ 450G"
+        },
+        {
+          "id": "2931972",
+          "name": "837   kezdő tápszer (1)      MILUMIL HA START PROSYNEO 0HÓ+ 400G S"
+        },
+        {
+          "id": "2933375",
+          "name": "1290   intim mosakodó      X-EPIL INTIMO INTIM MOS.GÉL 250 ML SENS."
+        },
+        {
+          "id": "2933547",
+          "name": "696   eü. betét ultra      LIBRESSE EÜ.B. 16DB ULTRA NIGHT EXTRA W."
+        },
+        {
+          "id": "2934474",
+          "name": "1057   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 3X52DB SENSITIVE"
+        },
+        {
+          "id": "2934476",
+          "name": "1056   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 3X52DB FRESH CLEAN"
+        },
+        {
+          "id": "2934812",
+          "name": "1269   kontaktlencse      VIZOL S 04% OLDATOS SZEMCSEPP 10 ML"
+        },
+        {
+          "id": "2935233",
+          "name": "1271   egyéb lábápolás      WARTNER SZEMÖLCSELTÁV. STIFT 2.0 15ML"
+        },
+        {
+          "id": "2936247",
+          "name": "1267   Anatómiai segédeszk.      VITAPLUS GYÓGYSZERADAGOLÓ 1 HETES"
+        },
+        {
+          "id": "2936722",
+          "name": "1124   glut.sós snack      RICE UP GM BARNARIZS CHIPS 60G HAGY-TEJF"
+        },
+        {
+          "id": "2936820",
+          "name": "1120   puffasztott rizs      RICE UP GM BARNA RIZS SZELET 30G ÉTCSOKI"
+        },
+        {
+          "id": "2936823",
+          "name": "1121   puffasztott rizs      RICE UP GM BARNA RIZS SZELET 30G TEJCSOK"
+        },
+        {
+          "id": "2938108",
+          "name": "1100   fertőtlenítés      POCKETPOP KÉZFERT. 29 ML MIA'S CANDY"
+        },
+        {
+          "id": "2938110",
+          "name": "1102   fertőtlenítés      POCKETPOP KÉZFERT. 29ML LENA'S STRAWBER"
+        },
+        {
+          "id": "2938112",
+          "name": "1101   fertőtlenítés      POCKETPOP KÉZFERT. 29ML LAURA'S CHERRY"
+        },
+        {
+          "id": "2938227",
+          "name": "1115   orv.gyom.tab/draz/pa      RENNIE CUKORMENTES RÁGÓTABLETTA 36 DB"
+        },
+        {
+          "id": "2938480",
+          "name": "1065   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 6X80DB SENSITIVE"
+        },
+        {
+          "id": "2938481",
+          "name": "1064   baba nedves törlők.      PAMPERS TÖRLŐKENDŐ 6X80DB FRESH CLEAN"
+        },
+        {
+          "id": "2939715",
+          "name": "1119   gyógy. fürdő/kenőcs      REPARON HERBAL VÉGBÉLKÚP 10 DB"
+        },
+        {
+          "id": "2939724",
+          "name": "536   egyéb higiénia      IDELYN BELIEMA EFF. PLUS HÜVELYTABL. 7DB"
+        },
+        {
+          "id": "2939993",
+          "name": "1002   Csepp/ampulla/tonik      OTRIVIN GYEREK ORRCSEPP 05 MG/ML"
+        },
+        {
+          "id": "2939995",
+          "name": "1164   Tabl./drazsé/pastill      SEPTOFORT TABLETTA 12DB"
+        },
+        {
+          "id": "2940270",
+          "name": "1126   intim mosakodó      SÁBA INT.MOS. 250ML ILLATMENTES NŐI   OS"
+        },
+        {
+          "id": "2940271",
+          "name": "1125   intim mosakodó      SÁBA INT MOS. 250ML ILLATMENTES FFI   OS"
+        },
+        {
+          "id": "2940292",
+          "name": "1145   Inkontinencia ápol.      SENI CARE BŐRV. KRÉM ARGININ 200ML   OS"
+        },
+        {
+          "id": "2940293",
+          "name": "1146   Inkontinencia ápol.      SENI CARE MOSDATÓ- KRÉM 3IN1 1000ML OS"
+        },
+        {
+          "id": "2940703",
+          "name": "838   speciális tápszer      MILUMIL HA2 PROS.   6HÓ 400G"
+        },
+        {
+          "id": "2940704",
+          "name": "839   speciális tápszer      MILUMIL HA3 PROS.   12HÓ 400G"
+        },
+        {
+          "id": "2941018",
+          "name": "834   követő tápszer (23)      MILUMIL 2 TÁPSZ.   6-12HÓ 1000G"
+        },
+        {
+          "id": "2941302",
+          "name": "836   speciális tápszer      MILUMIL 3 JUNIOR   12HÓ 1000G"
+        },
+        {
+          "id": "2941546",
+          "name": "757   etetőcumi szilikon      MAM ETETŐCUMI B3   GYORS 4H+ W2+"
+        },
+        {
+          "id": "2941762",
+          "name": "835   speciális tápszer      MILUMIL 3 JUN.ITAL 12HÓ 1000G VANÍLIA"
+        },
+        {
+          "id": "2942083",
+          "name": "1076   Pelenkakiütés elleni krém      PANAROM KENŐCS   50ML NAPSUGÁR"
+        },
+        {
+          "id": "2942497",
+          "name": "872   baba nedves törlők.      MOLTEX ÖKO TÖRLŐ   KENDŐ 60DB OS"
+        },
+        {
+          "id": "2942540",
+          "name": "726   orv.vit.tab/dra/pasz      MAGNE B6 BEVONT   TABLETTA 60DB"
+        },
+        {
+          "id": "2942551",
+          "name": "907   Problémás bőr krém/ampulla      NEOGRANORMON KENŐCS 100G"
+        },
+        {
+          "id": "2942558",
+          "name": "1109   Terhességi teszt      PRIMA TESZT   KORAI TERHESSÉG 2DB"
+        },
+        {
+          "id": "2943077",
+          "name": "913   glut.édesség      NICK'S GM SZELET 28G TEJKARAMELLA"
+        },
+        {
+          "id": "2943947",
+          "name": "1176   Nedves törlőkendő      SUDOCREM TÖRLŐKENDŐ 4X55DB SOFT CLEAN"
+        },
+        {
+          "id": "2943948",
+          "name": "1175   Nedves törlőkendő      SUDOCREM TÖRLŐKENDŐ 4X55DB SENSITIVE"
+        },
+        {
+          "id": "2944020",
+          "name": "539   Vérnyomásmérő      I-MEDICAL VÉRNYOMÁS MÉRŐ FELKAROS 1DB OS"
+        },
+        {
+          "id": "2945244",
+          "name": "1286   Sikosító      X-Epil érzéki síkosító gél 100ml OS"
+        },
+        {
+          "id": "2945508",
+          "name": "1086   Sikosító      PENISEX intim krém salve for HIM 50ml OS"
+        },
+        {
+          "id": "2945917",
+          "name": "1147   Inkontinencia - Betegápolás      Seni Care nedves   törlőkendő 80db"
+        },
+        {
+          "id": "2945942",
+          "name": "825   Sikosító      Masculan síkosító   gél Green Apple 75ml"
+        },
+        {
+          "id": "2945972",
+          "name": "1150   Inkontinencia betét enyhe      Seni Lady Slim inko.betét micro 20db"
+        },
+        {
+          "id": "2945973",
+          "name": "1152   Inkontinencia betét enyhe      Seni Lady Slim inko.betét mini 20db"
+        },
+        {
+          "id": "2945994",
+          "name": "704   Egészségügyi betét szárnyas      Libresse eü.b. maxi goodnight 10db"
+        },
+        {
+          "id": "2945999",
+          "name": "1250   Inkontinencia betét enyhe      Tena Lady inko.betét normal night 10db"
+        },
+        {
+          "id": "2946001",
+          "name": "663   Intim ápolás      Lansinoh hideg/melegterápiás párna"
+        },
+        {
+          "id": "2946309",
+          "name": "1118   Aranyér/szájápoló gél      Reparon herbal   kenőcs 25g"
+        },
+        {
+          "id": "2946835",
+          "name": "1259   Gyümölcsszelet      VIBLANCE granola   szelet pekándió 55g"
+        },
+        {
+          "id": "2947092",
+          "name": "763   Mellbimbóvédő      MAM mellbimbóvédő   2méret 2db W2+"
+        },
+        {
+          "id": "2947095",
+          "name": "756   Etetőcumi      MAM etetőcumi 0hó+ 1 db w2"
+        },
+        {
+          "id": "2947387",
+          "name": "1093   Egyéb baba kiegészítő      PHILIPS AVENT etető szett VIA poharak OS"
+        },
+        {
+          "id": "2947389",
+          "name": "764   Egyéb baba kiegészítő      MAM mikrohullámú   gőzsterilizáló OS"
+        },
+        {
+          "id": "2947586",
+          "name": "762   Mellbimbóvédő      MAM mellbimbóvédő   1-es méret 2db"
+        },
+        {
+          "id": "2948213",
+          "name": "1258   glut.cereália/müzli      VIBLANCE granola   pekándió 275g"
+        },
+        {
+          "id": "2948427",
+          "name": "908   Egyéb sebápolás      Neogranormon kenőcs 25g"
+        },
+        {
+          "id": "2948484",
+          "name": "673   Pelenka 7-es méret      Libero Comfort MegaP pel 7 (16-26kg)62db"
+        },
+        {
+          "id": "2948487",
+          "name": "682   Pelenka 2-es méret      Libero Newborn pel. JP 2 (3-6kg) 68db"
+        },
+        {
+          "id": "2948998",
+          "name": "1294   Terhességi teszt      X-Epil korai   terhességi teszt 1db"
+        },
+        {
+          "id": "2949124",
+          "name": "950   Speciális sampon      NizoCare sampon 200 ml viszkető fejbőrre"
+        },
+        {
+          "id": "2949178",
+          "name": "1277   Egyéb diagnosztika      WHITELAB pajzsmirigy-alulm. gyteszt 1db"
+        },
+        {
+          "id": "2949464",
+          "name": "815   Óvszer      Masculan óvszer   Frutti Edition 10db"
+        },
+        {
+          "id": "2949598",
+          "name": "1278   Egyéb diagnosztika      WHITELAB vashiány   gyorsteszt 1db"
+        },
+        {
+          "id": "2949599",
+          "name": "1276   Egyéb diagnosztika      WHITELAB húgyúti   fertőzés gyteszt 1db"
+        },
+        {
+          "id": "2949600",
+          "name": "1116   Kontaktlencse ápolószer      ReNu kont.lencse   multif. ápoló 100ml"
+        },
+        {
+          "id": "2949601",
+          "name": "1117   Kontaktlencse ápolószer      ReNu kont.lencse   multif. ápoló 360ml"
+        },
+        {
+          "id": "2949623",
+          "name": "1122   Rágcsálnivalók      rice UP gm barnarizs chips sajtos 60g"
+        },
+        {
+          "id": "2949714",
+          "name": "840   1-es kezdő HA tápszer      Milumil komfort HA1 tápszer 0hó+ 600g"
+        },
+        {
+          "id": "2949767",
+          "name": "1106   Egyéb diagnosztika      PRIMA gyorsteszt 1dbgluténérzékenység"
+        },
+        {
+          "id": "2949768",
+          "name": "1107   Egyéb diagnosztika      PRIMA gyorsteszt 2db menopauza fsh"
+        },
+        {
+          "id": "2949770",
+          "name": "1105   Egyéb diagnosztika      PRIMA gyorsteszt 1db helicobacter pylori"
+        },
+        {
+          "id": "2949822",
+          "name": "916   Édes ostya      NICK'S ostyaszelet gm csokis 35g"
+        },
+        {
+          "id": "2949841",
+          "name": "1110   Egyéb diagnosztika      Prima teszt   magzatvíz szivárgás"
+        },
+        {
+          "id": "2949875",
+          "name": "719   Tisztasági betét      Libresse tiszt.betét Natural Care 76db"
+        },
+        {
+          "id": "2949876",
+          "name": "1249   Inkontinencia betét közepes      Tena Lady inko.betét Maxi 6db"
+        },
+        {
+          "id": "2950474",
+          "name": "905   Pelenkakiütés elleni krém      Neogranormon Baby   védőkrém 30g"
+        },
+        {
+          "id": "2950475",
+          "name": "904   Pelenkakiütés elleni krém      Neogranormon Baby   védőkrém 100g"
+        },
+        {
+          "id": "2950529",
+          "name": "728   Sütemény      Majomkenyér keksz gm csokidarabos 50g"
+        },
+        {
+          "id": "2950656",
+          "name": "813   Kézfertőtlenítés      Mancsőrjárat kéz-   tisztító gél 35ml"
+        },
+        {
+          "id": "2950799",
+          "name": "1108   Terhességi teszt      Prima teszt   korai terhesség 1db"
+        },
+        {
+          "id": "2951015",
+          "name": "1296   Sikosító      X-Epil síkosító gél Sensitive 100ml"
+        },
+        {
+          "id": "2951017",
+          "name": "1288   Intim mosakodó      X-Epil intim mos.gél sensitive 400ml"
+        },
+        {
+          "id": "2951037",
+          "name": "891   Babapúder      NATURLAND   babahintőpor 60g"
+        },
+        {
+          "id": "2951143",
+          "name": "1113   Egyéb diagnosztika      RapiChek diabétesz   teszt 2db"
+        },
+        {
+          "id": "2951493",
+          "name": "662   Kismama ápolás      Lansinoh császárm. után hidrogél 2db OS"
+        },
+        {
+          "id": "2951652",
+          "name": "844   2-es tápszer      Milupa 2 tápszer 6hó+ 500g Szép álmokat"
+        },
+        {
+          "id": "2951800",
+          "name": "1131   Gyomor      SALVUS GYÓGYVÍZ 15L DRS"
+        },
+        {
+          "id": "2951920",
+          "name": "1285   Folyékony sebtapasz      wtn windex bőrkond.spray 100ml sérülés"
+        },
+        {
+          "id": "2952008",
+          "name": "1144   Menstruációs fehérnemű mosható      Selenacare fehérnemű Tiniknek Sporty 158"
+        },
+        {
+          "id": "2952011",
+          "name": "1143   Menstruációs fehérnemű mosható      Selenacare fehérnemű Tiniknek Hipst. 164"
+        },
+        {
+          "id": "2952067",
+          "name": "732   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic   cumisüveg 0H+ 160ml"
+        },
+        {
+          "id": "2952069",
+          "name": "733   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic   cumisüveg 2H+ 260ml"
+        },
+        {
+          "id": "2952071",
+          "name": "731   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic   cum.üv. 4H+ 320ml W2"
+        },
+        {
+          "id": "2952078",
+          "name": "789   Cumi 0 hónapos kortól      MAM Perfect   cumi 2-6H 1db OS"
+        },
+        {
+          "id": "2952084",
+          "name": "796   Cumi 0 hónapos kortól      MAM Supreme   cumi 0H+ 2db W2+"
+        },
+        {
+          "id": "2952085",
+          "name": "798   Cumi 6 hónapos kortól      MAM Supreme   cumi 6H+ 2db W2+"
+        },
+        {
+          "id": "2952086",
+          "name": "797   Cumi 16 hónapos kortól      MAM Supreme   cumi 16H+ 2db W2"
+        },
+        {
+          "id": "2952091",
+          "name": "783   Cumi 0 hónapos kortól      MAM Original Start cumi 0H+ 1db"
+        },
+        {
+          "id": "2952093",
+          "name": "766   Cumi 0 hónapos kortól      MAM Original   cumi 2-6H 2db W2+"
+        },
+        {
+          "id": "2952094",
+          "name": "768   Cumi 6 hónapos kortól      MAM Original   cumi 6H+ 2db W2+"
+        },
+        {
+          "id": "2952095",
+          "name": "765   Cumi 16 hónapos kortól      MAM Original   cumi 16H+ 2db W2+"
+        },
+        {
+          "id": "2952096",
+          "name": "788   Cumi 0 hónapos kortól      MAM Originial Night cumi 2-6H 2db W2+"
+        },
+        {
+          "id": "2952099",
+          "name": "730   Cumi 6 hónapos kortól      MAM Air Night   cumi 6H+ 1db"
+        },
+        {
+          "id": "2952100",
+          "name": "729   Cumi 16 hónapos kortól      MAM Air Night   cumi 16H+ 1db W2"
+        },
+        {
+          "id": "2952104",
+          "name": "1279   Intim ápolás      Women's Cream Plus progeszteron krém"
+        },
+        {
+          "id": "2952106",
+          "name": "775   Cumi 0 hónapos kortól      MAM Original Night cumi 2-6H 1db"
+        },
+        {
+          "id": "2952107",
+          "name": "776   Cumi 6 hónapos kortól      MAM Original Night cumi 6H+ 1db"
+        },
+        {
+          "id": "2952109",
+          "name": "767   Cumi 6 hónapos kortól      MAM Original   cumi 6H+ 1db"
+        },
+        {
+          "id": "2952681",
+          "name": "1289   Intim ápolás      X-Epil Intimo   hüvelytabletta 7db"
+        },
+        {
+          "id": "2952707",
+          "name": "906   Pelenkakiütés elleni krém      Neogranormon Baby   védőkrém 150g"
+        },
+        {
+          "id": "2974803",
+          "name": "1256   Inkontinencia alsónemű női/unisex      Tena Pants Normal M 10db"
+        },
+        {
+          "id": "2975144",
+          "name": "1255   Inkontinencia alsónemű női/unisex      Tena Pants Normal L 10db"
+        },
+        {
+          "id": "2975676",
+          "name": "1257   Babapúder      Trompy babahintőpor 250g"
+        },
+        {
+          "id": "2976621",
+          "name": "912   Egyéb junior ital      Nestlé sinlac pép 6hó 650g"
+        },
+        {
+          "id": "2976665",
+          "name": "911   Egyéb junior ital      Nestlé sinlac netur.pép 6 hó 650 g"
+        },
+        {
+          "id": "2977497",
+          "name": "895   Aranyér/szájápoló gél      Naturland Glicerin kúp felnőtteknek 12db"
+        },
+        {
+          "id": "2977986",
+          "name": "1127   Egyéb segédeszközök      Salonpas tapasz 20db"
+        },
+        {
+          "id": "3037770",
+          "name": "843   1-es kezdő tápszer      Milupa 1 tápszer 0hó 600g"
+        },
+        {
+          "id": "3039053",
+          "name": "831   Köhögés      medistus TussCare szirup 140ml"
+        },
+        {
+          "id": "3039066",
+          "name": "832   Köhögés      medistus TussCare szirup gyerek 140ml"
+        },
+        {
+          "id": "3041591",
+          "name": "1180   Napozó arcra      Sundance arcszérum hydro+ lsf50+ 50ml"
+        },
+        {
+          "id": "3046047",
+          "name": "1151   Inkontinencia betét enyhe      Seni Lady Slim inko.betét micro 20db"
+        },
+        {
+          "id": "3049505",
+          "name": "1080   Intim ápolás      Papilocare hüvelygél 7x5ml"
+        },
+        {
+          "id": "3058034",
+          "name": "931   Napozó arcra      NIVEA SUN fluid fényv.világos FF50+ 40ml"
+        },
+        {
+          "id": "3058041",
+          "name": "949   Napozó arcra      NIVEA SUN primer szérum 2in1 FF50+ 30ml"
+        },
+        {
+          "id": "3058055",
+          "name": "930   Napozó arcra      NIVEA SUN fluid fényv.közepes FF50+ 40ml"
+        },
+        {
+          "id": "3058057",
+          "name": "934   Napvédelem gyermekeknek      NIVEA SUN kids naptej spray FF50+ 270ml"
+        },
+        {
+          "id": "3058097",
+          "name": "948   Naptej      NIVEA SUN P&M naptej invis.FF50+ 150ml"
+        },
+        {
+          "id": "3062415",
+          "name": "707   Egészségügyi betét szárnyas      Libresse eü.b. Night Ultra Large 26db"
+        },
+        {
+          "id": "3063241",
+          "name": "679   Pelenka 1-es méret      Libero Comfort pelenka 1 (2-5kg) 43 db"
+        },
+        {
+          "id": "3063385",
+          "name": "681   Pelenka 3-as méret      Libero Comfort pelenka 3 (5-8kg) 43 db"
+        },
+        {
+          "id": "3064610",
+          "name": "947   Naptej      NIVEA SUN P&M naptej FF50+ 400ml"
+        },
+        {
+          "id": "3066349",
+          "name": "805   Cumi 6 hónapos kortól      MAM Supreme Night cumi 6+ F 2db"
+        },
+        {
+          "id": "3066350",
+          "name": "806   Cumi 6 hónapos kortól      MAM Supreme Night cumi 6+ L 2db"
+        },
+        {
+          "id": "3066351",
+          "name": "807   Cumi 6 hónapos kortól      MAM Supreme Night cumi 6+ U 2db"
+        },
+        {
+          "id": "3066452",
+          "name": "802   Cumi 16 hónapos kortól      MAM Supreme Night cumi 16+ F 2db"
+        },
+        {
+          "id": "3066453",
+          "name": "803   Cumi 16 hónapos kortól      MAM Supreme Night cumi 16+ L 2db"
+        },
+        {
+          "id": "3066454",
+          "name": "804   Cumi 16 hónapos kortól      MAM Supreme Night cumi 16+ U 2db"
+        },
+        {
+          "id": "3066455",
+          "name": "784   Cumi 0 hónapos kortól      MAM Original Start cumi 0+ F 2db"
+        },
+        {
+          "id": "3066456",
+          "name": "785   Cumi 0 hónapos kortól      MAM Original Start cumi 0+ L 2db"
+        },
+        {
+          "id": "3066457",
+          "name": "786   Cumi 0 hónapos kortól      MAM Original Start cumi 0+ U 2db"
+        },
+        {
+          "id": "3066458",
+          "name": "780   Cumi 6 hónapos kortól      MAM Original Night cumi 6+ F 2db"
+        },
+        {
+          "id": "3066459",
+          "name": "781   Cumi 6 hónapos kortól      MAM Original Night cumi 6+ L 2db"
+        },
+        {
+          "id": "3066460",
+          "name": "782   Cumi 6 hónapos kortól      MAM Original Night cumi 6+ U 2db"
+        },
+        {
+          "id": "3066461",
+          "name": "777   Cumi 16 hónapos kortól      MAM Original Night cumi 16+ F 2db"
+        },
+        {
+          "id": "3066462",
+          "name": "778   Cumi 16 hónapos kortól      MAM Original Night cumi 16+ L 2db"
+        },
+        {
+          "id": "3066463",
+          "name": "779   Cumi 16 hónapos kortól      MAM Original Night cumi 16+ U 2db"
+        },
+        {
+          "id": "3066464",
+          "name": "799   Cumi 0 hónapos kortól      MAM Supreme Night cumi 0+ F 2db"
+        },
+        {
+          "id": "3066465",
+          "name": "800   Cumi 0 hónapos kortól      MAM Supreme Night cumi 0+ L 2db"
+        },
+        {
+          "id": "3066466",
+          "name": "801   Cumi 0 hónapos kortól      MAM Supreme Night cumi 0+ U 2db"
+        },
+        {
+          "id": "3066467",
+          "name": "734   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg F 160ml"
+        },
+        {
+          "id": "3066468",
+          "name": "737   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg L 160ml"
+        },
+        {
+          "id": "3066469",
+          "name": "740   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg U 160ml"
+        },
+        {
+          "id": "3066470",
+          "name": "735   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg F 260ml"
+        },
+        {
+          "id": "3066471",
+          "name": "741   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg U 260ml"
+        },
+        {
+          "id": "3066472",
+          "name": "738   Műanyag cumisüveg 0-6 hónapos      MAM Anti colic Matt cumisüveg L 260ml"
+        },
+        {
+          "id": "3066473",
+          "name": "736   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic Matt cumisüveg F 320ml"
+        },
+        {
+          "id": "3066474",
+          "name": "739   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic Matt cumisüveg L 320ml"
+        },
+        {
+          "id": "3066475",
+          "name": "742   Műanyag cumisüveg 0-6 hónapos      MAM Anti Colic Matt cumisüveg U 320ml"
+        },
+        {
+          "id": "3066476",
+          "name": "810   Pohár      MAM Trainer Night tanulópohár F 220ml"
+        },
+        {
+          "id": "3066477",
+          "name": "811   Pohár      MAM Trainer Night tanulópohár L 220ml"
+        },
+        {
+          "id": "3066478",
+          "name": "812   Pohár      MAM Trainer Night tanulópohár U 220ml"
+        },
+        {
+          "id": "3066479",
+          "name": "793   Pohár      MAM Starter ivópohár F 150ml"
+        },
+        {
+          "id": "3066480",
+          "name": "794   Pohár      MAM Starter ivópohár L 150ml"
+        },
+        {
+          "id": "3066481",
+          "name": "795   Pohár      MAM Starter ivópohár U 150ml"
+        },
+        {
+          "id": "3066485",
+          "name": "758   Pohár      MAM Fun to Drink Night ivópohár F 270ml"
+        },
+        {
+          "id": "3066486",
+          "name": "759   Pohár      MAM Fun to Drink Night ivópohár L 270ml"
+        },
+        {
+          "id": "3066487",
+          "name": "760   Pohár      MAM Fun to Drink Night ivópohár U 270ml"
+        },
+        {
+          "id": "3066488",
+          "name": "790   Pohár      MAM Sports Cup ivópohár F 330ml"
+        },
+        {
+          "id": "3066489",
+          "name": "791   Pohár      MAM Sports Cup ivópohár L 330ml"
+        },
+        {
+          "id": "3066490",
+          "name": "792   Pohár      MAM Sports Cup ivópohár U 330ml"
+        },
+        {
+          "id": "3067348",
+          "name": "870   Testápoló / tej      Mixa testápoló niacinamid 250ml"
+        },
+        {
+          "id": "3068069",
+          "name": "890   Egészségügyi betét szárnyas      Naturella Ultr eü.b night plus 24db"
+        },
+        {
+          "id": "3068146",
+          "name": "889   Egészségügyi betét szárnyas      Naturella Ultr eü.b night plus 12db"
+        },
+        {
+          "id": "3068388",
+          "name": "1045   Pelenka 6/6+-os méret      Pampers pc pelenka 6 (13-18kg) 50db"
+        },
+        {
+          "id": "3084056",
+          "name": "685   Pelenka 3-as méret      Libero touch pelenka 3 (5-8kg) 40 db"
+        },
+        {
+          "id": "3084116",
+          "name": "684   Pelenka 2-es méret      Libero touch pelenka 2 (3-6kg) 47 db"
+        },
+        {
+          "id": "3084264",
+          "name": "656   1-es kezdő tápszer      Lactogen harmony 1 tápszer 0hó 500g"
+        },
+        {
+          "id": "3084632",
+          "name": "680   Pelenka 2-es méret      Libero Comfort pelenka 2 (3-6kg) 47 db"
+        },
+        {
+          "id": "3086169",
+          "name": "676   Pelenka 3-as méret      Libero Comfort MegaPpel 3 (5-8kg) 76 db"
+        },
+        {
+          "id": "3094526",
+          "name": "1171   Pelenkakiütés elleni krém      Sudocrem krém 400g"
+        },
+        {
+          "id": "3094726",
+          "name": "1148   Inkontinencia betét erős      Seni Lady inko.betét SUPER NIGHT 12db OS"
+        },
+        {
+          "id": "3094727",
+          "name": "1154   Inkontinencia betét erős      Seni San inko.betét maxi 30db OS"
+        },
+        {
+          "id": "3094728",
+          "name": "1155   Inkontinencia betét közepes      Seni San inko.betét normal 30db OS"
+        },
+        {
+          "id": "3094752",
+          "name": "1156   Inkontinencia alsónemű női/unisex      Seni Super nadrágpelenka M 30db OS"
+        },
+        {
+          "id": "3094753",
+          "name": "1157   Inkontinencia alsónemű női/unisex      Seni Super nadrágpelenka S 30db OS"
+        },
+        {
+          "id": "3094755",
+          "name": "1158   Inkontinencia alsónemű női/unisex      Seni Super Trio nadrágpelenka S 10db OS"
+        },
+        {
+          "id": "3094758",
+          "name": "1159   Inkontinencia alsónemű női/unisex      Seni Super Trio nadrágpelenka XL 10db OS"
+        },
+        {
+          "id": "3094989",
+          "name": "1000   Száj-orr maszk egyszeri      Ooops! Prof.seb.arcmaszk 10db 3 rétegű"
+        },
+        {
+          "id": "3095075",
+          "name": "787   Cumi 0 hónapos kortól      MAM Original Start Night cumi 0+ 2db"
+        },
+        {
+          "id": "3095076",
+          "name": "809   Anyatej tárolás      MAM tejtároló zacskó 25db"
+        },
+        {
+          "id": "3097007",
+          "name": "690   Bugyipelenka 4-es méret      Libero up&go bugyip.4 (8-14kg) 42 db"
+        },
+        {
+          "id": "3097063",
+          "name": "691   Bugyipelenka 5-ös méret      Libero up&go bugyip.5 (12-18kg) 38 db"
+        },
+        {
+          "id": "3097074",
+          "name": "692   Bugyipelenka 6-os méret      Libero up&go bugyip.6 (15-25kg) 34 db"
+        },
+        {
+          "id": "3101618",
+          "name": "686   Pelenka 4/4+-os méret      Libero touch pelenka 4 (7-14kg) 36 db"
+        },
+        {
+          "id": "3101676",
+          "name": "688   Pelenka 5/5+-os méret      Libero touch pelenka 5 (11-17kg) 30 db"
+        },
+        {
+          "id": "3102126",
+          "name": "677   Pelenka 5/5+-os méret      Libero comfort MegaPpel 5(11-17 kg)64db"
+        },
+        {
+          "id": "3102171",
+          "name": "678   Pelenka 6/6+-os méret      Libero comfort MegaPpel 6(13-20 kg)60db"
+        },
+        {
+          "id": "3102180",
+          "name": "669   Pelenka 4/4+-os méret      Libero comfort BIGP.pel.4(7-14kg)224db"
+        },
+        {
+          "id": "3102181",
+          "name": "670   Pelenka 5/5+-os méret      Libero comfort BIGP.pel.5(11-17kg)192db"
+        },
+        {
+          "id": "3102198",
+          "name": "671   Pelenka 6/6+-os méret      Libero comfort BIGP.pel.6(13-20kg)120db"
+        },
+        {
+          "id": "3103216",
+          "name": "674   Pelenka 7-es méret      Libero comfort MegaP pel 7(16-26kg) 54db"
+        },
+        {
+          "id": "3103222",
+          "name": "672   Pelenka 4/4+-os méret      Libero comfort MegaP pel 4 (7-14kg) 74db"
+        },
+        {
+          "id": "3110210",
+          "name": "877   Gabonaital      NATRUE zabital barista sütőtök gm 1l"
+        },
+        {
+          "id": "3110660",
+          "name": "1200   Napozó arcra      SUNDANCE nap.fluid oil cont FF50 50 ml"
+        },
+        {
+          "id": "3117627",
+          "name": "1070   Bébi- és gyerek nedves tisztítókendő      Pampers törlőkendő 4x60 db 99% vízzel"
+        },
+        {
+          "id": "3127235",
+          "name": "772   Cumi 6 hónapos kortól      MAM Original cumi 6H+ F 2db"
+        },
+        {
+          "id": "3127236",
+          "name": "773   Cumi 6 hónapos kortól      MAM Original cumi 6H+ L 2db"
+        },
+        {
+          "id": "3127237",
+          "name": "774   Cumi 6 hónapos kortól      MAM Original cumi 6H+ U 2db"
+        },
+        {
+          "id": "3127238",
+          "name": "769   Cumi 16 hónapos kortól      MAM Original cumi 16H+ F 2db"
+        },
+        {
+          "id": "3127239",
+          "name": "770   Cumi 16 hónapos kortól      MAM Original cumi 16H+ L 2db"
+        },
+        {
+          "id": "3127240",
+          "name": "771   Cumi 16 hónapos kortól      MAM Original cumi 16H+ U 2db"
+        },
+        {
+          "id": "3127241",
+          "name": "750   Műanyag cumisüveg 0-6 hónapos      MAM Easy Active cumisüveg F 330ml"
+        },
+        {
+          "id": "3127292",
+          "name": "751   Műanyag cumisüveg 0-6 hónapos      MAM Easy Active cumisüveg L 330ml"
+        },
+        {
+          "id": "3127293",
+          "name": "752   Műanyag cumisüveg 0-6 hónapos      MAM Easy Active cumisüveg U 330ml"
+        },
+        {
+          "id": "3127294",
+          "name": "746   Baba szájápolás      MAM Cooler hűtőrágóka F 1db"
+        },
+        {
+          "id": "3127295",
+          "name": "747   Baba szájápolás      MAM Cooler hűtőrágóka L 1db"
+        },
+        {
+          "id": "3127296",
+          "name": "748   Baba szájápolás      MAM Cooler hűtőrágóka U 1db"
+        },
+        {
+          "id": "3127297",
+          "name": "743   Baba szájápolás      MAM baba fogkefe F 1db"
+        },
+        {
+          "id": "3127298",
+          "name": "744   Baba szájápolás      MAM baba fogkefe L 1db"
+        },
+        {
+          "id": "3127299",
+          "name": "745   Baba szájápolás      MAM baba fogkefe U 1db"
+        },
+        {
+          "id": "3130748",
+          "name": "1295   Sikosító      X-Epil síkosító gél eper ízű 100ml"
+        },
+        {
+          "id": "3131421",
+          "name": "876   Sütemény      MR. BROWNIE gm brownie 6db 150g"
+        },
+        {
+          "id": "3132646",
+          "name": "1103   Terhességi teszt      Predictor korai terhességi teszt 2db"
+        },
+        {
+          "id": "3133695",
+          "name": "979   Tampon      o.b. tampon ProComfort mini 64db"
+        },
+        {
+          "id": "3133698",
+          "name": "985   Tampon      o.b. tampon ProComfort super 54db"
+        },
+        {
+          "id": "3133699",
+          "name": "967   Tampon      o.b. tampon ExtraProtect normál 56db"
+        },
+        {
+          "id": "3133727",
+          "name": "982   Tampon      o.b. tampon ProComfort normál 64db"
+        },
+        {
+          "id": "3134069",
+          "name": "975   Tampon      o.b. tampon Original super 16db"
+        },
+        {
+          "id": "3134076",
+          "name": "976   Tampon      o.b. tampon Original super plus 16db"
+        },
+        {
+          "id": "3134094",
+          "name": "974   Tampon      o.b. tampon Original normál 32db"
+        },
+        {
+          "id": "3134096",
+          "name": "977   Tampon      o.b. tampon ProComfort mini 16db"
+        },
+        {
+          "id": "3134113",
+          "name": "973   Tampon      o.b. tampon Original normál 16db"
+        },
+        {
+          "id": "3134120",
+          "name": "980   Tampon      o.b. tampon ProComfort normál 16db"
+        },
+        {
+          "id": "3134148",
+          "name": "709   Egészségügyi betét szárnyas      Libresse eü.b. Normal Multistyle 10db"
+        },
+        {
+          "id": "3134311",
+          "name": "983   Tampon      o.b. tampon ProComfort super 16db"
+        },
+        {
+          "id": "3134319",
+          "name": "968   Tampon      o.b. tampon ExtraProtect super 16db"
+        },
+        {
+          "id": "3134329",
+          "name": "984   Tampon      o.b. tampon ProComfort super 32db"
+        },
+        {
+          "id": "3134333",
+          "name": "986   Tampon      o.b. tampon ProComfort super plus 16db"
+        },
+        {
+          "id": "3134340",
+          "name": "966   Tampon      o.b. tampon ExtraProtect normál 16db"
+        },
+        {
+          "id": "3134343",
+          "name": "981   Tampon      o.b. tampon ProComfort normál 32db"
+        },
+        {
+          "id": "3134367",
+          "name": "988   Tampon      o.b. tampon ProComfort super plus 32db"
+        },
+        {
+          "id": "3134384",
+          "name": "969   Tampon      o.b. tampon ExtraProtect super 42db"
+        },
+        {
+          "id": "3134392",
+          "name": "970   Tampon      o.b. tampon ExtraProtect super plus 16db"
+        },
+        {
+          "id": "3135271",
+          "name": "1029   Bugyipelenka 4-es méret      Pampers pants jp bugyip.4(9-15kg) 54db"
+        },
+        {
+          "id": "3135353",
+          "name": "1037   Bugyipelenka 4-es méret      Pampers pc pants bugyip.4(9-15kg) 40db"
+        },
+        {
+          "id": "3135382",
+          "name": "1028   Bugyipelenka 6-os méret      Pampers pants jp bugyip. 6(13-19kg) 42db"
+        },
+        {
+          "id": "3135473",
+          "name": "1073   Bébi- és gyerek nedves tisztítókendő      Pampers törlőkendő 60 db 99% vízzel"
+        },
+        {
+          "id": "3135797",
+          "name": "1074   Bébi- és gyerek nedves tisztítókendő      Pampers törlőkendő 60db aqua soft touch"
+        },
+        {
+          "id": "3135990",
+          "name": "978   Tampon      o.b. tampon ProComfort mini 32db"
+        },
+        {
+          "id": "3136841",
+          "name": "1075   Textil pelenka      Pampers törlőkendő 6x60 db 99% vízzel"
+        },
+        {
+          "id": "3136882",
+          "name": "1069   Textil pelenka      Pampers törlőkendő 4x52db fresh cleanPF"
+        },
+        {
+          "id": "3136883",
+          "name": "1071   Textil pelenka      Pampers törlőkendő 4x60db a. soft touch"
+        },
+        {
+          "id": "3138007",
+          "name": "871   Sütemény      mokyen keksz gm gyömbér-citrom 50g"
+        },
+        {
+          "id": "3138610",
+          "name": "1177   Bébi- és gyerek nedves tisztítókendő      Sudocrem törlőkendő 55 db sensitive"
+        },
+        {
+          "id": "3138612",
+          "name": "1178   Bébi- és gyerek nedves tisztítókendő      Sudocrem törlőkendő 55 db soft clean"
+        },
+        {
+          "id": "3138659",
+          "name": "917   Édes ostya      NICK'S ostyaszelet gm mogyoróvajas 35g"
+        },
+        {
+          "id": "3144616",
+          "name": "675   Pelenka 2-es méret      Libero Comfort MegaPpel 2 (3-6kg) 94 db"
+        },
+        {
+          "id": "3144617",
+          "name": "693   Bugyipelenka 7-es méret      Libero Up&Go bugyip.7 (17kg+) 32 db"
+        },
+        {
+          "id": "3148557",
+          "name": "814   Napozó arcra      manna arckrém fényv.FF30 skinfilter 30ml"
+        },
+        {
+          "id": "3148921",
+          "name": "830   Napozó arcra      MediNatural fényvédő arckrém SPF30 50ml"
+        },
+        {
+          "id": "3150394",
+          "name": "1172   Pelenkakiütés elleni krém      Sudocrem krém my little 22g aloe verával"
+        },
+        {
+          "id": "3152573",
+          "name": "1227   Napkrém      SUNDANCE Sens. SonnenbalsamLSF50 PG 50ml"
+        },
+        {
+          "id": "3156359",
+          "name": "999   Vérnyomásmérő      Omron M2 Essential vérnyomásmérő"
+        },
+        {
+          "id": "3156497",
+          "name": "910   Bébi- és gyerek nedves tisztítókendő      Neogranormon törlőkendő 4x72 db sens."
+        },
+        {
+          "id": "3156645",
+          "name": "909   Bébi- és gyerek nedves tisztítókendő      Neogranormon törlőkendő 4x72 db"
+        },
+        {
+          "id": "3158259",
+          "name": "1012   Éjszakai bugyipelenka      Pampers night bugyip JP 4 (9-15kg) 52 db"
+        },
+        {
+          "id": "3158260",
+          "name": "1013   Éjszakai bugyipelenka      Pampers night bugyip JP 5 (11-17kg) 46db"
+        },
+        {
+          "id": "3158261",
+          "name": "1008   Éjszakai bugyipelenka      Pampers night bugyip JP 6 (13-19kg) 40"
+        },
+        {
+          "id": "3158272",
+          "name": "1014   Éjszakai bugyipelenka      Pampers night bugyip JP 7 (15kg+) 35db"
+        },
+        {
+          "id": "3158613",
+          "name": "706   Egészségügyi betét szárnyas      Libresse eü.b. Maxi Goodnight 36db"
+        },
+        {
+          "id": "3160405",
+          "name": "920   Pelenkakiütés elleni krém      NIVEA BABY popsiápoló 135ml"
+        },
+        {
+          "id": "3161729",
+          "name": "708   Egészségügyi betét szárnyas      Libresse eü.b. Night Ultra Large 36db"
+        },
+        {
+          "id": "3162806",
+          "name": "1300   Terhességi teszt      X-Epil terhességi teszt digitális 1db"
+        },
+        {
+          "id": "3164815",
+          "name": "687   Pelenka 4/4+-os méret      Libero touch pelenka 4 duo(7-14kg) 72db"
+        },
+        {
+          "id": "3164816",
+          "name": "689   Pelenka 5/5+-os méret      Libero touch pelenka 5duo (11-17kg) 60db"
+        },
+        {
+          "id": "3166937",
+          "name": "659   Anyatej tárolás      Lansinoh anyatejtároló zacskó 50db"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026-10-31",
     "rossmann": {
       "added": [
