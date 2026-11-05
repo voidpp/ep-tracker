@@ -173,7 +173,6 @@
 4047196060384 Babydream játszócumi anatómiai szilikon 0-3h tároló dobozban - 2 db
 4047196062432 Babydream altatócumi 5 hónapos kortól - 2 db
 4047196067444 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
-4047196067451 Altapharma Strips vízálló sebtapasz - 40 db
 4047196067468 Altapharma gyerek sebtapasz - 20 db
 4062300267619 Hipp Babysanft nedves toalettpapír - 50 db
 4062300417311 HiPP Pre bio kecsketejalapú anyatej-helyettesítő tápszer újszülöttkortól - 400 g
@@ -236,6 +235,7 @@
 4068134138620 Babydream XXL megapack nadrágpelenka 6-os 14-20 kg - 90 db
 4068134139610 Babydream Extra Sensitiv babahintőpor - 100 g
 4068134139696 Altapharma sebtapasz ujjra - 16 db
+4068134139757 Altapharma Strips vízálló sebtapasz - 40 db
 4068134139771 Altapharma steril sebtapasz 7,5 x 7,5 cm - 10 db
 4068134143044 Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db
 4068134152466 Facelle Extra Lang Protect tisztasági betét - 30 db
@@ -489,7 +489,6 @@
 5900516320324 Bella Super Plus tampon - 16 db
 5900516320348 Bella Super tampon - 16 db
 5900516402358 Bella Mamma eldobható melltartóbetét - 60 db
-5900516653460 Bella intim mosakodógél tiniknek - 300 ml
 5900516690328 Seni Soft Super betegalátét 90 x 60 cm - 5 db
 5900516699093 Seni Lady Slim Mini inkontinencia betét - 20 db
 5900516699116 Seni Lady Slim Normal inkontinencia betét - 20 db
@@ -630,6 +629,7 @@
 5998858704780 Biopont Bio gluténmentes extrudált kölesgolyó barbecue fűszerkeverékkel - 75 g
 5998858704940 Biopont bio extrudált kölesgolyó kakaós ízesítéssel - 60 g
 5998858704957 Biopont bio extrudált kölesgolyó fahéjas ízesítéssel - 60 g
+5999028500072 Sudocrem My Little Aloe Vera bőrápoló krém 22 g
 5999099800156 Panarom Hold Olaj gátmasszázsolaj - 50 ml
 5999099800248 Panarom Napsugár popsikenőcs - 50 ml
 5999099800255 Panarom bébelle balzsam - 50 ml
@@ -939,6 +939,7 @@
 8008698032114 Schaer pan rustico kenyér - 250 g
 8019894094707 Best View Lágy Oldat Kontaktlencséhez - 360 ml
 8019894094745 Best View Lágy Oldat Kontaktlencséhez - 100 ml
+8056300620976 Ambrosolv Tuss Max köhögés elleni szirup 120 ml
 8058664138333 Chicco Protection tusfürdő körömvirággal - 500 ml
 8410207115865 Johnson's babaolaj - 200 ml
 8410207115889 Johnson's babaolaj aloe verával - 200 ml

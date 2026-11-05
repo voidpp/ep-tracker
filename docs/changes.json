@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026-11-05",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4068134139757",
+          "name": "Altapharma Strips vízálló sebtapasz - 40 db"
+        },
+        {
+          "id": "5999028500072",
+          "name": "Sudocrem My Little Aloe Vera bőrápoló krém 22 g"
+        },
+        {
+          "id": "8056300620976",
+          "name": "Ambrosolv Tuss Max köhögés elleni szirup 120 ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4047196067451",
+          "name": "Altapharma Strips vízálló sebtapasz - 40 db"
+        },
+        {
+          "id": "5900516653460",
+          "name": "Bella intim mosakodógél tiniknek - 300 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-11-04",
     "rossmann": {
       "added": [],
