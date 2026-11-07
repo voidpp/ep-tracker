@@ -162,7 +162,7 @@
 4028403118975 Bioglide síkosító - 40 ml
 4028403122606 Soft-Tampons Normal tampon - 3 db
 4028403122613 Soft-Tampons Mini tampon - 3 db
-4047196041451 Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
+4047196003060 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196043301 Altapharma hideg-/melegborogatás 13x14cm - 1 db
 4047196052228 Babydream Classic törlőkendő - 60db
 4047196052235 Babydream Érzékeny Bőrre Törlőkendő - 80 db
@@ -172,7 +172,7 @@
 4047196059371 Facelle tisztasági betét, ultra normál - 32 db
 4047196060384 Babydream játszócumi anatómiai szilikon 0-3h tároló dobozban - 2 db
 4047196062432 Babydream altatócumi 5 hónapos kortól - 2 db
-4047196067444 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
+4047196067444 Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196067468 Altapharma gyerek sebtapasz - 20 db
 4062300267619 Hipp Babysanft nedves toalettpapír - 50 db
 4062300417311 HiPP Pre bio kecsketejalapú anyatej-helyettesítő tápszer újszülöttkortól - 400 g
@@ -729,6 +729,7 @@
 5999886190743 Love diet lenmagpehely - 250 g
 5999886333164 Coconutoil Cosmetics Bio baba-mama masszázsolaj - 80 ml
 5999886333300 Coconutoil Cosmetics Bio baba popsikrém - 80 ml
+5999886347734 Nosko fogínygél - 15 ml
 5999886768027 Softelle nappali tisztasági betét - 20 db
 5999887073144 JutaVit Eye Clinic szemcsepp irritált szemre - 10 ml
 5999887073151 JutaVit Eye Clinic szemcsepp száraz szemre - 10 ml
@@ -1063,6 +1064,7 @@
 9001616864506 Mam melltartóbetét - 30 db
 9001616872150 Mam Easy to Drink Cup itatópohár 8 hónapos kortól 290 ml - 1 db
 9005800354521 NIVEA INTIMO Fresh Intim mosakodógél - 50 ml
+9005800369075 Nivea Baby sampon - 200 ml
 9005800369112 Nivea Baby sampon és fürdető - 500 ml
 9005800369174 Nivea Baby Bed Time Head To Toe tusfürdő - 200 ml
 9005800369723 Nivea Baby Soft krém - 200 ml
