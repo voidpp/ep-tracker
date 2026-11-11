@@ -162,7 +162,6 @@
 4028403118975 Bioglide síkosító - 40 ml
 4028403122606 Soft-Tampons Normal tampon - 3 db
 4028403122613 Soft-Tampons Mini tampon - 3 db
-4047196003060 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4047196043301 Altapharma hideg-/melegborogatás 13x14cm - 1 db
 4047196052228 Babydream Classic törlőkendő - 60db
 4047196052235 Babydream Érzékeny Bőrre Törlőkendő - 80 db
@@ -308,6 +307,7 @@
 4305615604992 Facelle Ultra Mini inkontinencia betét - 26 db
 4305615605005 Facelle Diskret Ultra Mini Plus tisztasági betét - 20 db
 4305615619347 Altapharma sebkezelő spray - 50 ml
+4305615620176 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night Protect tampon - 16 db
 4305615691800 Facelle Ultra Protect éjszakai egészségügyi betét - 8 db

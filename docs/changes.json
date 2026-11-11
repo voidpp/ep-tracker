@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-11",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4305615620176",
+          "name": "Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4047196003060",
+          "name": "Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-11-07",
     "rossmann": {
       "added": [
