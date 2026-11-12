@@ -113,6 +113,8 @@
 4008600447474 Nuk First Choice Classic Day & Night szilikon cumi 0-6 hónapos korig /kék - 2 db
 4008600447863 NUK Perfect Match Air Mickey szilikon cumi 6-18 hónapos korig - 2 db
 4008600447870 NUK Perfect Match Air szilikon cumi Mickey & Minnie mintával 6-18 hónapos korig - 2 db
+4008600462620 NUK First Choice Magic tanuló ivópohár /kenguru - 230 ml
+4008600462637 NUK First Choice Magic tanuló ivópohár /bálna - 230 ml
 4009408042410 Facelle Diskret Mini Plus tisztasági betét - 16 db
 4009408042519 Facelle Diskret Extra inkontinencia betét - 12 db
 4009408042533 Facelle Diskret Extra Plus inkontinencia betét - 10 db
@@ -256,7 +258,6 @@
 4068134211422 Babydream bugyipelenka XXL 7-es méret 16kg+ - 16 db
 4068134215246 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
 4068134215253 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
-4068134215260 Babydream Extra Sensitive nedves törlőkendő - 80 db
 4068134231291 Babydream Öko nadrágpelenka 4-es méret, 8-14 kg - 30 db
 4068134231307 Babydream Öko nadrágpelenka 5-ös méret, 10-16 kg - 28 db
 4084500759817 Clearblue Digitális terhességi teszt fogamzásjelzővel - 1 db
@@ -304,6 +305,7 @@
 4305615577807 Facelle menstruációs kehely S - 1 db
 4305615577814 Facelle menstruációs kehely M - 1 db
 4305615579924 Facelle Ultra Normal szárnyas betét - 16 db
+4305615604763 Babydream Extra Sensitive nedves törlőkendő - 80 db
 4305615604992 Facelle Ultra Mini inkontinencia betét - 26 db
 4305615605005 Facelle Diskret Ultra Mini Plus tisztasági betét - 20 db
 4305615619347 Altapharma sebkezelő spray - 50 ml
@@ -452,10 +454,10 @@
 5400951992426 Lactacyd Classic intim mosakodó - 200 ml
 5400951992471 Lactacyd Classic intim mosakodó - 400 ml
 5400951992662 Lactacyd Fresh intim moskodó - 400 ml
-5400951992761 Lactacyd hidratáló intim mosakodó - 200 ml
-5400951992792 Lactacyd hidratáló intim mosakodó - 400 ml
-5400951992877 Lactacyd nyugtató intim mosakodó - 200 ml
-5400951992952 Lactacyd nyugtató intim mosakodó - 400 ml
+5400951992761 Lactacyd hidratáló, enyhén illatosított intim mosakodó - 200 ml
+5400951992792 Lactacyd hidratáló, enyhén illatosított intim mosakodó - 400 ml
+5400951992877 Lactacyd nyugtató, illatanyagmentes intim mosakodó - 200 ml
+5400951992952 Lactacyd nyugtató, illatanyagmentes intim mosakodó - 400 ml
 5400951993058 Lactacyd gombaellenes intim mosakodó - 200 ml
 5400951993119 Lactacyd antibakteriális intim mosakodó - 200 ml
 5411416061885 Moltex Pure nedves törlőkendő - 60 db
@@ -1068,11 +1070,11 @@
 9005800369112 Nivea Baby sampon és fürdető - 500 ml
 9005800369174 Nivea Baby Bed Time Head To Toe tusfürdő - 200 ml
 9005800369723 Nivea Baby Soft krém - 200 ml
+9005800374543 Hansaplast sebkezelő kenőcs - 50 g
 9005800380636 Hansaplast sebfertőtlenítő spray - 100 ml
 9005800386232 Hansaplast Kids Aqua Protect sebtapasz - 20 db
 9005800386447 Hansaplast Extra Robust vízálló sebtapasz - 16 db
 9005800387468 Hansaplast Second Skin Protection sebtapasz - 6 db
-9005800388137 Hansaplast sebkezelő kenőcs - 50 g
 9005800397993 NIVEA INTIMO Sensitive Intim Mosakodógél - 250 ml
 9005800398013 Nivea Intimo Mild intim mosakodógél - 250 ml
 9062300138075 Hipp 1 Bio Combiotik tejalapú anyatej-helyettesítő tápszer - 300 g

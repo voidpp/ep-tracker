@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-11-12",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4008600462620",
+          "name": "NUK First Choice Magic tanuló ivópohár /kenguru - 230 ml"
+        },
+        {
+          "id": "4008600462637",
+          "name": "NUK First Choice Magic tanuló ivópohár /bálna - 230 ml"
+        },
+        {
+          "id": "4305615604763",
+          "name": "Babydream Extra Sensitive nedves törlőkendő - 80 db"
+        },
+        {
+          "id": "5400951992761",
+          "name": "Lactacyd hidratáló, enyhén illatosított intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5400951992792",
+          "name": "Lactacyd hidratáló, enyhén illatosított intim mosakodó - 400 ml"
+        },
+        {
+          "id": "5400951992877",
+          "name": "Lactacyd nyugtató, illatanyagmentes intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5400951992952",
+          "name": "Lactacyd nyugtató, illatanyagmentes intim mosakodó - 400 ml"
+        },
+        {
+          "id": "9005800374543",
+          "name": "Hansaplast sebkezelő kenőcs - 50 g"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134215260",
+          "name": "Babydream Extra Sensitive nedves törlőkendő - 80 db"
+        },
+        {
+          "id": "5400951992761",
+          "name": "Lactacyd hidratáló intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5400951992792",
+          "name": "Lactacyd hidratáló intim mosakodó - 400 ml"
+        },
+        {
+          "id": "5400951992877",
+          "name": "Lactacyd nyugtató intim mosakodó - 200 ml"
+        },
+        {
+          "id": "5400951992952",
+          "name": "Lactacyd nyugtató intim mosakodó - 400 ml"
+        },
+        {
+          "id": "9005800388137",
+          "name": "Hansaplast sebkezelő kenőcs - 50 g"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-11-11",
     "rossmann": {
       "added": [
