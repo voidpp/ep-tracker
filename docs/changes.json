@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-14",
+    "rossmann": {
+      "added": [],
+      "removed": [
+        {
+          "id": "5997591703333",
+          "name": "BioContour Baby 2in1 fürdető & sampon - 250 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-11-12",
     "rossmann": {
       "added": [
