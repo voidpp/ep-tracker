@@ -382,11 +382,11 @@
     },
     {
       "id": "4001638523127",
-      "name": "Weleda Bio Natur Baba Tusfürdő és Sampon, körömvirágos - 200 ml"
+      "name": "Weleda Bio Natur körömvirágos baba tusfürdő és sampon - 200 ml"
     },
     {
       "id": "4001638523165",
-      "name": "Weleda Bio Baba Popsikrém Pelenkakiütés Ellen, Körömvirágos - 75 ml"
+      "name": "Weleda Bio körömvirágos baba popsikrém pelenkakiütés ellen - 75 ml"
     },
     {
       "id": "4003626118513",
@@ -977,6 +977,10 @@
       "name": "Facelle Diskret Slim Normal egészségügyi betét - 16 db"
     },
     {
+      "id": "4068134168115",
+      "name": "Altapharma sebzáró szalag - 20 db"
+    },
+    {
       "id": "4068134169907",
       "name": "Babydream Newborn nadrágpelenka 1-es méret, 2-5 kg - 27 db"
     },
@@ -1017,12 +1021,12 @@
       "name": "Babydream ujjas, zsebes vízlepergető előke - 1 db"
     },
     {
-      "id": "4068134200372",
-      "name": "Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml"
-    },
-    {
       "id": "4068134201027",
       "name": "Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db"
+    },
+    {
+      "id": "4068134206176",
+      "name": "Babydream testápoló tej - 250 ml"
     },
     {
       "id": "4068134211415",
@@ -1286,11 +1290,11 @@
     },
     {
       "id": "4305615719207",
-      "name": "Isana fültisztító utántöltő - 160 db"
+      "name": "Isana fültisztító pálcika utántöltő - 160 db"
     },
     {
       "id": "4305615719214",
-      "name": "Isana dobozos kozmetikai pálcika - 200 db"
+      "name": "Isana dobozos fültisztító pálcika - 200 db"
     },
     {
       "id": "4305615737829",
@@ -1357,10 +1361,6 @@
       "name": "Babydream 1-es Tejalapú Anyatej-Helyettesíthető Tápszer Születéstől Kezdődően - 500 g"
     },
     {
-      "id": "4305615874852",
-      "name": "Babydream testápoló tej - 250 ml"
-    },
-    {
       "id": "4305615875040",
       "name": "Babydream Maxi Plus nadrágpelenka 4+-os méret 9-15 kg - 36 db"
     },
@@ -1409,20 +1409,12 @@
       "name": "Babydream Extra Sensitive törlőkendő 99% vízzel (6x60 db) - 360 db"
     },
     {
-      "id": "4305615918396",
-      "name": "Preventivo Feelings óvszer - 24 db"
-    },
-    {
       "id": "4305615918402",
       "name": "Preventivo Moments óvszer - 24 db"
     },
     {
       "id": "4305615918419",
       "name": "Preventivo Sensitive óvszer - 24 db"
-    },
-    {
-      "id": "4305615918433",
-      "name": "Preventino Mixed óvszer - 24 db"
     },
     {
       "id": "4305615918440",

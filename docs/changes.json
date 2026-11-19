@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-11-19",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4001638523127",
+          "name": "Weleda Bio Natur körömvirágos baba tusfürdő és sampon - 200 ml"
+        },
+        {
+          "id": "4001638523165",
+          "name": "Weleda Bio körömvirágos baba popsikrém pelenkakiütés ellen - 75 ml"
+        },
+        {
+          "id": "4068134168115",
+          "name": "Altapharma sebzáró szalag - 20 db"
+        },
+        {
+          "id": "4068134206176",
+          "name": "Babydream testápoló tej - 250 ml"
+        },
+        {
+          "id": "4305615719207",
+          "name": "Isana fültisztító pálcika utántöltő - 160 db"
+        },
+        {
+          "id": "4305615719214",
+          "name": "Isana dobozos fültisztító pálcika - 200 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4001638523127",
+          "name": "Weleda Bio Natur Baba Tusfürdő és Sampon, körömvirágos - 200 ml"
+        },
+        {
+          "id": "4001638523165",
+          "name": "Weleda Bio Baba Popsikrém Pelenkakiütés Ellen, Körömvirágos - 75 ml"
+        },
+        {
+          "id": "4068134200372",
+          "name": "Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml"
+        },
+        {
+          "id": "4305615719207",
+          "name": "Isana fültisztító utántöltő - 160 db"
+        },
+        {
+          "id": "4305615719214",
+          "name": "Isana dobozos kozmetikai pálcika - 200 db"
+        },
+        {
+          "id": "4305615874852",
+          "name": "Babydream testápoló tej - 250 ml"
+        },
+        {
+          "id": "4305615918396",
+          "name": "Preventivo Feelings óvszer - 24 db"
+        },
+        {
+          "id": "4305615918433",
+          "name": "Preventino Mixed óvszer - 24 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-11-14",
     "rossmann": {
       "added": [],

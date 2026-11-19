@@ -93,8 +93,8 @@
 3870128041011 Violeta Night egészségügyi betét - 10 db
 3870128041042 Violeta Night egészségügyi betét - 20 db
 3870128041073 Violeta Normal tisztasági betét - 20 db
-4001638523127 Weleda Bio Natur Baba Tusfürdő és Sampon, körömvirágos - 200 ml
-4001638523165 Weleda Bio Baba Popsikrém Pelenkakiütés Ellen, Körömvirágos - 75 ml
+4001638523127 Weleda Bio Natur körömvirágos baba tusfürdő és sampon - 200 ml
+4001638523165 Weleda Bio körömvirágos baba popsikrém pelenkakiütés ellen - 75 ml
 4003626118513 Ohropax Classic viaszos füldugó - 12 db
 4005800187834 Hansaplast sebtapasz /jégvarázs - 20 db
 4005800239298 Hansaplast Universal műanyag sebtapasz - 40 db
@@ -242,6 +242,7 @@
 4068134152466 Facelle Extra Lang Protect tisztasági betét - 30 db
 4068134156723 Babydream Extra Sensitive törlőkendő 12x80 db - 960 db
 4068134157454 Facelle Diskret Slim Normal egészségügyi betét - 16 db
+4068134168115 Altapharma sebzáró szalag - 20 db
 4068134169907 Babydream Newborn nadrágpelenka 1-es méret, 2-5 kg - 27 db
 4068134169914 Babydream Mini nadrágpelenka 2-es méret, 3-6 kg - 36 db
 4068134170453 Facelle Hipster menstruációs bugyi S-es méret - 1 db
@@ -252,8 +253,8 @@
 4068134188526 Facelle ovulációs teszt - 10 db
 4068134191458 Babydream törlőkendő kókuszolajjal - 80 db
 4068134196033 Babydream ujjas, zsebes vízlepergető előke - 1 db
-4068134200372 Babydream Extra Sensitive pelenkakiütés elleni krém - 30 ml
 4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
+4068134206176 Babydream testápoló tej - 250 ml
 4068134211415 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
 4068134211422 Babydream bugyipelenka XXL 7-es méret 16kg+ - 16 db
 4068134215246 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
@@ -319,8 +320,8 @@
 4305615696751 Babydream etető cumi széles 0 hónapos kortól - 2 db
 4305615696805 Babydream etető cumi 0 hónapos kortól - 2 db
 4305615708201 Babydream prémium melltartóbetét - 30 db
-4305615719207 Isana fültisztító utántöltő - 160 db
-4305615719214 Isana dobozos kozmetikai pálcika - 200 db
+4305615719207 Isana fültisztító pálcika utántöltő - 160 db
+4305615719214 Isana dobozos fültisztító pálcika - 200 db
 4305615737829 Babydream Sensitiv ápoló babaolaj- 250 ml
 4305615737898 Babydream sampon babáknak - 250 ml
 4305615737904 Babydream Sensitive fürdető és sampon - 500 ml
@@ -337,7 +338,6 @@
 4305615851471 Babydream Maxi nadrágpelenka 4-es méret, 8-14 kg - 40 db
 4305615851891 Babydream Extra Sensitive arckrém - 100 ml
 4305615852225 Babydream 1-es Tejalapú Anyatej-Helyettesíthető Tápszer Születéstől Kezdődően - 500 g
-4305615874852 Babydream testápoló tej - 250 ml
 4305615875040 Babydream Maxi Plus nadrágpelenka 4+-os méret 9-15 kg - 36 db
 4305615875057 Babydream Junior nadrágpelenka 5-ös méret, 10-16 kg - 34 db
 4305615875118 Babydream pelenka duopack maxi 4- es 8-14 kg - 80 db
@@ -350,10 +350,8 @@
 4305615911885 Babydream olajos krémtusfürdő kismamáknak - 250 ml
 4305615915319 Babydream Extra Sensitive törlőkendő 99% vízzel (3x60 db) - 180 db
 4305615915326 Babydream Extra Sensitive törlőkendő 99% vízzel (6x60 db) - 360 db
-4305615918396 Preventivo Feelings óvszer - 24 db
 4305615918402 Preventivo Moments óvszer - 24 db
 4305615918419 Preventivo Sensitive óvszer - 24 db
-4305615918433 Preventino Mixed óvszer - 24 db
 4305615918440 Preventivo King Size óvszer - 24 db
 4305615918617 Preventivo Sensitive óvszer - 12 db
 4305615937038 Babydream XXL Megapack pelenka 5-ös, 10-16 kg - 102 db
