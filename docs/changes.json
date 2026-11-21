@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-21",
+    "rossmann": {
+      "added": [
+        {
+          "id": "5060420236194",
+          "name": "Lansinoh szülés utáni organikus nyugtató spray - 100 ml"
+        }
+      ],
+      "removed": [
+        {
+          "id": "5060420232660",
+          "name": "Lansinoh szülés utáni organikus nyugtató spray - 100 ml"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-11-19",
     "rossmann": {
       "added": [

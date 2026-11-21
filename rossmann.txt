@@ -422,7 +422,6 @@
 5060062999754 Lansinoh gyors folyású etetőcumi - 2 db
 5060420230444 Lansinoh kontakt bimbóvédő szilikon normál - 2 db
 5060420231991 Lansinoh organikus bimbóvédő balzsam - 60 ml
-5060420232660 Lansinoh szülés utáni organikus nyugtató spray - 100 ml
 5060420233384 Lansinoh extra nedvszívó szülés utáni betét, egyesével csomagolt (0-2 hét) - 10 db
 5060420233407 Lansinoh diszkrét és nedvszívó szülés utáni betét, egyesével csomagolt 2. héttől - 12 db
 5060420233537 Lansinoh éjszakai és nappali melltartóbetét - 100 db
@@ -431,6 +430,7 @@
 5060420234596 Lansinoh bidé - intim kézi zuhany - 360 ml
 5060420235357 Lansinoh mosható melltartóbetét mosózsákkal - 4 db
 5060420235388 Lansinoh szülés utáni mosható alsónemű - 4 db
+5060420236194 Lansinoh szülés utáni organikus nyugtató spray - 100 ml
 5060565106567 Revuele Sunprot Oil Control fényvédő krém SPF50+ - 50 ml
 5060565106574 Revuele Moisturze Boost fényvédő krém SPF50+ - 50 ml
 5070000573830 Best View Kontaktlencse Tartó - 1 db
