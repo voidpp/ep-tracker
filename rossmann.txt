@@ -255,7 +255,6 @@
 4068134196033 Babydream ujjas, zsebes vízlepergető előke - 1 db
 4068134201027 Babydream Extra Sensitive törlőkendő 99% vízzel - 60 db
 4068134206176 Babydream testápoló tej - 250 ml
-4068134211415 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
 4068134211422 Babydream bugyipelenka XXL 7-es méret 16kg+ - 16 db
 4068134215246 Babydream Extra Sensitive kéz- és arctisztító kendő - 25 db
 4068134215253 Babydream Extra Sensitive kéz- és arctisztító kendő 4x25 db - 100 db
@@ -268,6 +267,7 @@
 4262368741292 Mabyen babaápoló krém - 75 ml
 4305615062099 Babydream Maxi bugyipelenka 4-es méret, 9-15 kg - 22 db
 4305615062105 Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db
+4305615062112 Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db
 4305615301686 Preventivo síkosító és masszázs gél - 200 ml
 4305615465616 Facelle Normal tampon - 64 db
 4305615465630 Facelle Mini tampon - 32 db
@@ -310,7 +310,6 @@
 4305615604992 Facelle Ultra Mini inkontinencia betét - 26 db
 4305615605005 Facelle Diskret Ultra Mini Plus tisztasági betét - 20 db
 4305615619347 Altapharma sebkezelő spray - 50 ml
-4305615620176 Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
 4305615652870 Babydream fültisztító - 72 db
 4305615676678 Facelle Night Protect tampon - 16 db
 4305615691800 Facelle Ultra Protect éjszakai egészségügyi betét - 8 db
@@ -568,8 +567,8 @@
 5997321776675 Durex Extra Safe óvszer - 24 db
 5997321776767 Durex Feel Intimate óvszer - 2x12 db
 5997321776774 Durex Feel Thin óvszer - 2x12 db
-5997321776842 Durex Feel Ultra Thin óvszer - 20 db
 5997321776859 Durex Invisible Regular Fit óvszer - 20 db
+5997321778747 Durex Feel Ultra Thin óvszer - 20 db
 5997385703037 Medifleur lábkrém cukorbetegek részére - 100 ml
 5997536305301 Milumil Komfort HA 1 speciális gyógyászati célra szánt élelmiszer 0 hónapos kortól - 600 g
 5997591703432 BioContour Baby tápláló test-és arcápoló krém - 250 ml
@@ -763,7 +762,6 @@
 6976864909985 Jót alszom Prémium szájtapasz horkolás ellen - 30 db
 7290016332667 Savvycheck Intim Candida gyorsteszt - 1 db
 7310361149090 Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db
-7310361149205 Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db
 7310361165168 Libero Touch nadrágpelenka 5-ös méret, 11-17 kg - 30 db
 7310361165359 Libero Comfort Mega Pack nadrágpelenka 4-es méret, 7-14 kg - 74 db
 7310361165397 Libero Touch nadrágpelenka 4-es méret, 7-14 kg - 36 db
@@ -772,6 +770,7 @@
 7310361180253 Libero Touch nadrágpelenka 2-es 3-6kg - 47 db
 7310361180406 Libero Touch nadrágpelenka 1-es 2-5kg - 22 db
 7310361180420 Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db
+7310361180529 Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db
 7310361180550 Libero Comfort Mega Pack nadrágpelenka 3-as 5-8kg - 76 db
 7310615062243 Salvequick Aqua Resist víz és szennyeződésálló ragtapasz - 1 db
 7310615966244 Salvequick Családi Mix hypoallergén sebtapasz csomag - 26 db

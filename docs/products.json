@@ -1029,10 +1029,6 @@
       "name": "Babydream testápoló tej - 250 ml"
     },
     {
-      "id": "4068134211415",
-      "name": "Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db"
-    },
-    {
       "id": "4068134211422",
       "name": "Babydream bugyipelenka XXL 7-es méret 16kg+ - 16 db"
     },
@@ -1079,6 +1075,10 @@
     {
       "id": "4305615062105",
       "name": "Babydream Junior bugyipelenka 5-ös méret, 12-17 kg - 20 db"
+    },
+    {
+      "id": "4305615062112",
+      "name": "Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db"
     },
     {
       "id": "4305615301686",
@@ -1247,10 +1247,6 @@
     {
       "id": "4305615619347",
       "name": "Altapharma sebkezelő spray - 50 ml"
-    },
-    {
-      "id": "4305615620176",
-      "name": "Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
     },
     {
       "id": "4305615652870",
@@ -2281,12 +2277,12 @@
       "name": "Durex Feel Thin óvszer - 2x12 db"
     },
     {
-      "id": "5997321776842",
-      "name": "Durex Feel Ultra Thin óvszer - 20 db"
-    },
-    {
       "id": "5997321776859",
       "name": "Durex Invisible Regular Fit óvszer - 20 db"
+    },
+    {
+      "id": "5997321778747",
+      "name": "Durex Feel Ultra Thin óvszer - 20 db"
     },
     {
       "id": "5997385703037",
@@ -3061,10 +3057,6 @@
       "name": "Libero Jumbo Comfort Newborn nadrágpelenka 1-es méret, 2-5 kg - 43 db"
     },
     {
-      "id": "7310361149205",
-      "name": "Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db"
-    },
-    {
       "id": "7310361165168",
       "name": "Libero Touch nadrágpelenka 5-ös méret, 11-17 kg - 30 db"
     },
@@ -3095,6 +3087,10 @@
     {
       "id": "7310361180420",
       "name": "Libero Touch nadrágpelenka 3-as méret, 5-8 kg - 40 db"
+    },
+    {
+      "id": "7310361180529",
+      "name": "Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db"
     },
     {
       "id": "7310361180550",

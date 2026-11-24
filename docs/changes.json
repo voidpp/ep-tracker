@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-11-24",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4305615062112",
+          "name": "Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db"
+        },
+        {
+          "id": "5997321778747",
+          "name": "Durex Feel Ultra Thin óvszer - 20 db"
+        },
+        {
+          "id": "7310361180529",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134211415",
+          "name": "Babydream XL bugyipelenka 6-os méret, 15 kg+ - 18 db"
+        },
+        {
+          "id": "4305615620176",
+          "name": "Altapharma Classic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db"
+        },
+        {
+          "id": "5997321776842",
+          "name": "Durex Feel Ultra Thin óvszer - 20 db"
+        },
+        {
+          "id": "7310361149205",
+          "name": "Libero Comfort Mega Pack nadrágpelenka 2-es méret, 3-6 kg - 94 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-11-21",
     "rossmann": {
       "added": [
