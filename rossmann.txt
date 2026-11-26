@@ -174,6 +174,7 @@
 4047196060384 Babydream játszócumi anatómiai szilikon 0-3h tároló dobozban - 2 db
 4047196062432 Babydream altatócumi 5 hónapos kortól - 2 db
 4047196067444 Altapharma Elastic sebtapasz szélessége: 10 cm hosszúsága: 6 cm - 1 db
+4047196067451 Altapharma Strips vízálló sebtapasz - 40 db
 4047196067468 Altapharma gyerek sebtapasz - 20 db
 4062300267619 Hipp Babysanft nedves toalettpapír - 50 db
 4062300417311 HiPP Pre bio kecsketejalapú anyatej-helyettesítő tápszer újszülöttkortól - 400 g
@@ -236,7 +237,6 @@
 4068134138620 Babydream XXL megapack nadrágpelenka 6-os 14-20 kg - 90 db
 4068134139610 Babydream Extra Sensitiv babahintőpor - 100 g
 4068134139696 Altapharma sebtapasz ujjra - 16 db
-4068134139757 Altapharma Strips vízálló sebtapasz - 40 db
 4068134139771 Altapharma steril sebtapasz 7,5 x 7,5 cm - 10 db
 4068134143044 Babydream Pop-up itatópohár 18 hónaposkortól 360 ml - 1 db
 4068134152466 Facelle Extra Lang Protect tisztasági betét - 30 db

@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-26",
+    "rossmann": {
+      "added": [
+        {
+          "id": "4047196067451",
+          "name": "Altapharma Strips vízálló sebtapasz - 40 db"
+        }
+      ],
+      "removed": [
+        {
+          "id": "4068134139757",
+          "name": "Altapharma Strips vízálló sebtapasz - 40 db"
+        }
+      ]
+    },
+    "dm": {
+      "added": [],
+      "removed": []
+    }
+  },
+  {
     "date": "2026-11-24",
     "rossmann": {
       "added": [
